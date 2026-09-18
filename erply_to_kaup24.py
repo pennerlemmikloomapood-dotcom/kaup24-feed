@@ -348,6 +348,13 @@ def build_xml(products, stock_map, out_path):
 
         weight = p.get("netWeight") or p.get("weight") or 0
         lines.append(f"            <weight>{weight}</weight>")
+        # MÄRKUS: Erplys pole tegelikke pikkus/laius/kõrgus andmeid (kõigil
+        # oli sama mõttetu 1/0/0/0 väärtus), aga Kaup24 nõuab neid välju
+        # KOHUSTUSLIKUNA. Kasutame ajutist hinnangulist vaikeväärtust (10cm),
+        # kuni saate Erplysse sisestada tegelikud pakendi mõõdud.
+        lines.append("            <length>0.1</length>")
+        lines.append("            <height>0.1</height>")
+        lines.append("            <width>0.1</width>")
 
         lines.append("            <attributes>")
         lines.append("              <barcodes>")
@@ -449,4 +456,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
