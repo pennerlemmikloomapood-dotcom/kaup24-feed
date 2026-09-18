@@ -357,13 +357,9 @@ def build_xml(products, stock_map, out_path):
         lines.append("              </barcodes>")
         lines.append(f"              <supplier-code>{cdata(p.get('code', ''))}</supplier-code>")
         lines.append("            </attributes>")
-
-        price = p.get("priceWithVAT") or p.get("price") or 0
-        stock = stock_map.get(p["productID"], 0)
-        # TODO: kontrolli Kaup24 müüjaportaalist täpsed elemendinimed
-        # hinna ja laoseisu jaoks - need on hetkel parim oletus.
-        lines.append(f"            <price>{price}</price>")
-        lines.append(f"            <quantity>{int(stock)}</quantity>")
+        # MÄRKUS: hind ja laoseis EI KUULU siia - Kaup24 ametlik XML-mall ei
+        # sisalda <price>/<quantity> elemente. Need lähevad eraldi "Stock
+        # and prices import" mehhanismi kaudu (vaata Kaup24 Import menüüst).
 
         lines.append("          </modification>")
         lines.append("        </modifications>")
