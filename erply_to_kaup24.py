@@ -302,7 +302,16 @@ def get_stock_map(session_key):
 def cdata(text):
     if text is None:
         text = ""
-    text = str(text).replace("]]>", "]]]]><![CDATA[>")
+    text = str(text)
+    # Kaup24 juhend keelab HTML erimärgid (&nbsp; jms) - need kuvataks
+    # klientidele toore tekstina, mitte tühiku/märgina. Puhastame need.
+    text = text.replace("&nbsp;", " ")
+    text = text.replace("&sdot;", "·")
+    text = text.replace("&rsquo;", "'")
+    text = text.replace("&lsquo;", "'")
+    text = text.replace("&rdquo;", '"')
+    text = text.replace("&ldquo;", '"')
+    text = text.replace("]]>", "]]]]><![CDATA[>")
     return f"<![CDATA[ {text} ]]>"
 
 
