@@ -1,0 +1,42 @@
+name: Update Kaup24 feed
+
+on:
+  schedule:
+    # Käivitub iga päev kell 05:00 UTC (Eesti aja järgi suvel 08:00, talvel 07:00)
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+    # See lubab teil GitHubi "Actions" vahekaardil nuppu "Run workflow"
+    # vajutades käivitada ka käsitsi, ajastuse asemel.
+
+permissions:
+  contents: write   # vajalik, et workflow saaks kaup24_products.xml faili tagasi commitida
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Erply to Kaup24 script
+        env:
+          ERPLY_CLIENT_CODE: ${{ secrets.ERPLY_CLIENT_CODE }}
+          ERPLY_USERNAME: ${{ secrets.ERPLY_USERNAME }}
+          ERPLY_PASSWORD: ${{ secrets.ERPLY_PASSWORD }}
+        run: python erply_to_kaup24.py
+
+      - name: Commit and push updated XML
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add kaup24_products.xml
+          git diff --staged --quiet && echo "Muutusi pole, ei commiti" || git commit -m "Automaatne Kaup24 feedi uuendus"
+          git push
