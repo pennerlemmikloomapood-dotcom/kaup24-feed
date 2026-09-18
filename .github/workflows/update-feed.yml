@@ -39,4 +39,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add kaup24_products.xml
           git diff --staged --quiet && echo "Muutusi pole, ei commiti" || git commit -m "Automaatne Kaup24 feedi uuendus"
+          git pull --rebase origin main
           git push
