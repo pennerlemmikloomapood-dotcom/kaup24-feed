@@ -363,6 +363,28 @@ def extract_composition(html_text):
     return text or None
 
 
+_MANUFACTURER_PATTERN = re.compile(
+    r"tootja\s*:\s*(?:</?\w+[^>]*>\s*)*(.*?)<br", re.IGNORECASE | re.DOTALL
+)
+
+
+def extract_manufacturer_info(html_text):
+    """
+    Otsib kirjeldusest "Tootja:" järgset teksti kuni järgmise <br>-ni
+    (nt "Croci S.P.A; Via Sant'Alessandro 8, Castronno (Va), Itaalia").
+    Puhastab HTML-tagidest ja tagastab lihttekstina. None, kui ei leitud.
+    """
+    if not html_text:
+        return None
+    match = _MANUFACTURER_PATTERN.search(str(html_text))
+    if not match:
+        return None
+    text = match.group(1)
+    text = re.sub(r"<[^>]+>", "", text)
+    text = text.replace("&nbsp;", " ").strip()
+    return text or None
+
+
 _DISALLOWED_REMOVE_WITH_CONTENT = ["table", "iframe", "script"]
 _DISALLOWED_STRIP_TAG_ONLY = ["a", "font", "h1", "h4", "h5", "h6", "u"]
 
@@ -430,16 +452,24 @@ def find_ean_winners(products):
     return winners, losers
 
 
-def build_xml(products, stock_map, out_path):
-    lines = ['<?xml version="1.0" encoding="UTF-8"?>', "<products>"]
-    skipped_no_category = []
-    included_count = 0
-    skipped_no_ean = []
-    zero_weight_count = 0
-    no_image_count = 0
-    empty_desc_count = 0
+def iter_qualifying_products(products):
+    """
+    Ühine "kvalifitseerumise" loogika: käib läbi kõik Erply tooted ja
+    tagastab (generaatorina) ainult need, mis vastavad KÕIGILE Kaup24
+    nõuetele - aktiivne+nähtav, kategoriseeritud, kehtiv EAN (uusima
+    partii omast), kaal, pilt ja kirjeldus olemas.
 
+    Kasutatakse nii Products XML kui Stock/Price XML genereerimisel,
+    et mõlemad failid sisaldaksid täpselt samu tooteid.
+
+    Annab iga kvalifitseeruva toote kohta: (p, ean, weight, images, longdesc)
+    """
     ean_winners, skipped_old_batch = find_ean_winners(products)
+    stats = {
+        "skipped_no_category": [], "skipped_no_ean": [],
+        "zero_weight_count": 0, "no_image_count": 0, "empty_desc_count": 0,
+        "skipped_old_batch": skipped_old_batch,
+    }
 
     for p in products:
         if not is_active_and_visible(p):
@@ -448,40 +478,43 @@ def build_xml(products, stock_map, out_path):
         name = p.get("name", "")
         cat_id, cat_name = map_category(p)
         if not cat_id:
-            skipped_no_category.append((p.get("groupName", ""), name))
+            stats["skipped_no_category"].append((p.get("groupName", ""), name))
             continue
 
-        # Kaup24 nõuab kohustuslikku EAN barkoodi (11-13 numbrit).
         cleaned_ean, letter = clean_ean(p.get("code2", ""))
         if not cleaned_ean:
-            skipped_no_ean.append(name)
+            stats["skipped_no_ean"].append(name)
             continue
         if p["productID"] not in ean_winners:
-            # See on vanem partii sama EAN-iga - juba käsitletud
-            # find_ean_winners's, mille tulemus on skipped_old_batch.
             continue
         ean = cleaned_ean
 
-        # Kasutame brutokaalu (grossWeight) esimesena - mänguasjade jm puhul
-        # on netokaal Erplys tahtlikult tühi (muidu kuvab e-pood vale kg-hinda).
         weight = p.get("grossWeight") or p.get("netWeight") or p.get("weight") or 0
         images = get_image_urls(p)
         longdesc = strip_disallowed_html(p.get("longdesc", "")).strip()
 
-        # Range täielikkuse nõue: kaal, pilt ja kirjeldus peavad kõik olemas
-        # olema, muidu jääb toode praegu XML-ist välja (kuni Erplys parandatud).
         if not weight or float(weight) == 0:
-            zero_weight_count += 1
+            stats["zero_weight_count"] += 1
             continue
         if not images:
-            no_image_count += 1
+            stats["no_image_count"] += 1
             continue
         if not longdesc:
-            empty_desc_count += 1
+            stats["empty_desc_count"] += 1
             continue
 
-        included_count += 1
+        yield p, cat_id, cat_name, ean, weight, images, longdesc, stats
 
+
+def build_xml(products, stock_map, out_path):
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>', "<products>"]
+    included_count = 0
+    final_stats = {}
+
+    for p, cat_id, cat_name, ean, weight, images, longdesc, stats in iter_qualifying_products(products):
+        final_stats = stats
+        included_count += 1
+        name = p.get("name", "")
         lines.append("  <product>")
         lines.append(f"    <category-id>{cat_id}</category-id>")
         lines.append(f"    <category-name>{cdata(cat_name)}</category-name>")
@@ -491,6 +524,16 @@ def build_xml(products, stock_map, out_path):
         lines.append(f"    <long-description>{cdata(longdesc)}</long-description>")
         lines.append(f"    <long-description-ee>{cdata(longdesc)}</long-description-ee>")
 
+        # Vene ja soome kirjeldused - lisame AINULT kui Erplys olemas
+        # (paljudel toodetel puuduvad, see on täiesti OK - EE juba katab
+        # kohustusliku "vähemalt 1 keel" nõude).
+        longdesc_ru = strip_disallowed_html(p.get("longdescRUS", "")).strip()
+        if longdesc_ru:
+            lines.append(f"    <long-description-ru>{cdata(longdesc_ru)}</long-description-ru>")
+        longdesc_fi = strip_disallowed_html(p.get("longdescFIN", "")).strip()
+        if longdesc_fi:
+            lines.append(f"    <long-description-fi>{cdata(longdesc_fi)}</long-description-fi>")
+
         # Koostis (kohustuslik lemmikloomatoidu aktiveerimiseks): tõmmatud
         # automaatselt kirjeldusest, kuna "Koostis:" on stabiilselt olemas.
         composition = extract_composition(longdesc)
@@ -498,10 +541,10 @@ def build_xml(products, stock_map, out_path):
             lines.append(f"    <composition>{cdata(composition)}</composition>")
             lines.append(f"    <composition-ee>{cdata(composition)}</composition-ee>")
 
-        # Tootja nimi: kasutame AINULT Erply "manufacturerName" (Tootja) välja.
-        # "Hankija" (supplierName) on tarnija, mitte tootja - ei sobi asendajaks.
-        # Kui tühi, jätame välja - Kaup24 juhendi järgi täidetakse siis käsitsi PMP-s.
-        manufacturer = p.get("manufacturerName") or ""
+        # Tootja nimi: kasutame Erply "manufacturerName" (Tootja) välja, kui
+        # täidetud; muidu proovime kirjeldusest "Tootja:" info automaatselt
+        # välja tõmmata (stabiilselt olemas enamikul toodetel).
+        manufacturer = p.get("manufacturerName") or extract_manufacturer_info(longdesc) or ""
         if manufacturer:
             lines.append(f"    <manufacturer-name>{cdata(manufacturer)}</manufacturer-name>")
 
@@ -579,10 +622,11 @@ def build_xml(products, stock_map, out_path):
 
     print(f"\nValmis! {included_count} toodet kirjutatud faili: {out_path}")
     print(f"\nVälja jäetud puuduliku andmestiku tõttu (range täielikkuse nõue):")
-    print(f"  Kaal puudub/0: {zero_weight_count}")
-    print(f"  Sobiv pilt (JPG/PNG) puudub: {no_image_count}")
-    print(f"  Kirjeldus tühi: {empty_desc_count}")
+    print(f"  Kaal puudub/0: {final_stats.get('zero_weight_count', 0)}")
+    print(f"  Sobiv pilt (JPG/PNG) puudub: {final_stats.get('no_image_count', 0)}")
+    print(f"  Kirjeldus tühi: {final_stats.get('empty_desc_count', 0)}")
 
+    skipped_old_batch = final_stats.get("skipped_old_batch", [])
     if skipped_old_batch:
         print(
             f"\nINFO: {len(skipped_old_batch)} toodet jäeti XML-ist välja, kuna "
@@ -592,6 +636,7 @@ def build_xml(products, stock_map, out_path):
         for n, raw_ean in sorted(set(skipped_old_batch))[:15]:
             print(f"  - {n} (EAN: {raw_ean})")
 
+    skipped_no_ean = final_stats.get("skipped_no_ean", [])
     if skipped_no_ean:
         print(
             f"\nHOIATUS: {len(skipped_no_ean)} aktiivset/nähtavat toodet jäid "
@@ -605,6 +650,7 @@ def build_xml(products, stock_map, out_path):
             "järgmisel käivitamisel automaatselt kaasa läheksid."
         )
 
+    skipped_no_category = final_stats.get("skipped_no_category", [])
     if skipped_no_category:
         unique_groups = sorted(set(g for g, n in skipped_no_category))
         print(
