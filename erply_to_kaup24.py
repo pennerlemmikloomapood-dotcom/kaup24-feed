@@ -541,13 +541,20 @@ def build_xml(products, stock_map, out_path):
         lines.append("          <modification>")
 
         lines.append(f"            <weight>{weight}</weight>")
-        # MÄRKUS: Erplys pole tegelikke pikkus/laius/kõrgus andmeid (kõigil
-        # oli sama mõttetu 1/0/0/0 väärtus), aga Kaup24 nõuab neid välju
-        # KOHUSTUSLIKUNA. Kasutame ajutist hinnangulist vaikeväärtust (10cm),
-        # kuni saate Erplysse sisestada tegelikud pakendi mõõdud.
-        lines.append("            <length>0.1</length>")
-        lines.append("            <height>0.1</height>")
-        lines.append("            <width>0.1</width>")
+        # Pikkus/laius/kõrgus: Erplys on need väljad millimeetrites (nt
+        # "Pikkus mm"), Kaup24 nõuab meetrites - teisendame /1000.
+        # Kui väärtus puudub/on 0 (pole veel sisestatud), kasutame ajutist
+        # hinnangulist vaikeväärtust (10cm), kuni Erplysse on sisestatud.
+        def _dim_meters(field_name):
+            try:
+                val_mm = float(p.get(field_name) or 0)
+            except (TypeError, ValueError):
+                val_mm = 0
+            return val_mm / 1000 if val_mm > 0 else 0.1
+
+        lines.append(f"            <length>{_dim_meters('length')}</length>")
+        lines.append(f"            <height>{_dim_meters('height')}</height>")
+        lines.append(f"            <width>{_dim_meters('width')}</width>")
 
         lines.append("            <attributes>")
         lines.append("              <barcodes>")
