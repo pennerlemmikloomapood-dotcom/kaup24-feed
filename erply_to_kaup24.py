@@ -264,16 +264,13 @@ def map_category(p):
 
 def get_image_urls(p):
     """
-    Tagastab nimekirja pildi URL-idest.
-    TODO: KONTROLLIMATA väli - vaata --test väljundist, kuidas pildid
-    tegelikult struktureeritud on, ja paranda seda funktsiooni vastavalt.
-    Erply API-s on pildid tavaliselt "images" massiivis, iga pildi
-    juures väli nagu "fullURL", "url" või "largeURL".
+    Tagastab nimekirja pildi URL-idest. Kaup24 lubab ainult JPG/JPEG/PNG
+    pilte - filtreerime välja teised formaadid (nt .webp, .gif).
     """
     urls = []
     for img in p.get("images", []) or []:
         url = img.get("fullURL") or img.get("largeURL") or img.get("url")
-        if url:
+        if url and url.lower().split("?")[0].endswith((".jpg", ".jpeg", ".png")):
             urls.append(url)
     return urls
 
@@ -302,7 +299,7 @@ def get_stock_map(session_key):
 def cdata(text):
     if text is None:
         text = ""
-    text = str(text)
+    text = str(text).strip()
     # Kaup24 juhend keelab HTML erimärgid (&nbsp; jms) - need kuvataks
     # klientidele toore tekstina, mitte tühiku/märgina. Puhastame need.
     text = text.replace("&nbsp;", " ")
@@ -311,18 +308,138 @@ def cdata(text):
     text = text.replace("&lsquo;", "'")
     text = text.replace("&rdquo;", '"')
     text = text.replace("&ldquo;", '"')
+    text = text.replace("&amp;", "&")
+    text = text.replace("&quot;", '"')
     text = text.replace("]]>", "]]]]><![CDATA[>")
     return f"<![CDATA[ {text} ]]>"
+
+
+import re
+
+_VOLUME_PATTERN = re.compile(
+    r"(\d+(?:[.,]\d+)?)\s*(ml|l)\b", re.IGNORECASE
+)
+
+
+def extract_volume_liters(*texts):
+    """
+    Otsib tekstist (nt tootenimi, kirjeldus) mahtu liitrites või ml-des
+    ja tagastab selle liitrites (nt "0.5"). Otsib antud tekstide
+    järjekorras, tagastab esimese leitud vaste.
+    """
+    for text in texts:
+        if not text:
+            continue
+        match = _VOLUME_PATTERN.search(str(text))
+        if match:
+            value = float(match.group(1).replace(",", "."))
+            unit = match.group(2).lower()
+            if unit == "ml":
+                value = value / 1000
+            # Ümardame mõistlikult, eemaldades tarbetu .0
+            return f"{value:g}"
+    return None
+
+
+_COMPOSITION_PATTERN = re.compile(
+    r"koostis\s*:\s*(?:</?\w+[^>]*>\s*)*(.*?)<br", re.IGNORECASE | re.DOTALL
+)
+
+
+def extract_composition(html_text):
+    """
+    Otsib kirjeldusest "Koostis:" järgset teksti kuni järgmise <br>-ni,
+    puhastab selle HTML-tagidest ja tagastab lihttekstina. None, kui
+    "Koostis:" ei leitud.
+    """
+    if not html_text:
+        return None
+    match = _COMPOSITION_PATTERN.search(str(html_text))
+    if not match:
+        return None
+    text = match.group(1)
+    text = re.sub(r"<[^>]+>", "", text)
+    text = text.replace("&nbsp;", " ").strip()
+    return text or None
+
+
+_DISALLOWED_REMOVE_WITH_CONTENT = ["table", "iframe", "script"]
+_DISALLOWED_STRIP_TAG_ONLY = ["a", "font", "h1", "h4", "h5", "h6", "u"]
+
+
+def strip_disallowed_html(html_text):
+    """
+    Kaup24 juhend (p.7) lubab ainult: p, br, b, strong, i, em, ul, ol, li,
+    div, span, h2, h3. Eemaldab keelatud elemendid kas koos sisuga
+    (table/iframe/script) või jätab ainult sisu alles (a/font/h1 jne).
+    """
+    if not html_text:
+        return html_text
+    text = str(html_text)
+    for tag in _DISALLOWED_REMOVE_WITH_CONTENT:
+        text = re.sub(rf"<{tag}\b[^>]*>.*?</{tag}>", "", text, flags=re.IGNORECASE | re.DOTALL)
+    for tag in _DISALLOWED_STRIP_TAG_ONLY:
+        text = re.sub(rf"</?{tag}\b[^>]*>", "", text, flags=re.IGNORECASE)
+    return text
 
 
 # --------------------------------------------------------------------------
 # XML GENEREERIMINE
 # --------------------------------------------------------------------------
 
+def clean_ean(raw_ean):
+    """
+    Puhastab EAN-i, eemaldades lõpust tähed (partii/kuupäeva tähis, nt
+    "4260591822177A" -> "4260591822177"). Tagastab (puhas_ean, täht) või
+    (None, None), kui tulemus pole kehtiv EAN (11-13 numbrit).
+    """
+    raw_ean = str(raw_ean or "").strip()
+    suffix_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    cleaned = raw_ean.rstrip("abcdefghijklmnopqrstuvwxyz").rstrip(suffix_letters)
+    letter = raw_ean[len(cleaned):].upper() if len(cleaned) < len(raw_ean) else ""
+    if cleaned.isdigit() and 11 <= len(cleaned) <= 13:
+        return cleaned, letter
+    return None, None
+
+
+def find_ean_winners(products):
+    """
+    Mõnel tootel (nt Go! Solutions partiid) on EAN-i lõpus täht, mis
+    tähistab partiid/kuupäeva (A = vanim, aegub esimesena). Kui mitu
+    toodet annavad sama puhastatud EAN-i, valime AINULT kõige suurema
+    tähega (värskeima partii) - vanemad partiid jäävad XML-ist välja.
+    Tagastab: {productID: True} võitjate kohta, ja nimekirja väljajäetutest.
+    """
+    by_ean = {}  # cleaned_ean -> list of (letter, productID, name, raw_ean)
+    for p in products:
+        if not is_active_and_visible(p):
+            continue
+        cleaned, letter = clean_ean(p.get("code2", ""))
+        if not cleaned:
+            continue
+        by_ean.setdefault(cleaned, []).append((letter, p["productID"], p.get("name", ""), p.get("code2", "")))
+
+    winners = set()
+    losers = []  # (name, raw_ean) - uuemad partiid, mis jäävad hetkel välja
+    for cleaned, entries in by_ean.items():
+        entries.sort(key=lambda e: e[0])  # täheta ("") < "A" < "B" < "C" ...
+        winner = entries[0]  # vanim/esimene partii (aegub esimesena, müügis kõige enne - FIFO)
+        winners.add(winner[1])
+        for letter, pid, name, raw_ean in entries[1:]:
+            losers.append((name, raw_ean))
+    return winners, losers
+
+
 def build_xml(products, stock_map, out_path):
     lines = ['<?xml version="1.0" encoding="UTF-8"?>', "<products>"]
     skipped_no_category = []
     included_count = 0
+    skipped_no_ean = []
+    zero_weight_count = 0
+    no_image_count = 0
+    empty_desc_count = 0
+
+    ean_winners, skipped_old_batch = find_ean_winners(products)
 
     for p in products:
         if not is_active_and_visible(p):
@@ -334,6 +451,35 @@ def build_xml(products, stock_map, out_path):
             skipped_no_category.append((p.get("groupName", ""), name))
             continue
 
+        # Kaup24 nõuab kohustuslikku EAN barkoodi (11-13 numbrit).
+        cleaned_ean, letter = clean_ean(p.get("code2", ""))
+        if not cleaned_ean:
+            skipped_no_ean.append(name)
+            continue
+        if p["productID"] not in ean_winners:
+            # See on vanem partii sama EAN-iga - juba käsitletud
+            # find_ean_winners's, mille tulemus on skipped_old_batch.
+            continue
+        ean = cleaned_ean
+
+        # Kasutame brutokaalu (grossWeight) esimesena - mänguasjade jm puhul
+        # on netokaal Erplys tahtlikult tühi (muidu kuvab e-pood vale kg-hinda).
+        weight = p.get("grossWeight") or p.get("netWeight") or p.get("weight") or 0
+        images = get_image_urls(p)
+        longdesc = strip_disallowed_html(p.get("longdesc", "")).strip()
+
+        # Range täielikkuse nõue: kaal, pilt ja kirjeldus peavad kõik olemas
+        # olema, muidu jääb toode praegu XML-ist välja (kuni Erplys parandatud).
+        if not weight or float(weight) == 0:
+            zero_weight_count += 1
+            continue
+        if not images:
+            no_image_count += 1
+            continue
+        if not longdesc:
+            empty_desc_count += 1
+            continue
+
         included_count += 1
 
         lines.append("  <product>")
@@ -342,20 +488,58 @@ def build_xml(products, stock_map, out_path):
         lines.append(f"    <title>{cdata(name)}</title>")
         lines.append(f"    <title-ee>{cdata(name)}</title-ee>")
 
-        longdesc = p.get("longdesc", "")
         lines.append(f"    <long-description>{cdata(longdesc)}</long-description>")
         lines.append(f"    <long-description-ee>{cdata(longdesc)}</long-description-ee>")
+
+        # Koostis (kohustuslik lemmikloomatoidu aktiveerimiseks): tõmmatud
+        # automaatselt kirjeldusest, kuna "Koostis:" on stabiilselt olemas.
+        composition = extract_composition(longdesc)
+        if composition:
+            lines.append(f"    <composition>{cdata(composition)}</composition>")
+            lines.append(f"    <composition-ee>{cdata(composition)}</composition-ee>")
+
+        # Tootja nimi: kasutame AINULT Erply "manufacturerName" (Tootja) välja.
+        # "Hankija" (supplierName) on tarnija, mitte tootja - ei sobi asendajaks.
+        # Kui tühi, jätame välja - Kaup24 juhendi järgi täidetakse siis käsitsi PMP-s.
+        manufacturer = p.get("manufacturerName") or ""
+        if manufacturer:
+            lines.append(f"    <manufacturer-name>{cdata(manufacturer)}</manufacturer-name>")
+
+        # Properties: bränd, paki kaal, ja "Tüüp" (Erply "Seeria" väljalt).
+        # ID-d on vabas vormis (nemad linkivad need hiljem oma süsteemis).
+        brand = p.get("brandName") or ""
+        series = p.get("seriesName") or ""
+        props = []
+        if brand:
+            props.append(("Kaubamärk", brand))
+        if series:
+            props.append(("Tüüp", series))
+        if cat_id == "10391":  # Söögi-/joogikausid - vajavad mahtu liitrites
+            volume = extract_volume_liters(name, longdesc)
+            if volume:
+                props.append(("Maht", f"{volume} l"))
+        if weight:
+            props.append(("Paki kaal", str(weight)))
+        if props:
+            lines.append("    <properties>")
+            for prop_id, prop_value in props:
+                lines.append("      <property>")
+                lines.append(f"        <id>{cdata(prop_id)}</id>")
+                lines.append("        <values>")
+                lines.append(f"          <value>{cdata(prop_value)}</value>")
+                lines.append("        </values>")
+                lines.append("      </property>")
+            lines.append("    </properties>")
 
         lines.append("    <colours>")
         lines.append("      <colour>")
         lines.append("        <images>")
-        for url in get_image_urls(p):
+        for url in images:
             lines.append(f"          <image><url>{url}</url></image>")
         lines.append("        </images>")
         lines.append("        <modifications>")
         lines.append("          <modification>")
 
-        weight = p.get("netWeight") or p.get("weight") or 0
         lines.append(f"            <weight>{weight}</weight>")
         # MÄRKUS: Erplys pole tegelikke pikkus/laius/kõrgus andmeid (kõigil
         # oli sama mõttetu 1/0/0/0 väärtus), aga Kaup24 nõuab neid välju
@@ -367,9 +551,7 @@ def build_xml(products, stock_map, out_path):
 
         lines.append("            <attributes>")
         lines.append("              <barcodes>")
-        ean = p.get("code2", "")
-        if ean:
-            lines.append(f"                <barcode>{cdata(ean)}</barcode>")
+        lines.append(f"                <barcode>{cdata(ean)}</barcode>")
         lines.append("              </barcodes>")
         lines.append(f"              <supplier-code>{cdata(p.get('code', ''))}</supplier-code>")
         lines.append("            </attributes>")
@@ -389,6 +571,32 @@ def build_xml(products, stock_map, out_path):
         f.write("\n".join(lines))
 
     print(f"\nValmis! {included_count} toodet kirjutatud faili: {out_path}")
+    print(f"\nVälja jäetud puuduliku andmestiku tõttu (range täielikkuse nõue):")
+    print(f"  Kaal puudub/0: {zero_weight_count}")
+    print(f"  Sobiv pilt (JPG/PNG) puudub: {no_image_count}")
+    print(f"  Kirjeldus tühi: {empty_desc_count}")
+
+    if skipped_old_batch:
+        print(
+            f"\nINFO: {len(skipped_old_batch)} toodet jäeti XML-ist välja, kuna "
+            f"tegemist on uuema partiiga (sama EAN, suurema tähega) - "
+            f"vanim partii (mis aegub esimesena, FIFO) on juba kaasas."
+        )
+        for n, raw_ean in sorted(set(skipped_old_batch))[:15]:
+            print(f"  - {n} (EAN: {raw_ean})")
+
+    if skipped_no_ean:
+        print(
+            f"\nHOIATUS: {len(skipped_no_ean)} aktiivset/nähtavat toodet jäid "
+            f"XML-ist välja, kuna neil puudub kehtiv EAN-kood (11-13 numbrit) Erplys."
+        )
+        print("Näited (kuni 15):")
+        for n in sorted(set(skipped_no_ean))[:15]:
+            print(f"  - {n}")
+        print(
+            "Lisage neile Erplys korrektne EAN (\"EAN kood\" väli), et need "
+            "järgmisel käivitamisel automaatselt kaasa läheksid."
+        )
 
     if skipped_no_category:
         unique_groups = sorted(set(g for g, n in skipped_no_category))
