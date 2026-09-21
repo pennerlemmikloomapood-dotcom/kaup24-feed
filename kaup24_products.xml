@@ -896,6 +896,18 @@ Teknologiset lisäaineet: antioksidantit: luonnollista alkuperää olevat tokofe
           <value><![CDATA[ 11.5 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -1052,6 +1064,18 @@ Teknologiset lisäaineet: antioksidantit: luonnollista alkuperää olevat tokofe
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 1.65 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -1220,6 +1244,18 @@ Teknologiset lisäaineet: antioksidantit: luonnollista alkuperää olevat tokofe
           <value><![CDATA[ 11.5 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -1385,6 +1421,18 @@ Teknologiset lisäaineet: antioksidantit: luonnollista alkuperää olevat tokofe
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 1.65 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -1556,6 +1604,18 @@ Eläinlääketieteelliset lisäaineet: Lactobacillus acidophilus CECT4529 5x109 
           <value><![CDATA[ 1.7 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -1725,6 +1785,18 @@ Eläinlääketieteelliset lisäaineet: Lactobacillus acidophilus CECT4529 5x109 
           <value><![CDATA[ 11.5 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -1878,6 +1950,18 @@ Teknologiset lisäaineet: antioksidantit: luonnollista alkuperää olevat tokofe
           <value><![CDATA[ 7.4 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -2026,6 +2110,18 @@ Teknologiset lisäaineet: antioksidantit: luonnollista alkuperää olevat tokofe
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 3.8 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -2178,6 +2274,18 @@ Teknologiset lisäaineet: antioksidantit: luonnollista alkuperää olevat tokofe
           <value><![CDATA[ 1.5 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -2326,6 +2434,18 @@ Omega-öljyt terveen turkin ja ihon edistämiseksi<br />
           <value><![CDATA[ 3.8 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -2471,6 +2591,18 @@ Omega-öljyt terveen turkin ja ihon edistämiseksi<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 7.4 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -2621,6 +2753,18 @@ Omega-öljyt terveen turkin ja ihon edistämiseksi<br />
           <value><![CDATA[ 1.5 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -2762,6 +2906,18 @@ Omega-öljyt terveelle iholle ja turkille<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 10.1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -2907,6 +3063,18 @@ Teknologiset lisäaineet: antioksidantit: luonnollista alkuperää olevat tokofe
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 1.7 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -3068,6 +3236,18 @@ Omega-öljyt terveelle iholle ja turkille<br />
           <value><![CDATA[ 10.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -3226,6 +3406,18 @@ Omega-öljyt terveelle iholle ja turkille<br />
           <value><![CDATA[ 1.7 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -3347,6 +3539,18 @@ Selline retsept sobib hästi koertele, kes vajavad tundliku seedimise või toidu
           <value><![CDATA[ 10.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -3440,6 +3644,18 @@ Krõbina kuju ja suurus:</strong> Kolmnurkne, pikkus <span style="color: rgb(71,
           <value><![CDATA[ 12.2 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -3530,6 +3746,18 @@ Täiendavaid toidulisandeid ei ole vaja anda, välja arvatud juhul, kui veterina
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 12.2 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -3656,6 +3884,18 @@ Tämä resepti sopii hyvin koirille, jotka tarvitsevat erityisruokaa herkän ruo
           <value><![CDATA[ 1.7 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -3753,6 +3993,18 @@ Ruoan omega-6- ja omega-3-rasvahapot ovat erittäin tärkeitä hyvän terveyden 
           <value><![CDATA[ 12.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -3845,6 +4097,18 @@ Ruoan omega-6- ja omega-3-rasvahapot ovat erittäin tärkeitä hyvän terveyden 
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 12.1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -3945,6 +4209,18 @@ Tehnoloogilised lisandid: antioksüdandid<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 12.1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Seenior ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Ülekaalulistele loomadele ]]></value>
         </values>
       </property>
     </properties>
@@ -4101,6 +4377,18 @@ LISÄAINEET KG:LLA: retinyyliasetaatti 21 250 IU (E372); D3-vitamiini 1 300 IU (
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 1.7 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -4280,6 +4568,18 @@ Teknologiset lisäaineet: antioksidantit: luonnollista alkuperää olevat tokofe
           <value><![CDATA[ 7.4 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -4411,6 +4711,18 @@ Säilytä viileässä, kuivassa ja auringonvalolta suojatussa paikassa.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 12.1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -4585,6 +4897,18 @@ Teknologiset lisäaineet: antioksidantit: luonnollista alkuperää olevat tokofe
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 3.78 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -4822,6 +5146,18 @@ Varmista, että lemmikillä on aina raikasta juomavettä saatavilla. Säilytä t
           <value><![CDATA[ 12.2 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -4923,6 +5259,18 @@ Säilytä viileässä, kuivassa ja auringonvalolta suojatussa paikassa.<br />
           <value><![CDATA[ 12.3 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -5016,6 +5364,18 @@ Säilytä viileässä, kuivassa ja auringonvalolta suojatussa paikassa.<br />
           <value><![CDATA[ 12.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -5106,6 +5466,18 @@ Säilytä kuivassa ja viileässä paikassa, poissa auringonvalosta.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 12.1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -5209,6 +5581,18 @@ Puolikostea täysruoka koirille, joka on valmistettu tuoreesta lihasta ja kalast
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 12.2 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -5384,6 +5768,18 @@ Teknologiset lisäaineet: antioksidantit: luonnollista alkuperää olevat tokofe
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 1.45 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -5600,6 +5996,18 @@ Viljaton ja gluteeniton resepti.<br />
           <value><![CDATA[ 10.2 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -5791,6 +6199,18 @@ Täiendsööt koertele.<br />
           <value><![CDATA[ 0.2 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -5963,6 +6383,18 @@ Toidu vahetamine: Toiduvahetus sõltub sageli konkreetsest koerast. Mõned koera
           <value><![CDATA[ 1.6 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -6107,6 +6539,18 @@ Nettomäärä 4 kg<br />
           <value><![CDATA[ 4.2 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -6224,6 +6668,18 @@ Kasutamine</strong>: Värske joogivesi hoida alati kättesaadaval.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.11 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -6363,6 +6819,18 @@ TOITUMIS- JA FÜSIOLOOGILISED LISANDID: A-vitamiin 12 000 RÜ, D3-vitamiin 1 200
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 4.2 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -6505,6 +6973,18 @@ TOITUMIS- JA FÜSIOLOOGILISED LISANDID: A-vitamiin 12 000 RÜ, D3-vitamiin 1 200
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.12 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -6691,6 +7171,18 @@ Nettopaino: 4 kg<br />
           <value><![CDATA[ 4.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -6737,6 +7229,18 @@ Nettopaino: 4 kg<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.12 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -6923,6 +7427,18 @@ Nettopaino: 1,5kg<br />
           <value><![CDATA[ 1.6 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -7073,6 +7589,18 @@ KOOSTIS: </strong>Forell (30%), heeringas (20%), lõhe (kuivatatud, 10%), pastin
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 4.2 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -7227,6 +7755,18 @@ KOOSTIS: </strong>Forell (30%), heeringas (20%), lõhe (kuivatatud, 10%), pastin
           <value><![CDATA[ 0.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -7288,6 +7828,18 @@ Selged mõõtejaotised aitavad hõlpsasti järgida söötmissoovitusi ning tagad
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.05 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -7378,6 +7930,18 @@ Krõbina kuju ja suurus:</strong> Kolmnurkne, pikkus <span style="color: rgb(71,
           <value><![CDATA[ 2.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -7459,6 +8023,18 @@ Toidus olevad Omega 6 ja Omega 3 rasvhapped, on väga olulised hea tervise kompo
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 2.1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -7556,6 +8132,18 @@ Toidus olevad Omega 6 ja Omega 3 rasvhapped, on väga olulised hea tervise kompo
           <value><![CDATA[ 2.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -7635,6 +8223,18 @@ Tehnoloogilised lisandid: antioksüdandid<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 2.1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Seenior ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Ülekaalulistele loomadele ]]></value>
         </values>
       </property>
     </properties>
@@ -7758,6 +8358,18 @@ Ei sisällä lisäaineita, viljoja, gluteenia eikä GMO:ita.<br />
           <value><![CDATA[ 5.2 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -7878,6 +8490,18 @@ Ei sisällä lisäaineita, viljoja, gluteenia eikä GMO:ita.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 2.1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -8009,6 +8633,18 @@ Säilytä viileässä, kuivassa ja auringonvalolta suojatussa paikassa.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 1.1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -8243,6 +8879,18 @@ Varmista, että lemmikillä on aina raikasta juomavettä saatavilla. Säilytä t
           <value><![CDATA[ 1.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -8344,6 +8992,18 @@ Säilytä viileässä, kuivassa ja auringonvalolta suojatussa paikassa.<br />
           <value><![CDATA[ 1.05 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -8437,6 +9097,18 @@ Säilytä viileässä, kuivassa ja auringonvalolta suojatussa paikassa.<br />
           <value><![CDATA[ 1.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -8525,6 +9197,18 @@ Siirtymävaiheen kylmäpuristettu ruoka kestää paikassa pidemmän aikaa. Raika
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 1.1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -8661,6 +9345,18 @@ Säilytä kuivassa ja viileässä paikassa, poissa auringonvalosta.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 9.574 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -8823,6 +9519,18 @@ Säilytä kuivassa ja viileässä paikassa, poissa auringonvalosta.<br />
           <value><![CDATA[ 9.574 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -8931,6 +9639,18 @@ Kaikki ainesosat ovat 100 % luonnollisia ja tulevat paikallisilta toimittajilta.
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 9.3 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -9067,6 +9787,18 @@ Lisandid (toitainelised lisandid 1 kg kohta): Vitamiin A: 30 000 IU, vitamiin D�
           <value><![CDATA[ 0.35 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -9200,6 +9932,18 @@ Lisandid (toitainelised lisandid 1 kg kohta): Vitamiin A: 30 000 IU, vitamiin D�
           <value><![CDATA[ 2.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -9301,6 +10045,18 @@ Huom! Koska tämä on puolikosteaa ruokaa, suosittelemme tarjoilemaan pieniä m�
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 1.1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -9419,6 +10175,18 @@ Huom! Koska tämä on puolikosteaa ruokaa, suosittelemme tarjoilemaan pieniä m�
           <value><![CDATA[ 1.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -9510,6 +10278,18 @@ Vibrisse Shake отлично подходит для улучшения вку�
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 2.2 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Seenior ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -9605,6 +10385,18 @@ Vibrisse Shake отлично подходит для улучшения вку�
           <value><![CDATA[ 0.17 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Seenior ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -9691,6 +10483,18 @@ Vibrisse Shake отлично подходит для улучшения вку�
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 2.2 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -9781,6 +10585,18 @@ Vibrisse Shake отлично подходит для улучшения вку�
           <value><![CDATA[ 0.17 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -9869,6 +10685,18 @@ Vibrisse Shake отлично подходит для улучшения вку�
           <value><![CDATA[ 2.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -9955,6 +10783,18 @@ Vibrisse Shake отлично подходит для улучшения вку�
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.17 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -10047,6 +10887,18 @@ Vibrisse Shake отлично подходит для улучшения вку�
           <value><![CDATA[ 2.2 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -10135,6 +10987,18 @@ Vibrisse Shake отлично подходит для улучшения вку�
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.17 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -10227,6 +11091,18 @@ Vibrisse Shake отлично подходит для улучшения вку�
           <value><![CDATA[ 2.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -10315,6 +11191,18 @@ Vibrisse Shake отлично подходит для улучшения вку�
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.17 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -10430,6 +11318,18 @@ Parasta ennen ja eränumero</strong> katso pakkaus<br />
           <value><![CDATA[ 0.08 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -10537,6 +11437,18 @@ Parasta ennen ja eränumero</strong> katso pakkaus<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.08 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -10648,6 +11560,18 @@ Parasta ennen ja eränumero</strong> katso pakkaus<br />
           <value><![CDATA[ 0.08 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -10743,6 +11667,18 @@ Parim enne ja partii nr</strong> vaata pakendilt<br />
           <value><![CDATA[ 0.08 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -10836,6 +11772,18 @@ Parim enne ja partii nr</strong> vaata pakendilt<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.075 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -10940,6 +11888,18 @@ Täiendsööt kassipoegadele<br />
           <value><![CDATA[ 0.099 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -11040,6 +12000,18 @@ Täiendsööt täiskasvanud kassidele.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.099 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -11144,6 +12116,18 @@ Täiendsööt täiskasvanud kassidele.<br />
           <value><![CDATA[ 0.16 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -11246,6 +12230,18 @@ Täiendsööt täiskasvanud kassidele.<br />
           <value><![CDATA[ 0.099 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -11338,6 +12334,18 @@ Täiendsööt täiskasvanud kassidele.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 2.4 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -11442,6 +12450,18 @@ Täiendsööt täiskasvanud kassidele.<br />
           <value><![CDATA[ 0.099 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -11542,6 +12562,18 @@ Täiendsööt täiskasvanud kassidele.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.099 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -11675,6 +12707,18 @@ Käytännöllinen neljän annoksen pakkaus sisältää neljä annosta (4 × 100 
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.45 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -11812,6 +12856,18 @@ Käytännöllinen neljän annoksen pakkaus sisältää neljä annosta (4 × 100 
           <value><![CDATA[ 0.45 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -11921,6 +12977,18 @@ enintään 4 kuukautta: 110 - 230 g<br />
           <value><![CDATA[ 0.254 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -12028,6 +13096,18 @@ enintään 4 kuukautta: 115 - 235 g<br />
           <value><![CDATA[ 0.254 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -12132,6 +13212,18 @@ RAVITSEMUSSUOSITUKSET:<br style="color: rgb(0, 0, 0);" />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.254 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -12243,6 +13335,18 @@ Amora kassikonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
           <value><![CDATA[ 0.254 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -12350,6 +13454,18 @@ Amora kassikonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
           <value><![CDATA[ 0.254 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -12431,6 +13547,18 @@ Avatult hoiustada külmkapis ja tarbida 2 päeva jooksul. Serveerida toatemperat
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.25 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -12516,6 +13644,18 @@ Täissööt kassidele<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.45 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -12629,6 +13769,18 @@ RAVITSEMUSSUOSITUKSET:<br style="color: rgb(0, 0, 0);" />
           <value><![CDATA[ 0.254 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -12734,6 +13886,18 @@ RAVITSEMUSSUOSITUKSET:<br style="color: rgb(0, 0, 0);" />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 3 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -12843,6 +14007,18 @@ RAVITSEMUSSUOSITUKSET:<br style="color: rgb(0, 0, 0);" />
           <value><![CDATA[ 0.46 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -12950,6 +14126,18 @@ RAVITSEMUSSUOSITUKSET:<br style="color: rgb(0, 0, 0);" />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.26 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -13144,6 +14332,18 @@ Lisandid: Toitainelised lisandid: Vitamiin A (3a672a) 7471 IU, vitamiin D3 (3a67
           <value><![CDATA[ 0.28 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Steriliseeritud kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -13300,6 +14500,18 @@ Säilytä viileässä, kuivassa paikassa, suojassa suoralta auringonvalolta.</p>
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.28 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Steriliseeritud kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -13485,6 +14697,18 @@ Söötmissoovitus: ]]></composition-ee>
           <value><![CDATA[ 0.23 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -13658,6 +14882,18 @@ BARF2GO Песто не является полнорационным кормо
           <value><![CDATA[ 0.23 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -13808,6 +15044,18 @@ Partii nr: vt pakendilt</p>
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.12 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -13962,6 +15210,18 @@ Partii nr: vt pakendilt</p>
           <value><![CDATA[ 0.28 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -14094,6 +15354,18 @@ Netokogus: 800 g<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.9 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -14251,6 +15523,18 @@ Netokogus: 800 g</p>
           <value><![CDATA[ 5.4 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -14362,6 +15646,18 @@ Partii nr: vaata pakendilt<br />
           <value><![CDATA[ 5.4 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -14405,6 +15701,18 @@ Partii nr: vaata pakendilt<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.9 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -14588,6 +15896,18 @@ Määrät ovat suositeltuja. Todellinen tarve riippuu koiran rodusta, iästä ja
           <value><![CDATA[ 5.4 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -14769,6 +16089,18 @@ Määrät ovat suositeltuja. Todellinen tarve riippuu koiran rodusta, iästä ja
           <value><![CDATA[ 0.9 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -14885,6 +16217,18 @@ Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 5.4 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -15007,6 +16351,18 @@ Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
           <value><![CDATA[ 0.914 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -15123,6 +16479,18 @@ Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 5.4 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -15265,6 +16633,18 @@ Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
           <value><![CDATA[ 0.914 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -15381,6 +16761,18 @@ Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 5.4 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -15501,6 +16893,18 @@ Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
           <value><![CDATA[ 0.914 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -15617,6 +17021,18 @@ Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 5.4 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -15737,6 +17153,18 @@ Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
           <value><![CDATA[ 0.914 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -15855,6 +17283,18 @@ Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
           <value><![CDATA[ 5.4 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -15971,6 +17411,18 @@ Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 5.4 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -16093,6 +17545,18 @@ Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
           <value><![CDATA[ 0.914 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -16201,6 +17665,18 @@ Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
           <value><![CDATA[ 0.914 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -16303,6 +17779,18 @@ Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 5.4 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -16422,6 +17910,18 @@ Säilytä tuotetta viileässä ja kuivassa paikassa, suojassa suoralta auringonv
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.33 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -16544,6 +18044,18 @@ Nettomäärä:</strong> 300 g<br />
           <value><![CDATA[ 0.33 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -16664,6 +18176,18 @@ Säilytä tuotetta viileässä ja kuivassa paikassa, suojassa suoralta auringonv
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.33 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -16820,6 +18344,18 @@ Netokogus: 195 g</p>
           <value><![CDATA[ 0.21 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -16945,6 +18481,18 @@ Arvesta maiuste andmist päevase toidukoguse hulka.
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.21 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -17135,6 +18683,18 @@ Nettopaino: 400 g</p>
           <value><![CDATA[ 0.46 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -17262,6 +18822,18 @@ Tegemist on soovituslike kogustega. Hoida jahedas ja kuivas, pärast avamist sä
           <value><![CDATA[ 3 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -17384,6 +18956,18 @@ Tegemist on soovituslike kogustega. Hoida jahedas ja kuivas, pärast avamist sä
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.5 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -17573,6 +19157,18 @@ Maahantuoja: Penner OÜ; Võru 77, Tartu, Viro; info@penner.ee</p> ]]></long-des
           <value><![CDATA[ 0.42 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -17617,6 +19213,18 @@ Maahantuoja: Penner OÜ; Võru 77, Tartu, Viro; info@penner.ee</p> ]]></long-des
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 3 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -17804,6 +19412,18 @@ Maahantuoja: Penner OÜ; Võru 77, Tartu, Viro; info@penner.ee</p>
           <value><![CDATA[ 0.45 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -17849,6 +19469,18 @@ Maahantuoja: Penner OÜ; Võru 77, Tartu, Viro; info@penner.ee</p>
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 3 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -18034,6 +19666,18 @@ Nettopaino: 400 g</p>
           <value><![CDATA[ 0.5 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -18083,6 +19727,18 @@ Nettopaino: 400 g</p>
           <value><![CDATA[ 3 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -18128,6 +19784,18 @@ Nettopaino: 400 g</p>
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.5 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -18230,6 +19898,18 @@ Toodetud Saksamaal</p>
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 3 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -18388,6 +20068,18 @@ Valmistettu Saksassa</p>
           <value><![CDATA[ 0.5 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -18492,6 +20184,18 @@ Toodetud Saksamaal<br />
           <value><![CDATA[ 3 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -18592,6 +20296,18 @@ Toodetud Saksamaal<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.5 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -18712,6 +20428,18 @@ Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.45 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -18936,6 +20664,18 @@ Avaamisen jälkeen säilyy jääkaapissa enintään 24 tuntia. Valmis syötävä
           <value><![CDATA[ 2.7 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -19152,6 +20892,18 @@ Avaamisen jälkeen Säilytä jääkaapissa enintään 24 tuntia. Valmis syötäv
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 2.76 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -27344,6 +29096,18 @@ Alates 20 kg kaaluv koer: 20 ml päevas</p>
           <value><![CDATA[ 0.3 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -27444,6 +29208,18 @@ Flamingo Pet Products ]]></long-description-ru>
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.05 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -27623,6 +29399,18 @@ Flamingo Pet Products ]]></long-description-ru>
           <value><![CDATA[ 0.09 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -27742,6 +29530,18 @@ Kassid üle 10 kg: 10 ml päevas<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.33 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -34719,6 +36519,18 @@ Reguleeritav ja pehmendusega nailonist koera suukorv võrguosaga.<br />
           <value><![CDATA[ 0.3 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -34791,6 +36603,18 @@ Reguleeritav ja pehmendusega nailonist koera suukorv võrguosaga.<br />
           <value><![CDATA[ 0.28 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -34858,6 +36682,18 @@ Reguleeritav ja pehmendusega nailonist koera suukorv võrguosaga.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.23 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -34936,6 +36772,18 @@ Reguleeritav ja pehmendusega nailonist koera suukorv võrguosaga.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.22 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -35567,6 +37415,18 @@ Ei soovita alla 9kuustele kutsikatele.<br />
           <value><![CDATA[ 0.17 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -35666,6 +37526,18 @@ Tohvelin pituus 6-8 cm<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.014 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -38572,6 +40444,18 @@ Söötmissoovitus: Anda mõõdukalt, arvestades koera suurust, vanust ja aktiivs
           <value><![CDATA[ 0.11 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -38727,6 +40611,18 @@ Pärast avamist säilitada külmkapis ja tarvitada 2 päeva jooksul. Serveeri to
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 3 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -38959,6 +40855,18 @@ Nämä ovat suositeltuja määriä. Todellinen tarve riippuu pennun rodusta, iä
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.5 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -43669,6 +45577,18 @@ Kosteus 70 %</p>
           <value><![CDATA[ 0.01 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -45044,6 +46964,18 @@ Zootehnilised lisandid: Soolestiku mikrofloora stabiliseerijad 4b1707, Enterococ
           <value><![CDATA[ 2.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -45636,6 +47568,18 @@ Kissalla on aina oltava raikasta ja puhdasta juomavettä.<br />
           <value><![CDATA[ 0.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -45773,6 +47717,18 @@ Maukkaat ja herkulliset palat tuovat iloa kissallesi ja on valmistettu tuoreesta
           <value><![CDATA[ 0.06 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -45894,6 +47850,18 @@ Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult 
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.914 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -46080,6 +48048,18 @@ Säilytä viileässä, kuivassa paikassa, suojassa suoralta auringonvalolta.<br 
           <value><![CDATA[ 0.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -46203,6 +48183,18 @@ Hoiusta külmas ja kuivas kohas päikesevalgusest eemal.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.06 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -46396,6 +48388,18 @@ Säilytä kuivassa ja viileässä paikassa, suojassa auringonvalolta.<br />
           <value><![CDATA[ 0.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -46499,6 +48503,18 @@ Säilytä kuivassa ja viileässä paikassa, suojassa auringonvalolta.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -46642,6 +48658,18 @@ Koiralla tulee aina olla raikasta ja puhdasta juomavettä.<br />
           <value><![CDATA[ 0.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -46777,6 +48805,18 @@ M</span><span style="font-size: 12px;"><strong data-end="1433" data-start="1418"
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.06 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -47445,6 +49485,18 @@ Lisaainete, teravilja ja gluteenivaba.<br />
           <value><![CDATA[ 0.22 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -47535,6 +49587,18 @@ Sobilik igas vanuses koertele.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.51 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -47640,6 +49704,18 @@ Sobilik igas vanuses koertele.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 1.22 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -47944,6 +50020,18 @@ Sobilik igas vanuses koertele.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.53 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -48586,6 +50674,18 @@ Noin 75 purutablettia purkissa.<br />
           <value><![CDATA[ 0.2 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -48954,6 +51054,18 @@ Analüütiline koostis ]]></composition-ee>
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.11 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -49383,6 +51495,18 @@ Sobib suurepäraselt preemiaks treeningu ajal – sobib kõikidele täiskasvanud
           <value><![CDATA[ 0.23 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -49677,6 +51801,18 @@ Kasutamine</strong>: 1 näritav maius 10kg kehakaalu kohta. Värske joogivesi ho
           <value><![CDATA[ 0.17 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -49866,6 +52002,18 @@ Sobilik igas vanuses koertele.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 1.21 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -50473,6 +52621,18 @@ Käytetään hampaiden puhdistamiseen, tylsistymisen ja stressin lievittämiseen
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.08 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -57256,6 +59416,18 @@ Pakendis on toote kvaliteedi säilitamiseks hapnikuabsorber.<br />
           <value><![CDATA[ 0.02 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -57331,6 +59503,18 @@ Serveeri preemiana. Pakkuda rohkelt joogivett. Pärast avamist sulgege hoolikalt
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.02 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -57502,6 +59686,18 @@ Parim enne: vaata pakendilt.</p>
           <value><![CDATA[ 0.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -57655,6 +59851,18 @@ Yli 25 kg painavat koirat: 15 ml päivässä<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.33 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -57986,6 +60194,18 @@ Tarjoile palkkiona. Varmista riittävä juomaveden saanti. Sulje avaamisen jälk
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.02 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -58537,6 +60757,18 @@ Pärast avamist hoida külmkapis ja tarbida esimesel võimalusel.<br />
           <value><![CDATA[ 0.15 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -58761,6 +60993,18 @@ Serveeri preemiana. Pakkuda rohkelt joogivett. Pärast avamist sulgege hoolikalt
           <value><![CDATA[ 0.12 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -58971,6 +61215,18 @@ Kasutamine: ]]></composition-ee>
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.03 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -59317,6 +61573,18 @@ Maaletooja: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee</p> ]]></long-des
           <value><![CDATA[ 0.11 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -59605,6 +61873,18 @@ Pakkuda preemiaks. Tagada alati piisav kogus värsket joogivett.</p>
           <value><![CDATA[ 0.076 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -59788,6 +62068,18 @@ Excellent Pets Dental Oral Care содержит смесь сушёных тр�
           <value><![CDATA[ 0.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -59956,6 +62248,18 @@ Sööta preemiana. Tagage lemmikloomale alati juurdepääs puhtale joogiveele. P
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.02 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -60238,6 +62542,18 @@ sisältää fruktooligosakkarideja, jotka tukee tervettä ruoansulatusta
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.03 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -60670,6 +62986,18 @@ Lisandid (1 kg kohta): ]]></composition-ee>
           <value><![CDATA[ 0.14 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -60738,6 +63066,18 @@ Sööta preemiana. Tagage lemmikloomale alati juurdepääs puhtale joogiveele. P
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.08 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -69787,6 +72127,18 @@ Poista kansi ja lisää vettä (älä käytä liikaa vettä). Ripottele siemeni�
           <value><![CDATA[ 0.2 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -72296,6 +74648,18 @@ Hoida kuivas kohas toatemperatuuril, kaitstuna otsese päikesevalguse eest. Pär
           <value><![CDATA[ 0.06 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -72967,6 +75331,18 @@ Käepärases pakendis maius kassidele.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.08 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -74205,6 +76581,18 @@ Kasutus: Võib pakkuda otse tuubist või määrida Flamingo lakkumismattidele ja
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -75722,6 +78110,18 @@ Täiendsööt ]]></composition-ee>
           <value><![CDATA[ 0.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -76057,6 +78457,18 @@ Mitte inimtoiduks. Tagage lemmikloomale alati juurdepääs värskele veele. Pär
           <value><![CDATA[ 0.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -76202,6 +78614,18 @@ Madala rasvasisaldusega, kõrge proteiinisisaldusega, ei ole lisatud suhkruid, g
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.095 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -76390,6 +78814,18 @@ Vähärasvainen. ja runsasproteiinisia sokerittomia herkkuja koirille.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.2 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -76721,6 +79157,18 @@ Mitte inimtoiduks. <br />
           <value><![CDATA[ 0.093 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -76941,6 +79389,18 @@ Poistaa irtonaisia ​​karvoja<br />
           <value><![CDATA[ 0.18 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -77017,6 +79477,18 @@ Poistaa irtonaisia ​​karvoja<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.08 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -77158,6 +79630,18 @@ Vähärasvainen. ja runsasproteiinisia sokerittomia herkkuja koirille.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.2 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -77314,6 +79798,18 @@ Flamingo-lemmikkituotteet ]]></long-description-fi>
           <value><![CDATA[ 0.095 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -77402,6 +79898,18 @@ Flamingo-lemmikkituotteet ]]></long-description-fi>
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.9 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -77581,6 +80089,18 @@ tehnoloogilised lisandid: säilitusained.<br />
           <value><![CDATA[ 0.08 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -77663,6 +80183,18 @@ Pole mõeldud inimtoiduks. Ärge söötke deoksüdeerijat. Piiratud säilivusaeg
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.09 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Kutsikas/kassipoeg ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -77912,6 +80444,18 @@ Tuote on tavallista suurempi eikä mahdu pakettiautomaattiin. Toimitamme vain ku
           <value><![CDATA[ 0.095 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -77986,6 +80530,18 @@ Tuote on tavallista suurempi eikä mahdu pakettiautomaattiin. Toimitamme vain ku
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.08 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -78082,6 +80638,18 @@ Madala rasvasisalduse  ja kõrge proteiinisisaldusega suhkruvabad maiused koerte
           <value><![CDATA[ 0.095 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -78167,6 +80735,18 @@ Madala rasvasisalduse  ja kõrge proteiinisisaldusega suhkruvabad maiused koerte
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.05 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -78304,6 +80884,18 @@ Gluteenivaba ja ilma lisatud suhkruteta. Kollageen aitab säilitada terve naha, 
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.03 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -78457,6 +81049,18 @@ Ilma lisatud suhkruta</p>
           <value><![CDATA[ 0.07 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -78541,6 +81145,18 @@ Käepärases pakendis maius koertele.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -78814,6 +81430,18 @@ Tuote on tavallista suurempi eikä mahdu pakettiautomaattiin. Toimitamme vain ku
           <value><![CDATA[ 0.09 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -78905,6 +81533,18 @@ Tuote on tavallista suurempi eikä mahdu pakettiautomaattiin. Toimitamme vain ku
           <value><![CDATA[ 0.095 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -78981,6 +81621,18 @@ Tuote on tavallista suurempi eikä mahdu pakettiautomaattiin. Toimitamme vain ku
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.06 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -79124,6 +81776,18 @@ Tuote on tavallista suurempi eikä mahdu pakettiautomaattiin. Toimitamme vain ku
           <value><![CDATA[ 0.15 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -79214,6 +81878,18 @@ Tuote on tavallista suurempi eikä mahdu pakettiautomaattiin. Toimitamme vain ku
           <value><![CDATA[ 0.15 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -79287,6 +81963,18 @@ Hoida jahedas ja kuivas kohas. Kaitsta otsese päikesevalguse, niiskuse ja kõrg
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.35 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -79391,6 +82079,18 @@ Tootja: Flamingo Pet Products, Belgia ]]></composition-ee>
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -79626,6 +82326,18 @@ Pärast avamist piiratud säilivusaeg.<br />
           <value><![CDATA[ 0.95 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -79830,6 +82542,18 @@ Madala rasvasisalduse  ja kõrge proteiinisisaldusega suhkruvabad maiused koerte
           <value><![CDATA[ 0.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -80000,6 +82724,18 @@ Tootja: Flamingo Pet Products ]]></long-description-ee>
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.09 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -80279,6 +83015,18 @@ glükoosamiin (80mg/kg), yucca (80mg/kg), kondroitiin (20mg/kg), looduslik karam
           <value><![CDATA[ 0.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -80415,6 +83163,18 @@ Hoida kuivas kohas toatemperatuuril, kaitstuna otsese päikesevalguse eest. Pär
           <value><![CDATA[ 0.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -80499,6 +83259,18 @@ Analüütiline koostis: ]]></composition-ee>
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.52 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -80651,6 +83423,18 @@ Kollageeniga maius terve naha, liigeste ja läikiva karvkatte toetamiseks.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.05 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -80825,6 +83609,18 @@ Käepärases pakendis maius koertele.<br />
           <value><![CDATA[ 0.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -80898,6 +83694,18 @@ Käepärases pakendis maius koertele.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.25 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -80999,6 +83807,18 @@ Omadused: sobib preemiaks, vahepalaks või igapäevase toidulaua täienduseks ]]
           <value><![CDATA[ 0.1 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -81098,6 +83918,18 @@ Täiendsööt<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -87460,6 +90292,18 @@ Rahuldab koerte närimisvajadust<br />
           <value><![CDATA[ 0.11 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -87824,6 +90668,18 @@ Tarkoitettu käytettäväksi pinnoilla, joiden kanssa eläimet ovat kosketuksiss
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.22 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -88356,6 +91212,18 @@ Pärast avamist piiratud säilivusaeg.<br />
           <value><![CDATA[ 0.52 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -88447,6 +91315,18 @@ Gluteeniton eikä sisällä lisättyä sokeria.<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.12 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -89175,6 +92055,18 @@ Gluteeniton eikä sisällä lisättyä sokeria.<br />
           <value><![CDATA[ 0.16 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -89256,6 +92148,18 @@ Flamingo Pet Products ]]></long-description-ru>
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.52 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -89580,6 +92484,18 @@ Masseerib igemeid ja aitab ennetada hambakatu teket<br />
           <value><![CDATA[ 0.22 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -89656,6 +92572,18 @@ Masseerib igemeid ja aitab ennetada hambakatu teket<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.22 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -89884,6 +92812,18 @@ Pestav 30°C juures<br />
           <value><![CDATA[ 0.42 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -90066,6 +93006,18 @@ Luonnollisen koostumuksensa ansiosta luu auttaa tyydyttämään koirasi luonnoll
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.38 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -90361,6 +93313,18 @@ Pärast avamist piiratud säilivusaeg.<br />
           <value><![CDATA[ 0.22 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -90520,6 +93484,18 @@ Koko säädettävissä<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.22 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -107909,6 +110885,18 @@ Seetõttu võivad kuju, värvus, suurus ja kaal oluliselt varieeruda ning mõnel
           <value><![CDATA[ 0.26 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -108150,6 +111138,18 @@ Söödamaterjal</em></p>
           <value><![CDATA[ 0.51 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -108284,6 +111284,18 @@ Oluline teada: ]]></composition-ee>
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.52 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -108477,6 +111489,18 @@ Söödamaterjal</em></p>
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.26 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -111621,6 +114645,18 @@ Partii nr: vt pakendilt</p>
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.21 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -127370,6 +130406,18 @@ Toetab karvade sujuvat läbimist seedesüsteemist<br />
           <value><![CDATA[ 0.13 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -127433,6 +130481,18 @@ Sobib eriti pikakarvalistele kassidele ja karvaajamisperioodil<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.111 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile kassidele ]]></value>
         </values>
       </property>
     </properties>
@@ -129122,6 +132182,18 @@ Excellent Pets Itch Stop Feed содержит уникальную смесь �
           <value><![CDATA[ 0.3 ]]></value>
         </values>
       </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
+        </values>
+      </property>
     </properties>
     <colours>
       <colour>
@@ -129219,6 +132291,18 @@ Suured koerad (üle 25 kg): 15 ml päevas<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 1 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
@@ -129487,6 +132571,18 @@ Yli 25 kg painavat koirat: 15 ml päivässä<br />
         <id><![CDATA[ Paki kaal ]]></id>
         <values>
           <value><![CDATA[ 0.25 ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Looma vanus ]]></id>
+        <values>
+          <value><![CDATA[ Erinevatele vanustele ]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[ Eriomadus ]]></id>
+        <values>
+          <value><![CDATA[ Kõigile koertele ]]></value>
         </values>
       </property>
     </properties>
