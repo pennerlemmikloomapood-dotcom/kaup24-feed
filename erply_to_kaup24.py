@@ -506,6 +506,39 @@ def iter_qualifying_products(products):
         yield p, cat_id, cat_name, ean, weight, images, longdesc, stats
 
 
+# Lemmikloomatoidu kategooriad, mis vajavad "Looma vanus" ja "Eriomadus" välju
+_PET_FOOD_CATEGORIES = {
+    "10370": "koer",   # Dry dog food
+    "10373": "koer",   # Wet dog food
+    "10376": "koer",   # Dog snacks
+    "10493": "kass",   # Dry cat food
+    "10490": "kass",   # Wet cat food
+    "10412": "kass",   # Cat snacks
+}
+
+
+def derive_animal_age(name):
+    """Tuletab 'Looma vanus' väärtuse tootenimest, vaikimisi üldine."""
+    name_lower = (name or "").lower()
+    if any(kw in name_lower for kw in ["kutsika", "kassipoja", "kassipojale"]):
+        return "Kutsikas/kassipoeg"
+    if any(kw in name_lower for kw in ["seenior", "vanematele", "senior"]):
+        return "Seenior"
+    return "Erinevatele vanustele"
+
+
+def derive_special_feature(name, species):
+    """Tuletab 'Eriomadus' väärtuse - täpsem tootenimest, muidu üldine liigi järgi."""
+    name_lower = (name or "").lower()
+    if "steriliseeri" in name_lower:
+        return f"Steriliseeritud {'kassidele' if species == 'kass' else 'koertele'}"
+    if "tundlik" in name_lower:
+        return "Tundliku seedimisega loomadele"
+    if "ülekaalul" in name_lower:
+        return "Ülekaalulistele loomadele"
+    return f"Kõigile {'kassidele' if species == 'kass' else 'koertele'}"
+
+
 def build_xml(products, stock_map, out_path):
     lines = ['<?xml version="1.0" encoding="UTF-8"?>', "<products>"]
     included_count = 0
@@ -563,6 +596,10 @@ def build_xml(products, stock_map, out_path):
                 props.append(("Maht", f"{volume} l"))
         if weight:
             props.append(("Paki kaal", str(weight)))
+        species = _PET_FOOD_CATEGORIES.get(cat_id)
+        if species:
+            props.append(("Looma vanus", derive_animal_age(name)))
+            props.append(("Eriomadus", derive_special_feature(name, species)))
         if props:
             lines.append("    <properties>")
             for prop_id, prop_value in props:
