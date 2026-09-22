@@ -33,7 +33,7 @@ def build_stock_price_xml(products, stock_map, out_path):
     for p, cat_id, cat_name, ean, weight, images, longdesc, stats in iter_qualifying_products(products):
         included_count += 1
 
-        price = p.get("priceWithVAT") or p.get("price") or 0
+        price = p.get("priceWithVat") or p.get("price") or 0
         # Praegu allahindlust ei rakendata - hind ja allahindlusjärgne hind
         # on samad. Kui hiljem lisandub Erplys sooduskampaania, saab siia
         # eraldi allahinnatud hinna välja lisada.
