@@ -1,0 +1,42 @@
+name: Update Kaup24 stock and price feed
+
+on:
+  schedule:
+    # Käivitub iga päev kell 05:15 UTC (natuke pärast tootefeedi, et
+    # mõlemad ei jookseks täpselt samal hetkel)
+    - cron: "15 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stock-price-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run stock and price script
+        env:
+          ERPLY_CLIENT_CODE: ${{ secrets.ERPLY_CLIENT_CODE }}
+          ERPLY_USERNAME: ${{ secrets.ERPLY_USERNAME }}
+          ERPLY_PASSWORD: ${{ secrets.ERPLY_PASSWORD }}
+        run: python build_stock_price_xml.py
+
+      - name: Commit and push updated XML
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add kaup24_stock_prices.xml
+          git diff --staged --quiet && echo "Muutusi pole, ei commiti" || git commit -m "Automaatne hinna/laoseisu feedi uuendus"
+          git pull --rebase origin main
+          git push
