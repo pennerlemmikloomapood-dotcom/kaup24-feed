@@ -82,6 +82,11 @@ RECORDS_PER_PAGE = 100  # Erply lubab tavaliselt kuni 100 rea lehekülje kohta
 # None väärtusega grupid on liiga segased (sisaldavad nii koera- kui
 # kassitooteid vms) ja jäävad XML-ist hetkel välja - vaata skripti lõpus
 # olevat hoiatust ja tee otsus käsitsi.
+# Brändid, mida EI TOHI Kaup24-sse saata (kirjutage täpselt nii, nagu
+# Erplys "Kaubamärk" väljal kirjas, suur/väiketäht ei loe).
+# Näide: EXCLUDED_BRANDS = {"GO! Solutions", "Alpha Spirit"}
+EXCLUDED_BRANDS = set()
+
 GROUP_CATEGORY_MAP = {
     156: ("10394", "Toys for dogs"),
     52:  ("10388", "Dog leashes, collars, harnesses"),
@@ -473,6 +478,10 @@ def iter_qualifying_products(products):
 
     for p in products:
         if not is_active_and_visible(p):
+            continue
+
+        brand_check = (p.get("brandName") or "").strip().lower()
+        if brand_check and brand_check in {b.lower() for b in EXCLUDED_BRANDS}:
             continue
 
         name = p.get("name", "")
