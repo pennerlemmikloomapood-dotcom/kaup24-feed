@@ -73,6 +73,10 @@ if not CLIENT_CODE:
 
 API_URL = f"https://{CLIENT_CODE}.erply.com/api/"
 OUTPUT_FILE = "kaup24_products.xml"
+# PIM API - eraldi, uuem Erply liides, mis annab LT/LV tõlkeid, mida
+# klassikaline API (ülal) ei paku. Aadress leiti getServiceEndpoints kaudu -
+# kui see kunagi muutub, tuleb see uuesti kontrollida.
+PIM_BASE_URL = "https://api-pim-eu.erply.com/"
 RECORDS_PER_PAGE = 100  # Erply lubab tavaliselt kuni 100 rea lehekülje kohta
 
 # Kaup24 kategooria vastavustabel Erply tootegruppide (groupID) järgi.
@@ -281,6 +285,31 @@ def get_image_urls(p):
 
 
 ACTIVE_WAREHOUSE_IDS = [1, 3]  # Aardla Lemmikloomapood, Tartu ladu (teised laod pole kasutusel)
+
+
+def get_pim_translation(session_key, product_id):
+    """
+    Küsib PIM API-lt ühe toote LT/LV (ja teiste keelte) nime/kirjeldust.
+    Tagastab dict {"name": {...}, "description": {...}} või None, kui
+    päring ebaõnnestub (nt toodet pole PIM-is, ajutine viga vms) - sel
+    juhul kasutab helistaja lihtsalt olemasolevat eestikeelset varianti.
+    """
+    url = f"{PIM_BASE_URL}v1/product/{product_id}"
+    headers = {"clientCode": CLIENT_CODE, "sessionKey": session_key}
+    try:
+        resp = requests.get(url, headers=headers, timeout=20)
+        if resp.status_code != 200:
+            return None
+        data = resp.json()
+        if not data:
+            return None
+        product = data[0] if isinstance(data, list) else data
+        return {
+            "name": product.get("name", {}) or {},
+            "description": product.get("description", {}) or {},
+        }
+    except (requests.exceptions.RequestException, ValueError, KeyError, IndexError):
+        return None
 
 
 def get_stock_map(session_key):
@@ -548,7 +577,7 @@ def derive_special_feature(name, species):
     return f"Kõigile {'kassidele' if species == 'kass' else 'koertele'}"
 
 
-def build_xml(products, stock_map, out_path):
+def build_xml(products, stock_map, out_path, session_key=None):
     lines = ['<?xml version="1.0" encoding="UTF-8"?>', "<products>"]
     included_count = 0
     final_stats = {}
@@ -557,14 +586,39 @@ def build_xml(products, stock_map, out_path):
         final_stats = stats
         included_count += 1
         name = p.get("name", "")
+
+        # Proovime PIM API-st LT/LV tõlkeid (need puuduvad klassikalisest
+        # API-st). Kui PIM päring ebaõnnestub või tõlget pole, kasutame
+        # eestikeelset teksti varulahendusena <title> (LT-slot) jaoks.
+        pim_data = get_pim_translation(session_key, p["productID"]) if session_key else None
+        if session_key:
+            time.sleep(0.05)  # väike paus, et mitte PIM API limiiti tabada
+        pim_name = (pim_data or {}).get("name", {})
+        pim_desc = (pim_data or {}).get("description", {})
+
+        title_lt = pim_name.get("lt") or name  # LT puudumisel: eesti tekst
+        title_lv = pim_name.get("lv") or ""    # LV puudumisel: jätame välja
+
         lines.append("  <product>")
         lines.append(f"    <category-id>{cat_id}</category-id>")
         lines.append(f"    <category-name>{cdata(cat_name)}</category-name>")
-        lines.append(f"    <title>{cdata(name)}</title>")
+        lines.append(f"    <title>{cdata(title_lt)}</title>")
+        if title_lv:
+            lines.append(f"    <title-lv>{cdata(title_lv)}</title-lv>")
         lines.append(f"    <title-ee>{cdata(name)}</title-ee>")
 
-        lines.append(f"    <long-description>{cdata(longdesc)}</long-description>")
+        # LT ja LV kirjeldused PIM-ist, kui olemas
+        desc_lt = (pim_desc.get("lt") or {}).get("plain_text") or (pim_desc.get("lt") or {}).get("html") or ""
+        desc_lt = strip_disallowed_html(desc_lt).strip()
+        long_description_base = desc_lt or longdesc  # LT puudumisel: eesti tekst varulahendusena
+
+        lines.append(f"    <long-description>{cdata(long_description_base)}</long-description>")
         lines.append(f"    <long-description-ee>{cdata(longdesc)}</long-description-ee>")
+
+        desc_lv = (pim_desc.get("lv") or {}).get("plain_text") or (pim_desc.get("lv") or {}).get("html") or ""
+        desc_lv = strip_disallowed_html(desc_lv).strip()
+        if desc_lv:
+            lines.append(f"    <long-description-lv>{cdata(desc_lv)}</long-description-lv>")
 
         # Vene ja soome kirjeldused - lisame AINULT kui Erplys olemas
         # (paljudel toodetel puuduvad, see on täiesti OK - EE juba katab
@@ -575,6 +629,10 @@ def build_xml(products, stock_map, out_path):
         longdesc_fi = strip_disallowed_html(p.get("longdescFIN", "")).strip()
         if longdesc_fi:
             lines.append(f"    <long-description-fi>{cdata(longdesc_fi)}</long-description-fi>")
+        longdesc_en = strip_disallowed_html(p.get("longdescENG", "")).strip()
+        if longdesc_en:
+            lines.append(f"    <long-description-en>{cdata(longdesc_en)}</long-description-en>")
+
 
         # Koostis (kohustuslik lemmikloomatoidu aktiveerimiseks): tõmmatud
         # automaatselt kirjeldusest, kuna "Koostis:" on stabiilselt olemas.
@@ -767,7 +825,7 @@ def main():
     stock_map = get_stock_map(session_key)
     print(f"Laoseisu andmed leitud {len(stock_map)} toote kohta.")
 
-    build_xml(products, stock_map, OUTPUT_FILE)
+    build_xml(products, stock_map, OUTPUT_FILE, session_key=session_key)
 
 
 if __name__ == "__main__":
