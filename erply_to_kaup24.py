@@ -419,6 +419,29 @@ def extract_manufacturer_info(html_text):
     return text or None
 
 
+def split_manufacturer_info(raw_text):
+    """
+    Erplys on "Tootja" väli vahel täidetud kombineeritud kujul, nt:
+    "Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen,
+    Belgia, info@flamingo.be" - nimi, aadress ja e-post koos, komadega
+    eraldatud. Lahutab need kolmeks: (name, address, email).
+    Kui e-posti ei leitud, eeldab kogu teksti olevat lihtsalt nimi
+    (nt "PPN Limited Partnership" ilma aadressita).
+    """
+    if not raw_text:
+        return "", "", ""
+    raw_text = str(raw_text).strip()
+    email_match = re.search(r"[\w.+-]+@[\w-]+\.[\w.-]+", raw_text)
+    if not email_match:
+        return raw_text, "", ""
+    email = email_match.group(0)
+    remainder = raw_text.replace(email, "").strip().rstrip(",").strip()
+    parts = [p.strip() for p in remainder.split(",") if p.strip()]
+    name = parts[0] if parts else ""
+    address = ", ".join(parts[1:]) if len(parts) > 1 else ""
+    return name, address, email
+
+
 _DISALLOWED_REMOVE_WITH_CONTENT = ["table", "iframe", "script"]
 _DISALLOWED_STRIP_TAG_ONLY = ["a", "font", "h1", "h4", "h5", "h6", "u"]
 
@@ -644,9 +667,14 @@ def build_xml(products, stock_map, out_path, session_key=None):
         # Tootja nimi: kasutame Erply "manufacturerName" (Tootja) välja, kui
         # täidetud; muidu proovime kirjeldusest "Tootja:" info automaatselt
         # välja tõmmata (stabiilselt olemas enamikul toodetel).
-        manufacturer = p.get("manufacturerName") or extract_manufacturer_info(longdesc) or ""
-        if manufacturer:
-            lines.append(f"    <manufacturer-name>{cdata(manufacturer)}</manufacturer-name>")
+        manufacturer_raw = p.get("manufacturerName") or extract_manufacturer_info(longdesc) or ""
+        man_name, man_address, man_email = split_manufacturer_info(manufacturer_raw)
+        if man_name:
+            lines.append(f"    <manufacturer-name>{cdata(man_name)}</manufacturer-name>")
+        if man_address:
+            lines.append(f"    <manufacturer-address>{cdata(man_address)}</manufacturer-address>")
+        if man_email:
+            lines.append(f"    <manufacturer-email>{cdata(man_email)}</manufacturer-email>")
 
         # Properties: bränd, paki kaal, ja "Tüüp" (Erply "Seeria" väljalt).
         # ID-d on vabas vormis (nemad linkivad need hiljem oma süsteemis).
