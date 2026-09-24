@@ -604,6 +604,13 @@ def build_xml(products, stock_map, out_path, session_key=None):
     lines = ['<?xml version="1.0" encoding="UTF-8"?>', "<products>"]
     included_count = 0
     final_stats = {}
+    coverage = {
+        "title-lv": 0, "long-description-lv": 0, "long-description-ru": 0,
+        "long-description-fi": 0, "long-description-en": 0,
+        "manufacturer-name": 0, "manufacturer-address": 0, "manufacturer-email": 0,
+        "composition": 0, "property-Kaubamärk": 0, "property-Tüüp": 0,
+        "property-Maht": 0, "property-Looma vanus": 0,
+    }
 
     for p, cat_id, cat_name, ean, weight, images, longdesc, stats in iter_qualifying_products(products):
         final_stats = stats
@@ -628,33 +635,38 @@ def build_xml(products, stock_map, out_path, session_key=None):
         lines.append(f"    <title>{cdata(title_lt)}</title>")
         if title_lv:
             lines.append(f"    <title-lv>{cdata(title_lv)}</title-lv>")
+            coverage["title-lv"] += 1
         lines.append(f"    <title-ee>{cdata(name)}</title-ee>")
 
         # LT ja LV kirjeldused PIM-ist, kui olemas
         desc_lt = (pim_desc.get("lt") or {}).get("plain_text") or (pim_desc.get("lt") or {}).get("html") or ""
         desc_lt = strip_disallowed_html(desc_lt).strip()
         long_description_base = desc_lt or longdesc  # LT puudumisel: eesti tekst varulahendusena
-
         lines.append(f"    <long-description>{cdata(long_description_base)}</long-description>")
-        lines.append(f"    <long-description-ee>{cdata(longdesc)}</long-description-ee>")
+
+        # Ametlik väljade järjekord: -ru, -lv, -ee, -fi, -en (JUHEND NÕUAB
+        # täpset järjekorda, mitte ainult õigeid väljanimesid!)
+        longdesc_ru = strip_disallowed_html(p.get("longdescRUS", "")).strip()
+        if longdesc_ru:
+            lines.append(f"    <long-description-ru>{cdata(longdesc_ru)}</long-description-ru>")
+            coverage["long-description-ru"] += 1
 
         desc_lv = (pim_desc.get("lv") or {}).get("plain_text") or (pim_desc.get("lv") or {}).get("html") or ""
         desc_lv = strip_disallowed_html(desc_lv).strip()
         if desc_lv:
             lines.append(f"    <long-description-lv>{cdata(desc_lv)}</long-description-lv>")
+            coverage["long-description-lv"] += 1
 
-        # Vene ja soome kirjeldused - lisame AINULT kui Erplys olemas
-        # (paljudel toodetel puuduvad, see on täiesti OK - EE juba katab
-        # kohustusliku "vähemalt 1 keel" nõude).
-        longdesc_ru = strip_disallowed_html(p.get("longdescRUS", "")).strip()
-        if longdesc_ru:
-            lines.append(f"    <long-description-ru>{cdata(longdesc_ru)}</long-description-ru>")
+        lines.append(f"    <long-description-ee>{cdata(longdesc)}</long-description-ee>")
+
         longdesc_fi = strip_disallowed_html(p.get("longdescFIN", "")).strip()
         if longdesc_fi:
             lines.append(f"    <long-description-fi>{cdata(longdesc_fi)}</long-description-fi>")
+            coverage["long-description-fi"] += 1
         longdesc_en = strip_disallowed_html(p.get("longdescENG", "")).strip()
         if longdesc_en:
             lines.append(f"    <long-description-en>{cdata(longdesc_en)}</long-description-en>")
+            coverage["long-description-en"] += 1
 
 
         # Koostis (kohustuslik lemmikloomatoidu aktiveerimiseks): tõmmatud
@@ -663,6 +675,7 @@ def build_xml(products, stock_map, out_path, session_key=None):
         if composition:
             lines.append(f"    <composition>{cdata(composition)}</composition>")
             lines.append(f"    <composition-ee>{cdata(composition)}</composition-ee>")
+            coverage["composition"] += 1
 
         # Tootja nimi: kasutame Erply "manufacturerName" (Tootja) välja, kui
         # täidetud; muidu proovime kirjeldusest "Tootja:" info automaatselt
@@ -671,10 +684,14 @@ def build_xml(products, stock_map, out_path, session_key=None):
         man_name, man_address, man_email = split_manufacturer_info(manufacturer_raw)
         if man_name:
             lines.append(f"    <manufacturer-name>{cdata(man_name)}</manufacturer-name>")
+            coverage["manufacturer-name"] += 1
         if man_address:
             lines.append(f"    <manufacturer-address>{cdata(man_address)}</manufacturer-address>")
+            coverage["manufacturer-address"] += 1
         if man_email:
             lines.append(f"    <manufacturer-email>{cdata(man_email)}</manufacturer-email>")
+            coverage["manufacturer-email"] += 1
+
 
         # Properties: bränd, paki kaal, ja "Tüüp" (Erply "Seeria" väljalt).
         # ID-d on vabas vormis (nemad linkivad need hiljem oma süsteemis).
@@ -704,6 +721,9 @@ def build_xml(products, stock_map, out_path, session_key=None):
                 lines.append(f"          <value>{cdata(prop_value)}</value>")
                 lines.append("        </values>")
                 lines.append("      </property>")
+                coverage_key = f"property-{prop_id}"
+                if coverage_key in coverage:
+                    coverage[coverage_key] += 1
             lines.append("    </properties>")
 
         lines.append("    <colours>")
@@ -757,6 +777,11 @@ def build_xml(products, stock_map, out_path, session_key=None):
     print(f"  Kaal puudub/0: {final_stats.get('zero_weight_count', 0)}")
     print(f"  Sobiv pilt (JPG/PNG) puudub: {final_stats.get('no_image_count', 0)}")
     print(f"  Kirjeldus tühi: {final_stats.get('empty_desc_count', 0)}")
+
+    print(f"\n--- Väljade kattuvus (mitu {included_count}-st tootest sisaldab välja) ---")
+    for field_name, count in coverage.items():
+        pct = (count / included_count * 100) if included_count else 0
+        print(f"  {field_name}: {count} ({pct:.0f}%)")
 
     skipped_old_batch = final_stats.get("skipped_old_batch", [])
     if skipped_old_batch:
