@@ -16,6 +16,7 @@ Väljund: kaup24_stock_prices.xml
 
 from erply_to_kaup24 import (
     authenticate, get_all_products, get_stock_map, iter_qualifying_products,
+    clean_ean, is_active_and_visible,
 )
 
 OUTPUT_FILE = "kaup24_stock_prices.xml"
@@ -26,7 +27,27 @@ COLLECTION_HOURS_EE = "48"
 COLLECTION_HOURS_OTHER = "72"
 
 
+def build_ean_stock_map(products, stock_map):
+    """
+    Liidab kokku sama EAN-iga partiitoodete laoseisu (nt Go! Solutions:
+    8152600052650, 8152600052650A, ...B jne on Erplys eraldi tooted).
+    XML-i laheb uks toode EAN-i kohta, aga laoseis peab olema koigi
+    partiide summa - muidu naitab Kaup24 0, kui vanim partii on otsas.
+    Tagastab dict: {puhastatud_ean: kogulaoseis}
+    """
+    ean_stock = {}
+    for p in products:
+        if not is_active_and_visible(p):
+            continue
+        cleaned, _letter = clean_ean(p.get("code2", ""))
+        if not cleaned:
+            continue
+        ean_stock[cleaned] = ean_stock.get(cleaned, 0) + stock_map.get(p["productID"], 0)
+    return ean_stock
+
+
 def build_stock_price_xml(products, stock_map, out_path):
+    ean_stock = build_ean_stock_map(products, stock_map)
     lines = ['<?xml version="1.0" encoding="utf-8"?>', "<products>"]
     included_count = 0
 
@@ -38,7 +59,8 @@ def build_stock_price_xml(products, stock_map, out_path):
         # on samad. Kui hiljem lisandub Erplys sooduskampaania, saab siia
         # eraldi allahinnatud hinna välja lisada.
         price_after_discount = price
-        stock = int(stock_map.get(p["productID"], 0))
+        # Koigi sama EAN-iga partiide laoseis kokku (vt build_ean_stock_map)
+        stock = max(0, int(ean_stock.get(ean, stock_map.get(p["productID"], 0))))
 
         supplier_code = p.get("code", "")
 
