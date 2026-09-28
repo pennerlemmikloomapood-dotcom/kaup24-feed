@@ -238,6 +238,7 @@ def get_all_products(session_key):
             recordsOnPage=RECORDS_PER_PAGE,
             pageNo=page,
             active=1,  # küsi Erplylt kohe ainult aktiivseid tooteid
+            getAllLanguages=1,  # nimed/kirjeldused koigis keeltes (nameRUS, nameENG, nameFIN)
         )
         if not records:
             break
@@ -345,7 +346,7 @@ def cdata(text):
     text = text.replace("&amp;", "&")
     text = text.replace("&quot;", '"')
     text = text.replace("]]>", "]]]]><![CDATA[>")
-    return f"<![CDATA[ {text} ]]>"
+    return f"<![CDATA[{text.strip()}]]>"
 
 
 import re
@@ -605,7 +606,8 @@ def build_xml(products, stock_map, out_path, session_key=None):
     included_count = 0
     final_stats = {}
     coverage = {
-        "title-lv": 0, "long-description-lv": 0, "long-description-ru": 0,
+        "title-ru": 0, "title-lv": 0, "title-fi": 0, "title-en": 0,
+        "long-description-lv": 0, "long-description-ru": 0,
         "long-description-fi": 0, "long-description-en": 0,
         "manufacturer-name": 0, "manufacturer-address": 0, "manufacturer-email": 0,
         "composition": 0, "property-Kaubamärk": 0, "property-Tüüp": 0,
@@ -633,10 +635,23 @@ def build_xml(products, stock_map, out_path, session_key=None):
         lines.append(f"    <category-id>{cat_id}</category-id>")
         lines.append(f"    <category-name>{cdata(cat_name)}</category-name>")
         lines.append(f"    <title>{cdata(title_lt)}</title>")
+        # Ametlik jarjekord: -ru, -lv, -ee, -fi, -en (nagu kirjeldustel)
+        title_ru = (p.get("nameRUS") or "").strip()
+        title_fi = (p.get("nameFIN") or "").strip()
+        title_en = (p.get("nameENG") or "").strip()
+        if title_ru:
+            lines.append(f"    <title-ru>{cdata(title_ru)}</title-ru>")
+            coverage["title-ru"] += 1
         if title_lv:
             lines.append(f"    <title-lv>{cdata(title_lv)}</title-lv>")
             coverage["title-lv"] += 1
         lines.append(f"    <title-ee>{cdata(name)}</title-ee>")
+        if title_fi:
+            lines.append(f"    <title-fi>{cdata(title_fi)}</title-fi>")
+            coverage["title-fi"] += 1
+        if title_en:
+            lines.append(f"    <title-en>{cdata(title_en)}</title-en>")
+            coverage["title-en"] += 1
 
         # LT ja LV kirjeldused PIM-ist, kui olemas
         desc_lt = (pim_desc.get("lt") or {}).get("plain_text") or (pim_desc.get("lt") or {}).get("html") or ""
