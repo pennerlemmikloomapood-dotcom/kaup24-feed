@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <products>
   <product>
+    <sku>46226</sku>
+    <ean>5400585011630</ean>
+    <price_lt>1.7</price_lt>
+    <price_after_discount_lt>1.7</price_after_discount_lt>
+    <price_lv>1.7</price_lv>
+    <price_after_discount_lv>1.7</price_after_discount_lv>
+    <price_ee>1.7</price_ee>
+    <price_after_discount_ee>1.7</price_after_discount_ee>
+    <price_fi>1.7</price_fi>
+    <price_after_discount_fi>1.7</price_after_discount_fi>
+    <stock>0</stock>
+    <collection_hours_lt>72</collection_hours_lt>
+    <collection_hours_lv>72</collection_hours_lv>
+    <collection_hours_ee>48</collection_hours_ee>
+    <collection_hours_fi>72</collection_hours_fi>
+  </product>
+  <product>
     <sku>500167</sku>
     <ean>035585111414</ean>
     <price_lt>34.9</price_lt>
@@ -9157,23 +9174,6 @@
     <price_after_discount_ee>2</price_after_discount_ee>
     <price_fi>2</price_fi>
     <price_after_discount_fi>2</price_after_discount_fi>
-    <stock>0</stock>
-    <collection_hours_lt>72</collection_hours_lt>
-    <collection_hours_lv>72</collection_hours_lv>
-    <collection_hours_ee>48</collection_hours_ee>
-    <collection_hours_fi>72</collection_hours_fi>
-  </product>
-  <product>
-    <sku>46226</sku>
-    <ean>5400585011630</ean>
-    <price_lt>1.7</price_lt>
-    <price_after_discount_lt>1.7</price_after_discount_lt>
-    <price_lv>1.7</price_lv>
-    <price_after_discount_lv>1.7</price_after_discount_lv>
-    <price_ee>1.7</price_ee>
-    <price_after_discount_ee>1.7</price_after_discount_ee>
-    <price_fi>1.7</price_fi>
-    <price_after_discount_fi>1.7</price_after_discount_fi>
     <stock>0</stock>
     <collection_hours_lt>72</collection_hours_lt>
     <collection_hours_lv>72</collection_hours_lv>
