@@ -1,6 +1,472 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
+    <category-id>10394</category-id>
+    <category-name><![CDATA[Toys for dogs]]></category-name>
+    <title><![CDATA[AFP K-Nite žaislas šunims – šviečianti medūza S]]></title>
+    <title-ru><![CDATA[AFP K-Nite Игрушка для собак – светящаяся медуза S]]></title-ru>
+    <title-lv><![CDATA[AFP K-Nite suņu rotaļlieta - spīdoša medūza S]]></title-lv>
+    <title-ee><![CDATA[AFP K-Nite Mänguasi Koerale - Helendav Meduus S]]></title-ee>
+    <title-fi><![CDATA[AFP K-Nite -koiranlelu - Hohtava meduusa S]]></title-fi>
+    <title-en><![CDATA[AFP K-Nite Dog Toy – Glow Jellyfish S]]></title-en>
+    <long-description><![CDATA[Žaislas šuniui]]></long-description>
+    <long-description-ru><![CDATA[Игрушка для собак K-Nite – светящаяся медуза<br />
+Эта игрушка не только отлично выглядит, но и хорошо видна в условиях низкой освещенности.<br />
+Это значит, что ночные игры могут продолжаться как обычно. Игрушка светится в темноте, что облегчает ее поиск и поиск.<br />
+<br />
+Светится в темноте<br />
+Со шнурками<br />
+Прочная резина<br />
+<br />
+Длина и внешний вид: S – около 22 см]]></long-description-ru>
+    <long-description-lv><![CDATA[Rotaļlieta sunim]]></long-description-lv>
+    <long-description-ee><![CDATA[<strong>K-Nite Mänguasi koerale – Helendav Meduus</strong><br />
+See mänguasi ei näe mitte ainult suurepärane välja, vaid on ka hämaras hästi nähtav.<br />
+See tähendab, et öösel mängimine võib jätkuda nagu tavaliselt. Mänguasi helendab pimedas, muutes selle kergesti nähtavaks ja lihtsasti tagasi toovaks.<br />
+<br />
+Helendab pimedas<br />
+Paeltega<br />
+Vastupidav kumm<br />
+<br />
+<strong>Pikkus ja välimus:</strong> S – umbes 22 cm<br />
+<br />
+<strong>Tootja</strong>: All For Paws<br />
+<strong>Maaletooja</strong>: Penner OÜ, Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[<strong>K-Nite-koiranlelu – Hohtava meduusa</strong><br />
+Tämä lelu ei ainoastaan näytä upealta, vaan se on myös hyvin näkyvä hämärässä.<br />
+Tämä tarkoittaa, että yöleikit voivat jatkua normaalisti. Lelu hohtaa pimeässä, joten se on helppo nähdä ja hakea.<br />
+<br />
+Hohtaa pimeässä<br />
+Nauhoilla<br />
+Kestävää kumia<br />
+<br />
+<strong>Pituus ja ulkonäkö:</strong>S – noin 22 cm]]></long-description-fi>
+    <long-description-en><![CDATA[<strong>K-Nite Dog Toy – Glowing Jellyfish</strong><br />
+This toy not only looks great, but it is also highly visible in low light.<br />
+This means that nighttime play can continue as usual. The toy glows in the dark, making it easy to see and retrieve.<br />
+<br />
+Glows in the dark<br />
+With laces<br />
+Durable rubber<br />
+<br />
+<strong>Length and appearance:</strong> S – approx. 22 cm]]></long-description-en>
+    <manufacturer-name><![CDATA[Ningbo Sincere Holding Group;  6F Kaifeng Building]]></manufacturer-name>
+    <manufacturer-address><![CDATA[No. 762 Zhongxing Road, 315041 Ningbo, China;]]></manufacturer-address>
+    <manufacturer-email><![CDATA[contact@allforpawspet.com.cn]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[AFP]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.12]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/AFP-K-Nite-Manguasi-Koerale-Helendav-Meduus-S.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.12</weight>
+            <length>0.001</length>
+            <height>0.1</height>
+            <width>0.1</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[847922033149]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[AFPH03314]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10451</category-id>
+    <category-name><![CDATA[Toys for cats]]></category-name>
+    <title><![CDATA[Flamingo katžolės milteliai (papildymas) 15g]]></title>
+    <title-ru><![CDATA[Flamingo Порошок кошачьей мяты (сменный блок) 15 г]]></title-ru>
+    <title-lv><![CDATA[Flamingo kaķumētras pulveris (uzpilde) 15g]]></title-lv>
+    <title-ee><![CDATA[Flamingo Catnip ehk Kassimünt Pulber (täitepakend) 15g]]></title-ee>
+    <title-fi><![CDATA[Flamingo-kissanminttujauhe (täyttöpakkaus) 15 g]]></title-fi>
+    <title-en><![CDATA[Flamingo Catnip Bag Refill 15g]]></title-en>
+    <long-description><![CDATA[Katžolė / katžolės milteliai katėms]]></long-description>
+    <long-description-ru><![CDATA[100% натуральная кошачья мята (наистеножка). Сменный наполнитель.<br /><br /> Кошачья мята — это растение с привлекательным для кошек ароматом, которое делает их более активными и игривыми. С её помощью можно пробудить интерес кошки к игрушкам, когтеточкам и местам для отдыха.<br /><br /> Обладает неотразимым ароматом для кошек (примерно 70% кошек реагируют на запах кошачьей мяты). Это натуральное растение, не вызывающее зависимости.<br /><br /> Производитель: Flamingo Pet Products, Бельгия<br /> Дистрибьютор: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Kaķumētra / kaķumētras pulveris kaķiem]]></long-description-lv>
+    <long-description-ee><![CDATA[100% naturaalne kassimünt ehk naistenõges. Täitepakend.<br /> Catnip ehk kassimünt on kassidele ahvatleva aroomiga taim, mis muudab kassid erksamaks ja mänguhimuliseks.<br /> Catnipiga on võimalik tekitada kassis huvi mänguasjade, kraapimispostide ja magamisasemete vastu.<br /> Kassidele vastupandamatu lõhnaga (70% kassidest reageerivad kassimündi lõhnale).<br /> Kassimünt on loomulik, sõltuvust mittetekitav taim.<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maaletooja:</strong> Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[100 % luonnollista kissanminttua. Täyttöpakkaus.<br /> Kissanminttu on kasvi, jolla on kissoille houkutteleva tuoksu, joka tekee kissoista valppaampia ja leikkisämpiä.<br /> Kissanminttua voidaan käyttää herättämään kissojen kiinnostusta leluihin, raapimapuihin ja nukkumapaikkoihin.<br /> Vastustamaton tuoksu kissoille (70 % kissoista reagoi kissanmintun tuoksuun).<br /> Kissanminttu on luonnollinen, ei-riippuvuutta aiheuttava kasvi.<br /><br /> <strong>Valmistaja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja:</strong> Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[100% natural catnip refill.<br /><br /> Catnip is a plant with an attractive aroma for cats that makes them more alert and playful. It can be used to spark your cat’s interest in toys, scratching posts and sleeping areas.<br /><br /> Irresistible scent for cats (around 70% of cats respond to catnip). Catnip is a natural, non-addictive plant.<br /><br /> Manufacturer: Flamingo Pet Products, Belgium<br /> Distributor: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.02]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/catnip-pulber-taitepakend.jpg</url></image>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Catnip_Pulber_Taitepakend_15g.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.02</weight>
+            <length>1.165</length>
+            <height>0.01</height>
+            <width>0.115</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400274769033]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[503897]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10451</category-id>
+    <category-name><![CDATA[Toys for cats]]></category-name>
+    <title><![CDATA[Flamingo katžolės kamuoliukai katėms 4 vnt. x 3 cm]]></title>
+    <title-ru><![CDATA[Flamingo Мячики с кошачьей мятой для кошек 4 шт x 3 см]]></title-ru>
+    <title-lv><![CDATA[Flamingo kaķumētras bumbiņas kaķiem 4 gab. x 3 cm]]></title-lv>
+    <title-ee><![CDATA[Flamingo Catnip ehk Kassimünt Pallid Kassile 4tk x 3cm]]></title-ee>
+    <title-fi><![CDATA[Flamingo Kissanminttupallot kissalle 4 kpl x 3 cm]]></title-fi>
+    <title-en><![CDATA[Flamingo Catnip Balls for Cats 4 pcs x 3 cm]]></title-en>
+    <long-description><![CDATA[Flamingo katžolės kamuoliukas pagamintas iš 100 % natūralios katžolės, kuri pritraukia jūsų katės dėmesį ir skatina aktyvų žaidimą. Tinka tiek jaunoms, tiek suaugusioms katėms.]]></long-description>
+    <long-description-ru><![CDATA[Подарите вашей кошке весёлые и увлекательные игры! Этот зелёный мячик с кошачьей мятой изготовлен из 100% натуральной кошачьей мяты и мгновенно привлечёт внимание вашей кошки. Идеальная игрушка, которая побуждает вашу кошку к активной игре и обеспечивает длительное развлечение.<br /><br /> Идеально подходит как для молодых, так и для взрослых кошек, которые любят играть и проявлять свой охотничий инстинкт.<br /><br /> <strong>Материал</strong>: кошачья мята<br /><br /> <strong>Особенности:</strong><br /> 100% натуральный<br /> привлекает внимание вашей кошки<br /> стимулирует игру и активность<br /><br /> <strong>Производитель</strong>: Flamingo Pet Products, Бельгия<br /> <strong>Импортер</strong>: Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Flamingo kaķumētras bumbiņa ir izgatavota no 100% dabīgas kaķumētras, kas piesaista jūsu kaķa uzmanību un veicina aktīvas rotaļas. Piemērota gan jauniem, gan pieaugušiem kaķiem.]]></long-description-lv>
+    <long-description-ee><![CDATA[Paku oma kassile lõbusat ja kaasahaaravat mänguelamust! See roheline kassimündipall on valmistatud 100% naturaalsest kassimündist ning köidab koheselt sinu lemmiku tähelepanu. Ideaalne mänguasi, mis innustab kassi aktiivselt mängima ja pakub pikaks ajaks meelelahutust.<br /><br /> Sobib suurepäraselt nii noortele kui ka täiskasvanud kassidele, kes armastavad mängida ja oma jahiinstinkti välja elada.<br /><br /> <strong>Materjal</strong>: kassimünt<br /><br /> <strong>Omadused:</strong><br /> 100% naturaalne<br /> tõmbab kassi tähelepanu<br /> soodustab mängimist ja aktiivsust<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Anna kissallesi hauska ja mukaansatempaava leikkikokemus! Tämä vihreä kissanminttupallo on valmistettu 100 % luonnollisesta kissanmintusta ja herättää kissasi huomion välittömästi. Ihanteellinen lelu, joka kannustaa kissaasi leikkimään aktiivisesti ja tarjoaa pitkäkestoista viihdettä.<br /><br /> Täydellinen sekä nuorille että aikuisille kissoille, jotka rakastavat leikkiä ja elää metsästysvaistoaan.<br /><br /> <strong>Materiaali</strong>: kissanminttu<br /><br /> <strong>Ominaisuudet:</strong><br /> 100 % luonnollinen<br /> kiinnittää kissasi huomion<br /> kannustaa leikkiin ja aktiivisuuteen<br /><br /> <strong>Valmistaja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Give your cat a fun and engaging play experience! This green catnip ball is made of 100% natural catnip and will instantly attract your cat's attention. The ideal toy that encourages your cat to play actively and provides long-lasting entertainment.<br /><br /> Perfect for both young and adult cats who love to play and live out their hunting instinct.<br /><br /> <strong>Material</strong>: catnip<br /><br /> <strong>Features:</strong><br /> 100% natural<br /> attracts your cat's attention<br /> encourages play and activity<br /><br /> <strong>Manufacturer</strong>: Flamingo Pet Products, Belgium<br /> <strong>Importer</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.1]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/Flamingo-Catnip-ehk-Kassimunt-Pall-3cm.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.1</weight>
+            <length>0.065</length>
+            <height>0.03</height>
+            <width>0.065</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585335507]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[562066]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10451</category-id>
+    <category-name><![CDATA[Toys for cats]]></category-name>
+    <title><![CDATA[Flamingo katžolės kamuoliukas katėms 5 cm]]></title>
+    <title-ru><![CDATA[Flamingo Мячик с кошачьей мятой для кошек 5 см]]></title-ru>
+    <title-lv><![CDATA[Flamingo kaķumētras bumbiņa kaķiem 5 cm]]></title-lv>
+    <title-ee><![CDATA[Flamingo Catnip ehk Kassimünt Pall Kassile 5cm]]></title-ee>
+    <title-fi><![CDATA[Flamingo Kissanminttupallo kissalle 5 cm]]></title-fi>
+    <title-en><![CDATA[Flamingo Catnip Ball for Cats 5cm]]></title-en>
+    <long-description><![CDATA[Flamingo katžolės kamuoliukas pagamintas iš 100 % natūralios katžolės, kuri pritraukia jūsų katės dėmesį ir skatina aktyvų žaidimą. Tinka tiek jaunoms, tiek suaugusioms katėms.]]></long-description>
+    <long-description-ru><![CDATA[Подарите вашей кошке весёлые и увлекательные игры! Этот зелёный мячик с кошачьей мятой изготовлен из 100% натуральной кошачьей мяты и мгновенно привлечёт внимание вашей кошки. Идеальная игрушка, которая побуждает вашу кошку к активной игре и обеспечивает длительное развлечение.<br /><br /> Идеально подходит как для молодых, так и для взрослых кошек, которые любят играть и проявлять свой охотничий инстинкт.<br /><br /> <strong>Материал</strong>: кошачья мята<br /><br /> <strong>Особенности:</strong><br /> 100% натуральный<br /> привлекает внимание вашей кошки<br /> стимулирует игру и активность<br /><br /> <strong>Производитель</strong>: Flamingo Pet Products, Бельгия<br /> <strong>Импортер</strong>: Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Flamingo kaķumētras bumbiņa ir izgatavota no 100% dabīgas kaķumētras, kas piesaista jūsu kaķa uzmanību un veicina aktīvas rotaļas. Piemērota gan jauniem, gan pieaugušiem kaķiem.]]></long-description-lv>
+    <long-description-ee><![CDATA[Paku oma kassile lõbusat ja kaasahaaravat mänguelamust! See roheline kassimündipall on valmistatud 100% naturaalsest kassimündist ning köidab koheselt sinu lemmiku tähelepanu. Ideaalne mänguasi, mis innustab kassi aktiivselt mängima ja pakub pikaks ajaks meelelahutust.<br /><br /> Sobib suurepäraselt nii noortele kui ka täiskasvanud kassidele, kes armastavad mängida ja oma jahiinstinkti välja elada.<br /><br /> <strong>Materjal</strong>: kassimünt<br /><br /> <strong>Omadused:</strong><br /> 100% naturaalne<br /> tõmbab kassi tähelepanu<br /> soodustab mängimist ja aktiivsust<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Anna kissallesi hauska ja mukaansatempaava leikkikokemus! Tämä vihreä kissanminttupallo on valmistettu 100 % luonnollisesta kissanmintusta ja herättää kissasi huomion välittömästi. Ihanteellinen lelu, joka kannustaa kissaasi leikkimään aktiivisesti ja tarjoaa pitkäkestoista viihdettä.<br /><br /> Täydellinen sekä nuorille että aikuisille kissoille, jotka rakastavat leikkiä ja elää metsästysvaistoaan.<br /><br /> <strong>Materiaali</strong>: kissanminttu<br /><br /> <strong>Ominaisuudet:</strong><br /> 100 % luonnollinen<br /> kiinnittää kissasi huomion<br /> kannustaa leikkiin ja aktiivisuuteen<br /><br /> <strong>Valmistaja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Give your cat a fun and engaging play experience! This green catnip ball is made of 100% natural catnip and will instantly attract your cat's attention. The ideal toy that encourages your cat to play actively and provides long-lasting entertainment.<br /><br /> Perfect for both young and adult cats who love to play and live out their hunting instinct.<br /><br /> <strong>Material</strong>: catnip<br /><br /> <strong>Features:</strong><br /> 100% natural<br /> attracts your cat's attention<br /> encourages play and activity<br /><br /> <strong>Manufacturer</strong>: Flamingo Pet Products, Belgium<br /> <strong>Importer</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.1]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/Flamingo-Catnip-ehk-Kassimunt-Pall-5cm.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.1</weight>
+            <length>0.1</length>
+            <height>0.05</height>
+            <width>0.12</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585369175]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[562068]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10478</category-id>
+    <category-name><![CDATA[Rodent litter, hay]]></category-name>
+    <title><![CDATA[Flamingo granuliuotos pjuvenos (granulės) 5,5 kg]]></title>
+    <title-ru><![CDATA[Flamingo Опилки прессованные гранулированные 5,5кг]]></title-ru>
+    <title-lv><![CDATA[Flamingo granulētās zāģu skaidas (granulas) 5,5 kg]]></title-lv>
+    <title-ee><![CDATA[Flamingo Granuleeritud Saepuru (Pelletid) 5,5kg]]></title-ee>
+    <title-fi><![CDATA[Flamingo rakeistettu sahanpuru (pelletit) 5,5 kg]]></title-fi>
+    <title-en><![CDATA[Flamingo Wood Bedding 5,5kg]]></title-en>
+    <long-description><![CDATA[Granuliuotos pjuvenos katėms ir mažiems gyvūnams.]]></long-description>
+    <long-description-ru><![CDATA[Гранулированные опилки для кошек и мелких животных.<br /><br /> <strong>Производитель:</strong> Flamingo Pet Products; Lammerdries – Winkelstraat 25, 2250 Olen, Belgium; info@flamingo.be<br /> <strong>Импортер:</strong> Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Granulētas zāģu skaidas kaķiem un maziem dzīvniekiem.]]></long-description-lv>
+    <long-description-ee><![CDATA[Granuleeritud saepuru kassidele ja väikeloomadele.<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products; Lammerdries – Winkelstraat 25, 2250 Olen, Belgia; info@flamingo.be<br /> <strong>Maaletooja:</strong> Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Rakeistettua sahanpurua kissoille ja pienille eläimille.<br /><br /> <strong>Valmistaja:</strong> Flamingo Pet Products; Lammerdries – Winkelstraat 25, 2250 Olen, Belgia; info@flamingo.be<br /> <strong>Maahantuoja:</strong> Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Granulated sawdust for cats and small animals.<br /><br /> <strong>Manufacturer:</strong> Flamingo Pet Products; Lammerdries – Winkelstraat 25, 2250 Olen, Belgium; info@flamingo.be<br /> <strong>Importer:</strong> Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[5.68]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Granuleeritud_Saepuru__Pelletid_.jpg</url></image>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Granuleeritud_Saepuru__Pelletid__1.jpg</url></image>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Granuleeritud_Saepuru__Pelletid__2.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>5.68</weight>
+            <length>0.42</length>
+            <height>0.13</height>
+            <width>0.25</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5415245112206]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[1031028]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10478</category-id>
+    <category-name><![CDATA[Rodent litter, hay]]></category-name>
+    <title><![CDATA[Flamingo pjuvenos 1 kg/14 l]]></title>
+    <title-ru><![CDATA[Flamingo Опилки 14л / 1кг]]></title-ru>
+    <title-lv><![CDATA[Flamingo zāģu skaidas 1kg/14l]]></title-lv>
+    <title-ee><![CDATA[Flamingo Saepuru 1kg/14l]]></title-ee>
+    <title-fi><![CDATA[Flamingo-sahanpuru 1 kg/14 l]]></title-fi>
+    <title-en><![CDATA[Flamingo Woodshavings 1kg/14L]]></title-en>
+    <long-description><![CDATA[Mažų gyvūnų pagrindas.]]></long-description>
+    <long-description-ru><![CDATA[Подстилка для мелких животных. 99% без пыли.<br /><br /> Производитель: Flamingo Pet Products]]></long-description-ru>
+    <long-description-lv><![CDATA[Mazo dzīvnieku pamats.]]></long-description-lv>
+    <long-description-ee><![CDATA[Aluspanu väikeloomale. 99% tolmuvaba.<br /><br /> Tootja: Flamingo Pet Products]]></long-description-ee>
+    <long-description-fi><![CDATA[Pieneläinten kuivikkeet. 99 % pölytön.<br /><br /> Valmistaja: Flamingo Pet Products]]></long-description-fi>
+    <long-description-en><![CDATA[Woodshavings for small animals. 99% dust free.<br /><br /> Manufacturer: Flamingo Pet Products]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[1.05]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Saepuru_1kg.jpg</url></image>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Saepuru_1kg_A.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>1.05</weight>
+            <length>0.39</length>
+            <height>0.065</height>
+            <width>0.15</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5415245112305]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[1031029]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10451</category-id>
+    <category-name><![CDATA[Toys for cats]]></category-name>
+    <title><![CDATA[AFP Katės Žaislas - Pūkuotas Padaras (su Katžole)]]></title>
+    <title-ru><![CDATA[AFP Игрушка для кошек - Пушистое существо (с кошачьей мятой)]]></title-ru>
+    <title-lv><![CDATA[AFP Kaķu Rotaļlieta - Pūkains Radījums (ar Kaķumētrām)]]></title-lv>
+    <title-ee><![CDATA[AFP Mänguasi kassile - karvane elukas (kassimündiga)]]></title-ee>
+    <title-fi><![CDATA[AFP Kissanlelu - Karvainen Olento (Kissanmintulla)]]></title-fi>
+    <title-en><![CDATA[AFP Cat Toy - Furry Creature (With Catnip)]]></title-en>
+    <long-description><![CDATA[AFP Fluffer on armas karvase koletise kujuline mänguasi, mis on valmistatud kvaliteetsest pikast plüüsist ja täidetud kassimündiga.<br />
+Pikk plüüs ja erksad värvid köidavad kassi tähelepanu ja pakuvad pikaajalist mängulusti.<br />
+<br />
+<strong>Omadused:</strong><br />
+Mõõtmed: 15 x 8 x 3,5 cm<br />
+Sisaldab kassimünti<br />
+Karvase koletise kujuline disain<br />
+Erksad värvid<br />
+<br />
+<strong>Tootja</strong>: AFP (All For Paws)<br />
+<strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description>
+    <long-description-ru><![CDATA[AFP Fluffer — это милая пушистая игрушка-монстр, изготовленная из высококачественного длинного плюша и наполненная кошачьей мятой.<br />
+Длинный плюш и яркие цвета привлекают внимание вашей кошки и обеспечивают длительное время игры.<br />
+<br />
+<strong>Характеристики:</strong><br />
+Размеры: 15 x 8 x 3,5 см<br />
+В комплекте кошачья мята<br />
+Дизайн пушистого монстра<br />
+Яркие цвета<br />
+<br />
+<strong>Производитель</strong>: AFP (All For Paws)<br />
+<strong>Импортер</strong>: Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
+    <long-description-ee><![CDATA[AFP Fluffer on armas karvase koletise kujuline mänguasi, mis on valmistatud kvaliteetsest pikast plüüsist ja täidetud kassimündiga.<br />
+Pikk plüüs ja erksad värvid köidavad kassi tähelepanu ja pakuvad pikaajalist mängulusti.<br />
+<br />
+<strong>Omadused:</strong><br />
+Mõõtmed: 15 x 8 x 3,5 cm<br />
+Sisaldab kassimünti<br />
+Karvase koletise kujuline disain<br />
+Erksad värvid<br />
+<br />
+<strong>Tootja</strong>: AFP (All For Paws)<br />
+<strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[AFP Fluffer on söpö pörröinen hirviölelu, joka on valmistettu korkealaatuisesta pitkästä pehmolelusta ja täytetty kissanmintulla.<br />
+Pitkä pehmolelu ja kirkkaat värit herättävät kissasi huomion ja tarjoavat pitkäkestoista leikkiaikaa.<br />
+<br />
+<strong>Ominaisuudet:</strong><br />
+Mitat: 15 x 8 x 3,5 cm<br />
+Sisältää kissanminttua<br />
+Pörröinen hirviökuosto<br />
+Kirkkaat värit<br />
+<br />
+<strong>Valmistaja</strong>: AFP (All For Paws)<br />
+<strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[AFP Fluffer is a cute furry monster toy made of high-quality long plush and filled with catnip.<br />
+The long plush and bright colors attract your cat's attention and provide long-lasting playtime fun.<br />
+<br />
+<strong>Features:</strong><br />
+Dimensions: 15 x 8 x 3.5 cm<br />
+Includes catnip<br />
+Furry monster design<br />
+Bright colors<br />
+<br />
+<strong>Manufacturer</strong>: AFP (All For Paws)<br />
+<strong>Importer</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[Ningbo Sincere Holding Group;  6F Kaifeng Building]]></manufacturer-name>
+    <manufacturer-address><![CDATA[No. 762 Zhongxing Road, 315041 Ningbo, China;]]></manufacturer-address>
+    <manufacturer-email><![CDATA[contact@allforpawspet.com.cn]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[AFP]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.05]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/afp-manguasi-kassile-karvane-elukas.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.05</weight>
+            <length>0.15</length>
+            <height>0.035</height>
+            <width>0.08</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[847922028015]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[AF-02801]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
     <category-id>21558</category-id>
     <category-name><![CDATA[Care products for animals]]></category-name>
     <title><![CDATA[Flamingo apsauginė apykaklė šunims 17cm]]></title>
@@ -14703,114 +15169,6 @@ Kaitseb mööblit<br />
     </colours>
   </product>
   <product>
-    <category-id>10451</category-id>
-    <category-name><![CDATA[Toys for cats]]></category-name>
-    <title><![CDATA[Flamingo katžolės kamuoliukai katėms 4 vnt. x 3 cm]]></title>
-    <title-ru><![CDATA[Flamingo Мячики с кошачьей мятой для кошек 4 шт x 3 см]]></title-ru>
-    <title-lv><![CDATA[Flamingo kaķumētras bumbiņas kaķiem 4 gab. x 3 cm]]></title-lv>
-    <title-ee><![CDATA[Flamingo Catnip ehk Kassimünt Pallid Kassile 4tk x 3cm]]></title-ee>
-    <title-fi><![CDATA[Flamingo Kissanminttupallot kissalle 4 kpl x 3 cm]]></title-fi>
-    <title-en><![CDATA[Flamingo Catnip Balls for Cats 4 pcs x 3 cm]]></title-en>
-    <long-description><![CDATA[Flamingo katžolės kamuoliukas pagamintas iš 100 % natūralios katžolės, kuri pritraukia jūsų katės dėmesį ir skatina aktyvų žaidimą. Tinka tiek jaunoms, tiek suaugusioms katėms.]]></long-description>
-    <long-description-ru><![CDATA[Подарите вашей кошке весёлые и увлекательные игры! Этот зелёный мячик с кошачьей мятой изготовлен из 100% натуральной кошачьей мяты и мгновенно привлечёт внимание вашей кошки. Идеальная игрушка, которая побуждает вашу кошку к активной игре и обеспечивает длительное развлечение.<br /><br /> Идеально подходит как для молодых, так и для взрослых кошек, которые любят играть и проявлять свой охотничий инстинкт.<br /><br /> <strong>Материал</strong>: кошачья мята<br /><br /> <strong>Особенности:</strong><br /> 100% натуральный<br /> привлекает внимание вашей кошки<br /> стимулирует игру и активность<br /><br /> <strong>Производитель</strong>: Flamingo Pet Products, Бельгия<br /> <strong>Импортер</strong>: Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Flamingo kaķumētras bumbiņa ir izgatavota no 100% dabīgas kaķumētras, kas piesaista jūsu kaķa uzmanību un veicina aktīvas rotaļas. Piemērota gan jauniem, gan pieaugušiem kaķiem.]]></long-description-lv>
-    <long-description-ee><![CDATA[Paku oma kassile lõbusat ja kaasahaaravat mänguelamust! See roheline kassimündipall on valmistatud 100% naturaalsest kassimündist ning köidab koheselt sinu lemmiku tähelepanu. Ideaalne mänguasi, mis innustab kassi aktiivselt mängima ja pakub pikaks ajaks meelelahutust.<br /><br /> Sobib suurepäraselt nii noortele kui ka täiskasvanud kassidele, kes armastavad mängida ja oma jahiinstinkti välja elada.<br /><br /> <strong>Materjal</strong>: kassimünt<br /><br /> <strong>Omadused:</strong><br /> 100% naturaalne<br /> tõmbab kassi tähelepanu<br /> soodustab mängimist ja aktiivsust<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Anna kissallesi hauska ja mukaansatempaava leikkikokemus! Tämä vihreä kissanminttupallo on valmistettu 100 % luonnollisesta kissanmintusta ja herättää kissasi huomion välittömästi. Ihanteellinen lelu, joka kannustaa kissaasi leikkimään aktiivisesti ja tarjoaa pitkäkestoista viihdettä.<br /><br /> Täydellinen sekä nuorille että aikuisille kissoille, jotka rakastavat leikkiä ja elää metsästysvaistoaan.<br /><br /> <strong>Materiaali</strong>: kissanminttu<br /><br /> <strong>Ominaisuudet:</strong><br /> 100 % luonnollinen<br /> kiinnittää kissasi huomion<br /> kannustaa leikkiin ja aktiivisuuteen<br /><br /> <strong>Valmistaja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[Give your cat a fun and engaging play experience! This green catnip ball is made of 100% natural catnip and will instantly attract your cat's attention. The ideal toy that encourages your cat to play actively and provides long-lasting entertainment.<br /><br /> Perfect for both young and adult cats who love to play and live out their hunting instinct.<br /><br /> <strong>Material</strong>: catnip<br /><br /> <strong>Features:</strong><br /> 100% natural<br /> attracts your cat's attention<br /> encourages play and activity<br /><br /> <strong>Manufacturer</strong>: Flamingo Pet Products, Belgium<br /> <strong>Importer</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.1]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Flamingo-Catnip-ehk-Kassimunt-Pall-3cm.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.1</weight>
-            <length>0.065</length>
-            <height>0.03</height>
-            <width>0.065</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585335507]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[562066]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10451</category-id>
-    <category-name><![CDATA[Toys for cats]]></category-name>
-    <title><![CDATA[Flamingo katžolės kamuoliukas katėms 5 cm]]></title>
-    <title-ru><![CDATA[Flamingo Мячик с кошачьей мятой для кошек 5 см]]></title-ru>
-    <title-lv><![CDATA[Flamingo kaķumētras bumbiņa kaķiem 5 cm]]></title-lv>
-    <title-ee><![CDATA[Flamingo Catnip ehk Kassimünt Pall Kassile 5cm]]></title-ee>
-    <title-fi><![CDATA[Flamingo Kissanminttupallo kissalle 5 cm]]></title-fi>
-    <title-en><![CDATA[Flamingo Catnip Ball for Cats 5cm]]></title-en>
-    <long-description><![CDATA[Flamingo katžolės kamuoliukas pagamintas iš 100 % natūralios katžolės, kuri pritraukia jūsų katės dėmesį ir skatina aktyvų žaidimą. Tinka tiek jaunoms, tiek suaugusioms katėms.]]></long-description>
-    <long-description-ru><![CDATA[Подарите вашей кошке весёлые и увлекательные игры! Этот зелёный мячик с кошачьей мятой изготовлен из 100% натуральной кошачьей мяты и мгновенно привлечёт внимание вашей кошки. Идеальная игрушка, которая побуждает вашу кошку к активной игре и обеспечивает длительное развлечение.<br /><br /> Идеально подходит как для молодых, так и для взрослых кошек, которые любят играть и проявлять свой охотничий инстинкт.<br /><br /> <strong>Материал</strong>: кошачья мята<br /><br /> <strong>Особенности:</strong><br /> 100% натуральный<br /> привлекает внимание вашей кошки<br /> стимулирует игру и активность<br /><br /> <strong>Производитель</strong>: Flamingo Pet Products, Бельгия<br /> <strong>Импортер</strong>: Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Flamingo kaķumētras bumbiņa ir izgatavota no 100% dabīgas kaķumētras, kas piesaista jūsu kaķa uzmanību un veicina aktīvas rotaļas. Piemērota gan jauniem, gan pieaugušiem kaķiem.]]></long-description-lv>
-    <long-description-ee><![CDATA[Paku oma kassile lõbusat ja kaasahaaravat mänguelamust! See roheline kassimündipall on valmistatud 100% naturaalsest kassimündist ning köidab koheselt sinu lemmiku tähelepanu. Ideaalne mänguasi, mis innustab kassi aktiivselt mängima ja pakub pikaks ajaks meelelahutust.<br /><br /> Sobib suurepäraselt nii noortele kui ka täiskasvanud kassidele, kes armastavad mängida ja oma jahiinstinkti välja elada.<br /><br /> <strong>Materjal</strong>: kassimünt<br /><br /> <strong>Omadused:</strong><br /> 100% naturaalne<br /> tõmbab kassi tähelepanu<br /> soodustab mängimist ja aktiivsust<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Anna kissallesi hauska ja mukaansatempaava leikkikokemus! Tämä vihreä kissanminttupallo on valmistettu 100 % luonnollisesta kissanmintusta ja herättää kissasi huomion välittömästi. Ihanteellinen lelu, joka kannustaa kissaasi leikkimään aktiivisesti ja tarjoaa pitkäkestoista viihdettä.<br /><br /> Täydellinen sekä nuorille että aikuisille kissoille, jotka rakastavat leikkiä ja elää metsästysvaistoaan.<br /><br /> <strong>Materiaali</strong>: kissanminttu<br /><br /> <strong>Ominaisuudet:</strong><br /> 100 % luonnollinen<br /> kiinnittää kissasi huomion<br /> kannustaa leikkiin ja aktiivisuuteen<br /><br /> <strong>Valmistaja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[Give your cat a fun and engaging play experience! This green catnip ball is made of 100% natural catnip and will instantly attract your cat's attention. The ideal toy that encourages your cat to play actively and provides long-lasting entertainment.<br /><br /> Perfect for both young and adult cats who love to play and live out their hunting instinct.<br /><br /> <strong>Material</strong>: catnip<br /><br /> <strong>Features:</strong><br /> 100% natural<br /> attracts your cat's attention<br /> encourages play and activity<br /><br /> <strong>Manufacturer</strong>: Flamingo Pet Products, Belgium<br /> <strong>Importer</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.1]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Flamingo-Catnip-ehk-Kassimunt-Pall-5cm.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.1</weight>
-            <length>0.1</length>
-            <height>0.05</height>
-            <width>0.12</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585369175]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[562068]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
     <category-id>10442</category-id>
     <category-name><![CDATA[Cat leashes, collars, harnesses]]></category-name>
     <title><![CDATA[Flamingo atšvaitiniai petnešos katėms 22-32 cm + pavadėlis 110 cm, juodos]]></title>
@@ -24149,62 +24507,6 @@ Kaitseb mööblit<br />
     </colours>
   </product>
   <product>
-    <category-id>10382</category-id>
-    <category-name><![CDATA[Bearings, cushions]]></category-name>
-    <title><![CDATA[Flamingo antklodė šuniui "Pulso" pilka 150x100cm]]></title>
-    <title-ru><![CDATA[Flamingo Лежак Pulso, серый 100x150см]]></title-ru>
-    <title-lv><![CDATA[Flamingo sega sunim "Pulso" pelēka 150x100cm]]></title-lv>
-    <title-ee><![CDATA[Flamingo Tekk Koerale "Pulso" Hall 150x100cm]]></title-ee>
-    <title-fi><![CDATA[Flamingo-koiranpeitto "Pulso" harmaa 150x100cm]]></title-fi>
-    <title-en><![CDATA[Flamingo Blanket Pulso Grey 100x150cm]]></title-en>
-    <long-description><![CDATA[Minkšta antklodė šuniui.]]></long-description>
-    <long-description-ru><![CDATA[Мягкое одеяло для собак.<br /><br /> Размеры: 100x150x0,3 см<br /><br /> Можно стирать при 60 градусах<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ</strong>: Flamingo Pet Products, Бельгия<br /> <strong>ИМПОРТЕР</strong>: Penner OÜ, Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Mīksta sega sunim.]]></long-description-lv>
-    <long-description-ee><![CDATA[Pehme tekk koerale.<br /><br /> Mõõtmed: 100x150x0.3cm<br /><br /> Pestav 60 kraadi juures<br /><br /> <strong>TOOTJA</strong>: Flamingo Pet Products, Belgia<br /> <strong>MAALETOOJA</strong>: Penner OÜ, Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Pehmeä koiranpeitto.<br /><br /> Mitat: 100x150x0,3 cm<br /><br /> Pestävä 60 asteessa<br /><br /> <strong>VALMISTAJA</strong>: Flamingo Pet Products, Belgia<br /> <strong>MAAHANTUOJA</strong>: Penner OÜ, Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[Soft blanket for dogs.<br /><br /> Dimensions: 100x150x0.3cm<br /><br /> Washable at 60 degrees<br /><br /> <strong>MANUFACTURER</strong>: Flamingo Pet Products, Belgium<br /> <strong>IMPORTER</strong>: Penner OÜ, Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.2]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Tekk-Pulso-Hall-1.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/Tekk-Pulso-Hall-2.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/Tekk-Pulso-Hall-2-2.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.2</weight>
-            <length>0.3</length>
-            <height>0.1</height>
-            <width>0.25</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585125931]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[519709]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
     <category-id>10388</category-id>
     <category-name><![CDATA[Dog leashes, collars, harnesses]]></category-name>
     <title><![CDATA[Flamingo nailono antkaklis, pilkas 20-35cm x 10mm]]></title>
@@ -24745,60 +25047,6 @@ Kaitseb mööblit<br />
                 <barcode><![CDATA[5400585093735]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[518649]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10388</category-id>
-    <category-name><![CDATA[Dog leashes, collars, harnesses]]></category-name>
-    <title><![CDATA[Flamingo petnešos „Stian“ S 35-50 cm]]></title>
-    <title-ru><![CDATA[Flamingo Шлейка Stian S 35-50см]]></title-ru>
-    <title-lv><![CDATA[Flamingo krūšu siksna "Stian" S 35-50cm]]></title-lv>
-    <title-ee><![CDATA[Flamingo Traksid "Stian" S 35-50cm]]></title-ee>
-    <title-fi><![CDATA[Flamingo-valjaat "Stian" S 35-50cm]]></title-fi>
-    <title-en><![CDATA[Flamingo Harness Stian S 35-50cm]]></title-en>
-    <long-description><![CDATA[Šunų petnešos]]></long-description>
-    <long-description-ru><![CDATA[Шлейка для собак.<br /> Крепление поводка с двумя кольцами для уменьшения давления на застежку.<br /><br /> <strong>Регулировка по шее и телу:</strong> 35-50 см<br /> <strong>Ширина шнурка:</strong>15 мм<br /><br /> <strong>Flamingo Pet Products</strong>]]></long-description-ru>
-    <long-description-lv><![CDATA[Suņu krūšu siksna]]></long-description-lv>
-    <long-description-ee><![CDATA[Traksid koerale.<br /> Jalutusrihma kinnitus kahe rõngaga, et vähendada survet kinnituspandlale.<br /><br /> <strong>Kaela ja kere osa reguleeritavad:</strong> 35-50cm<br /> <strong>Paela laius:</strong> 15mm<br /><br /> <strong>Flamingo Pet Products</strong>]]></long-description-ee>
-    <long-description-fi><![CDATA[Koiranvaljaat.<br /> Hihnan kiinnitys kahdella renkaalla paineen vähentämiseksi kiinnityssolkeen.<br /><br /> <strong>Säädettävät niskan ja vartalon alueet:</strong>35-50 cm<br /> <strong>Nauhan leveys:</strong>15 mm<br /><br /> <strong>Flamingo Pet Products</strong>]]></long-description-fi>
-    <long-description-en><![CDATA[Dog harness.<br /> Leash attachment with two rings to reduce pressure on the fastening buckle.<br /><br /> <strong>Neck and body part adjustable:</strong> 35-50cm<br /> <strong>Lace width:</strong> 15mm<br /><br /> <strong>Flamingo Pet Products</strong>]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.1]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Traksid_Stian.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.1</weight>
-            <length>0.1</length>
-            <height>0.06</height>
-            <width>0.03</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585143058]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[520135]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -30497,60 +30745,6 @@ Kaitseb mööblit<br />
     </colours>
   </product>
   <product>
-    <category-id>10382</category-id>
-    <category-name><![CDATA[Bearings, cushions]]></category-name>
-    <title><![CDATA[Flamingo augintinio lizdas, Corvara, mėlynas, 52x46x15cm]]></title>
-    <title-ru><![CDATA[Flamingo Лежак "Corvara", синий 52x46x15см]]></title-ru>
-    <title-lv><![CDATA[Flamingo mājdzīvnieku ligzda, Corvara, zila, 52x46x15cm]]></title-lv>
-    <title-ee><![CDATA[Flamingo Pesa Lemmikloomale Corvara, Sinine 52x46x15cm]]></title-ee>
-    <title-fi><![CDATA[Flamingo-lemmikkipesä Corvara sininen 52x46x15cm]]></title-fi>
-    <title-en><![CDATA[Flamingo Bed "Corvara" Blue 52x46x15cm]]></title-en>
-    <long-description><![CDATA[Vieta augintiniui]]></long-description>
-    <long-description-ru><![CDATA[Собачья лежанка.<br /> Материал: плюш и текстиль с наполнителем (полиэфирное волокно)<br /> Ручная стирка<br /><br /> <strong>Размеры:</strong>52x46x15 см<br /><br /> <strong>Производитель</strong>: Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen, Belgium, info@flamingo.be<br /> <strong>Импортер</strong>: Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Vieta mājdzīvniekam]]></long-description-lv>
-    <long-description-ee><![CDATA[Ase koerale.<br /> Materjal: plüüs ja tekstiil koos täidisega (polüester kiud)<br /> Käsipesu<br /><br /> <strong>Mõõtmed:</strong> 52x46x15cm<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen, Belgia, info@flamingo.be<br /> <strong>Maaletooja</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Koiranpeti.<br /> Materiaali: plyysi ja tekstiili, täyte (polyesterikuitu)<br /> Käsinpesu<br /><br /> <strong>Mitat:</strong>52x46x15cm<br /><br /> <strong>Valmistaja</strong>: Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen, Belgia, info@flamingo.be<br /> <strong>Maahantuoja</strong>: Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee Käännämme englanniksi ja venäjäksi]]></long-description-fi>
-    <long-description-en><![CDATA[Material: plush and textile with filling: polyester fibre<br /> Hand wash<br /> Finished with piping<br /><br /> <strong>Manufacturer:</strong> Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen, Belgium, info@flamingo.be<br /> <strong>Distributor:</strong> Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.3]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Ase-Corvara-Sinine-52x46x15cm.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.3</weight>
-            <length>0.52</length>
-            <height>0.15</height>
-            <width>0.46</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585056563]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[517547]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
     <category-id>10391</category-id>
     <category-name><![CDATA[Dog bowls, pet food containers]]></category-name>
     <title><![CDATA[Flamingo keraminis vakarienės dubenėlis, Duke, juodas/baltas, ø18cm, 1130ml]]></title>
@@ -35596,61 +35790,6 @@ Kaitseb mööblit<br />
     </colours>
   </product>
   <product>
-    <category-id>10478</category-id>
-    <category-name><![CDATA[Rodent litter, hay]]></category-name>
-    <title><![CDATA[Flamingo pjuvenos 1 kg/14 l]]></title>
-    <title-ru><![CDATA[Flamingo Опилки 14л / 1кг]]></title-ru>
-    <title-lv><![CDATA[Flamingo zāģu skaidas 1kg/14l]]></title-lv>
-    <title-ee><![CDATA[Flamingo Saepuru 1kg/14l]]></title-ee>
-    <title-fi><![CDATA[Flamingo-sahanpuru 1 kg/14 l]]></title-fi>
-    <title-en><![CDATA[Flamingo Woodshavings 1kg/14L]]></title-en>
-    <long-description><![CDATA[Mažų gyvūnų pagrindas.]]></long-description>
-    <long-description-ru><![CDATA[Подстилка для мелких животных. 99% без пыли.<br /><br /> Производитель: Flamingo Pet Products]]></long-description-ru>
-    <long-description-lv><![CDATA[Mazo dzīvnieku pamats.]]></long-description-lv>
-    <long-description-ee><![CDATA[Aluspanu väikeloomale. 99% tolmuvaba.<br /><br /> Tootja: Flamingo Pet Products]]></long-description-ee>
-    <long-description-fi><![CDATA[Pieneläinten kuivikkeet. 99 % pölytön.<br /><br /> Valmistaja: Flamingo Pet Products]]></long-description-fi>
-    <long-description-en><![CDATA[Woodshavings for small animals. 99% dust free.<br /><br /> Manufacturer: Flamingo Pet Products]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[1.05]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Saepuru_1kg.jpg</url></image>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Saepuru_1kg_A.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>1.05</weight>
-            <length>0.39</length>
-            <height>0.065</height>
-            <width>0.15</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5415245112305]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[1031029]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
     <category-id>10442</category-id>
     <category-name><![CDATA[Cat leashes, collars, harnesses]]></category-name>
     <title><![CDATA[Flamingo petnešos kačiukams, raudonos + pavadėlis]]></title>
@@ -37495,61 +37634,6 @@ Kaitseb mööblit<br />
                 <barcode><![CDATA[5400274296737]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[503006]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10451</category-id>
-    <category-name><![CDATA[Toys for cats]]></category-name>
-    <title><![CDATA[Flamingo katžolės milteliai (papildymas) 15g]]></title>
-    <title-ru><![CDATA[Flamingo Порошок кошачьей мяты (сменный блок) 15 г]]></title-ru>
-    <title-lv><![CDATA[Flamingo kaķumētras pulveris (uzpilde) 15g]]></title-lv>
-    <title-ee><![CDATA[Flamingo Catnip ehk Kassimünt Pulber (täitepakend) 15g]]></title-ee>
-    <title-fi><![CDATA[Flamingo-kissanminttujauhe (täyttöpakkaus) 15 g]]></title-fi>
-    <title-en><![CDATA[Flamingo Catnip Bag Refill 15g]]></title-en>
-    <long-description><![CDATA[Katžolė / katžolės milteliai katėms]]></long-description>
-    <long-description-ru><![CDATA[100% натуральная кошачья мята (наистеножка). Сменный наполнитель.<br /><br /> Кошачья мята — это растение с привлекательным для кошек ароматом, которое делает их более активными и игривыми. С её помощью можно пробудить интерес кошки к игрушкам, когтеточкам и местам для отдыха.<br /><br /> Обладает неотразимым ароматом для кошек (примерно 70% кошек реагируют на запах кошачьей мяты). Это натуральное растение, не вызывающее зависимости.<br /><br /> Производитель: Flamingo Pet Products, Бельгия<br /> Дистрибьютор: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Kaķumētra / kaķumētras pulveris kaķiem]]></long-description-lv>
-    <long-description-ee><![CDATA[100% naturaalne kassimünt ehk naistenõges. Täitepakend.<br /> Catnip ehk kassimünt on kassidele ahvatleva aroomiga taim, mis muudab kassid erksamaks ja mänguhimuliseks.<br /> Catnipiga on võimalik tekitada kassis huvi mänguasjade, kraapimispostide ja magamisasemete vastu.<br /> Kassidele vastupandamatu lõhnaga (70% kassidest reageerivad kassimündi lõhnale).<br /> Kassimünt on loomulik, sõltuvust mittetekitav taim.<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maaletooja:</strong> Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[100 % luonnollista kissanminttua. Täyttöpakkaus.<br /> Kissanminttu on kasvi, jolla on kissoille houkutteleva tuoksu, joka tekee kissoista valppaampia ja leikkisämpiä.<br /> Kissanminttua voidaan käyttää herättämään kissojen kiinnostusta leluihin, raapimapuihin ja nukkumapaikkoihin.<br /> Vastustamaton tuoksu kissoille (70 % kissoista reagoi kissanmintun tuoksuun).<br /> Kissanminttu on luonnollinen, ei-riippuvuutta aiheuttava kasvi.<br /><br /> <strong>Valmistaja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja:</strong> Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[100% natural catnip refill.<br /><br /> Catnip is a plant with an attractive aroma for cats that makes them more alert and playful. It can be used to spark your cat’s interest in toys, scratching posts and sleeping areas.<br /><br /> Irresistible scent for cats (around 70% of cats respond to catnip). Catnip is a natural, non-addictive plant.<br /><br /> Manufacturer: Flamingo Pet Products, Belgium<br /> Distributor: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.02]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/catnip-pulber-taitepakend.jpg</url></image>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Catnip_Pulber_Taitepakend_15g.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.02</weight>
-            <length>1.165</length>
-            <height>0.01</height>
-            <width>0.115</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400274769033]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[503897]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -39435,62 +39519,6 @@ Kaitseb mööblit<br />
                 <barcode><![CDATA[5400274545477]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[508082]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10478</category-id>
-    <category-name><![CDATA[Rodent litter, hay]]></category-name>
-    <title><![CDATA[Flamingo granuliuotos pjuvenos (granulės) 5,5 kg]]></title>
-    <title-ru><![CDATA[Flamingo Опилки прессованные гранулированные 5,5кг]]></title-ru>
-    <title-lv><![CDATA[Flamingo granulētās zāģu skaidas (granulas) 5,5 kg]]></title-lv>
-    <title-ee><![CDATA[Flamingo Granuleeritud Saepuru (Pelletid) 5,5kg]]></title-ee>
-    <title-fi><![CDATA[Flamingo rakeistettu sahanpuru (pelletit) 5,5 kg]]></title-fi>
-    <title-en><![CDATA[Flamingo Wood Bedding 5,5kg]]></title-en>
-    <long-description><![CDATA[Granuliuotos pjuvenos katėms ir mažiems gyvūnams.]]></long-description>
-    <long-description-ru><![CDATA[Гранулированные опилки для кошек и мелких животных.<br /><br /> <strong>Производитель:</strong> Flamingo Pet Products; Lammerdries – Winkelstraat 25, 2250 Olen, Belgium; info@flamingo.be<br /> <strong>Импортер:</strong> Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Granulētas zāģu skaidas kaķiem un maziem dzīvniekiem.]]></long-description-lv>
-    <long-description-ee><![CDATA[Granuleeritud saepuru kassidele ja väikeloomadele.<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products; Lammerdries – Winkelstraat 25, 2250 Olen, Belgia; info@flamingo.be<br /> <strong>Maaletooja:</strong> Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Rakeistettua sahanpurua kissoille ja pienille eläimille.<br /><br /> <strong>Valmistaja:</strong> Flamingo Pet Products; Lammerdries – Winkelstraat 25, 2250 Olen, Belgia; info@flamingo.be<br /> <strong>Maahantuoja:</strong> Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[Granulated sawdust for cats and small animals.<br /><br /> <strong>Manufacturer:</strong> Flamingo Pet Products; Lammerdries – Winkelstraat 25, 2250 Olen, Belgium; info@flamingo.be<br /> <strong>Importer:</strong> Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[5.68]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Granuleeritud_Saepuru__Pelletid_.jpg</url></image>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Granuleeritud_Saepuru__Pelletid__1.jpg</url></image>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Granuleeritud_Saepuru__Pelletid__2.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>5.68</weight>
-            <length>0.42</length>
-            <height>0.13</height>
-            <width>0.25</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5415245112206]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[1031028]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -86004,59 +86032,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
   <product>
     <category-id>10451</category-id>
     <category-name><![CDATA[Toys for cats]]></category-name>
-    <title><![CDATA[AFP Katės Žaislas - Pūkuotas Padaras (su Katžole)]]></title>
-    <title-ru><![CDATA[AFP Игрушка для кошек - Пушистое существо (с кошачьей мятой)]]></title-ru>
-    <title-lv><![CDATA[AFP Kaķu Rotaļlieta - Pūkains Radījums (ar Kaķumētrām)]]></title-lv>
-    <title-ee><![CDATA[AFP Mänguasi Kassile - Karvane Elukas (kassimündiga)]]></title-ee>
-    <title-fi><![CDATA[AFP Kissanlelu - Karvainen Olento (Kissanmintulla)]]></title-fi>
-    <title-en><![CDATA[AFP Cat Toy - Furry Creature (With Catnip)]]></title-en>
-    <long-description><![CDATA[AFP Fluffer on armas karvase koletise kujuline mänguasi, mis on valmistatud kvaliteetsest pikast plüüsist ja täidetud kassimündiga.<br /> Pikk plüüss ja erksad värvid köidavad kassi tähelepanu ja pakuvad pikaajalist mängulusti.<br /><br /> <strong>Omadused:</strong><br /> Mõõtmed: 15 x 8 x 3,5 cm<br /> Sisaldab kassimünti<br /> Karvase koletise kujuline disain<br /> Erksad värvid<br /><br /> <strong>Tootja</strong>: AFP (All For Paws)<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description>
-    <long-description-ru><![CDATA[AFP Fluffer — это милая пушистая игрушка-монстр, изготовленная из высококачественного длинного плюша и наполненная кошачьей мятой.<br /> Длинный плюш и яркие цвета привлекают внимание вашей кошки и обеспечивают длительное время игры.<br /><br /> <strong>Характеристики:</strong><br /> Размеры: 15 x 8 x 3,5 см<br /> В комплекте кошачья мята<br /> Дизайн пушистого монстра<br /> Яркие цвета<br /><br /> <strong>Производитель</strong>: AFP (All For Paws)<br /> <strong>Импортер</strong>: Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
-    <long-description-ee><![CDATA[AFP Fluffer on armas karvase koletise kujuline mänguasi, mis on valmistatud kvaliteetsest pikast plüüsist ja täidetud kassimündiga.<br /> Pikk plüüss ja erksad värvid köidavad kassi tähelepanu ja pakuvad pikaajalist mängulusti.<br /><br /> <strong>Omadused:</strong><br /> Mõõtmed: 15 x 8 x 3,5 cm<br /> Sisaldab kassimünti<br /> Karvase koletise kujuline disain<br /> Erksad värvid<br /><br /> <strong>Tootja</strong>: AFP (All For Paws)<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[AFP Fluffer on söpö pörröinen hirviölelu, joka on valmistettu korkealaatuisesta pitkästä pehmolelusta ja täytetty kissanmintulla.<br /> Pitkä pehmolelu ja kirkkaat värit herättävät kissasi huomion ja tarjoavat pitkäkestoista leikkiaikaa.<br /><br /> <strong>Ominaisuudet:</strong><br /> Mitat: 15 x 8 x 3,5 cm<br /> Sisältää kissanminttua<br /> Pörröinen hirviökuosto<br /> Kirkkaat värit<br /><br /> <strong>Valmistaja</strong>: AFP (All For Paws)<br /> <strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[AFP Fluffer is a cute furry monster toy made of high-quality long plush and filled with catnip.<br /> The long plush and bright colors attract your cat's attention and provide long-lasting playtime fun.<br /><br /> <strong>Features:</strong><br /> Dimensions: 15 x 8 x 3.5 cm<br /> Includes catnip<br /> Furry monster design<br /> Bright colors<br /><br /> <strong>Manufacturer</strong>: AFP (All For Paws)<br /> <strong>Importer</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Ningbo Sincere Holding Group;  6F Kaifeng Building]]></manufacturer-name>
-    <manufacturer-address><![CDATA[No. 762 Zhongxing Road, 315041 Ningbo, China;]]></manufacturer-address>
-    <manufacturer-email><![CDATA[contact@allforpawspet.com.cn]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[AFP]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.05]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/afp-manguasi-kassile-karvane-elukas.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.05</weight>
-            <length>0.15</length>
-            <height>0.035</height>
-            <width>0.08</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[847922028015]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[AF-02801]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10451</category-id>
-    <category-name><![CDATA[Toys for cats]]></category-name>
     <title><![CDATA[AFP Katės Žaislas - Pūkuota Katžuklė 44cm]]></title>
     <title-ru><![CDATA[AFP Игрушка для кошек - Пушистая удочка 44см]]></title-ru>
     <title-lv><![CDATA[AFP Kaķu Rotaļlieta - Pūkaina Kaķu Makšķere 44cm]]></title-lv>
@@ -86398,60 +86373,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
                 <barcode><![CDATA[4065411001189]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[4C-001189]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10394</category-id>
-    <category-name><![CDATA[Toys for dogs]]></category-name>
-    <title><![CDATA[AFP K-Nite žaislas šunims – šviečianti medūza S]]></title>
-    <title-ru><![CDATA[AFP K-Nite Игрушка для собак – светящаяся медуза S]]></title-ru>
-    <title-lv><![CDATA[AFP K-Nite suņu rotaļlieta - spīdoša medūza S]]></title-lv>
-    <title-ee><![CDATA[AFP K-Nite Mänguasi Koerale - Helendav Meduus S]]></title-ee>
-    <title-fi><![CDATA[AFP K-Nite -koiranlelu - Hohtava meduusa S]]></title-fi>
-    <title-en><![CDATA[AFP K-Nite Dog Toy – Glow Jellyfish S]]></title-en>
-    <long-description><![CDATA[Žaislas šuniui]]></long-description>
-    <long-description-ru><![CDATA[Игрушка для собак K-Nite – светящаяся медуза<br /> Эта игрушка не только отлично выглядит, но и хорошо видна в условиях низкой освещенности.<br /> Это значит, что ночные игры могут продолжаться как обычно. Игрушка светится в темноте, что облегчает ее поиск и поиск.<br /><br /> Светится в темноте<br /> Со шнурками<br /> Прочная резина<br /><br /> Длина и внешний вид: S – около 22 см]]></long-description-ru>
-    <long-description-lv><![CDATA[Rotaļlieta sunim]]></long-description-lv>
-    <long-description-ee><![CDATA[<strong>K-Nite Mänguasi koerale – Helendav Meduus</strong><br /> See mänguasi ei näe mitte ainult suurepärane välja, vaid on ka hämaras hästi nähtav.<br /> See tähendab, et öösel mängimine võib jätkuda nagu tavaliselt. Mänguasi helendab pimedas, muutes selle kergesti nähtavaks ja lihtsasti tagasi toovaks.<br /><br /> Helendab pimedas<br /> Paeltega<br /> Vastupidav kumm<br /><br /> <strong>Pikkus ja välimus:</strong> S – umbes 22 cm<br /><br /> <strong>Tootja</strong>: All For Paws<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[<strong>K-Nite-koiranlelu – Hohtava meduusa</strong><br /> Tämä lelu ei ainoastaan näytä upealta, vaan se on myös hyvin näkyvä hämärässä.<br /> Tämä tarkoittaa, että yöleikit voivat jatkua normaalisti. Lelu hohtaa pimeässä, joten se on helppo nähdä ja hakea.<br /><br /> Hohtaa pimeässä<br /> Nauhoilla<br /> Kestävää kumia<br /><br /> <strong>Pituus ja ulkonäkö:</strong>S – noin 22 cm]]></long-description-fi>
-    <long-description-en><![CDATA[<strong>K-Nite Dog Toy – Glowing Jellyfish</strong><br /> This toy not only looks great, but it is also highly visible in low light.<br /> This means that nighttime play can continue as usual. The toy glows in the dark, making it easy to see and retrieve.<br /><br /> Glows in the dark<br /> With laces<br /> Durable rubber<br /><br /> <strong>Length and appearance:</strong> S – approx. 22 cm]]></long-description-en>
-    <manufacturer-name><![CDATA[Ningbo Sincere Holding Group;  6F Kaifeng Building]]></manufacturer-name>
-    <manufacturer-address><![CDATA[No. 762 Zhongxing Road, 315041 Ningbo, China;]]></manufacturer-address>
-    <manufacturer-email><![CDATA[contact@allforpawspet.com.cn]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[AFP]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.12]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/AFP-K-Nite-Manguasi-Koerale-Helendav-Meduus-S.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.12</weight>
-            <length>0.001</length>
-            <height>0.1</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[847922033149]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[AFPH03314]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
