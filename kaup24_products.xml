@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
+    <category-id>10394</category-id>
+    <category-name><![CDATA[Toys for dogs]]></category-name>
+    <title><![CDATA[Flamingo žaislas šunims "Flecta" futbolo kamuolys 13 cm]]></title>
+    <title-ru><![CDATA[Flamingo Игрушка для собак «Flecta» — Футбольный мяч, 13 см]]></title-ru>
+    <title-lv><![CDATA[Flamingo suņu rotaļlieta "Flecta" futbols 13 cm]]></title-lv>
+    <title-ee><![CDATA[Flamingo Mänguasi Koerale "Flecta" Jalgpall 13cm]]></title-ee>
+    <title-fi><![CDATA[Flamingo-koiranlelu "Flecta" jalkapallo 13 cm]]></title-fi>
+    <title-en><![CDATA[Flamingo Dog Toy “Flecta” Football 13 cm]]></title-en>
+    <long-description><![CDATA[žaislas šuniui]]></long-description>
+    <long-description-ru><![CDATA[<strong>Flamingo игрушка для собак «Flecta», футбольный мяч 13 см</strong><br /><br /> Пусть ваше любимое поле засияет с футбольным мячом «Flecta»!<br /> Этот мягкий тканевый мяч создан для веселых игр, а его светоотражающая поверхность обеспечивает лучшую видимость даже при слабом освещении. Мяч имеет забавные ленты, которые делают игру более увлекательной для собаки, и ручку, которая приглашает вас тащить, приносить и играть вместе. Идеальный выбор для активных собак!<br /><br /> <strong>Особенности</strong><br /><br /> Мягкий текстильный материал<br /><br /> Светоотражающий - лучшая видимость на улице<br /><br /> Забавные ленты для дополнительной стимуляции<br /><br /> Ручки для вытягивания и интерактивной игры<br /><br /> Размер: 13 см]]></long-description-ru>
+    <long-description-lv><![CDATA[rotaļlieta sunim]]></long-description-lv>
+    <long-description-ee><![CDATA[<strong>Flamingo mänguasi koerale “Flecta” jalgpall 13 cm</strong><br /><br /> Lase oma lemmikul platsil särada Flecta jalgpalliga!<br /> See pehme kangast pall on loodud mängurõõmu pakkuma ning selle helkiv pind tagab parema nähtavuse ka hämaramas. Pallil on lõbusad paelad, mis teevad mängu koera jaoks põnevamaks, ning käepide, mis kutsub tirima, tooma ja üheskoos mängima. Täiuslik valik aktiivsetele koertele!<br /><br /> <strong>Omadused</strong><br /><br /> Pehme tekstiilist materjal<br /><br /> Helkiv – parem nähtavus õues<br /><br /> Lõbusad paelad lisastimulatsiooni jaoks<br /><br /> Käepide tirimiseks ja interaktiivseks mänguks<br /><br /> Suurus: 13 cm]]></long-description-ee>
+    <long-description-fi><![CDATA[<strong>Flamingo-koiranlelu “Flecta” jalkapallo 13 cm</strong><br /><br /> Anna lempikenttäsi loistaa Flecta-jalkapallolla!<br /> Tämä pehmeä kangaspallo on suunniteltu tarjoamaan hauskaa leikkiä, ja sen heijastava pinta varmistaa paremman näkyvyyden myös hämärässä. Pallossa on hauskat nauhat, jotka tekevät pelistä jännittävämpää koiralle, ja kahva, joka kutsuu raahaamaan, noutamaan ja leikkimään yhdessä. Täydellinen valinta aktiivisille koirille!<br /><br /> <strong>Ominaisuudet</strong><br /><br /> Pehmeä tekstiilimateriaali<br /><br /> Heijastava - parempi näkyvyys ulkona<br /><br /> Hauskat nauhat lisästimulaatioon<br /><br /> Kahvat vetämiseen ja interaktiiviseen leikkiin<br /><br /> Koko: 13 cm]]></long-description-fi>
+    <long-description-en><![CDATA[<strong>Flamingo toy for dogs “Flecta” football 13 cm</strong><br /><br /> Let your favorite field shine with the Flecta football!<br /> This soft fabric ball is designed to provide fun play, and its reflective surface ensures better visibility even in low light. The ball has fun ribbons that make the game more exciting for the dog, and a handle that invites you to drag, fetch and play together. The perfect choice for active dogs!<br /><br /> <strong>Features</strong><br /><br /> Soft textile material<br /><br /> Reflective - better visibility outdoors<br /><br /> Fun ribbons for extra stimulation<br /><br /> Handles for pulling and interactive play<br /><br /> Size: 13 cm]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.2]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/Flamingo-Manguasi-Koerale-Flecta-Jalgpall-13cm-A.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/Flamingo-Manguasi-Koerale-Flecta-Jalgpall-13cm-2.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.2</weight>
+            <length>0.15</length>
+            <height>0.15</height>
+            <width>0.15</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585377996]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[524697]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
     <category-id>10403</category-id>
     <category-name><![CDATA[Travel accessories for dog]]></category-name>
     <title><![CDATA[Flamingo virvė, dengta plastiku, balta, 5 m / 6 mm / maks. 40 kg]]></title>
@@ -13345,74 +13400,6 @@ Kaitseb mööblit<br />
   <product>
     <category-id>10412</category-id>
     <category-name><![CDATA[Cat snacks]]></category-name>
-    <title><![CDATA[Flamingo katės skanėstas Deli Yumm pasta Odai ir kailiui 70g]]></title>
-    <title-ru><![CDATA[Flamingo Лакомство для кошек Deli Yumm паста для кожи и шерсти 70г]]></title-ru>
-    <title-lv><![CDATA[Flamingo kaķu gardums Deli Yumm pasta Ādai un kažokam 70g]]></title-lv>
-    <title-ee><![CDATA[Flamingo Maius Kassile - Deli Yumm Pasta Kala ja Kanaga, nahale ja kasukale 70g]]></title-ee>
-    <title-fi><![CDATA[Flamingo Kissan herkkutahna Deli Yumm Iholle ja turkille 70g]]></title-fi>
-    <title-en><![CDATA[Flamingo Cat Treat Deli Yumm Paste, Skin & Coat 70g]]></title-en>
-    <long-description><![CDATA[Skanėstas katei]]></long-description>
-    <long-description-ru><![CDATA[Побалуйте свою кошку этим восхитительным жидким лакомством из рыбы и курицы!<br /> Лакомство обогащено лососевым маслом, которое поддерживает здоровье кожи и обеспечивает блестящую шерсть.<br /> Продукт полностью беззерновой и идеально подходит для нанесения на коврики для вылизывания Flamingo, обеспечивая вашей кошке длительное и приятное занятие!<br /><br /> <strong>Особенности:</strong><br /> Жидкая паста-лакомство с рыбой и курицей<br /> Содержит лососевое масло, которое придает шерсти красивый блеск<br /> Беззерновой: также подходит для питомцев с чувствительным пищеварением<br /> Можно предлагать в качестве награды прямо из тюбика или наносить на коврики для вылизывания и лотки Flamingo.<br /><br /> <strong>СОСТАВ:</strong> Тунец (41,68%), курица (34,82%), крахмал, лосось (8,71%), лососевое масло, соль.<br /><br /> <strong>ДОБАВКИ – ПИЩЕВЫЕ ДОБАВКИ:</strong> Таурин (3a370) 940 мг/кг. Витамины: витамин В (3a672a) 1600 МЕ/кг; витамин В2 (3a825v) 0,8 мг/кг; витамин В1 (3a821) 1,6 мг/кг; витамин В6 (3a831) 0,64 мг/кг; витамин В3 (3a671) 24 МЕ/кг; витамин В12 (3a836) 0,0032 мг/кг; витамин Е (3a700i) 16 МЕ/кг; биотин (3a880) 0,056 мг/кг; пантотенат кальция (3a841) 2,4 мг/кг; фолиевая кислота (3a316) 0,08 мг/кг; ниацинамид (3a315) 5,6 мг/кг; витамин С (3a300) 16 мг/кг.<br /><br /> <strong>ТЕХНОЛОГИЧЕСКИЕ ДОБАВКИ:</strong> Загуститель.<br /><br /> <strong>АНАЛИТИЧЕСКИЙ СОСТАВ:</strong> Сырой жир: 0,1% | Сырая кожура: 6,5% | Сырая зола: 2% | Сырая клетчатка: 1% | Влажность: 90%<br /><br /> <strong>Не для употребления в пищу человеком. Всегда обеспечивайте питомцу доступ к свежей воде. После вскрытия срок годности ограничен.</strong><br /><br /> <strong>Дополнительный корм</strong><br /><br /> <strong>Год годности и номер партии</strong> см. упаковку<br /> <strong>Производитель</strong>: Flamingo Pet Products, Бельгия<br /> <strong>Импортер</strong>: Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Kārums kaķim]]></long-description-lv>
-    <long-description-ee><![CDATA[Hellitage oma kassi selle maitsva kala ja kana vedela maiusega!<br /> Maiusele on lisatud lõheõli, mis toetab naha tervist ja tagab läikiva karvkatte.<br /> Toode on täielikult teraviljavaba ning sobib ideaalselt määrimiseks Flamingo lakkumismattidele, et pakkuda kassile pikaajalist ja meeldivat tegevust!<br /><br /> <strong>Omadused:</strong><br /> Vedel maiuspasta kala ja kanaga<br /> Sisaldab lõheõli, mis annab karvale kauni läike<br /> Teraviljavaba: Sobib ka tundliku seedimisega lemmikutele<br /> Võib pakkuda preemiaks otse tuubist või määrida Flamingo lakkumismattidele ja -alustele<br /><br /> <strong>KOOSTIS:</strong> Tuunikala (41,68%), kana (34,82%), tärklis, lõhe (8,71%), lõheõli, sool.<br /><br /> <strong>LISANDID – TOITAINELISED LISANDID:</strong> Tauriin (3a370) 940 mg/kg. Vitamiinid: VA (3a672a) 1600 RÜ/kg; VB2 (3a825v) 0,8 mg/kg; VB1 (3a821) 1,6 mg/kg; VB6 (3a831) 0,64 mg/kg; VD3 (3a671) 24 RÜ/kg; VB12 (3a836) 0,0032 mg/kg; VE (3a700i) 16 RÜ/kg; biotiin (3a880) 0,056 mg/kg; kaltsiumpantothenaat (3a841) 2,4 mg/kg; foolhape (3a316) 0,08 mg/kg; niatsiinamiid (3a315) 5,6 mg/kg; VC (3a300) 16 mg/kg.<br /><br /> <strong>TEHNOLOOGILISED LISANDID:</strong> Paksendusaine.<br /><br /> <strong>ANALÜÜTILISED KOOSTISOSAD:</strong> Toorrasv: 0,1% | Toornahk: 6,5% | Toortuhk: 2% | Toorkiud: 1% | Niiskus: 90%<br /><br /> <strong>Mitte inimtoiduks. Tagage lemmikloomale alati juurdepääs värskele veele. Pärast avamist säilivusaeg piiratud.</strong><br /><br /> <strong>Täiendsööt</strong><br /><br /> <strong>Parim enne ja partii nr</strong> vaata pakendilt<br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Hemmottele kissaasi tällä herkullisella kala- ja kananestemäisellä herkulla!<br /> Herkku on rikastettu lohiöljyllä, joka tukee ihon terveyttä ja varmistaa kiiltävän turkin.<br /> Tuote on täysin viljaton ja sopii erinomaisesti levitettäväksi Flamingo-nuolenpitoalustoille tarjoamaan kissallesi pitkäkestoista ja nautinnollista toimintaa!<br /><br /> <strong>Ominaisuudet:</strong><br /> Nestemäinen herkkutahna kalalla ja kanalla<br /> Sisältää lohiöljyä, joka antaa turkille kauniin kiillon<br /> Viljaton: Sopii myös lemmikeille, joilla on herkkä ruoansulatus<br /> Voidaan tarjota palkkiona suoraan tuubista tai levittää Flamingo-nuolenpitoalustoille ja -alustoille<br /><br /> <strong>AINESOSAT:</strong> Tonnikala (41,68 %), kana (34,82 %), tärkkelys, lohi (8,71 %), lohiöljy, suola.<br /><br /> <strong>LISÄAINEET – RAVITSEMUKSELLISET LISÄAINEET:</strong> Tauriini (3a370) 940 mg/kg. Vitamiinit: VA (3a672a) 1600 IU/kg; VB2 (3a825v) 0,8 mg/kg; VB1 (3a821) 1,6 mg/kg; VB6 (3a831) 0,64 mg/kg; VD3 (3a671) 24 IU/kg; VB12 (3a836) 0,0032 mg/kg; VE (3a700i) 16 IU/kg; biotiini (3a880) 0,056 mg/kg; kalsiumpantotenaatti (3a841) 2,4 mg/kg; foolihappo (3a316) 0,08 mg/kg; niasiiniamidi (3a315) 5,6 mg/kg; VC (3a300) 16 mg/kg.<br /><br /> <strong>TEKNOLOGISET LISÄAINEET:</strong> Sakeuttamisaine.<br /><br /> <strong>ANALYYTISET AINESOSAT:</strong> Raakarasva: 0,1 % | Raakakuori: 6,5 % | Tuhka: 2 % | Raakakuitu: 1 % | Kosteus: 90 %<br /><br /> <strong>Ei ihmisravinnoksi. Varmista aina, että lemmikilläsi on saatavilla raikasta vettä. Avaamisen jälkeen säilyvyysaika on rajallinen.</strong><br /><br /> <strong>Täydentävä ruoka</strong><br /><br /> <strong>Parasta ennen -päiväys ja eränumero</strong>, katso pakkauksesta<br /> <strong>Valmistaja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja</strong>: Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[Pamper your cat with this delicious fish and chicken liquid treat!<br /> The treat is enriched with salmon oil, which supports skin health and ensures a shiny coat.<br /> The product is completely grain-free and is ideal for spreading on Flamingo licking mats to provide your cat with long-lasting and enjoyable activity!<br /><br /> <strong>Features:</strong><br /> Liquid treat paste with fish and chicken<br /> Contains salmon oil, which gives the coat a beautiful shine<br /> Grain-free: Also suitable for pets with sensitive digestion<br /> Can be offered as a reward straight from the tube or spread on Flamingo licking mats and trays<br /><br /> <strong>INGREDIENTS:</strong> Tuna (41.68%), chicken (34.82%), starch, salmon (8.71%), salmon oil, salt.<br /><br /> <strong>ADDITIVES – NUTRITIONAL ADDITIVES:</strong> Taurine (3a370) 940 mg/kg. Vitamins: VA (3a672a) 1600 IU/kg; VB2 (3a825v) 0.8 mg/kg; VB1 (3a821) 1.6 mg/kg; VB6 (3a831) 0.64 mg/kg; VD3 (3a671) 24 IU/kg; VB12 (3a836) 0.0032 mg/kg; VE (3a700i) 16 IU/kg; biotin (3a880) 0.056 mg/kg; calcium pantothenate (3a841) 2.4 mg/kg; folic acid (3a316) 0.08 mg/kg; niacinamide (3a315) 5.6 mg/kg; VC (3a300) 16 mg/kg.<br /><br /> <strong>TECHNOLOGY ADDITIVES:</strong> Thickener.<br /><br /> <strong>ANALYTICAL CONSTITUENTS:</strong> Crude fat: 0.1% | Crude rind: 6.5% | Crude ash: 2% | Crude fibre: 1% | Moisture: 90%<br /><br /> <strong>Not for human consumption. Always ensure that your pet has access to fresh water. After opening, the shelf life is limited.</strong><br /><br /> <strong>Complementary food</strong><br /><br /> <strong>Best before and batch number</strong> see the packaging<br /> <strong>Manufacturer</strong>: Flamingo Pet Products, Belgium<br /> <strong>Importer</strong>: Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
-    <composition><![CDATA[Tuunikala (41,68%), kana (34,82%), tärklis, lõhe (8,71%), lõheõli, sool.]]></composition>
-    <composition-ee><![CDATA[Tuunikala (41,68%), kana (34,82%), tärklis, lõhe (8,71%), lõheõli, sool.]]></composition-ee>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.1]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Looma vanus]]></id>
-        <values>
-          <value><![CDATA[Erinevatele vanustele]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Eriomadus]]></id>
-        <values>
-          <value><![CDATA[Kõigile kassidele]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Flamingo-Maius-Kassile-Deli-Yumm-Pasta-Kala-ja-Kanaga-karvapalli-kontroll-70g-2.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.1</weight>
-            <length>0.18</length>
-            <height>0.02</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585334234]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[561803]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10412</category-id>
-    <category-name><![CDATA[Cat snacks]]></category-name>
     <title><![CDATA[Flamingo katės skanėstas Deli Yumm pasta Antistress 70g]]></title>
     <title-ru><![CDATA[Flamingo Лакомство для кошек Deli Yumm паста антистресс 70г]]></title-ru>
     <title-lv><![CDATA[Flamingo kaķu gardums Deli Yumm pasta Antistress 70g]]></title-lv>
@@ -16530,61 +16517,6 @@ Kaitseb mööblit<br />
                 <barcode><![CDATA[5400585314724]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[525752]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10394</category-id>
-    <category-name><![CDATA[Toys for dogs]]></category-name>
-    <title><![CDATA[Flamingo žaislas šunims "Flecta" futbolo kamuolys 13 cm]]></title>
-    <title-ru><![CDATA[Flamingo Игрушка для собак «Flecta» — Футбольный мяч, 13 см]]></title-ru>
-    <title-lv><![CDATA[Flamingo suņu rotaļlieta "Flecta" futbols 13 cm]]></title-lv>
-    <title-ee><![CDATA[Flamingo Mänguasi Koerale "Flecta" Jalgpall 13cm]]></title-ee>
-    <title-fi><![CDATA[Flamingo-koiranlelu "Flecta" jalkapallo 13 cm]]></title-fi>
-    <title-en><![CDATA[Flamingo Dog Toy “Flecta” Football 13 cm]]></title-en>
-    <long-description><![CDATA[žaislas šuniui]]></long-description>
-    <long-description-ru><![CDATA[<strong>Flamingo игрушка для собак «Flecta», футбольный мяч 13 см</strong><br /><br /> Пусть ваше любимое поле засияет с футбольным мячом «Flecta»!<br /> Этот мягкий тканевый мяч создан для веселых игр, а его светоотражающая поверхность обеспечивает лучшую видимость даже при слабом освещении. Мяч имеет забавные ленты, которые делают игру более увлекательной для собаки, и ручку, которая приглашает вас тащить, приносить и играть вместе. Идеальный выбор для активных собак!<br /><br /> <strong>Особенности</strong><br /><br /> Мягкий текстильный материал<br /><br /> Светоотражающий - лучшая видимость на улице<br /><br /> Забавные ленты для дополнительной стимуляции<br /><br /> Ручки для вытягивания и интерактивной игры<br /><br /> Размер: 13 см]]></long-description-ru>
-    <long-description-lv><![CDATA[rotaļlieta sunim]]></long-description-lv>
-    <long-description-ee><![CDATA[<strong>Flamingo mänguasi koerale “Flecta” jalgpall 13 cm</strong><br /><br /> Lase oma lemmikul platsil särada Flecta jalgpalliga!<br /> See pehme kangast pall on loodud mängurõõmu pakkuma ning selle helkiv pind tagab parema nähtavuse ka hämaramas. Pallil on lõbusad paelad, mis teevad mängu koera jaoks põnevamaks, ning käepide, mis kutsub tirima, tooma ja üheskoos mängima. Täiuslik valik aktiivsetele koertele!<br /><br /> <strong>Omadused</strong><br /><br /> Pehme tekstiilist materjal<br /><br /> Helkiv – parem nähtavus õues<br /><br /> Lõbusad paelad lisastimulatsiooni jaoks<br /><br /> Käepide tirimiseks ja interaktiivseks mänguks<br /><br /> Suurus: 13 cm]]></long-description-ee>
-    <long-description-fi><![CDATA[<strong>Flamingo-koiranlelu “Flecta” jalkapallo 13 cm</strong><br /><br /> Anna lempikenttäsi loistaa Flecta-jalkapallolla!<br /> Tämä pehmeä kangaspallo on suunniteltu tarjoamaan hauskaa leikkiä, ja sen heijastava pinta varmistaa paremman näkyvyyden myös hämärässä. Pallossa on hauskat nauhat, jotka tekevät pelistä jännittävämpää koiralle, ja kahva, joka kutsuu raahaamaan, noutamaan ja leikkimään yhdessä. Täydellinen valinta aktiivisille koirille!<br /><br /> <strong>Ominaisuudet</strong><br /><br /> Pehmeä tekstiilimateriaali<br /><br /> Heijastava - parempi näkyvyys ulkona<br /><br /> Hauskat nauhat lisästimulaatioon<br /><br /> Kahvat vetämiseen ja interaktiiviseen leikkiin<br /><br /> Koko: 13 cm]]></long-description-fi>
-    <long-description-en><![CDATA[<strong>Flamingo toy for dogs “Flecta” football 13 cm</strong><br /><br /> Let your favorite field shine with the Flecta football!<br /> This soft fabric ball is designed to provide fun play, and its reflective surface ensures better visibility even in low light. The ball has fun ribbons that make the game more exciting for the dog, and a handle that invites you to drag, fetch and play together. The perfect choice for active dogs!<br /><br /> <strong>Features</strong><br /><br /> Soft textile material<br /><br /> Reflective - better visibility outdoors<br /><br /> Fun ribbons for extra stimulation<br /><br /> Handles for pulling and interactive play<br /><br /> Size: 13 cm]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.2]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Flamingo-Manguasi-Koerale-Flecta-Jalgpall-13cm-A.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/Flamingo-Manguasi-Koerale-Flecta-Jalgpall-13cm-2.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.2</weight>
-            <length>0.15</length>
-            <height>0.15</height>
-            <width>0.15</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585377996]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[524697]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
