@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
+    <category-id>10421</category-id>
+    <category-name><![CDATA[Cat litter]]></category-name>
+    <title><![CDATA[Flamingo gumulinis bentonito kačių kraikas su levandų skoniu, 12 kg]]></title>
+    <title-ru><![CDATA[Flamingo Комкующийся наполнитель, с ароматом лаванды 12кг]]></title-ru>
+    <title-lv><![CDATA[Flamingo kunkuļojošās bentonīta kaķu pakaiši ar lavandu, 12 kg]]></title-lv>
+    <title-ee><![CDATA[Flamingo Paakuv Bentoniidist Kassiliiv Lavendel 12kg]]></title-ee>
+    <title-fi><![CDATA[Flamingo paakkuuntuva bentoniittikissanhiekka laventeli 12 kg]]></title-fi>
+    <title-en><![CDATA[Flamingo Cat Litter Lavender Scented 12kg]]></title-en>
+    <long-description><![CDATA[Kačių kraikas]]></long-description>
+    <long-description-ru><![CDATA[<strong>Комкующийся бентонитовый наполнитель для кошачьего туалета Flamingo с ароматом лаванды, 12 кг</strong><br /><br /> Наполнитель для кошачьего туалета Flamingo Lavender изготовлен из высококачественного бентонита и подходит как для взрослых кошек, так и для котят.<br /> Наполнитель имеет <strong>тонкий аромат лаванды</strong>, <strong>мало пыли</strong> и <strong>высокоабсорбирующий</strong>, образуя быстро удаляемые комки, которые поддерживают чистоту и свежесть лотка.<br /> Мелкозернистая структура (0,3–1,2 мм) делает песок <strong>мягким для лап</strong> и обеспечивает <strong>экономичный</strong> и <strong>гигиеничный</strong>.<br /><br /> <strong>Материал:</strong> бентонит<br /> <strong>Свойства:</strong> комкующийся, высокоабсорбирующий, малопыльный, мягкий для лап, подходит для котят<br /><br /> <strong>Производитель: Flamingo Pet Products, Бельгия. Импортер: Penner OÜ, Выру 77, Тарту, Эстония, info@penner.ee.</strong>]]></long-description-ru>
+    <long-description-lv><![CDATA[Kaķu pakaiši]]></long-description-lv>
+    <long-description-ee><![CDATA[<strong>Flamingo Paakuv Bentoniidist Kassiliiv Lavendel 12kg</strong><br /><br /> Flamingo Lavendel kassiliiv on valmistatud kvaliteetsest bentoniidist ja sobib nii täiskasvanud kassidele kui ka kassipoegadele.<br /> Liiv on <strong>õrna lavendlilõhnaga</strong>, <strong>vähetolmav</strong> ja <strong>tugevalt imav</strong>, moodustades kiiresti eemaldatavad klombid, mis hoiavad liivakasti puhta ja värskena.<br /> Peeneteraline struktuur (0,3–1,2 mm) muudab liiva <strong>õrnaks käppadele</strong> ning muudab kasutamise <strong>ökonoomseks</strong> ja <strong>hügieeniliseks</strong>.<br /><br /> <strong>Materjal:</strong> bentoniit<br /> <strong>Omadused:</strong> klombistuv, tugevalt imav, vähetolmav, õrn käppadele, sobib kassipoegadele<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maaletooja:</strong> Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[<strong>Flamingo Clumping Bentonite Cat Litt Lavender 12kg</strong><br /><br /> Flamingo Lavender -kissanhiekka on valmistettu korkealaatuisesta bentoniitista ja sopii sekä aikuisille kissoille että kissanpennuille.<br /> Hiekka on <strong>hienovaraisesti laventelin tuoksuinen</strong>, <strong>vähäpölyinen</strong> ja <strong>erittäin imukykyinen</strong>, muodostaen nopeasti irtoutuvia paakkuja, jotka pitävät hiekkalaatikon puhtaana ja raikkaana.<br /> Hienorakeinen rakenne (0,3–1,2 mm) tekee hiekka <strong>hellävarainen tassuille</strong> ja tekee käytöstä <strong>taloudellista</strong> ja <strong>hygieenistä</strong>.<br /><br /> <strong>Materiaali:</strong> bentoniitti<br /> <strong>Ominaisuudet:</strong> paakkuuntuva, erittäin imukykyinen, vähän pölyävä, hellävarainen tassuille, sopii kissanpennuille<br /><br /> <strong>Valmistaja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja:</strong> Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Our cat litter with baby powder scent is perfect for your cat!<br /> It absorbs urine quickly and forms solid clumps for easy removal. Low dust and economical to use, and the fine granules feel wonderfully soft on the paws. Also suitable for kittens! Made in Europe.<br /><br /> Material: bentonite with baby powder fragrance<br /> Absorbs urine very quickly and easy to clean thanks to the clumping action<br /> Low-dust and economical in use<br /> Gentle on your cat's paws thanks to fine grains of 0,5 mm to 1,7 mm<br /> Also suitable for kittens<br /><br /> Flamingo Pet Products, Made in Europe]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[12.1]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Kassiliiv_Flamingo_Lavendel__2_.jpg</url></image>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Kassiliiv_Flamingo_Lavendel__1_.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>12.1</weight>
+            <length>0.4</length>
+            <height>0.14</height>
+            <width>0.32</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585258486]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[561660]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
     <category-id>10394</category-id>
     <category-name><![CDATA[Toys for dogs]]></category-name>
     <title><![CDATA[Flamingo žaislas šunims "Flecta" futbolo kamuolys 13 cm]]></title>
@@ -8025,61 +8080,6 @@ Kaitseb mööblit<br />
   <product>
     <category-id>10388</category-id>
     <category-name><![CDATA[Dog leashes, collars, harnesses]]></category-name>
-    <title><![CDATA[Bobby šunų petnešos, Rando Walk, Rožinis L]]></title>
-    <title-ru><![CDATA[Bobby Шлейка для собак, Rando Walk, розовый L]]></title-ru>
-    <title-lv><![CDATA[Bobby suņu krūšu siksna, Rando Walk, Rozā L]]></title-lv>
-    <title-ee><![CDATA[Bobby Traksid Koerale, Rando Walk, Roosa L]]></title-ee>
-    <title-fi><![CDATA[Bobby Koiran Valjaat, Rando Walk, Vaaleanpunainen L]]></title-fi>
-    <title-en><![CDATA[Bobby Dog Harness, Rando Walk, Pink L]]></title-en>
-    <long-description><![CDATA[Bobby Rando Walk traksid on mõeldud koertele, kellel on kalduvus jalutuskäigul tirida. Traksidel on kaks kinnituspunkti — üks seljas abaluude vahel tavaliseks jalutamiseks ja teine rinnal tõmbamise vähendamiseks. Seljakäepide tagab lisakontrolli rahvarohketes kohtades. Hingav ja pehmendatud kangas tagab mugavuse. Helkurribad muudavad traksid nähtavaks hämaras ja öösel. Reguleeritavad pandlad võimaldavad täpset sobivust. Pärast reguleerimist on rakmed sekunditega selga pandavad. Masinpestav 30°C.<br /><br /> <strong>Omadused:</strong><br /> Materjal: 100% polüester, hingav ja pehmendatud kangas<br /> L suurus: kael 48-70cm, rind 56-73cm<br /> Kaks kinnituspunkti (selg ja rind)<br /> Helkurribad<br /> Käepide<br /> Reguleeritav kaela ja rinna ümbermõõt<br /> Masinpestav 30°C<br /><br /> <strong>Tootja</strong>: Bobby, Prantsusmaa<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description>
-    <long-description-ru><![CDATA[Шлейка Bobby Rando Walk разработана для собак, которые склонны тянуть поводок во время прогулок. Шлейка имеет две точки крепления — одну на спине между лопатками для обычной ходьбы и одну на груди для уменьшения натяжения поводка. Задняя ручка обеспечивает дополнительный контроль в людных местах. Дышащая и мягкая ткань гарантирует комфорт. Светоотражающие полосы делают шлейку видимой в условиях недостаточного освещения и ночью. Регулируемые пряжки позволяют точно подогнать шлейку по размеру. После регулировки шлейку можно надеть за считанные секунды. Машинная стирка при 30°C.<br /><br /> <strong>Характеристики:</strong><br /> Материал: 100% полиэстер, дышащая и утепленная ткань<br /> Размер L: обхват шеи 48-70 см, обхват груди 56-73 см<br /> Две точки крепления (на спине и груди)<br /> Светоотражающие полосы<br /> Ручка<br /> Регулируемый обхват шеи и груди<br /> Машинная стирка при 30°C<br /><br /> <strong>Производитель</strong>: Bobby, Франция<br /> <strong>Импортер</strong>: Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
-    <long-description-ee><![CDATA[Bobby Rando Walk traksid on mõeldud koertele, kellel on kalduvus jalutuskäigul tirida. Traksidel on kaks kinnituspunkti — üks seljas abaluude vahel tavaliseks jalutamiseks ja teine rinnal tõmbamise vähendamiseks. Seljakäepide tagab lisakontrolli rahvarohketes kohtades. Hingav ja pehmendatud kangas tagab mugavuse. Helkurribad muudavad traksid nähtavaks hämaras ja öösel. Reguleeritavad pandlad võimaldavad täpset sobivust. Pärast reguleerimist on rakmed sekunditega selga pandavad. Masinpestav 30°C.<br /><br /> <strong>Omadused:</strong><br /> Materjal: 100% polüester, hingav ja pehmendatud kangas<br /> L suurus: kael 48-70cm, rind 56-73cm<br /> Kaks kinnituspunkti (selg ja rind)<br /> Helkurribad<br /> Käepide<br /> Reguleeritav kaela ja rinna ümbermõõt<br /> Masinpestav 30°C<br /><br /> <strong>Tootja</strong>: Bobby, Prantsusmaa<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Bobby Rando Walk -valjaat on suunniteltu koirille, jotka vetävät kävellessään. Valjaissa on kaksi kiinnityspistettä – yksi selässä lapaluiden välissä normaalia kävelyä varten ja toinen rinnassa vetämisen vähentämiseksi. Takakahva tarjoaa lisähallintaa ahtaissa tiloissa. Hengittävä ja pehmustettu kangas varmistaa käyttömukavuuden. Heijastinraidat tekevät valjaista näkyvät hämärässä ja yöllä. Säädettävät soljet mahdollistavat tarkan istuvuuden. Säädön jälkeen valjaat voidaan pukea muutamassa sekunnissa. Konepestävä 30°C:ssa.<br /><br /> <strong>Ominaisuudet:</strong><br /> Materiaali: 100 % polyesteriä, hengittävä ja pehmustettu kangas<br /> Koko L: kaula 48-70 cm, rinnanympärys 56-73 cm<br /> Kaksi kiinnityspistettä (selkä ja rinta)<br /> Heijastinraidat<br /> Kahva<br /> Säädettävä kaula- ja rinnanympärys<br /> Konepestävä 30°C:ssa<br /><br /> <strong>Valmistaja</strong>: Bobby, Ranska<br /> <strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[The Bobby Rando Walk harness is designed for dogs that tend to pull when walking. The harness has two attachment points — one on the back between the shoulder blades for normal walking and one on the chest to reduce pulling. The back handle provides extra control in crowded areas. Breathable and cushioned fabric ensures comfort. Reflective strips make the harness visible in low light and at night. Adjustable buckles allow for a precise fit. Once adjusted, the harness can be put on in seconds. Machine washable at 30°C.<br /><br /> <strong>Features:</strong><br /> Material: 100% polyester, breathable and padded fabric<br /> Size L: neck 48-70cm, chest 56-73cm<br /> Two attachment points (back and chest)<br /> Reflective strips<br /> Handle<br /> Adjustable neck and chest circumference<br /> Machine washable at 30°C<br /><br /> <strong>Manufacturer</strong>: Bobby, France<br /> <strong>Importer</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Croci Canifrance SAS; 314 boulevard Clémenceau 59700 MARCQ-EN-BAROEUL]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Prantsusmaa;]]></manufacturer-address>
-    <manufacturer-email><![CDATA[contact@canifrance.fr]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[BOBBY]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.33]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Bobby-Traksid-Koerale-Rando-Walk-Roosa-S-3.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/Bobby-Traksid-Koerale-Rando-Walk-Mootmed-5.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/Bobby-Traksid-Koerale-Rando-Walk-15.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.33</weight>
-            <length>0.35</length>
-            <height>0.05</height>
-            <width>0.2</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[3380350347343]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[HRWALK_47_25]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10388</category-id>
-    <category-name><![CDATA[Dog leashes, collars, harnesses]]></category-name>
     <title><![CDATA[Bobby šunų petnešos, Rando Walk, Chaki M]]></title>
     <title-ru><![CDATA[Bobby Шлейка для собак, Rando Walk, хаки M]]></title-ru>
     <title-lv><![CDATA[Bobby suņu krūšu siksna, Rando Walk, Haki M]]></title-lv>
@@ -8857,61 +8857,6 @@ Kaitseb mööblit<br />
                 <barcode><![CDATA[8023222129788]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[C6020978]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10421</category-id>
-    <category-name><![CDATA[Cat litter]]></category-name>
-    <title><![CDATA[Flamingo gumulinis bentonito kačių kraikas su levandų skoniu, 12 kg]]></title>
-    <title-ru><![CDATA[Flamingo Комкующийся наполнитель, с ароматом лаванды 12кг]]></title-ru>
-    <title-lv><![CDATA[Flamingo kunkuļojošās bentonīta kaķu pakaiši ar lavandu, 12 kg]]></title-lv>
-    <title-ee><![CDATA[Flamingo Paakuv Bentoniidist Kassiliiv Lavendel 12kg]]></title-ee>
-    <title-fi><![CDATA[Flamingo paakkuuntuva bentoniittikissanhiekka laventeli 12 kg]]></title-fi>
-    <title-en><![CDATA[Flamingo Cat Litter Lavender Scented 12kg]]></title-en>
-    <long-description><![CDATA[Kačių kraikas]]></long-description>
-    <long-description-ru><![CDATA[<strong>Комкующийся бентонитовый наполнитель для кошачьего туалета Flamingo с ароматом лаванды, 12 кг</strong><br /><br /> Наполнитель для кошачьего туалета Flamingo Lavender изготовлен из высококачественного бентонита и подходит как для взрослых кошек, так и для котят.<br /> Наполнитель имеет <strong>тонкий аромат лаванды</strong>, <strong>мало пыли</strong> и <strong>высокоабсорбирующий</strong>, образуя быстро удаляемые комки, которые поддерживают чистоту и свежесть лотка.<br /> Мелкозернистая структура (0,3–1,2 мм) делает песок <strong>мягким для лап</strong> и обеспечивает <strong>экономичный</strong> и <strong>гигиеничный</strong>.<br /><br /> <strong>Материал:</strong> бентонит<br /> <strong>Свойства:</strong> комкующийся, высокоабсорбирующий, малопыльный, мягкий для лап, подходит для котят<br /><br /> <strong>Производитель: Flamingo Pet Products, Бельгия. Импортер: Penner OÜ, Выру 77, Тарту, Эстония, info@penner.ee.</strong>]]></long-description-ru>
-    <long-description-lv><![CDATA[Kaķu pakaiši]]></long-description-lv>
-    <long-description-ee><![CDATA[<strong>Flamingo Paakuv Bentoniidist Kassiliiv Lavendel 12kg</strong><br /><br /> Flamingo Lavendel kassiliiv on valmistatud kvaliteetsest bentoniidist ja sobib nii täiskasvanud kassidele kui ka kassipoegadele.<br /> Liiv on <strong>õrna lavendlilõhnaga</strong>, <strong>vähetolmav</strong> ja <strong>tugevalt imav</strong>, moodustades kiiresti eemaldatavad klombid, mis hoiavad liivakasti puhta ja värskena.<br /> Peeneteraline struktuur (0,3–1,2 mm) muudab liiva <strong>õrnaks käppadele</strong> ning muudab kasutamise <strong>ökonoomseks</strong> ja <strong>hügieeniliseks</strong>.<br /><br /> <strong>Materjal:</strong> bentoniit<br /> <strong>Omadused:</strong> klombistuv, tugevalt imav, vähetolmav, õrn käppadele, sobib kassipoegadele<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maaletooja:</strong> Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[<strong>Flamingo Clumping Bentonite Cat Litt Lavender 12kg</strong><br /><br /> Flamingo Lavender -kissanhiekka on valmistettu korkealaatuisesta bentoniitista ja sopii sekä aikuisille kissoille että kissanpennuille.<br /> Hiekka on <strong>hienovaraisesti laventelin tuoksuinen</strong>, <strong>vähäpölyinen</strong> ja <strong>erittäin imukykyinen</strong>, muodostaen nopeasti irtoutuvia paakkuja, jotka pitävät hiekkalaatikon puhtaana ja raikkaana.<br /> Hienorakeinen rakenne (0,3–1,2 mm) tekee hiekka <strong>hellävarainen tassuille</strong> ja tekee käytöstä <strong>taloudellista</strong> ja <strong>hygieenistä</strong>.<br /><br /> <strong>Materiaali:</strong> bentoniitti<br /> <strong>Ominaisuudet:</strong> paakkuuntuva, erittäin imukykyinen, vähän pölyävä, hellävarainen tassuille, sopii kissanpennuille<br /><br /> <strong>Valmistaja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja:</strong> Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[Our cat litter with baby powder scent is perfect for your cat!<br /> It absorbs urine quickly and forms solid clumps for easy removal. Low dust and economical to use, and the fine granules feel wonderfully soft on the paws. Also suitable for kittens! Made in Europe.<br /><br /> Material: bentonite with baby powder fragrance<br /> Absorbs urine very quickly and easy to clean thanks to the clumping action<br /> Low-dust and economical in use<br /> Gentle on your cat's paws thanks to fine grains of 0,5 mm to 1,7 mm<br /> Also suitable for kittens<br /><br /> Flamingo Pet Products, Made in Europe]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[12.1]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Kassiliiv_Flamingo_Lavendel__2_.jpg</url></image>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Kassiliiv_Flamingo_Lavendel__1_.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>12.1</weight>
-            <length>0.4</length>
-            <height>0.14</height>
-            <width>0.32</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585258486]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[561660]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -42883,58 +42828,6 @@ Loksutada enne kasutamist. Jagada üle sööda. Suurenenud vajaduse korral võib
                 <barcode><![CDATA[4021158486146]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[48614]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10451</category-id>
-    <category-name><![CDATA[Toys for cats]]></category-name>
-    <title><![CDATA[Robocat žaislas katėms – auksinė žuvelė]]></title>
-    <title-ru><![CDATA[Robocat Игрушка для кошек – Золотая рыбка]]></title-ru>
-    <title-lv><![CDATA[Robocat kaķu rotaļlieta - zelta zivtiņa]]></title-lv>
-    <title-ee><![CDATA[Robocat Mänguasi Kassile - Kuldkala]]></title-ee>
-    <title-fi><![CDATA[Robocat-kissanlelu - Kultakala]]></title-fi>
-    <title-en><![CDATA[Robocat Cat Toy – Goldfish]]></title-en>
-    <long-description><![CDATA[Žaislas katei]]></long-description>
-    <long-description-ru><![CDATA[Эта реалистичная рыбка Robocat буквально оживает и станет идеальной игрушкой для вашей кошки. «Живая» рыбка двигается благодаря встроенному аккумулятору, а наполнитель MADNIP делает её особенно привлекательной для кошек. MADNIP получают из особого растения из Азии, он помогает кошкам расслабиться и успокоиться. По своему эффекту и фруктовому аромату он даже сильнее обычной кошачьей мяты.<br /><br /> Уникальное сочетание движения и MADNIP мгновенно активирует природные охотничьи инстинкты кошки, обеспечивая как физическую активность, так и умственную стимуляцию.<br /><br /> Легко заряжается с помощью входящего в комплект USB-кабеля.<br /><br /> Размер: 30 см<br /><br /> Производитель: Robocat<br /> Импортер: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Rotaļlieta kaķim]]></long-description-lv>
-    <long-description-ee><![CDATA[See realistlik Robocat kala ärkab tõeliselt ellu ning on ideaalne mänguasi sinu kassile. „Elav“ kala liigub tänu sisseehitatud akule ning MADNIP-täidis muudab selle eriti vastupandamatuks. MADNIP pärineb Aasia erilisest taimest ning aitab kassil lõõgastuda ja rahuneda. See on isegi tugevama ja puuviljasema toimega kui tavaline kassinaeris (catnip).<br /><br /> Liikumise ja MADNIP-i ainulaadne kooslus aktiveerib koheselt kassi loomuliku jahiinstinkti ning pakub nii füüsilist aktiivsust kui ka vaimset stimulatsiooni.<br /><br /> Laadimine on lihtne komplektis oleva USB-kaabli abil.<br /><br /> Suurus: 30 cm<br /><br /> Tootja: Robocat<br /> Maaletooja: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Tämä realistinen Robocat-kala todella herää eloon ja on täydellinen lelu kissallesi. "Elävä" kala liikkuu sisäänrakennetun akun ansiosta ja MADNIP-täyte tekee siitä erityisen vastustamattoman. MADNIP on peräisin erityisestä aasialaisesta kasvista ja auttaa kissaasi rentoutumaan ja rauhoittumaan. Se on jopa vahvempaa ja hedelmäisempää kuin tavallinen kissanminttu.<br /><br /> Ainutlaatuinen liikkeen ja MADNIPin yhdistelmä aktivoi välittömästi kissan luonnollisen metsästysvaiston ja tarjoaa sekä fyysistä aktiivisuutta että henkistä stimulaatiota.<br /><br /> Lataaminen on helppoa mukana tulevalla USB-kaapelilla.<br /><br /> Koko: 30 cm<br /><br /> Valmistaja: Robocat<br /> Maahantuoja: Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[This realistic Robocat Fish truly comes to life and is the perfect toy for your cat. The “living” fish moves thanks to its built-in battery, and the MADNIP filling makes it irresistible to cats. MADNIP comes from a special plant in Asia and helps cats relax and unwind. It is even more powerful and fruitier than traditional catnip.<br /><br /> This unique combination of movement and MADNIP instantly activates your cat’s natural hunting instincts, providing both physical activity and mental stimulation.<br /><br /> Easy to charge with the included USB cable.<br /><br /> Size: 30 cm<br /><br /> Manufacturer: Robocat<br /> Importer: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Robocat]]></manufacturer-name>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[MUUD]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.3]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/robocat-kassimanguasi-kassile.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.3</weight>
-            <length>0.395</length>
-            <height>0.05</height>
-            <width>0.125</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[8716759581890]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[ROBO001]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
