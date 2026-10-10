@@ -1,6 +1,431 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
+    <category-id>10415</category-id>
+    <category-name><![CDATA[Dog clothes]]></category-name>
+    <title><![CDATA[Flamingo žieminė striukė šunims „Lima“ geltona 30 cm]]></title>
+    <title-ru><![CDATA[Flamingo Зимнее пальто для собаки "Lima" Желтое 30см]]></title-ru>
+    <title-lv><![CDATA[Flamingo ziemas jaka suņiem "Lima" dzeltena 30 cm]]></title-lv>
+    <title-ee><![CDATA[Flamingo Talvejope Koerale "Lima" Kollane 30cm]]></title-ee>
+    <title-fi><![CDATA[Flamingo-talvitakki koirille "Lima" keltainen 30 cm]]></title-fi>
+    <title-en><![CDATA[Flamingo Winter Coat for Dog "Lima" Yellow 30cm]]></title-en>
+    <long-description><![CDATA[Žieminė striukė šuniui.]]></long-description>
+    <long-description-ru><![CDATA[Защитите своего пушистого друга от холода!<br /> Изготовлено из полиэстера и стирается при 30°C.<br /> С застежкой-молнией, эластичными боковинами и флисовой подкладкой внутри для идеальной посадки и дополнительного тепла.<br /> Защита от брызг и ветра, с защитой груди и живота.<br /><br /> A:30 см B:33 см C:49 см<br /><br /> Материал: полиэстер<br /> Можно стирать при 30°C<br /> Верхняя молния и эластичные боковые вставки для комфортной посадки<br /> Защита от брызг и ветра<br /> Внутренняя подкладка из флиса<br /> С защитой живота и груди и воротником-стойкой для лучшей защиты<br /><br /> <strong>Flamingo Pet Products</strong>]]></long-description-ru>
+    <long-description-lv><![CDATA[Ziemas jaka sunim.]]></long-description-lv>
+    <long-description-ee><![CDATA[Kaitske oma karvast sõpra külma eest!<br /> Valmistatud polüestrist ja pestav 30°C juures.<br /> Tõmbluku, elastsete külgede ja seest fliisiga täiusliku istuvuse ja lisasoojuse tagamiseks.<br /> Pritsme- ja tuulekindel, rinna- ja kõhukattega.<br /><br /> A:30cm B:33cm C:49cm<br /><br /> Materjal: polüester<br /> Pestav 30°C juures<br /> Ülemine tõmblukk ja elastsed küljed mugavaks istumiseks<br /> Pritsme- ja tuulekindel<br /> Seest viimistletud fliisiga<br /> Kõhu- ja rindkere katte ja püstkraega parema kaitse tagamiseks<br /><br /> <strong>Flamingo Pet Products</strong>]]></long-description-ee>
+    <long-description-fi><![CDATA[Suojaa karvaista ystävääsi kylmältä!<br /> Valmistettu polyesteristä ja pestävä 30°C:ssa.<br /> Vetoketju, joustavat sivut ja fleecevuori täydellisen istuvuuden ja lisälämmön takaamiseksi.<br /> Roiske- ja tuulenpitävä, rinta- ja vatsasuojalla.<br /><br /> A: 30cm L: 33cm C: 49cm<br /><br /> Materiaali: polyesteri<br /> Pestävä 30°C:ssa<br /> Ylävetoketju ja joustavat sivut takaavat mukavan istuvuuden<br /> Roiske- ja tuulenpitävä<br /> Fleecevuori sisäpuolella<br /> Vatsa- ja rintapehmuste sekä pystykaulus paremman suojan takaamiseksi<br /><br /> <strong>Flamingo Pet Products</strong>]]></long-description-fi>
+    <long-description-en><![CDATA[Protect your furry friend from the cold!<br /> Made of polyester and washable at 30°C.<br /> With a zipper, elastic sides and fleece inside for a perfect fit and extra warmth.<br /> Splash and windproof, with chest and belly cover.<br /><br /> A:30cm B:33cm C:49cm<br /><br /> Material: polyester<br /> Washable at 30°C<br /> Top zipper and elastic sides for a comfortable fit<br /> Splash and windproof<br /> Fleece-lined inside<br /> With belly and chest cover and stand-up collar for better protection<br /><br /> <strong>Flamingo Pet Products</strong>]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.15]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/Talvejope-Koerale-Lima-Kollane-1-.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/Talvejope-Koerale-Lima-Kollane-A.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/Talvejope-Koerale-Lima-Kollane-B.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/Talvejope-Koerale-Lima-Kollane-4.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.15</weight>
+            <length>0.3</length>
+            <height>0.03</height>
+            <width>0.25</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585276459]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[523155]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10373</category-id>
+    <category-name><![CDATA[Wet/canned dog food]]></category-name>
+    <title><![CDATA[Amora Wild konservuotas šunų maistas (su jautiena ir elniena) 800 g]]></title>
+    <title-ru><![CDATA[Amora консервы для собак - с олениной 800г]]></title-ru>
+    <title-lv><![CDATA[Amora Wild konservētā suņu barība (ar liellopu un brieža gaļu) 800g]]></title-lv>
+    <title-ee><![CDATA[Amora Wild Koerakonserv (Veise- ja Hirvelihaga) 800g]]></title-ee>
+    <title-fi><![CDATA[Amora Wild -säilykekoiranruoka (naudan- ja peuranlihalla) 800 g]]></title-fi>
+    <title-en><![CDATA[Amora Meat Pure Dog Food (Beef & Venison) 800g]]></title-en>
+    <long-description><![CDATA[„Amora“ konservuotas šunų ėdalas su žvėriena yra visavertis ėdalas, sudarytas iš 70 % mėsos ir subproduktų, kuriame gausu vertingų gyvūninių baltymų ir kuris padeda palaikyti gerą kailio būklę. Be grūdų, cukraus ir dirbtinių priedų.]]></long-description>
+    <long-description-ru><![CDATA[Консервированный корм Amora с дичью предлагает вашей собаке полноценное питание с исключительно высоким содержанием мяса и субпродуктов (70%). Сочетание дичи и говядины обеспечивает разнообразие в рационе и снабжает вашу собаку ценными животными белками, именно так, как того требует ее особый рацион.<br /><br /> Тщательно отобранные богатые питательными веществами субпродукты, такие как печень, сердце, почки и желудок, вместе с сочными кусочками мяса, обеспечивают натуральный вкус. Говяжий бульон добавляет сочности, а высококачественное сафлоровое масло способствует блестящей шерсти и активному образу жизни.<br /><br /> Консервированный корм для собак Amora не содержит добавленных злаков или сахара и полностью свободен от искусственных красителей, ароматизаторов и консервантов.<br /><br /> <strong>СОСТАВ:</strong> 55% говядина (легкие, мясо, печень, сердце, почки), 29% говяжий бульон, 15% оленина (мясо и субпродукты животного происхождения), минералы, сафлоровое масло. Может содержать следы других ингредиентов.<br /> <strong>АНАЛИЗ:</strong> Белок 10%, Жир 6,5%, Сырая зола 2,2%, Сырая клетчатка 0,4%, Влажность 77%<br /> <strong>ДОБАВКИ:</strong> Пищевые добавки/кг: Витамин А 2000 МЕ, Витамин D3 200 МЕ, Витамин Е 25 мг, Цинк в виде оксида цинка 20 мг, Йод в виде безводного йодата кальция 0,75 мг<br /> Технологические добавки: Камедь кассии 2500 мг<br /><br /> <strong>Полноценный корм для собак</strong><br /><br /> <strong>РЕКОМЕНДАЦИИ ПО ПИТАНИЮ:</strong><br /> 5 кг: 290 - 335 г<br /> 10 кг: 485 - 560 г<br /> 15 кг: 660 - 760 г<br /> 20 кг: 815 - 945 г<br /> 30 кг: 1105 - 1280 г<br /> 40 кг: 1375 - 1590 г<br /><br /> <strong>ПРИМЕЧАНИЕ:</strong><br /> Индивидуальные суточные потребности также зависят от других факторов, таких как порода, возраст и активность. Хранить в прохладном, сухом месте. После вскрытия хранить в холодильнике и употребить в течение 2 дней. Подавать при комнатной температуре.<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ:</strong> BTG Beteilingungs GmbH, Германия<br /> <strong>Импортер:</strong> Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Amora konservētā suņu barība ar medījuma gaļu ir pilnvērtīga maltīte ar 70% gaļas un subproduktiem, kas satur vērtīgas dzīvnieku olbaltumvielas un veicina kažoka veselību. Bez graudiem, cukura un mākslīgām piedevām.]]></long-description-lv>
+    <long-description-ee><![CDATA[Amora ulukilihaga konserv pakub koerale täisväärtuslikku einet, mille liha- ja siseelundite sisaldus on erakordselt kõrge (70%). Uluki- ja veiseliha kombinatsioon tagab vaheldust kausis ning varustab koera väärtuslike loomsete proteiinidega, täpselt nii, nagu koerale omane toitumine ette näeb.<br /><br /> Hoolikalt valitud toitaineterikkad siseelundid nagu maks, süda, neer ja magu, koos mahlaste lihatükkidega annavad loomulikku maitset. Veiselihapuljong lisab mahlasust ning kvaliteetne saflooriõli toetab karvkatte läiget ja aktiivset eluviisi.<br /><br /> Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult ilma kunstlike värv-, lõhna- ja säilitusaineteta.<br /><br /> <strong>KOOSTIS:</strong> 55% veiseliha (kopsud, liha, maks, süda, neer), 29% veiseliha puljong, 15% hirveliha (liha ja loomsed saadused), mineraalid, saflooriõli. Võib sisaldada teise koostisosade jälgi.<br /> <strong>ANALÜÜS:</strong> Proteiin 10%, rasv 6,5%, toortuhk 2,2%, toorkiudained 0,4%, niiskus 77%<br /> <strong>LISANDID:</strong> Toitainelised lisandid/kg: Vitamiin A 2000IU, Vitamiin D3 200IU, Vitamiin E 25mg, tsink kui tsinkoksiid 20mg, jood kui kaltsiumjodaat - veevaba 0.75mg<br /> Tehnoloogilised lisandid: Cassia Gum 2500mg<br /><br /> <strong>Täissööt koertele</strong><br /><br /> <strong>TOITUMISSOOVITUSED:</strong><br /> 5 kg: 290 - 335 g<br /> 10 kg: 485 - 560 g<br /> 15 kg: 660 - 760 g<br /> 20 kg: 815 - 945 g<br /> 30 kg: 1105 - 1280 g<br /> 40 kg: 1375 - 1590 g<br /><br /> <strong>MÄRKUS:</strong><br /> Individuaalsed päevased vajadused sõltuvad ka teistest faktoritest nagu tõug, vanus ja aktiivsus. Hoia jahedas ja kuivas kohas. Avatult hoiustada külmkapis ja tarbida 2 päeva jooksul. Serveeri toatemperatuuril.<br /><br /> <strong>TOOTJA:</strong> BTG Beteilingungs GmbH, Saksamaa<br /> <strong>Maaletooja:</strong> Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[<strong>UUSI RESEPTI!</strong><br /><br /> Täysravintoa koirille<br /><br /> <strong>AMORA-säilykkeet</strong> ovat korkealaatuisia täysravintoja, jotka ovat runsaasti eläinproteiinia, vitamiineja ja kivennäisaineita.<br /> Säilykkeet eivät sisällä makuaineita, väriaineita tai säilöntäaineita. Ei sisällä viljaa, sokeria tai sianlihaa.<br /><br /> <strong>AINESOSAT:</strong>55 % naudanlihaa (keuhkoja, lihaa, maksa, sydän, munuaisia), 29 % naudanlihalientä, 15 % peuranlihaa (lihaa ja eläinperäisiä sivutuotteita), kivennäisaineita, safloriöljyä. Saattaa sisältää jäämiä muista ainesosista.<br /> <strong>ANALYYSI:</strong>Proteiinia 10 %, rasvaa 6,5 %, raakatuhkaa 2,2 %, raakakuitua 0,4 %, kosteutta 77 %<br /> <strong>LISÄAINEET:</strong>Ravitsemukselliset lisäaineet/kg: A-vitamiini 2000 IU, D3-vitamiini 200 IU, E-vitamiini 25 mg, sinkki sinkkioksidina 20 mg, jodi kalsiumjodaattina - vedetön 0,75 mg<br /> Teknologiset lisäaineet: Kassiakumi 2500 mg<br /><br /> <strong>RAVINTOSUOSITUKSIA:</strong><br /> 5 kg: 290–335 g<br /> 10 kg: 485–560 g<br /> 15 kg: 660–760 g<br /> 20 kg: 815–945 g<br /> 30 kg: 1105–1280 g<br /> 40 kg: 1375–1590 g<br /><br /> <strong>HUOM:</strong><br /> Yksilölliset päivittäiset tarpeet riippuvat myös muista tekijöistä, kuten rodusta, iästä ja aktiivisuudesta. Säilytä viileässä ja kuivassa paikassa. Avattu pakkaus säilytetään jääkaapissa ja käytetään 2 päivän kuluessa. Tarjoile huoneenlämmössä.<br /><br /> <strong>AMORA - Valmistettu Saksassa</strong>]]></long-description-fi>
+    <long-description-en><![CDATA[NOW WITH NEW RECIPE!<br /><br /> complete feedingstuffs for dogs<br /><br /> AMORA meat pure is a high-quality complete food, which is produced exclusively from pieces of meat and offal. AMORA Meat pure contains especially high amounts of animal protein, vitamins and minerals. AMORA Meat pure contains no flavourings, colourings or preservatives. - Produced in Germany.<br /><br /> Only high-quality meat and meat by-products are processed. No preservatives, no attractants, no sugar, no flavourings. Pure meat tins for mixing. German production - without pork<br /><br /> composition: 55 % beef (lung, meat, liver, heart, kidney), 29 % beef broth, 15 % venison (meat and animal by-products*), minerals, safflower oil. May contain traces of other ingredients.<br /><br /> Analytical components: Protein 10 %, fat content 6.5 %, crude ash 2.2 %, crude fiber 0.4 %, moisture 77 %.<br /><br /> Additives: Nutritional additives/kg: Vitamin A 2000 IU, vitamin D3 200 IU, vitamin E 25 mg, zinc as zinc oxide 20 mg, iodine as calcium iodate - anhydrous 0.75 mg.<br /><br /> Technological additives: Cassia Gum 2500 mg.<br /><br /> Feeding recommendation:<br /> 5 kg dog/dog: 290 - 335 g<br /> 10 kg dog/dog: 485 - 560 g<br /> 15 kg dog/dog: 660 - 760 g<br /> 20 kg dog/dog: 815 - 945 g<br /> 30 kg dog/dog: 1105 - 1280 g<br /> 40 kg dog/dog: 1375 - 1590 g<br /><br /> Notice:<br /> The individual daily requirement of your dog depends on other factors such as breed, age, activity and attitude. Store in a cool and dry place. Once opened, store in the refrigerator and consume within 2 days. Please feed at room temperature. Please always provide sufficient fresh water. Additional feeding of snacks should be considered in the daily ration. Without added cereals and pork.]]></long-description-en>
+    <composition><![CDATA[55% veiseliha (kopsud, liha, maks, süda, neer), 29% veiseliha puljong, 15% hirveliha (liha ja loomsed saadused), mineraalid, saflooriõli. Võib sisaldada teise koostisosade jälgi.]]></composition>
+    <composition-ee><![CDATA[55% veiseliha (kopsud, liha, maks, süda, neer), 29% veiseliha puljong, 15% hirveliha (liha ja loomsed saadused), mineraalid, saflooriõli. Võib sisaldada teise koostisosade jälgi.]]></composition-ee>
+    <manufacturer-name><![CDATA[BTG Beteiligungs GmbH; Gewerbestr. 5-7]]></manufacturer-name>
+    <manufacturer-address><![CDATA[42499 Hückeswagen, Saksamaa;]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@amora.biz]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[AMORA]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.914]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Looma vanus]]></id>
+        <values>
+          <value><![CDATA[Erinevatele vanustele]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Eriomadus]]></id>
+        <values>
+          <value><![CDATA[Kõigile koertele]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Amora_Wild_Koerakonserv_Veise-_ja_Hirvelihaga.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.914</weight>
+            <length>0.1</length>
+            <height>0.12</height>
+            <width>0.1</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[4028802250405]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[9113758]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10412</category-id>
+    <category-name><![CDATA[Cat snacks]]></category-name>
+    <title><![CDATA[Flamingo skanėstas katėms - Hapki vištienos filė gabaliukai 85g (Best before 11/2026)]]></title>
+    <title-ru><![CDATA[Flamingo Hapki Куриное филе 85г (Best before 11/2026)]]></title-ru>
+    <title-lv><![CDATA[Flamingo kārums kaķiem - Hapki vistas filejas gabaliņi 85g (Best before 11/2026)]]></title-lv>
+    <title-ee><![CDATA[Flamingo Maius Kassile - Hapki Kanafilee Tükid 85g (Parim enne 11/2026)]]></title-ee>
+    <title-fi><![CDATA[Flamingo-herkku kissoille - Hapki kananfileepalat 85g (Best before 11/2026)]]></title-fi>
+    <title-en><![CDATA[Flamingo Snack for Cats - Hapki Chicken Breast Fillets 85g (Best before 11/2026)]]></title-en>
+    <long-description><![CDATA[Papildomas maistas katėms.]]></long-description>
+    <long-description-ru><![CDATA[<strong>Лакомство для кошек с низким содержанием жира и высоким содержанием белка.</strong><br /><br /> Ограниченный срок годности после вскрытия упаковки.<br /><br /> <strong>Ингредиенты:</strong> Продукты животного происхождения Maismaa (курица 89,6%), растительный белок, картофельный крахмал, глицерин, хлорид натрия.<br /><br /> <strong>Анализ:</strong> Сырой белок: 55%, Сырые масла и жиры: 1,2%, Влажность: 18%, Сырая зола: 7,5%, Сырая клетчатка: 0,5%<br /><br /> <strong>Дополнительный корм для кошек.</strong><br /><br /> <strong>Применение:</strong> Постоянно обеспечивайте наличие свежей питьевой воды.<br /> <strong>Хранение:</strong> в сухом и прохладном месте.<br /> <strong>Годен до и номер партии количество</strong> см. на упаковке<br /> <strong>Чистое количество</strong> 85 г<br /><br /> <strong>Производитель:</strong> Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen, Belgium, info@flamingo.be<br /> <strong>Импортер:</strong> Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Papildbarība kaķiem.]]></long-description-lv>
+    <long-description-ee><![CDATA[<strong>Madala rasva- ja kõrge proteiinisisaldusega maius kassile.</strong><br /><br /> Pärast avamist piiratud säilivusaeg.<br /><br /> <strong>Koostis:</strong> Maismaa loomasaadused (kanaliha 89,6%), taimne proteiin, kartulitärklis, glütseriin, naatriumkloriid<br /><br /> <strong>Analüüs:</strong> Toorproteiin: 55%, Toorõlid ja -rasvad: 1,2%, Niiskus: 18%, Toortuhk: 7,5%, Toorkiud: 0,5%<br /><br /> <strong>Täiendsööt kassidele.</strong><br /><br /> <strong>Kasutamine</strong>: Värske joogivesi hoida alati kättesaadaval.<br /> <strong>Säilitamine:</strong> kuivas ja jahedas kohas.<br /> <strong>Parim enne ja partii nr</strong> vaata pakendilt<br /> <strong>Neto kogus</strong> 85g<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen, Belgia, info@flamingo.be<br /> <strong>Maaletooja:</strong> Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[<strong>Vähärasvainen, runsasproteiininen herkku kissoille.</strong><br /><br /> Rajoitettu säilyvyysaika avaamisen jälkeen.<br /><br /> <strong>Ainesosat:</strong> Maismaa eläinperäiset tuotteet (kana 89,6 %), kasviproteiini, perunatärkkelys, glyseriini, natriumkloridi<br /><br /> <strong>Analyysi:</strong> Raakaproteiini: 55 %, Raakarasvat: 1,2 %, Kosteus: 18 %, Tuhka: 7,5 %, Raakakuitu: 0,5 %<br /><br /> <strong>Täydennysravinto kissoille.</strong><br /><br /> <strong>Käyttö:</strong> Pidä tuoretta juomavettä aina saatavilla.<br /> <strong>Säilytys:</strong> kuivassa ja viileässä paikassa.<br /> <strong>Parasta ennen ja eränumero</strong> katso pakkausseloste pakkaus<br /> <strong>Nettomäärä</strong> 85g<br /><br /> <strong>Valmistaja:</strong> Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen, Belgia, info@flamingo.be<br /> <strong>Maahantuoja:</strong> Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[<strong>A low-fat, high-protein treat for cats.</strong><br /><br /> Limited shelf life after opening.<br /><br /> <strong>Ingredients:</strong> Maismaa animal products (chicken 89.6%), vegetable protein, potato starch, glycerin, sodium chloride<br /><br /> <strong>Analysis:</strong> Crude protein: 55%, Crude oils and fats: 1.2%, Moisture: 18%, Crude ash: 7.5%, Crude fiber: 0.5%<br /><br /> <strong>Complementary food for cats.</strong><br /><br /> <strong>Use:</strong> Keep fresh drinking water available at all times.<br /> <strong>Storage:</strong> in a dry and cool place.<br /> <strong>Best before and batch number</strong> see per package<br /> <strong>Net quantity</strong> 85g<br /><br /> <strong>Manufacturer:</strong> Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen, Belgium, info@flamingo.be<br /> <strong>Importer:</strong> Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
+    <composition><![CDATA[Maismaa loomasaadused (kanaliha 89,6%), taimne proteiin, kartulitärklis, glütseriin, naatriumkloriid]]></composition>
+    <composition-ee><![CDATA[Maismaa loomasaadused (kanaliha 89,6%), taimne proteiin, kartulitärklis, glütseriin, naatriumkloriid]]></composition-ee>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.95]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Looma vanus]]></id>
+        <values>
+          <value><![CDATA[Erinevatele vanustele]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Eriomadus]]></id>
+        <values>
+          <value><![CDATA[Kõigile kassidele]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Hapki_Maius_Kassile_-_Kanafilee_Tukid_85g.jpg</url></image>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/kanafille_tukd_kassile_1.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.95</weight>
+            <length>0.18</length>
+            <height>0.03</height>
+            <width>0.125</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400274994176]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[502937]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10370</category-id>
+    <category-name><![CDATA[Dry dog food]]></category-name>
+    <title><![CDATA[Enova Lifetime Maintenance sausas šunų maistas suaugusiems, 2kg  (Best before 11/2026)]]></title>
+    <title-ru><![CDATA[Enova Lifetime Maintenance Полноценное питание для взрослых собак всех пород 2кг (Best before 11/2026)]]></title-ru>
+    <title-lv><![CDATA[Enova Lifetime Maintenance sausā barība pieaugušiem suņiem 2kg (Best before 11/2026)]]></title-lv>
+    <title-ee><![CDATA[Enova Lifetime Maintenance Kuivtoit Kanaga Täiskasvanud Koerale 2kg (Parim enne 11/2026)]]></title-ee>
+    <title-fi><![CDATA[Enova Lifetime Maintenance -kuivaruoka aikuisille koirille 2kg (Best before 11/2026)]]></title-fi>
+    <title-en><![CDATA[Enova Lifetime Maintenance Adult Dog Food 2kg (Best before 11/2026)]]></title-en>
+    <long-description><![CDATA[Maintenance šunų pašaras tinka visų dydžių suaugusiems šunims.]]></long-description>
+    <long-description-ru><![CDATA[<strong>Корм Maintenance</strong> подходит для взрослых собак любого размера. Курица и яйца обеспечивают высокоусвояемый белок, богатый аминокислотами (помогают поддерживать мышцы даже у активных и рабочих собак). Правильно сбалансированные жирные кислоты омега-6 и омега-3 улучшают состояние шерсти и кожи. Рецепт также богат хондроитином и глюкозамином из натуральных источников (Perna canaliculus – новозеландская зеленогубая мидия) для здоровья и гибкости суставов.<br /><br /> Не содержит: наполнителей; кукурузы, пшеницы и сои; без ГМО<br /><br /> <strong>СОСТАВ</strong>: сушёная курица (28%), рис, коричневый рис, ячмень, куриный жир, сушёные цельные яйца, сушёный свекольный жом, рисовые отруби, гидролизованный белок, семена льна, лососевый жир, сушёные дрожжи, сушёный горох, хлорид натрия, целлюлозное волокно, хлорид калия, сушёный экстракт новозеландской зеленогубой мидии (Perna canaliculus), глюкозамин, хондроитинсульфат<br /> Технологические добавки: антиоксиданты<br /> <strong>АНАЛИТИЧЕСКИЕ КОМПОНЕНТЫ</strong>: Сырой протеин 26,5%, сырой жир 13,5%, сырая клетчатка 2,5%, сырая зола 7,4%, кальций 1,5%, фосфор 1,0%, омега-6 2,1%, омега-3 0,6%<br /> <strong>ОБМЕННАЯ ЭНЕРГИЯ:</strong> 3745 ккал/кг<br /> <strong>ГЛЮКОЗАМИН</strong>: 250 мг/кг<br /> <strong>ХОНДРОИТИН</strong>: 250 мг/кг<br /> <strong>ВИТАМИНЫ</strong>: E672 витамин A 15 000 МЕ, E671 витамин D3 1 200 МЕ, витамин E 150 мг, E4 медь (в виде пентагидрата сульфата меди) 10 мг, цинк (в виде оксида цинка) 90 мг, цинк (в виде гидрата хелата цинка аминокислот) 45 мг, йод (в виде безводного йодата кальция) 2 мг, селен (в виде селенита натрия) 0,2 мг<br /><br /> Форма и размер гранул: продолговатая, длина ок. 1,5 см<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ</strong>: Ticinese Petfood s.r.l, Италия]]></long-description-ru>
+    <long-description-lv><![CDATA[Maintenance suņu barība ir piemērota visu izmēru pieaugušiem suņiem.]]></long-description-lv>
+    <long-description-ee><![CDATA[<strong>Maintenance koeratoit</strong> on sobilik igas suuruses täiskasvanud koertele. Kana ja munad tagavad kõrgelt seeditava proteiini, milles on rikkalikult aminohappeid (aitavad hoida lihaseid ka aktiivsetel ja töötavatel koertel). Õieti balansseeritud omega 6 ja 3 rasvhapped edendavad karva ja naha olukorda. Retseptis on ka rikkalikult kondriotiini ja glükosamiini, mis pärineb naturaalsetest allikatest (Perna canaliculus - jõekarp), et hoida liigesed terved ja paindlikud.<br /><br /> Ei sisalda: täiteaineid; maisi, nisu ja sojat; GMO vaba<br /><br /> <strong>KOOSTIS</strong>: kuivatatud kanaliha (28%), riis, pruun riis, oder, kanarasv, kuivatatud terved munad, kuivatatud peedi viljaliha, riisikliid, hüdrolüüsitud valk, linaseemned, lõheõli, kuivatatud pärm, kuivatatud herned, naatriumkloriid, tsellulooskiud, kaaliumkloriid, kuivatatud jõekarbi ekstrakt (Perna canaliculus), glükosamiin, kondriotiinsulfaat<br /> Tehnoloogilised lisandid: antioksüdandid<br /> <strong>ANALÜÜS</strong>: Toorproteiin 26,5%, Toorrasv 13,5%, Toorkiudained 2,5%, Toortuhk 7,4%, Kaltsium 1,5%, Fosfor 1,0%, Omega 6 2,1%, Omega 3 0,6%<br /> <strong>METABOLISEERUV ENERGIA:</strong> 3745kcal/kg<br /> <strong>GLÜKOSAMIIN</strong>: 250mg/kg<br /> <strong>KONDRIOTIIN</strong>: 250mg/kg<br /> <strong>VITAMIINID</strong>: E672 Vitamiin A 15.000ME, E671 Vitamiin D3 1.200ME, Vitamiin E 150mg, E4 Vask (kui vasksulfaadi pentahüdraat) 10mg, tsink (kui tsinkoksiid) 90mg, tsink (kui tsinkkelaat aminohapete hüdraat) 45mg, jood (kui kaltsiumjodaad, veevaba) 2mg, seleen (kui naatriumseleniit) 0,2mg<br /><br /> Krõbina kuju ja suurus: Piklik, pikkus ∼1,5cm<br /><br /> <strong>TOOTJA</strong>: Ticinese Petfood s.r.l, Itaalia]]></long-description-ee>
+    <long-description-fi><![CDATA[<strong>Maintenance-koiranruoka</strong> sopii kaikenkokoisille aikuisille koirille. Kana ja kananmuna tarjoavat hyvin sulavaa proteiinia, joka sisältää runsaasti aminohappoja (ne auttavat ylläpitämään lihaksia myös aktiivisilla ja työkoirilla). Oikein tasapainotetut omega-6- ja omega-3-rasvahapot edistävät turkin ja ihon kuntoa. Resepti sisältää myös runsaasti kondroitiinia ja glukosamiinia luonnollisista lähteistä (Perna canaliculus – vihersimpukka), jotta nivelet pysyvät terveinä ja joustavina.<br /><br /> Ei sisällä: täyteaineita; maissia, vehnää eikä soijaa; GMO-vapaa<br /><br /> <strong>KOOSTUMUS</strong>: kuivattu kana (28 %), riisi, ruskea riisi, ohra, kananrasva, kuivattu kokonainen kananmuna, kuivattu juurikasleike, riisilese, hydrolysoitu proteiini, pellavansiemen, lohiöljy, kuivattu hiiva, kuivattu herne, natriumkloridi, selluloosakuitu, kaliumkloridi, kuivattu vihersimpukkauute (Perna canaliculus), glukosamiini, kondroitiinisulfaatti<br /> Teknologiset lisäaineet: antioksidantit<br /> <strong>ANALYYTTISET AINESOSAT</strong>: Raakavalkuainen 26,5 %, raakarasva 13,5 %, raakakuitu 2,5 %, raakatuhka 7,4 %, kalsium 1,5 %, fosfori 1,0 %, omega-6 2,1 %, omega-3 0,6 %<br /> <strong>MUUNTOKELPOINEN ENERGIA:</strong> 3745 kcal/kg<br /> <strong>GLUKOSAMIINI</strong>: 250 mg/kg<br /> <strong>KONDROITIINI</strong>: 250 mg/kg<br /> <strong>VITAMIINIT</strong>: E672 A-vitamiini 15 000 KY, E671 D3-vitamiini 1 200 KY, E-vitamiini 150 mg, E4 kupari (kupari(II)sulfaattipentahydraattina) 10 mg, sinkki (sinkkioksidina) 90 mg, sinkki (aminohappojen sinkkikelaattihydraattina) 45 mg, jodi (vedettömänä kalsiumjodaattina) 2 mg, seleeni (natriumseleniittinä) 0,2 mg<br /><br /> Nappulan muoto ja koko: pitkulainen, pituus n. 1,5 cm<br /><br /> <strong>VALMISTAJA</strong>: Ticinese Petfood s.r.l, Italia]]></long-description-fi>
+    <long-description-en><![CDATA[<strong>Maintenance dog food</strong> is suitable for adult dogs of all sizes. Chicken and eggs provide highly digestible protein rich in amino acids (they help maintain muscles even in active and working dogs). Properly balanced omega-6 and omega-3 fatty acids promote coat and skin condition. The recipe is also rich in chondroitin and glucosamine from natural sources (Perna canaliculus – green-lipped mussel) to keep joints healthy and flexible.<br /><br /> Does not contain: fillers; corn, wheat or soy; GMO-free<br /><br /> <strong>COMPOSITION</strong>: dried chicken (28%), rice, brown rice, barley, chicken fat, dried whole eggs, dried beet pulp, rice bran, hydrolysed protein, linseed, salmon oil, dried yeast, dried peas, sodium chloride, cellulose fibre, potassium chloride, dried green-lipped mussel extract (Perna canaliculus), glucosamine, chondroitin sulphate<br /> Technological additives: antioxidants<br /> <strong>ANALYTICAL CONSTITUENTS</strong>: Crude protein 26.5%, Crude fat 13.5%, Crude fibre 2.5%, Crude ash 7.4%, Calcium 1.5%, Phosphorus 1.0%, Omega 6 2.1%, Omega 3 0.6%<br /> <strong>METABOLISABLE ENERGY:</strong> 3745 kcal/kg<br /> <strong>GLUCOSAMINE</strong>: 250 mg/kg<br /> <strong>CHONDROITIN</strong>: 250 mg/kg<br /> <strong>VITAMINS</strong>: E672 Vitamin A 15,000 IU, E671 Vitamin D3 1,200 IU, Vitamin E 150 mg, E4 Copper (as cupric sulphate pentahydrate) 10 mg, zinc (as zinc oxide) 90 mg, zinc (as zinc chelate of amino acids hydrate) 45 mg, iodine (as calcium iodate, anhydrous) 2 mg, selenium (as sodium selenite) 0.2 mg<br /><br /> Kibble shape and size: elongated, length approx. 1.5 cm<br /><br /> <strong>MANUFACTURER</strong>: Ticinese Petfood s.r.l, Italy]]></long-description-en>
+    <manufacturer-name><![CDATA[Enova Petfood srl; Via Vigentina]]></manufacturer-name>
+    <manufacturer-address><![CDATA[102, 27100 PAVIA (PV) Itaalia;]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@enovapetfood.com]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[ENOVA]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[2.1]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Looma vanus]]></id>
+        <values>
+          <value><![CDATA[Erinevatele vanustele]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Eriomadus]]></id>
+        <values>
+          <value><![CDATA[Kõigile koertele]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/ENOVA_Maintenance_Taiskasvanud_Koera_Kuivtoit_12kg.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/enova-maintenance-kuivtoit-koerale-krobin-2.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>2.1</weight>
+            <length>0.095</length>
+            <height>0.34</height>
+            <width>0.2</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[8032869781747]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[CS531]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>22346</category-id>
+    <category-name><![CDATA[Food for farm animals]]></category-name>
+    <title><![CDATA[Excellent Horse Combi Oil - Lašišų ir Menkių Kepenų Aliejus Arkliams 2,5L (Best before 12/2026)]]></title>
+    <title-ru><![CDATA[Excellent Horse Combi Oil - Лосось и масло печени трески для лошадей 2,5л (Best before 12/2026)]]></title-ru>
+    <title-lv><![CDATA[Excellent Horse Combi Oil - Laša un Mencu Aknu Eļļa Zirgiem 2,5L (Best before 12/2026)]]></title-lv>
+    <title-ee><![CDATA[Excellent Horse Combi Oil - Lõhe- ja tursamaksaõli hobustele 2,5l  (Parim enne 12/2026)]]></title-ee>
+    <title-fi><![CDATA[Excellent Horse Combi Oil - Lohi- ja Tursamaksaöljy Hevosille 2,5L (Best before 12/2026)]]></title-fi>
+    <title-en><![CDATA[Excellent Horse Combi Oil - Salmon and Cod Liver Oil for Horses 2.5l (Best before 12/2026)]]></title-en>
+    <long-description><![CDATA[Excellent Horse Combi Oil on vedelal kujul sööt hobustele, mis ühendab lõheõli ja tursamaksaõli. Toode toetab üldist tervist ja liigesefunktsiooni, soodustab loomulikku vastupanuvõimet ning tagab läikiva karvkatte.<br />
+<br />
+Lõheõli on looduslikult rikas oluliste rasvhapetega omega-3 ja omega-6. Omega-3 rasvhapped toetavad immuunsüsteemi, liigeseid, nahka, südant ja veresooni. Omega-6 rasvhapped stimuleerivad immuunsüsteemi. Tursamaksaõli on samuti rikas omega-3 rasvhapete ning A- ja D-vitamiiniga. A-vitamiin toetab immuunsüsteemi ning D-vitamiin toetab luid ja kaltsiumi ning fosfori imendumist.<br />
+<br />
+Kasutamine: üldise tervise ja vastupanuvõime toetamiseks, liigesefunktsiooni toetamiseks ning tuhmi karvkatte korral.<br />
+<br />
+<strong>Omadused:</strong><br />
+Energiarikas lõhe- ja tursamaksaõli kombinatsioon<br />
+Rikas kergesti imenduvate omega-3 rasvhapete ning A- ja D-vitamiiniga<br />
+Toetab üldist tervist ja loomulikku vastupanuvõimet<br />
+Toetab liigesefunktsiooni<br />
+Tagab läikiva karvkatte<br />
+<br />
+<strong>Koostis</strong>: Kalaõli (lõheõli ja tursamaksaõli kombinatsioon)<br />
+<strong>Lisandid kg kohta: </strong>A-vitamiin (3a672b): 500 000 IU, D3-vitamiin (3a671): 50 000 IU<br />
+<br />
+<strong>Analüütilised koostisosad: </strong>Toorrasv 99,9%, millest omega-3 15,7%, EPA + DHA 8,0%, omega-6 14,1%<br />
+<br />
+<strong>Söötmisjuhis:</strong><br />
+Hobune: 30 ml päevas<br />
+Poni: 20 ml päevas<br />
+Loksutada enne kasutamist. Jagada üle sööda. Suurenenud vajaduse korral võib kogust ajutiselt kahekordistada.<br />
+<br />
+<strong>Säilitamine</strong>: Hoida jahedas ja kuivas kohas, temperatuuril alla 25°C, kaitstuna otsesest päikesevalgusest. Sulgeda pakend pärast kasutamist.<br />
+<br />
+<strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description>
+    <long-description-ee><![CDATA[Excellent Horse Combi Oil on vedelal kujul sööt hobustele, mis ühendab lõheõli ja tursamaksaõli. Toode toetab üldist tervist ja liigesefunktsiooni, soodustab loomulikku vastupanuvõimet ning tagab läikiva karvkatte.<br />
+<br />
+Lõheõli on looduslikult rikas oluliste rasvhapetega omega-3 ja omega-6. Omega-3 rasvhapped toetavad immuunsüsteemi, liigeseid, nahka, südant ja veresooni. Omega-6 rasvhapped stimuleerivad immuunsüsteemi. Tursamaksaõli on samuti rikas omega-3 rasvhapete ning A- ja D-vitamiiniga. A-vitamiin toetab immuunsüsteemi ning D-vitamiin toetab luid ja kaltsiumi ning fosfori imendumist.<br />
+<br />
+Kasutamine: üldise tervise ja vastupanuvõime toetamiseks, liigesefunktsiooni toetamiseks ning tuhmi karvkatte korral.<br />
+<br />
+<strong>Omadused:</strong><br />
+Energiarikas lõhe- ja tursamaksaõli kombinatsioon<br />
+Rikas kergesti imenduvate omega-3 rasvhapete ning A- ja D-vitamiiniga<br />
+Toetab üldist tervist ja loomulikku vastupanuvõimet<br />
+Toetab liigesefunktsiooni<br />
+Tagab läikiva karvkatte<br />
+<br />
+<strong>Koostis</strong>: Kalaõli (lõheõli ja tursamaksaõli kombinatsioon)<br />
+<strong>Lisandid kg kohta: </strong>A-vitamiin (3a672b): 500 000 IU, D3-vitamiin (3a671): 50 000 IU<br />
+<br />
+<strong>Analüütilised koostisosad: </strong>Toorrasv 99,9%, millest omega-3 15,7%, EPA + DHA 8,0%, omega-6 14,1%<br />
+<br />
+<strong>Söötmisjuhis:</strong><br />
+Hobune: 30 ml päevas<br />
+Poni: 20 ml päevas<br />
+Loksutada enne kasutamist. Jagada üle sööda. Suurenenud vajaduse korral võib kogust ajutiselt kahekordistada.<br />
+<br />
+<strong>Säilitamine</strong>: Hoida jahedas ja kuivas kohas, temperatuuril alla 25°C, kaitstuna otsesest päikesevalgusest. Sulgeda pakend pärast kasutamist.<br />
+<br />
+<strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[EXCELLENT PETS]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[2.5]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/Excellent-Horse-Combi-Oil-Lohe-ja-tursamaksaoli-hobustele-25l.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>2.5</weight>
+            <length>0.105</length>
+            <height>0.21</height>
+            <width>0.15</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[8716759642713]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[EQUI0022GD]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10373</category-id>
+    <category-name><![CDATA[Wet/canned dog food]]></category-name>
+    <title><![CDATA[LandFleisch šunims skirtas BARF2GO žaliasis pesto su vaisiais, daržovėmis ir žolelėmis, 200g (Best before 11/2026)]]></title>
+    <title-ru><![CDATA[LandFleisch BARF2GO Зелёное песто из фруктов, овощей и трав 200г (Best before 11/2026)]]></title-ru>
+    <title-lv><![CDATA[LandFleisch suņiem BARF2GO zaļais pesto ar augļiem, dārzeņiem un garšaugiem 200g (Best before 11/2026)]]></title-lv>
+    <title-ee><![CDATA[LandFleisch BARF2GO Roheline Pesto Puu- ja köögiviljadest ning ürtidest 200g (Parim enne 11/2026)]]></title-ee>
+    <title-fi><![CDATA[LandFleisch koiranruoka BARF2GO vihreä pesto hedelmillä, vihanneksilla ja yrteillä 200g (Best before 11/2026)]]></title-fi>
+    <title-en><![CDATA[LandFleisch BARF2GO Green Pesto with Fruits, Vegetables and Herbs 200g (Best before 11/2026)]]></title-en>
+    <long-description><![CDATA[„LandFleisch Dog B.A.R.F.2GO“ žaliasis pesto su vaisiais, daržovėmis ir žolelėmis yra natūralus maisto papildas, kuriame yra įvairių vitaminų turtingų vaisių ir daržovių, mineralų turtingų žolelių ir aukštos kokybės aliejų. Smulkiai sumalti ingredientai užtikrina gerą virškinamumą ir atitinka natūralius šuns mitybos įpročius.]]></long-description>
+    <long-description-ru><![CDATA[<strong>LandFleisch Dog B.A.R.F.2GO Зелёное песто из фруктов, овощей и трав</strong> – это натуральная пищевая добавка, содержащая разнообразный набор богатых витаминами фруктов и овощей, минеральных трав и высококачественных масел. Мелко измельчённые ингредиенты обеспечивают хорошую усвояемость и соответствуют естественным пищевым привычкам собак.<br /><br /> <strong>Преимущества продукта:</strong><br /><br /> 100% натуральные ингредиенты – без искусственных добавок<br /><br /> Хорошо усваивается – мелко измельчённая смесь<br /><br /> Богат витаминами, минералами и антиоксидантами<br /><br /> Не содержит злаков, сои, ГМО и искусственных консервантов<br /><br /> Производится в Германии по самым высоким стандартам качества<br /><br /> <strong>Состав:</strong> 20% шпинат, 20% картофель, 10% кейл (листовая капуста), 10% цветная капуста, 10% брокколи, 10% морковь, 5% яблоко, 5% кабачок, 5% дыня, 2% персик, 2% рапсовое масло, а также манго, петрушка, одуванчик, анис, фенхель, любисток, имбирь. Может содержать следы других ингредиентов.<br /><br /> <strong>Анализ:</strong> Сырой протеин: 2,0%, сырой жир: 2,0%, сырая зола: 1,5%, сырая клетчатка: 1,5%, влага: 86,0%<br /><br /> <strong>Рекомендации по кормлению:</strong><br /> BARF2GO Песто не является полнорационным кормом. Сбалансированное питание обеспечивается только при совместном использовании всех трёх компонентов:<br /><br /> BARF2GO мясные консервы<br /><br /> BARF2GO фруктово-овощное песто<br /><br /> BARF2GO витаминно-минеральная смесь<br /><br /> Индивидуальная дневная норма зависит от породы, возраста, активности и условий содержания собаки. Для собак с избыточным весом уменьшите количество мяса или увеличьте долю песто.<br /><br /> Кормить при комнатной температуре. После открытия хранить в холодильнике и использовать в течение 2 дней. Всегда обеспечивайте доступ к свежей питьевой воде.<br /><br /> <strong>Дополнительный корм для собак</strong><br /> Годен до: см. на упаковке<br /> Номер партии: см. на упаковке<br /> Масса нетто: 200 г<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ:</strong> LandFleisch Tiernahrung LFT GmbH, Германия<br /> <strong>ИМПОРТЁР:</strong> Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[LandFleisch suņiem B.A.R.F.2GO zaļais pesto ar augļiem, dārzeņiem un garšaugiem ir dabīgs uztura bagātinātājs, kas satur daudzveidīgu vitamīniem bagātu augļu un dārzeņu, minerālvielām bagātu garšaugu un augstas kvalitātes eļļu izvēli. Smalki samaltās sastāvdaļas nodrošina labu sagremojamību un atbilst suņu dabiskajiem ēšanas paradumiem.]]></long-description-lv>
+    <long-description-ee><![CDATA[<strong>LandFleisch Dog B.A.R.F.2GO Roheline Pesto puu- ja köögiviljadest ning ürtidest</strong> on looduslähedane toidulisand, mis sisaldab mitmekülgset valikut vitamiinirikkaid puu- ja köögivilju, mineraalaineterikkaid ürte ning kvaliteetseid õlisid. Peeneks purustatud koostisosad tagavad hea omastatavuse ja vastavad koerte loomupärastele toitumisharjumustele.<br /><br /> <strong>Toote omadused:</strong><br /> 100% looduslikud koostisosad – ei sisalda kunstlikke lisaaineid<br /> Väga hästi omastatav – peenelt purustatud segu<br /> Rikas vitamiinide, mineraalainete ja antioksüdantide poolest<br /> Ei sisalda teravilja, soja, GMO koostisosi ega kunstlikke säilitusaineid<br /> Toodetud Saksamaal vastavalt kõrgeimatele kvaliteedistandarditele<br /><br /> <strong>Koostis:</strong> 20% spinat, 20% kartul, 10% lehtkapsas, 10% lillkapsas, 10% brokoli, 10% porgand, 5% õun, 5% suvikõrvits, 5% melon, 2% virsik, 2% rapsiõli, lisaks mango, petersell, võilill, aniis, fenkol, aed-lovage, ingver. Võib sisaldada jälgi muudest koostisosadest.<br /><br /> <strong>Analüüs:</strong> Toorproteiin: 2,0%, toorrasv: 2,0%, toortuhk: 1,5%, kiudained: 1,5%, niiskus: 86,0%<br /><br /> <strong>Söötmissoovitus:</strong><br /> BARF2GO Pesto ei ole täissööt. Tasakaalustatud toitumise tagab ainult kolme komponendi kooskasutamine:<br /><br /> BARF2GO lihakonserv<br /><br /> BARF2GO puu- ja köögiviljapesto<br /><br /> BARF2GO vitamiini- ja mineraalainete segu<br /><br /> Individuaalne päevane vajadus sõltub koera tõust, vanusest, aktiivsusest ja elutingimustest. Ülekaaluliste koerte puhul vähenda liha kogust või suurenda pestot.<br /><br /> Serveeri toatemperatuuril. Pärast avamist hoida külmkapis ja kasutada 2 päeva jooksul. Tagada alati värske joogivee kättesaadavus.<br /><br /> <strong>Täiendsööt koertele</strong><br /> Parim enne: vaata pakendilt<br /> Partii nr: vaata pakendilt<br /> Netokogus: 200 g<br /><br /> <strong>TOOTJA:</strong> LandFleisch Tiernahrung LFT GmbH, Saksamaa<br /> <strong>MAALETOOJA:</strong> Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[<strong>LandFleisch Dog B.A.R.F.2GO Vihreä pesto hedelmillä, vihanneksilla ja yrteillä</strong> on luonnollinen ravintolisä, joka sisältää monipuolisen valikoiman vitamiinipitoisia hedelmiä ja vihanneksia, mineraalipitoisia yrttejä ja korkealaatuisia öljyjä. Hienoksi jauhetut ainesosat takaavat hyvän sulavuuden ja vastaavat koirien luonnollisia ruokailutottumuksia.<br /><br /> <strong>Tuotteen ominaisuudet:</strong><br /> 100 % luonnollisia ainesosia - ei keinotekoisia lisäaineita<br /> Erittäin hyvin sulava - hienoksi jauhettu seos<br /> Runsaasti vitamiineja, kivennäisaineita ja antioksidantteja<br /> Ei sisällä viljaa, soijaa, GMO-ainesosia eikä keinotekoisia säilöntäaineita<br /> Valmistettu Saksassa korkeimpien laatustandardien mukaisesti<br /><br /> <strong>Ainesosat:</strong> 20 % pinaattia, 20 % perunaa, 10 % lehtikaalia, 10 % kukkakaalia, 10 % parsakaalia, 10 % porkkanaa, 5 % omenaa, 5 % kesäkurpitsaa, 5 % melonia, 2 % persikkaa, 2 % rypsiöljyä, sekä mangoa, persilja, voikukka, anis, fenkoli, lipstikka, inkivääri. Saattaa sisältää jäämiä muista ainesosista.<br /><br /> <strong>Analyysi:</strong> Raakaproteiini: 2,0 %, raakarasva: 2,0 %, raakatuhka: 1,5 %, raakakuitu: 1,5 %, kosteus: 86,0 %<br /><br /> <strong>Ruokintasuositus:</strong><br /> BARF2GO Pesto ei ole täysravinto. Tasapainoinen ruokavalio varmistetaan vain kolmen komponentin yhdistelmällä:<br /><br /> BARF2GO-säilykeliha<br /><br /> BARF2GO-hedelmä- ja vihannespesto<br /><br /> BARF2GO-vitamiini- ja kivennäisaineseos<br /><br /> Yksilöllinen päivittäinen tarve riippuu koiran rodusta, iästä, aktiivisuudesta ja elinolosuhteista. Ylipainoisille koirille vähennä lihan määrää tai lisää pestoa.<br /><br /> Tarjoile huoneenlämmössä. Avaamisen jälkeen säilytä jääkaapissa ja käytä kahden päivän kuluessa. Varmista aina, että saatavilla on tuoretta juomavettä.<br /><br /> <strong>Koiran täydennysruoka</strong><br /> Parasta ennen: katso pakkaus<br /> Eränumero: katso pakkaus<br /> Nettopaino: 200 g<br /><br /> <strong>VALMISTAJA:</strong> LandFleisch Tiernahrung LFT GmbH, Saksa<br /> <strong>MAAHANTUOJA:</strong> Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[<strong>LandFleisch Dog B.A.R.F.2GO Green Pesto with Fruits, Vegetables and Herbs</strong> is a natural dietary supplement that contains a diverse selection of vitamin-rich fruits and vegetables, mineral-rich herbs, and high-quality oils. The finely ground ingredients ensure excellent digestibility and correspond to the natural eating habits of dogs.<br /><br /> <strong>Product features:</strong><br /><br /> 100% natural ingredients – no artificial additives<br /><br /> Highly digestible – finely ground mix<br /><br /> Rich in vitamins, minerals, and antioxidants<br /><br /> Free from grains, soy, GMO ingredients, and artificial preservatives<br /><br /> Made in Germany according to the highest quality standards<br /><br /> <strong>Composition:</strong> 20% spinach, 20% potato, 10% kale, 10% cauliflower, 10% broccoli, 10% carrot, 5% apple, 5% zucchini, 5% melon, 2% peach, 2% rapeseed oil, plus mango, parsley, dandelion, anise, fennel, lovage, ginger. May contain traces of other ingredients.<br /><br /> <strong>Analytical constituents:</strong> Crude protein: 2.0%, crude fat: 2.0%, crude ash: 1.5%, crude fiber: 1.5%, moisture: 86.0%<br /><br /> <strong>Feeding recommendation:</strong><br /> BARF2GO Pesto is not a complete feed. A balanced diet is only ensured when combined with all three components:<br /><br /> BARF2GO meat can<br /><br /> BARF2GO fruit & vegetable pesto<br /><br /> BARF2GO vitamin & mineral mix<br /><br /> The individual daily requirement depends on the dog’s breed, age, activity level, and living conditions. For overweight dogs, reduce the meat portion or increase the amount of pesto.<br /><br /> Serve at room temperature. After opening, refrigerate and use within 2 days. Always ensure access to fresh drinking water.<br /><br /> <strong>Complementary feed for dogs</strong><br /> Best before: see packaging<br /> Batch number: see packaging<br /> Net weight: 200 g<br /><br /> <strong>MANUFACTURER:</strong> LandFleisch Tiernahrung LFT GmbH, Germany<br /> <strong>IMPORTER:</strong> Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
+    <composition><![CDATA[20% spinat, 20% kartul, 10% lehtkapsas, 10% lillkapsas, 10% brokoli, 10% porgand, 5% õun, 5% suvikõrvits, 5% melon, 2% virsik, 2% rapsiõli, lisaks mango, petersell, võilill, aniis, fenkol, aed-lovage, ingver. Võib sisaldada jälgi muudest koostisosadest.]]></composition>
+    <composition-ee><![CDATA[20% spinat, 20% kartul, 10% lehtkapsas, 10% lillkapsas, 10% brokoli, 10% porgand, 5% õun, 5% suvikõrvits, 5% melon, 2% virsik, 2% rapsiõli, lisaks mango, petersell, võilill, aniis, fenkol, aed-lovage, ingver. Võib sisaldada jälgi muudest koostisosadest.]]></composition-ee>
+    <manufacturer-name><![CDATA[LandFleisch Tiernahrung LFT GmbH, Saksamaa]]></manufacturer-name>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[LANDFLEISCH]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.23]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Looma vanus]]></id>
+        <values>
+          <value><![CDATA[Erinevatele vanustele]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Eriomadus]]></id>
+        <values>
+          <value><![CDATA[Kõigile koertele]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/LandFleisch_Dog_BARF2GO_Roheline_Pesto_Puu-_ja_koogiviljadest_ning_urtidest.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/TAF-0709-7.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.23</weight>
+            <length>0.075</length>
+            <height>0.06</height>
+            <width>0.075</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[4003537445302]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[4003537445302]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
     <category-id>10421</category-id>
     <category-name><![CDATA[Cat litter]]></category-name>
     <title><![CDATA[Flamingo gumulinis bentonito kačių kraikas su levandų skoniu, 12 kg]]></title>
@@ -5232,144 +5657,6 @@ The pictures are illustrative, choose the appropriate size according to your dog
     </colours>
   </product>
   <product>
-    <category-id>10412</category-id>
-    <category-name><![CDATA[Cat snacks]]></category-name>
-    <title><![CDATA[Flamingo skanėstas katėms - anties filė gabaliukai 50 g]]></title>
-    <title-ru><![CDATA[Flamingo Лакомство для кошек "Утная грудка" 50г]]></title-ru>
-    <title-lv><![CDATA[Flamingo kārums kaķiem - pīles filejas gabaliņi 50g]]></title-lv>
-    <title-ee><![CDATA[Flamingo Maius Kassile - Pardifilee Tükid 50g]]></title-ee>
-    <title-fi><![CDATA[Flamingo-herkku kissalle - ankanfileepaloja 50 g]]></title-fi>
-    <title-en><![CDATA[Flamingo Cat Treat Duck Fillet Bites 50g]]></title-en>
-    <long-description><![CDATA[Kačių maistas]]></long-description>
-    <long-description-ru><![CDATA[Лакомство для кошек<br /><br /> <strong>Ингредиенты:</strong> 100% филе утиной грудки<br /> <strong>Анализ:</strong> сырой протеин 32%, влажность 18%, сырая зола 4%, сырые масла и жиры 4%, сырая клетчатка 0,3%<br /> <strong>Энергетическая ценность:</strong> 150 ккал<br /> <strong>Добавки:</strong> крахмал 4,5%, сорбит 3%, глицерин 2%, соль 0,5%<br /><br /> <strong>Кормовой материал для кошек.</strong><br /><br /> <strong>Применение</strong>: Обеспечьте постоянный доступ к свежей питьевой воде.<br /> <strong>Хранение:</strong>в сухом и прохладном месте.<br /> <strong>Год годности и номер партии</strong> см. на упаковке<br /> <strong>Чистая масса количество</strong>50 г<br /><br /> <strong>Производитель:</strong> Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen, Belgium, info@flamingo.be<br /> <strong>Импортер:</strong> Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Kaķu barība]]></long-description-lv>
-    <long-description-ee><![CDATA[Kassimaius<br /><br /> <strong>Koostis:</strong> pardi rinnafilee 100%<br /> <strong>Analüüs:</strong> toorproteiin 32%, niiskus 18%, toor tuhk 4%, toorõlid ja rasvad 4%, toorkiud 0,3%<br /> <strong>Energia:</strong> 150kcal<br /> <strong>Lisandid:</strong> tärklis 4,5%, sorbitool 3%, glütseriin 2%, sool 0,5%<br /><br /> <strong>Söödamaterjal kassidele.</strong><br /><br /> <strong>Kasutamine</strong>: Värske joogivesi hoida alati kättesaadaval.<br /> <strong>Säilitamine:</strong> kuivas ja jahedas kohas.<br /> <strong>Parim enne ja partii nr</strong> vaata pakendilt<br /> <strong>Neto kogus</strong> 50g<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen, Belgia, info@flamingo.be<br /> <strong>Maaletooja:</strong> Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Kissanherkku<br /><br /> <strong>Ainesosat:</strong> 100 % ankanrintafileetä<br /> <strong>Analyysi:</strong> raakaproteiini 32 %, kosteus 18 %, raakatuhka 4 %, raakaöljyt ja -rasvat 4 %, raakakuitu 0,3 %<br /> <strong>Energia:</strong> 150 kcal<br /> <strong>Lisäaineet:</strong> tärkkelys 4,5 %, sorbitoli 3 %, glyseriini 2 %, suola 0,5 %<br /><br /> <strong>Kissojen rehuaine.</strong><br /><br /> <strong>Käyttö: Pidä raikasta juomavettä aina saatavilla.</strong><br /> <strong>Säilytys:kuivassa ja viileässä paikassa.</strong><br /> <strong>Parasta ennen ja eränumero katso pakkaus</strong><br /> <strong>Netto määrä 50g</strong><br /><br /> <strong>Valmistaja: Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen, Belgia, info@flamingo.be</strong><br /> <strong>Maahantuoja: Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee</strong>]]></long-description-fi>
-    <long-description-en><![CDATA[Cat Treat<br /><br /> <strong>Ingredients:</strong> 100% duck breast fillet<br /> <strong>Analysis:</strong> crude protein 32%, moisture 18%, crude ash 4%, crude oils and fats 4%, crude fiber 0.3%<br /> <strong>Energy:</strong> 150kcal<br /> <strong>Additives:</strong> starch 4.5%, sorbitol 3%, glycerin 2%, salt 0.5%<br /><br /> <strong>Feed material for cats.</strong><br /><br /> <strong>Usage</strong>: Keep fresh drinking water available at all times.<br /> <strong>Storage:</strong> in a dry and cool place.<br /> <strong>Best before and batch number</strong> see packaging<br /> <strong>Net quantity</strong> 50g<br /><br /> <strong>Manufacturer:</strong> Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen, Belgium, info@flamingo.be<br /> <strong>Importer:</strong> Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
-    <composition><![CDATA[pardi rinnafilee 100%]]></composition>
-    <composition-ee><![CDATA[pardi rinnafilee 100%]]></composition-ee>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.08]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Looma vanus]]></id>
-        <values>
-          <value><![CDATA[Erinevatele vanustele]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Eriomadus]]></id>
-        <values>
-          <value><![CDATA[Kõigile kassidele]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Maius_Kassile_Pardifilee_Tukid_50g.jpg</url></image>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Kassimaius_Pardifilee_Tukid_1.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.08</weight>
-            <length>0.185</length>
-            <height>0.015</height>
-            <width>0.11</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585053333]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[560600]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10412</category-id>
-    <category-name><![CDATA[Cat snacks]]></category-name>
-    <title><![CDATA[Flamingo skanėstas katėms - Hapki vištienos filė gabaliukai 85 g]]></title>
-    <title-ru><![CDATA[Flamingo Hapki Куриное филе 85г]]></title-ru>
-    <title-lv><![CDATA[Flamingo kārums kaķiem - Hapki vistas filejas gabaliņi 85g]]></title-lv>
-    <title-ee><![CDATA[Flamingo Maius Kassile - Hapki Kanafilee Tükid 85g]]></title-ee>
-    <title-fi><![CDATA[Flamingo-herkku kissoille - Hapki kananfileepalat 85 g]]></title-fi>
-    <title-en><![CDATA[Flamingo Snack for Cats - Hapki Chicken Breast Fillets 85g]]></title-en>
-    <long-description><![CDATA[Papildomas maistas katėms.]]></long-description>
-    <long-description-ru><![CDATA[<strong>Лакомство для кошек с низким содержанием жира и высоким содержанием белка.</strong><br /><br /> Ограниченный срок годности после вскрытия упаковки.<br /><br /> <strong>Ингредиенты:</strong> Продукты животного происхождения Maismaa (курица 89,6%), растительный белок, картофельный крахмал, глицерин, хлорид натрия.<br /><br /> <strong>Анализ:</strong> Сырой белок: 55%, Сырые масла и жиры: 1,2%, Влажность: 18%, Сырая зола: 7,5%, Сырая клетчатка: 0,5%<br /><br /> <strong>Дополнительный корм для кошек.</strong><br /><br /> <strong>Применение:</strong> Постоянно обеспечивайте наличие свежей питьевой воды.<br /> <strong>Хранение:</strong> в сухом и прохладном месте.<br /> <strong>Годен до и номер партии количество</strong> см. на упаковке<br /> <strong>Чистое количество</strong> 85 г<br /><br /> <strong>Производитель:</strong> Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen, Belgium, info@flamingo.be<br /> <strong>Импортер:</strong> Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Papildbarība kaķiem.]]></long-description-lv>
-    <long-description-ee><![CDATA[<strong>Madala rasva- ja kõrge proteiinisisaldusega maius kassile.</strong><br /><br /> Pärast avamist piiratud säilivusaeg.<br /><br /> <strong>Koostis:</strong> Maismaa loomasaadused (kanaliha 89,6%), taimne proteiin, kartulitärklis, glütseriin, naatriumkloriid<br /><br /> <strong>Analüüs:</strong> Toorproteiin: 55%, Toorõlid ja -rasvad: 1,2%, Niiskus: 18%, Toortuhk: 7,5%, Toorkiud: 0,5%<br /><br /> <strong>Täiendsööt kassidele.</strong><br /><br /> <strong>Kasutamine</strong>: Värske joogivesi hoida alati kättesaadaval.<br /> <strong>Säilitamine:</strong> kuivas ja jahedas kohas.<br /> <strong>Parim enne ja partii nr</strong> vaata pakendilt<br /> <strong>Neto kogus</strong> 85g<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen, Belgia, info@flamingo.be<br /> <strong>Maaletooja:</strong> Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[<strong>Vähärasvainen, runsasproteiininen herkku kissoille.</strong><br /><br /> Rajoitettu säilyvyysaika avaamisen jälkeen.<br /><br /> <strong>Ainesosat:</strong> Maismaa eläinperäiset tuotteet (kana 89,6 %), kasviproteiini, perunatärkkelys, glyseriini, natriumkloridi<br /><br /> <strong>Analyysi:</strong> Raakaproteiini: 55 %, Raakarasvat: 1,2 %, Kosteus: 18 %, Tuhka: 7,5 %, Raakakuitu: 0,5 %<br /><br /> <strong>Täydennysravinto kissoille.</strong><br /><br /> <strong>Käyttö:</strong> Pidä tuoretta juomavettä aina saatavilla.<br /> <strong>Säilytys:</strong> kuivassa ja viileässä paikassa.<br /> <strong>Parasta ennen ja eränumero</strong> katso pakkausseloste pakkaus<br /> <strong>Nettomäärä</strong> 85g<br /><br /> <strong>Valmistaja:</strong> Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen, Belgia, info@flamingo.be<br /> <strong>Maahantuoja:</strong> Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[<strong>A low-fat, high-protein treat for cats.</strong><br /><br /> Limited shelf life after opening.<br /><br /> <strong>Ingredients:</strong> Maismaa animal products (chicken 89.6%), vegetable protein, potato starch, glycerin, sodium chloride<br /><br /> <strong>Analysis:</strong> Crude protein: 55%, Crude oils and fats: 1.2%, Moisture: 18%, Crude ash: 7.5%, Crude fiber: 0.5%<br /><br /> <strong>Complementary food for cats.</strong><br /><br /> <strong>Use:</strong> Keep fresh drinking water available at all times.<br /> <strong>Storage:</strong> in a dry and cool place.<br /> <strong>Best before and batch number</strong> see per package<br /> <strong>Net quantity</strong> 85g<br /><br /> <strong>Manufacturer:</strong> Flamingo Pet Products, Lammerdries - Winkelstraat 25, 2250 Olen, Belgium, info@flamingo.be<br /> <strong>Importer:</strong> Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
-    <composition><![CDATA[Maismaa loomasaadused (kanaliha 89,6%), taimne proteiin, kartulitärklis, glütseriin, naatriumkloriid]]></composition>
-    <composition-ee><![CDATA[Maismaa loomasaadused (kanaliha 89,6%), taimne proteiin, kartulitärklis, glütseriin, naatriumkloriid]]></composition-ee>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.95]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Looma vanus]]></id>
-        <values>
-          <value><![CDATA[Erinevatele vanustele]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Eriomadus]]></id>
-        <values>
-          <value><![CDATA[Kõigile kassidele]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Hapki_Maius_Kassile_-_Kanafilee_Tukid_85g.jpg</url></image>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/kanafille_tukd_kassile_1.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.95</weight>
-            <length>0.18</length>
-            <height>0.03</height>
-            <width>0.125</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400274994176]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[502937]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
     <category-id>10403</category-id>
     <category-name><![CDATA[Travel accessories for dog]]></category-name>
     <title><![CDATA[Flamingo bagažinės ventiliacijos kabliukas 13,5cm]]></title>
@@ -5731,64 +6018,6 @@ The pictures are illustrative, choose the appropriate size according to your dog
                 <barcode><![CDATA[8003507979574]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[97957]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10391</category-id>
-    <category-name><![CDATA[Dog bowls, pet food containers]]></category-name>
-    <title><![CDATA[Stefanplast naminių gyvūnėlių maisto konteineris ant ratukų, 40 l]]></title>
-    <title-ru><![CDATA[Stefanplast Контейнер для корма для домашних животных 40л]]></title-ru>
-    <title-lv><![CDATA[Stefanplast mājdzīvnieku barības konteiners uz riteņiem 40l]]></title-lv>
-    <title-ee><![CDATA[Stefanplast Lemmikloomatoidu Konteiner Ratastel 40l]]></title-ee>
-    <title-fi><![CDATA[Stefanplast Lemmikkien Ruokasäiliö Pyörillä 40l]]></title-fi>
-    <title-en><![CDATA[Stefanplast Pet Food Conteiner 40l]]></title-en>
-    <long-description><![CDATA[Plastikinis indas naminių gyvūnėlių ėdalui, sandariai uždarytas.]]></long-description>
-    <long-description-ru><![CDATA[Практичный и вместительный пластиковый контейнер Stefanplast на колёсах, предназначенный для удобного и гигиеничного хранения сухого корма. Герметичная крышка помогает сохранять корм свежим и защищает его от влаги, пыли и вредителей. Благодаря колёсам контейнер легко перемещать даже в наполненном виде.<br /><br /> Контейнер отлично подходит для хранения корма для собак и кошек. Широкая открывающаяся крышка обеспечивает удобный доступ к корму.<br /><br /> Рекомендуется помещать сухой корм в контейнер в оригинальной упаковке. Это помогает лучше сохранить свежесть, аромат и качество, гарантированные производителем, а также снижает прямой контакт корма с пластиком.<br /> Оригинальная упаковка также помогает сохранить интенсивность аромата корма и является более гигиеничным решением, особенно при длительном использовании контейнера.<br /><br /> Герметичное закрытие помогает уменьшить распространение неприятных запахов и дольше сохраняет корм хрустящим и аппетитным. Благодаря колёсам контейнер удобно перемещать во время уборки или наполнения.<br /><br /> Характеристики товара:<br /> Герметичная крышка помогает сохранить корм свежим<br /> Конструкция на колёсах для удобного перемещения<br /> Подходит для хранения сухого корма для собак и кошек<br /> Лёгкий уход и простота очистки<br /> Прочный и долговечный пластиковый материал<br /><br /> Технические данные:<br /> Размеры: 45x27x61 см<br /> Материал: пластик<br /><br /> Производитель: Stefanplast SpA, Италия<br /> Импортёр: Penner OÜ, Võru 77, Тарту, Эстония · info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Hermētiski noslēgts plastmasas trauks mājdzīvnieku barībai.]]></long-description-lv>
-    <long-description-ee><![CDATA[Praktiline ja mahukas <strong>Stefanplasti plastikust toiduanum ratastel</strong>, mis on mõeldud kuivtoidu mugavaks ja hügieeniliseks hoiustamiseks. Õhukindel kaas aitab hoida toidu värskena ning kaitseb seda niiskuse, tolmu ja kahjurite eest. Tänu ratastele on anumat lihtne liigutada ka siis, kui see on täis.<br /><br /> Anum sobib suurepäraselt koera- ja kassitoidu hoiustamiseks. Lai avatav kaas teeb toidu väljavõtmise mugavaks.<br /><br /> Soovitame kuivtoidu asetada anumasse <strong>originaalpakendis</strong>. Nii säilib tootja poolt tagatud värskus, lõhn ja kvaliteet paremini ning väheneb plastiku ja toidu otsene kontakt.<br /> Originaalpakend aitab hoida ka toidu aroomi intensiivsust ning on hügieenilisem lahendus, eriti kui anum on kasutusel pikema aja jooksul.<br /><br /> Õhukindel sulgemine aitab vähendada ebameeldivate lõhnade levikut ning hoiab toidu kauem krõmpsuva ja isuäratavana. Tänu ratastele on anumat lihtne liigutada näiteks koristamise või toidu täitmise ajal.<br /><br /> <strong>Toote omadused:</strong><br /> Õhukindlalt suletav kaas aitab hoida toidu värskena<br /> Ratastel konstruktsioon mugavaks liigutamiseks<br /> Sobib kuivtoidu hoiustamiseks koertele ja kassidele<br /> Kerge puhastada ja hooldada<br /> Tugev ja vastupidav plastikmaterjal<br /><br /> <strong>Tehnilised andmed:</strong><br /> Mõõdud: 45x27x61cm<br /> Materjal: plastik<br /><br /> <strong>Tootja</strong>: Stefanplast SpA, Itaalia<br /> <strong>Maaletooja</strong>: Penner OÜ, Võru 77, Tartu, Eesti · info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Käytännöllinen ja tilava <strong>Stefanplast-muovista valmistettu pyörillä varustettu ruokasäiliö</strong>, joka on suunniteltu kuivaruoan kätevään ja hygieeniseen säilytykseen. Ilmatiivis kansi auttaa pitämään ruoan tuoreena ja suojaa sitä kosteudelta, pölyltä ja tuholaisilta. Pyörien ansiosta säiliötä on helppo liikutella myös täynnä.<br /><br /> Säiliö sopii erinomaisesti koiran- ja kissanruoan säilytykseen. Leveästi avautuvan kannen ansiosta ruoan ottaminen on kätevää.<br /><br /> Suosittelemme kuivaruoan asettamista alkuperäispakkaukseen <strong>säiliöön. Näin valmistajan takaama tuoreus, tuoksu ja laatu säilyvät paremmin ja muovin ja ruoan välinen suora kosketus vähenee.</strong><br /> Alkuperäinen pakkaus auttaa myös säilyttämään ruoan aromin voimakkuuden ja on hygieenisempi ratkaisu, varsinkin jos astiaa käytetään pidemmän aikaa.<br /><br /> Ilmatiivis suljin auttaa vähentämään epämiellyttävien hajujen leviämistä ja pitää ruoan rapeana ja herkullisena pidempään. Pyörien ansiosta säiliötä on helppo liikuttaa esimerkiksi puhdistettaessa tai täytettäessä ruokaa.<br /><br /> <strong>Tuotteen ominaisuudet:</strong><br /> Ilmatiivis kansi auttaa pitämään ruoan tuoreena<br /> Pyörillä varustettu rakenne kätevää liikuttelua varten<br /> Sopii koirien ja kissojen kuivaruoan säilytykseen<br /> Helppo puhdistaa ja huoltaa<br /> Vahva ja kestävä muovimateriaali<br /><br /> <strong>Tekniset tiedot:</strong><br /> Mitat: 45x27x61cm<br /> Materiaali: muovi<br /><br /> <strong>Valmistaja</strong>: Stefanplast SpA, Italia<br /> <strong>Maahantuoja</strong>: Penner OÜ, Võru 77, Tartto, Viro · info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[A practical and spacious Stefanplast plastic food container on wheels, designed for convenient and hygienic storage of dry pet food. The airtight lid helps keep the food fresh and protects it from moisture, dust and pests. Thanks to the wheels, the container is easy to move even when full.<br /><br /> The container is ideal for storing dog and cat food. The wide opening lid makes it easy to access the food.<br /><br /> We recommend placing the dry food inside the container in its original packaging. This helps preserve the freshness, aroma and quality guaranteed by the manufacturer and reduces direct contact between the food and plastic.<br /> The original packaging also helps maintain the food’s aroma intensity and is a more hygienic solution, especially when the container is used over a longer period of time.<br /><br /> The airtight closure helps reduce unpleasant odours and keeps the food crunchy and appetising for longer. Thanks to the wheels, the container can be easily moved during cleaning or refilling.<br /><br /> Product features:<br /> Airtight lid helps keep the food fresh<br /> Wheeled design for easy movement<br /> Suitable for storing dry food for dogs and cats<br /> Easy to clean and maintain<br /> Strong and durable plastic material<br /><br /> Technical data:<br /> Dimensions: 45x27x61cm<br /> Material: plastic<br /><br /> Manufacturer: Stefanplast SpA, Italy<br /> Importer: Penner OÜ, Võru 77, Tartu, Estonia · info@penner.ee]]></long-description-en>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[STEFANPLAST]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Maht]]></id>
-        <values>
-          <value><![CDATA[40 l]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.5]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/toidukonteiner-A.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/toidukonteiner-2.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.5</weight>
-            <length>0.45</length>
-            <height>0.61</height>
-            <width>0.27</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[8003507985018]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[98501]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -22049,63 +22278,6 @@ Kaitseb mööblit<br />
                 <barcode><![CDATA[5400585131291]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[560948]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10415</category-id>
-    <category-name><![CDATA[Dog clothes]]></category-name>
-    <title><![CDATA[Flamingo žieminė striukė šunims „Lima“ geltona 30 cm]]></title>
-    <title-ru><![CDATA[Flamingo Зимнее пальто для собаки "Lima" Желтое 30см]]></title-ru>
-    <title-lv><![CDATA[Flamingo ziemas jaka suņiem "Lima" dzeltena 30 cm]]></title-lv>
-    <title-ee><![CDATA[Flamingo Talvejope Koerale "Lima" Kollane 30cm]]></title-ee>
-    <title-fi><![CDATA[Flamingo-talvitakki koirille "Lima" keltainen 30 cm]]></title-fi>
-    <title-en><![CDATA[Flamingo Winter Coat for Dog "Lima" Yellow 30cm]]></title-en>
-    <long-description><![CDATA[Žieminė striukė šuniui.]]></long-description>
-    <long-description-ru><![CDATA[Защитите своего пушистого друга от холода!<br /> Изготовлено из полиэстера и стирается при 30°C.<br /> С застежкой-молнией, эластичными боковинами и флисовой подкладкой внутри для идеальной посадки и дополнительного тепла.<br /> Защита от брызг и ветра, с защитой груди и живота.<br /><br /> A:30 см B:33 см C:49 см<br /><br /> Материал: полиэстер<br /> Можно стирать при 30°C<br /> Верхняя молния и эластичные боковые вставки для комфортной посадки<br /> Защита от брызг и ветра<br /> Внутренняя подкладка из флиса<br /> С защитой живота и груди и воротником-стойкой для лучшей защиты<br /><br /> <strong>Flamingo Pet Products</strong>]]></long-description-ru>
-    <long-description-lv><![CDATA[Ziemas jaka sunim.]]></long-description-lv>
-    <long-description-ee><![CDATA[Kaitske oma karvast sõpra külma eest!<br /> Valmistatud polüestrist ja pestav 30°C juures.<br /> Tõmbluku, elastsete külgede ja seest fliisiga täiusliku istuvuse ja lisasoojuse tagamiseks.<br /> Pritsme- ja tuulekindel, rinna- ja kõhukattega.<br /><br /> A:30cm B:33cm C:49cm<br /><br /> Materjal: polüester<br /> Pestav 30°C juures<br /> Ülemine tõmblukk ja elastsed küljed mugavaks istumiseks<br /> Pritsme- ja tuulekindel<br /> Seest viimistletud fliisiga<br /> Kõhu- ja rindkere katte ja püstkraega parema kaitse tagamiseks<br /><br /> <strong>Flamingo Pet Products</strong>]]></long-description-ee>
-    <long-description-fi><![CDATA[Suojaa karvaista ystävääsi kylmältä!<br /> Valmistettu polyesteristä ja pestävä 30°C:ssa.<br /> Vetoketju, joustavat sivut ja fleecevuori täydellisen istuvuuden ja lisälämmön takaamiseksi.<br /> Roiske- ja tuulenpitävä, rinta- ja vatsasuojalla.<br /><br /> A: 30cm L: 33cm C: 49cm<br /><br /> Materiaali: polyesteri<br /> Pestävä 30°C:ssa<br /> Ylävetoketju ja joustavat sivut takaavat mukavan istuvuuden<br /> Roiske- ja tuulenpitävä<br /> Fleecevuori sisäpuolella<br /> Vatsa- ja rintapehmuste sekä pystykaulus paremman suojan takaamiseksi<br /><br /> <strong>Flamingo Pet Products</strong>]]></long-description-fi>
-    <long-description-en><![CDATA[Protect your furry friend from the cold!<br /> Made of polyester and washable at 30°C.<br /> With a zipper, elastic sides and fleece inside for a perfect fit and extra warmth.<br /> Splash and windproof, with chest and belly cover.<br /><br /> A:30cm B:33cm C:49cm<br /><br /> Material: polyester<br /> Washable at 30°C<br /> Top zipper and elastic sides for a comfortable fit<br /> Splash and windproof<br /> Fleece-lined inside<br /> With belly and chest cover and stand-up collar for better protection<br /><br /> <strong>Flamingo Pet Products</strong>]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.15]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Talvejope-Koerale-Lima-Kollane-1-.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/Talvejope-Koerale-Lima-Kollane-A.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/Talvejope-Koerale-Lima-Kollane-B.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/Talvejope-Koerale-Lima-Kollane-4.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.15</weight>
-            <length>0.3</length>
-            <height>0.03</height>
-            <width>0.25</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585276459]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[523155]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -41859,103 +42031,6 @@ Tootja: Hundesportprofi B.Klin]]></long-description-ee>
   <product>
     <category-id>22346</category-id>
     <category-name><![CDATA[Food for farm animals]]></category-name>
-    <title><![CDATA[Excellent Horse Combi Oil - Lašišų ir Menkių Kepenų Aliejus Arkliams 2,5L]]></title>
-    <title-ru><![CDATA[Excellent Horse Combi Oil - Лосось и масло печени трески для лошадей 2,5л]]></title-ru>
-    <title-lv><![CDATA[Excellent Horse Combi Oil - Laša un Mencu Aknu Eļļa Zirgiem 2,5L]]></title-lv>
-    <title-ee><![CDATA[Excellent Horse Combi Oil - Lõhe- ja tursamaksaõli hobustele 2,5l]]></title-ee>
-    <title-fi><![CDATA[Excellent Horse Combi Oil - Lohi- ja Tursamaksaöljy Hevosille 2,5L]]></title-fi>
-    <title-en><![CDATA[Excellent Horse Combi Oil - Salmon and Cod Liver Oil for Horses 2.5L]]></title-en>
-    <long-description><![CDATA[Excellent Horse Combi Oil on vedelal kujul sööt hobustele, mis ühendab lõheõli ja tursamaksaõli. Toode toetab üldist tervist ja liigesefunktsiooni, soodustab loomulikku vastupanuvõimet ning tagab läikiva karvkatte.<br />
-<br />
-Lõheõli on looduslikult rikas oluliste rasvhapetega omega-3 ja omega-6. Omega-3 rasvhapped toetavad immuunsüsteemi, liigeseid, nahka, südant ja veresooni. Omega-6 rasvhapped stimuleerivad immuunsüsteemi. Tursamaksaõli on samuti rikas omega-3 rasvhapete ning A- ja D-vitamiiniga. A-vitamiin toetab immuunsüsteemi ning D-vitamiin toetab luid ja kaltsiumi ning fosfori imendumist.<br />
-<br />
-Kasutamine: üldise tervise ja vastupanuvõime toetamiseks, liigesefunktsiooni toetamiseks ning tuhmi karvkatte korral.<br />
-<br />
-<strong>Omadused:</strong><br />
-Energiarikas lõhe- ja tursamaksaõli kombinatsioon<br />
-Rikas kergesti imenduvate omega-3 rasvhapete ning A- ja D-vitamiiniga<br />
-Toetab üldist tervist ja loomulikku vastupanuvõimet<br />
-Toetab liigesefunktsiooni<br />
-Tagab läikiva karvkatte<br />
-<br />
-<strong>Koostis</strong>: Kalaõli (lõheõli ja tursamaksaõli kombinatsioon)<br />
-<strong>Lisandid kg kohta: </strong>A-vitamiin (3a672b): 500 000 IU, D3-vitamiin (3a671): 50 000 IU<br />
-<br />
-<strong>Analüütilised koostisosad: </strong>Toorrasv 99,9%, millest omega-3 15,7%, EPA + DHA 8,0%, omega-6 14,1%<br />
-<br />
-<strong>Söötmisjuhis:</strong><br />
-Hobune: 30 ml päevas<br />
-Poni: 20 ml päevas<br />
-Loksutada enne kasutamist. Jagada üle sööda. Suurenenud vajaduse korral võib kogust ajutiselt kahekordistada.<br />
-<br />
-<strong>Säilitamine</strong>: Hoida jahedas ja kuivas kohas, temperatuuril alla 25°C, kaitstuna otsesest päikesevalgusest. Sulgeda pakend pärast kasutamist.<br />
-<br />
-<strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description>
-    <long-description-ee><![CDATA[Excellent Horse Combi Oil on vedelal kujul sööt hobustele, mis ühendab lõheõli ja tursamaksaõli. Toode toetab üldist tervist ja liigesefunktsiooni, soodustab loomulikku vastupanuvõimet ning tagab läikiva karvkatte.<br />
-<br />
-Lõheõli on looduslikult rikas oluliste rasvhapetega omega-3 ja omega-6. Omega-3 rasvhapped toetavad immuunsüsteemi, liigeseid, nahka, südant ja veresooni. Omega-6 rasvhapped stimuleerivad immuunsüsteemi. Tursamaksaõli on samuti rikas omega-3 rasvhapete ning A- ja D-vitamiiniga. A-vitamiin toetab immuunsüsteemi ning D-vitamiin toetab luid ja kaltsiumi ning fosfori imendumist.<br />
-<br />
-Kasutamine: üldise tervise ja vastupanuvõime toetamiseks, liigesefunktsiooni toetamiseks ning tuhmi karvkatte korral.<br />
-<br />
-<strong>Omadused:</strong><br />
-Energiarikas lõhe- ja tursamaksaõli kombinatsioon<br />
-Rikas kergesti imenduvate omega-3 rasvhapete ning A- ja D-vitamiiniga<br />
-Toetab üldist tervist ja loomulikku vastupanuvõimet<br />
-Toetab liigesefunktsiooni<br />
-Tagab läikiva karvkatte<br />
-<br />
-<strong>Koostis</strong>: Kalaõli (lõheõli ja tursamaksaõli kombinatsioon)<br />
-<strong>Lisandid kg kohta: </strong>A-vitamiin (3a672b): 500 000 IU, D3-vitamiin (3a671): 50 000 IU<br />
-<br />
-<strong>Analüütilised koostisosad: </strong>Toorrasv 99,9%, millest omega-3 15,7%, EPA + DHA 8,0%, omega-6 14,1%<br />
-<br />
-<strong>Söötmisjuhis:</strong><br />
-Hobune: 30 ml päevas<br />
-Poni: 20 ml päevas<br />
-Loksutada enne kasutamist. Jagada üle sööda. Suurenenud vajaduse korral võib kogust ajutiselt kahekordistada.<br />
-<br />
-<strong>Säilitamine</strong>: Hoida jahedas ja kuivas kohas, temperatuuril alla 25°C, kaitstuna otsesest päikesevalgusest. Sulgeda pakend pärast kasutamist.<br />
-<br />
-<strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[EXCELLENT PETS]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[2.5]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Excellent-Horse-Combi-Oil-Lohe-ja-tursamaksaoli-hobustele-25l.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>2.5</weight>
-            <length>0.105</length>
-            <height>0.21</height>
-            <width>0.15</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[8716759642713]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[EQUI0022GD]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>22346</category-id>
-    <category-name><![CDATA[Food for farm animals]]></category-name>
     <title><![CDATA[Excellent Horse Salmon Oil - Lašišų Aliejus Arkliams 1L]]></title>
     <title-ru><![CDATA[Excellent Horse Salmon Oil - Масло лосося для лошадей 1л]]></title-ru>
     <title-lv><![CDATA[Excellent Horse Salmon Oil - Laša Eļļa Zirgiem 1L]]></title-lv>
@@ -56654,57 +56729,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
   <product>
     <category-id>10415</category-id>
     <category-name><![CDATA[Dog clothes]]></category-name>
-    <title><![CDATA[Zero DC lietpaltis, juodas su neonine žalia spalva, 40 cm]]></title>
-    <title-ru><![CDATA[Дождевик Zero DC 40см]]></title-ru>
-    <title-lv><![CDATA[Zero DC lietusmētelis, melns ar neona zaļu krāsu, 40 cm]]></title-lv>
-    <title-ee><![CDATA[Zero DC Vihmamantel Must Neoonrohelisega 40cm]]></title-ee>
-    <title-fi><![CDATA[Zero DC Sadetakki Musta/Neonvihreä 40cm]]></title-fi>
-    <title-en><![CDATA[Zero DC Raincoat Black with Neon Green 40cm]]></title-en>
-    <long-description><![CDATA[Lietpaltis šunims.]]></long-description>
-    <long-description-ru><![CDATA[Дождевик для собак, защищающий от дождя и ветра.<br /><br /> Длина по спине: 40 см.<br /> Обхват тела: 50-60 см.<br /> Обхват шеи: 30-45 см.<br /><br /> Производитель: Zero DC]]></long-description-ru>
-    <long-description-lv><![CDATA[Lietusmētelis suņiem.]]></long-description-lv>
-    <long-description-ee><![CDATA[Vihma- ja tuulekindel vihmamantel koertele.<br /><br /> Seljapikkus 40cm.<br /> Kere ümbermõõt: 50-60cm<br /> Kaela ümbermõõt: 30-45cm<br /><br /> Tootja: Zero DC]]></long-description-ee>
-    <long-description-fi><![CDATA[Sateen- ja tuulenpitävä sadetakki koirille.<br /><br /> Selän pituus 40 cm.<br /> Vartalon ympärysmitta: 50-60 cm<br /> Kaulan ympärysmitta: 30-45 cm<br /><br /> Valmistaja: Zero DC]]></long-description-fi>
-    <long-description-en><![CDATA[Rain and windproof raincoat for dogs.<br /><br /> Back length 40cm.<br /> Body circumference: 50-60cm<br /> Neck circumference: 30-45cm<br /><br /> Manufacturer: Zero DC]]></long-description-en>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[ZERO D.C]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.2]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Zero-DC-Vihmamantel-koerale-Must-Roheline.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.2</weight>
-            <length>0.001</length>
-            <height>0.1</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[4530181960856]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[8822240MNR]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10415</category-id>
-    <category-name><![CDATA[Dog clothes]]></category-name>
     <title><![CDATA[Trixie CityStyle Amsterdam šunų megztinis 40 cm]]></title>
     <title-ru><![CDATA[Trixie CityStyle, Свитер для собаки Amsterdam 40см]]></title-ru>
     <title-lv><![CDATA[Trixie CityStyle Amsterdam suņu džemperis 40 cm]]></title-lv>
@@ -58202,112 +58226,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
                 <barcode><![CDATA[4678251133776]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[3311160PP]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10415</category-id>
-    <category-name><![CDATA[Dog clothes]]></category-name>
-    <title><![CDATA[Zero DC žieminė striukė šunims, turkio spalvos, 50 cm]]></title>
-    <title-ru><![CDATA[Куртка Zero DC 50см]]></title-ru>
-    <title-lv><![CDATA[Zero DC ziemas jaka suņiem tirkīza krāsā 50 cm]]></title-lv>
-    <title-ee><![CDATA[Zero DC Talvejope Koerale Türkiis 50cm]]></title-ee>
-    <title-fi><![CDATA[Zero DC Talvitakki Koirille Turkoosi 50cm]]></title-fi>
-    <title-en><![CDATA[Zero Turqoise Winter Coat for Dogs 50cm]]></title-en>
-    <long-description><![CDATA[Žieminė striukė šunims.]]></long-description>
-    <long-description-ru><![CDATA[Теплая трехслойная (стандартная ткань, утеплитель, флис) зимняя куртка с воротником, обеспечивающим теплоизоляцию и предотвращающим попадание влаги к собаке.<br /><br /> Удобна в использовании — вокруг шеи и живота есть липучки, которые дополнительно фиксируются пластиковой пряжкой.<br /> Куртка имеет задние ремни для лучшей фиксации на лапах.<br /> В области воротника есть отверстие для удобства прикрепления поводка.<br /><br /> Длина спины: 50 см;<br /> Обхват шеи: 35-45 см;<br /> Обхват груди: 55-70 см<br /><br /> *Фотографии являются иллюстративными<br /><br /> <strong>Производитель:</strong> Zero DC]]></long-description-ru>
-    <long-description-lv><![CDATA[Ziemas jaka suņiem.]]></long-description-lv>
-    <long-description-ee><![CDATA[Soe 3-kihiline (standardriie, polster, fliis) kraega talvejope, mis tagab isolatsiooni ja ei lase niiskusel jõuda koerani.<br /><br /> Mugav kasutada - nii kaela kui kõhu ümber on takjapael ja mõlemat kinnitab lisaks plastikust pandel.<br /> Jopel on tagumised jalarihmad, et see püsiks paremini seljas.<br /> Kaelarihma piirkonnas on ava, et oleks kergem jalutusrihma kinnitada.<br /><br /> Selja pikkus: 50cm;<br /> Kaela ümbermõõt: 35-45cm;<br /> Rinna ümbermõõt: 55-70cm<br /><br /> *Fotod on illustratiivsed<br /><br /> <strong>Tootja:</strong> Zero DC]]></long-description-ee>
-    <long-description-fi><![CDATA[Lämmin 3-kerroksinen (vakiokangas, toppaus, fleece) talvitakki, jonka kaulus eristää ja estää kosteuden pääsyn koiraan.<br /><br /> Kätevä käyttää - sekä kaulassa että vatsassa on tarranauha, ja molemmat on lisäksi kiinnitetty muovisoljella.<br /> Takissa on takajalkaremmit paremman pysyvyyden takaamiseksi.<br /> Kauluksen alueella on aukko, joka helpottaa hihnan kiinnittämistä.<br /><br /> Selän pituus: 50 cm;<br /> Kaulan ympärysmitta: 35-45 cm;<br /> Rinnan ympärysmitta: 55-70 cm<br /><br /> *Kuvat ovat havainnollistavia<br /><br /> <strong>Valmistaja:</strong> Zero DC]]></long-description-fi>
-    <long-description-en><![CDATA[Warm 3-layer (standard fabric, padding, fleece) winter jacket with a collar that provides insulation and prevents moisture from reaching the dog.<br /><br /> Convenient to use - there is Velcro around both the neck and the stomach, and both are additionally secured with a plastic buckle.<br /> The jacket has rear leg straps to keep it on better.<br /> There is an opening in the collar area to make it easier to attach a leash.<br /><br /> Back length: 50cm;<br /> Neck circumference: 35-45cm;<br /> Chest circumference: 55-70cm<br /><br /> *Photos are illustrative<br /><br /> <strong>Manufacturer:</strong> Zero DC]]></long-description-en>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[ZERO D.C]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.3]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Zero_DC_Talvejope_Koerale_Turkiis.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/Zero-DC-talvejope-koerale-sinine-2.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.3</weight>
-            <length>0.001</length>
-            <height>0.1</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[4423591915120]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[3311150TT]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10472</category-id>
-    <category-name><![CDATA[Rodent food]]></category-name>
-    <title><![CDATA[„Supreme Science“ selektyvus tešlos maistas 1,5 kg]]></title>
-    <title-ru><![CDATA[Supreme Selective Корм для дегу 1,5кг]]></title-ru>
-    <title-lv><![CDATA[Supreme Science selektīvā mīklas pārtika 1,5 kg]]></title-lv>
-    <title-ee><![CDATA[Supreme Science Selective Deegutoit 1,5kg]]></title-ee>
-    <title-fi><![CDATA[Supreme Science Selective Dough Food 1,5 kg]]></title-fi>
-    <title-en><![CDATA[Supreme Science Selective Degu Food 1,5kg]]></title-en>
-    <long-description><![CDATA[Natūralus, skanus ir sveikas degu maisto papildas.]]></long-description>
-    <long-description-ru><![CDATA[<strong>Science Selective Дегу</strong><br /><br /> Сбалансированный рацион с брокколи и базиликом, разработанный с учётом особых пищевых потребностей дегу. Эта тщательно подобранная смесь высококачественных ингредиентов имитирует естественный рацион дегу. Дегу нуждаются в рационе с очень низким содержанием жиров и высоким уровнем витамина C, а также в качественной клетчатке, которая способствует здоровому пищеварению и естественному стачиванию зубов. Брокколи и базилик являются источниками натуральных антиоксидантов, известных своими питательными свойствами.<br /><br /> Натуральный, вкусный и полезный<br /><br /> Ежедневный рацион для дегу всех возрастов<br /><br /> Однокомпонентные экструдированные гранулы предотвращают выборочное питание<br /><br /> Со стабилизированным витамином C — необходим для поддержания нормального функционирования организма<br /><br /> С натуральными антиоксидантами для поддержания жизненного тонуса<br /><br /> Сбалансированное содержание белка (14%) помогает поддерживать здоровый вес<br /><br /> Без добавленного сахара и с низкой калорийностью — для предотвращения ожирения<br /><br /> Высокое содержание клетчатки (15%) способствует здоровью зубов и пищеварения<br /><br /> Правильное соотношение кальция и фосфора — Кальций 1%, Фосфор 0,5%<br /><br /> Пребиотики (МОС) поддерживают перистальтику кишечника и общее пищеварительное здоровье<br /><br /> Обогащён необходимыми витаминами и минералами<br /><br /> Содержит льняное семя — натуральный источник Омега-3 и Омега-6 для здоровья кожи и блестящей шерсти<br /><br /> Рекомендовано ветеринарами<br /><br /> <strong>Состав:</strong> Сено тимофеевки, пшеница, соевые оболочки, хлопья гороха, соевый шрот, ячмень, льняное семя, соевое масло, пребиотики (МОС), сушёный базилик, сушёная брокколи.<br /> Может содержать генно-модифицированную сою и следы орехов.<br /><br /> <strong>Аналитический состав:</strong><br /> Белок — 14,0%<br /> Сырая клетчатка — 15,0%<br /> Жиры — 3,5%<br /> Неорганические вещества — 5,5%<br /> Кальций — 1,0%<br /> Фосфор — 0,5%<br /><br /> <strong>Пищевые добавки / кг:</strong><br /> Витамин A — 37500 МЕ<br /> Витамин C — 500 мг<br /> Витамин D3 — 2000 МЕ<br /> Железо (E1) — 50 мг<br /> Йод (E2) — 1,5 мг<br /> Медь (E4) — 7,5 мг<br /> Марганец (E5) — 30 мг<br /> Цинк (E6) — 100 мг<br /> Селен (E8) — 0,25 мг<br /><br /> <strong>Рекомендации по кормлению:</strong><br /> Среднестатистическому взрослому дегу требуется 20–30 г корма Selective Degu в день.<br /> Дополнительно следует предлагать свежие овощи, качественное сено и чистую питьевую воду.<br /><br /> Хранить в сухом и прохладном месте.<br /><br /> <strong>Полноценный корм</strong><br /><br /> <strong>Номер партии и срок годности:</strong> см. на упаковке<br /> <strong>Масса нетто:</strong> 1,5 кг<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ:</strong> Supreme Pet Foods, Stone Street, Hadleigh, Ipswich, Suffolk, IP7 6DN, info@supremepetfoods.com<br /> <strong>ИМПОРТЕР:</strong> Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Dabīgs, garšīgs un veselīgs degu papildbarības elements.]]></long-description-lv>
-    <long-description-ee><![CDATA[Tasakaalustatud toit brokoli ja basiilikuga, mis on koostatud deegude toitevajaduste rahuldamiseks. See hoolikalt valitud kvaliteetsete koostisosade segu on loodud jäljendama deegu loomulikku toitumist. Deegud vajavad väga madala rasvasisaldusega dieeti ja kõrget C-vitamiini taset koos kvaliteetsete kiudainetega, et aidata kaasa tervele seedimisele ja soodustada hammaste kulumist.<br /><br /> Igapäevane dieet igas vanuses degudele<br /> Ühesugused tükid takistavad selektiivset söömist<br /> Stabiliseeritud C-vitamiiniga – oluline tervise funktsiooni säilitamiseks<br /> Looduslike antioksüdantidega elujõulisuse suurendamiseks<br /> Tasakaalustatud valk (14%), mis aitab säilitada tervislikku kehakaalu<br /> Ei sisalda lisatud suhkruid ja madala kalorsusega koostis, mis aitab vältida rasvumist<br /> Kiudainerikas (15%) aitab edendada hammaste ja seedimise tervist<br /> Õigesti tasakaalustatud kaltsium: fosfori suhe – kaltsium 1%, fosfor 0,5%<br /> Prebiootikumid (MOS), mis toetavad tervet soolestiku motoorikat ja seedimise heaolu<br /> Rikastatud oluliste vitamiinide ja mineraalidega<br /> Sisaldab linaseemneid – looduslikku Omega 3 ja 6 allikat terve naha ja läikiva karvkatte jaoks<br /> Loomaarstide poolt soovitatud<br /><br /> <strong>KOOSTIS:</strong> timutihein, nisu, sojaoa kestad, hernehelbed, sojaoa jahu, oder, linaseemned, sojaõli, prebiotikumid, kuivatatud basiilik, kuivatatud brokkoli. Võib sisaldada GMO soja.<br /><br /> <strong>LISANDID:</strong> Vitamiin A 50000IU, Vitamiin C 500mg, Vitamiin D3 200IU, raudsulfaatmonohüdraat 152mg, veevaba kaltsiumjodiid 1,5mg, vasksulfaatpentahüdraat 20mg, mangaanoksiid 71mg, tsinkoksiid 62mg, naatriumseleniit 0,2mg<br /><br /> <strong>ANALÜÜTILINE KOOSTIS:</strong> proteiin 14%, toorkiud 15%, rasvasisaldus 3,5%, anorgaaniline aine 5,5%, kaltsium 1%, Fosfor 0,5%<br /><br /> Keskmine täsikasvanud deegu vajab päevas 20-30g Supreme Selective deegu toitu.<br /> Värske hein ja puhas vesi peab olema alati saadaval.<br /><br /> <strong>Täissööt</strong><br /> <strong>Säilitamine</strong>: Hoia kuivas ja jahedas kohas<br /> <strong>Partii nr ja säilivusaeg:</strong> vaata pakendilt<br /> <strong>Neto kogus:</strong> 1,5kg<br /><br /> <strong>TOOTJA</strong>: Supreme Pet Foods, Stone Street, Hadleigh, Ipswich, Suffolk, IP7 6DN, info@supremepetfoods.com<br /> <strong>MAALETOOJA</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Tasapainoinen ruoka parsakaalilla ja basilikalla, joka on kehitetty vastaamaan degun ravitsemuksellisiin tarpeisiin. Tämä huolella valittu sekoitus korkealaatuisia ainesosia on suunniteltu jäljittelemään degun luonnollista ruokavaliota. Degut tarvitsevat erittäin vähärasvaista ruokavaliota ja runsaasti C-vitamiinia sekä korkealaatuista kuitua tukemaan tervettä ruoansulatusta ja ehkäisemään hampaiden kulumista.<br /><br /> Päivittäinen ruokavalio kaikenikäisille deguille<br /> Tasainen nappula estää valikoivaa syömistä<br /> Stabiloitu C-vitamiinilla – välttämätön terveen toiminnan ylläpitämiseksi<br /> Luonnollisilla antioksidanteilla, jotka lisäävät elinvoimaa<br /> Tasapainoinen proteiini (14 %) auttaa ylläpitämään tervettä painoa<br /> Ei lisättyä sokeria ja vähäkalorinen koostumus auttaa ehkäisemään lihavuutta<br /> Runsaskuituinen (15 %) edistää hampaiden ja ruoansulatuskanavan terveyttä<br /> Oikein tasapainotettu kalsium-fosforisuhde – kalsiumia 1 %, fosforia 0,5 %<br /> Prebiootit (MOS) tukevat tervettä suoliston toimintaa ja ruoansulatuskanavan hyvinvointia<br /> Rikastettu välttämättömillä vitamiineilla ja kivennäisaineilla<br /> Sisältää pellavansiemeniä – luonnollinen omega-3- ja omega-6-rasvahappojen lähde terveelle iholle ja kiiltävälle turkille<br /> Eläinlääkäreiden suosittelema<br /><br /> <strong>AINESOSAT:</strong> timoteinheinä, vehnä, soijapavun kuoret, hernehiutaleet, soijarouhe, ohra, pellavansiemenet, soijaöljy, prebiootit, kuivattu basilika, kuivattu parsakaali. Saattaa sisältää GMO-soijaa.<br /><br /> <strong>LISÄAINEET:</strong>A-vitamiini 50000 IU, C-vitamiini 500 mg, D3-vitamiini 200 IU, rautasulfaattimonohydraatti 152 mg, kalsiumjodidi, vedetön 1,5 mg, kuparisulfaattipentahydraatti 20 mg, mangaanioksidi 71 mg, sinkkioksidi 62 mg, natriumseleniitti 0,2 mg<br /><br /> <strong>ANALYYTTINEN KOOSTUMUS:</strong>Proteiinia 14 %, raakakuitua 15 %, rasvaa 3,5 %, epäorgaanista ainesta 5,5 %, kalsiumia 1 %, fosforia 0,5 %<br /><br /> Keskimääräinen aikuinen degu tarvitsee 20–30 g Supreme Selective -deguruokaa päivässä.<br /> Tuoretta heinää ja puhdasta vettä on oltava aina saatavilla.<br /><br /> <strong>Täysravinto</strong><br /> <strong>Säilytys</strong>: Säilytä kuivassa ja viileässä paikassa<br /> <strong>Eränumero ja säilyvyysaika:</strong> katso pakkaus<br /> <strong>Nettomäärä:</strong>1,5 kg<br /><br /> <strong>VALMISTAJA</strong>: Supreme Pet Foods, Stone Street, Hadleigh, Ipswich, Suffolk, IP7 6DN, info@supremepetfoods.com<br /> <strong>MAAHANTUOJA</strong>: Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[<strong>Science Selective Degu</strong><br /> A balanced diet with broccoli & basil, formulated to meet the special nutritional needs of degus. This carefully-chosen blend of high quality ingredients is designed to mimic the natural diet of a degu. Degus need a very low fat diet and high levels of vitamin C, together with high quality fibre to aid healthy digestion and to promote dental wear. Broccoli and basil provide natural antioxidants known for their nutritional benefits.<br /><br /> <strong>Naturally tasty and healthy</strong><br /> Daily diet for degu of all ages<br /> Single component extruded nuggets prevent selective feeding<br /> With stabilised Vitamin C – essential to maintain healthy function<br /> With natural antioxidants to promote vitality<br /> Balanced protein (14%) to help maintain healthy weight<br /> No added sugars and low-calorie content to help prevent obesity<br /> High fibre (15%) helps promote dental and digestive health<br /> Correctly balanced calcium: phosphorus ratio – Calcium 1%, Phosphorus 0.5%<br /> Prebiotics (MOS) to support healthy gut motility and digestive wellbeing<br /> Fortified with essential vitamins and minerals<br /> Contains linseed – a natural source of Omega 3 & 6, for healthy skin and glossy coat<br /> Recommended by veterinarians<br /><br /> <strong>Composition</strong>: Timothy grass hay, wheat, soya bean hulls, flaked peas, soya bean meal, barley, linseeds, soya oil, prebiotics (MOS), dried basil, dried broccoli. May contain genetically modified soya and traces of nuts.<br /> <strong>Analytical Constituents:</strong> Protein 14.0%, Crude fibre 15.0%, Fat content 3.5%, Inorganic matter 5.5%, Calcium 1.0% Phosphorus 0.5%<br /> <strong>Nutritional Additives/KG</strong>: Vitamin A 37500 IU, Vitamin C 500mg, Vitamin D3 2000 IU, Iron (E1) 50 mg, Iodine (E2) 1.5 mg, Copper (E4) 7.5 mg, Manganese (E5) 30 mg, Zinc (E6) 100 mg, Selenium (E8) 0.25 mg<br /> <strong>Feeding Guide:</strong> The average adult degu will require 20-30g/day of Selective Degu.<br /> Fresh vegetables should also be provided along with good quality hay and clean drinking water.<br /> Please store in a cool dry place.<br /><br /> <strong>Complete feed</strong><br /><br /> Batch number and best before date: see packaging<br /> <strong>Net weight:</strong> 1,5 kg<br /> <strong>MANUFACTURER</strong>: Supreme Pet Foods, Stone Street, Hadleigh, Ipswich, Suffolk, IP7 6DN, info@supremepetfoods.com<br /> <strong>IMPORTER</strong>: Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
-    <composition><![CDATA[timutihein, nisu, sojaoa kestad, hernehelbed, sojaoa jahu, oder, linaseemned, sojaõli, prebiotikumid, kuivatatud basiilik, kuivatatud brokkoli. Võib sisaldada GMO soja.]]></composition>
-    <composition-ee><![CDATA[timutihein, nisu, sojaoa kestad, hernehelbed, sojaoa jahu, oder, linaseemned, sojaõli, prebiotikumid, kuivatatud basiilik, kuivatatud brokkoli. Võib sisaldada GMO soja.]]></composition-ee>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[SUPREME]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[1.56]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/supreme-selective-toit-deegule.jpg</url></image>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/science-selective-deegu-deegutoit-supreme.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>1.56</weight>
-            <length>0.29</length>
-            <height>0.065</height>
-            <width>0.255</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5015622208128]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[4815]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -65410,73 +65328,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
   <product>
     <category-id>10373</category-id>
     <category-name><![CDATA[Wet/canned dog food]]></category-name>
-    <title><![CDATA[LandFleisch šunims skirtas BARF2GO žaliasis pesto su vaisiais, daržovėmis ir žolelėmis, 200 g]]></title>
-    <title-ru><![CDATA[LandFleisch BARF2GO Зелёное песто из фруктов, овощей и трав 200 г]]></title-ru>
-    <title-lv><![CDATA[LandFleisch suņiem BARF2GO zaļais pesto ar augļiem, dārzeņiem un garšaugiem 200g]]></title-lv>
-    <title-ee><![CDATA[LandFleisch BARF2GO Roheline Pesto Puu- ja köögiviljadest ning ürtidest 200g]]></title-ee>
-    <title-fi><![CDATA[LandFleisch koiranruoka BARF2GO vihreä pesto hedelmillä, vihanneksilla ja yrteillä 200 g]]></title-fi>
-    <title-en><![CDATA[LandFleisch BARF2GO Green Pesto with Fruits, Vegetables and Herbs 200g]]></title-en>
-    <long-description><![CDATA[„LandFleisch Dog B.A.R.F.2GO“ žaliasis pesto su vaisiais, daržovėmis ir žolelėmis yra natūralus maisto papildas, kuriame yra įvairių vitaminų turtingų vaisių ir daržovių, mineralų turtingų žolelių ir aukštos kokybės aliejų. Smulkiai sumalti ingredientai užtikrina gerą virškinamumą ir atitinka natūralius šuns mitybos įpročius.]]></long-description>
-    <long-description-ru><![CDATA[<strong>LandFleisch Dog B.A.R.F.2GO Зелёное песто из фруктов, овощей и трав</strong> – это натуральная пищевая добавка, содержащая разнообразный набор богатых витаминами фруктов и овощей, минеральных трав и высококачественных масел. Мелко измельчённые ингредиенты обеспечивают хорошую усвояемость и соответствуют естественным пищевым привычкам собак.<br /><br /> <strong>Преимущества продукта:</strong><br /><br /> 100% натуральные ингредиенты – без искусственных добавок<br /><br /> Хорошо усваивается – мелко измельчённая смесь<br /><br /> Богат витаминами, минералами и антиоксидантами<br /><br /> Не содержит злаков, сои, ГМО и искусственных консервантов<br /><br /> Производится в Германии по самым высоким стандартам качества<br /><br /> <strong>Состав:</strong> 20% шпинат, 20% картофель, 10% кейл (листовая капуста), 10% цветная капуста, 10% брокколи, 10% морковь, 5% яблоко, 5% кабачок, 5% дыня, 2% персик, 2% рапсовое масло, а также манго, петрушка, одуванчик, анис, фенхель, любисток, имбирь. Может содержать следы других ингредиентов.<br /><br /> <strong>Анализ:</strong> Сырой протеин: 2,0%, сырой жир: 2,0%, сырая зола: 1,5%, сырая клетчатка: 1,5%, влага: 86,0%<br /><br /> <strong>Рекомендации по кормлению:</strong><br /> BARF2GO Песто не является полнорационным кормом. Сбалансированное питание обеспечивается только при совместном использовании всех трёх компонентов:<br /><br /> BARF2GO мясные консервы<br /><br /> BARF2GO фруктово-овощное песто<br /><br /> BARF2GO витаминно-минеральная смесь<br /><br /> Индивидуальная дневная норма зависит от породы, возраста, активности и условий содержания собаки. Для собак с избыточным весом уменьшите количество мяса или увеличьте долю песто.<br /><br /> Кормить при комнатной температуре. После открытия хранить в холодильнике и использовать в течение 2 дней. Всегда обеспечивайте доступ к свежей питьевой воде.<br /><br /> <strong>Дополнительный корм для собак</strong><br /> Годен до: см. на упаковке<br /> Номер партии: см. на упаковке<br /> Масса нетто: 200 г<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ:</strong> LandFleisch Tiernahrung LFT GmbH, Германия<br /> <strong>ИМПОРТЁР:</strong> Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[LandFleisch suņiem B.A.R.F.2GO zaļais pesto ar augļiem, dārzeņiem un garšaugiem ir dabīgs uztura bagātinātājs, kas satur daudzveidīgu vitamīniem bagātu augļu un dārzeņu, minerālvielām bagātu garšaugu un augstas kvalitātes eļļu izvēli. Smalki samaltās sastāvdaļas nodrošina labu sagremojamību un atbilst suņu dabiskajiem ēšanas paradumiem.]]></long-description-lv>
-    <long-description-ee><![CDATA[<strong>LandFleisch Dog B.A.R.F.2GO Roheline Pesto puu- ja köögiviljadest ning ürtidest</strong> on looduslähedane toidulisand, mis sisaldab mitmekülgset valikut vitamiinirikkaid puu- ja köögivilju, mineraalaineterikkaid ürte ning kvaliteetseid õlisid. Peeneks purustatud koostisosad tagavad hea omastatavuse ja vastavad koerte loomupärastele toitumisharjumustele.<br /><br /> <strong>Toote omadused:</strong><br /> 100% looduslikud koostisosad – ei sisalda kunstlikke lisaaineid<br /> Väga hästi omastatav – peenelt purustatud segu<br /> Rikas vitamiinide, mineraalainete ja antioksüdantide poolest<br /> Ei sisalda teravilja, soja, GMO koostisosi ega kunstlikke säilitusaineid<br /> Toodetud Saksamaal vastavalt kõrgeimatele kvaliteedistandarditele<br /><br /> <strong>Koostis:</strong> 20% spinat, 20% kartul, 10% lehtkapsas, 10% lillkapsas, 10% brokoli, 10% porgand, 5% õun, 5% suvikõrvits, 5% melon, 2% virsik, 2% rapsiõli, lisaks mango, petersell, võilill, aniis, fenkol, aed-lovage, ingver. Võib sisaldada jälgi muudest koostisosadest.<br /><br /> <strong>Analüüs:</strong> Toorproteiin: 2,0%, toorrasv: 2,0%, toortuhk: 1,5%, kiudained: 1,5%, niiskus: 86,0%<br /><br /> <strong>Söötmissoovitus:</strong><br /> BARF2GO Pesto ei ole täissööt. Tasakaalustatud toitumise tagab ainult kolme komponendi kooskasutamine:<br /><br /> BARF2GO lihakonserv<br /><br /> BARF2GO puu- ja köögiviljapesto<br /><br /> BARF2GO vitamiini- ja mineraalainete segu<br /><br /> Individuaalne päevane vajadus sõltub koera tõust, vanusest, aktiivsusest ja elutingimustest. Ülekaaluliste koerte puhul vähenda liha kogust või suurenda pestot.<br /><br /> Serveeri toatemperatuuril. Pärast avamist hoida külmkapis ja kasutada 2 päeva jooksul. Tagada alati värske joogivee kättesaadavus.<br /><br /> <strong>Täiendsööt koertele</strong><br /> Parim enne: vaata pakendilt<br /> Partii nr: vaata pakendilt<br /> Netokogus: 200 g<br /><br /> <strong>TOOTJA:</strong> LandFleisch Tiernahrung LFT GmbH, Saksamaa<br /> <strong>MAALETOOJA:</strong> Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[<strong>LandFleisch Dog B.A.R.F.2GO Vihreä pesto hedelmillä, vihanneksilla ja yrteillä</strong> on luonnollinen ravintolisä, joka sisältää monipuolisen valikoiman vitamiinipitoisia hedelmiä ja vihanneksia, mineraalipitoisia yrttejä ja korkealaatuisia öljyjä. Hienoksi jauhetut ainesosat takaavat hyvän sulavuuden ja vastaavat koirien luonnollisia ruokailutottumuksia.<br /><br /> <strong>Tuotteen ominaisuudet:</strong><br /> 100 % luonnollisia ainesosia - ei keinotekoisia lisäaineita<br /> Erittäin hyvin sulava - hienoksi jauhettu seos<br /> Runsaasti vitamiineja, kivennäisaineita ja antioksidantteja<br /> Ei sisällä viljaa, soijaa, GMO-ainesosia eikä keinotekoisia säilöntäaineita<br /> Valmistettu Saksassa korkeimpien laatustandardien mukaisesti<br /><br /> <strong>Ainesosat:</strong> 20 % pinaattia, 20 % perunaa, 10 % lehtikaalia, 10 % kukkakaalia, 10 % parsakaalia, 10 % porkkanaa, 5 % omenaa, 5 % kesäkurpitsaa, 5 % melonia, 2 % persikkaa, 2 % rypsiöljyä, sekä mangoa, persilja, voikukka, anis, fenkoli, lipstikka, inkivääri. Saattaa sisältää jäämiä muista ainesosista.<br /><br /> <strong>Analyysi:</strong> Raakaproteiini: 2,0 %, raakarasva: 2,0 %, raakatuhka: 1,5 %, raakakuitu: 1,5 %, kosteus: 86,0 %<br /><br /> <strong>Ruokintasuositus:</strong><br /> BARF2GO Pesto ei ole täysravinto. Tasapainoinen ruokavalio varmistetaan vain kolmen komponentin yhdistelmällä:<br /><br /> BARF2GO-säilykeliha<br /><br /> BARF2GO-hedelmä- ja vihannespesto<br /><br /> BARF2GO-vitamiini- ja kivennäisaineseos<br /><br /> Yksilöllinen päivittäinen tarve riippuu koiran rodusta, iästä, aktiivisuudesta ja elinolosuhteista. Ylipainoisille koirille vähennä lihan määrää tai lisää pestoa.<br /><br /> Tarjoile huoneenlämmössä. Avaamisen jälkeen säilytä jääkaapissa ja käytä kahden päivän kuluessa. Varmista aina, että saatavilla on tuoretta juomavettä.<br /><br /> <strong>Koiran täydennysruoka</strong><br /> Parasta ennen: katso pakkaus<br /> Eränumero: katso pakkaus<br /> Nettopaino: 200 g<br /><br /> <strong>VALMISTAJA:</strong> LandFleisch Tiernahrung LFT GmbH, Saksa<br /> <strong>MAAHANTUOJA:</strong> Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[<strong>LandFleisch Dog B.A.R.F.2GO Green Pesto with Fruits, Vegetables and Herbs</strong> is a natural dietary supplement that contains a diverse selection of vitamin-rich fruits and vegetables, mineral-rich herbs, and high-quality oils. The finely ground ingredients ensure excellent digestibility and correspond to the natural eating habits of dogs.<br /><br /> <strong>Product features:</strong><br /><br /> 100% natural ingredients – no artificial additives<br /><br /> Highly digestible – finely ground mix<br /><br /> Rich in vitamins, minerals, and antioxidants<br /><br /> Free from grains, soy, GMO ingredients, and artificial preservatives<br /><br /> Made in Germany according to the highest quality standards<br /><br /> <strong>Composition:</strong> 20% spinach, 20% potato, 10% kale, 10% cauliflower, 10% broccoli, 10% carrot, 5% apple, 5% zucchini, 5% melon, 2% peach, 2% rapeseed oil, plus mango, parsley, dandelion, anise, fennel, lovage, ginger. May contain traces of other ingredients.<br /><br /> <strong>Analytical constituents:</strong> Crude protein: 2.0%, crude fat: 2.0%, crude ash: 1.5%, crude fiber: 1.5%, moisture: 86.0%<br /><br /> <strong>Feeding recommendation:</strong><br /> BARF2GO Pesto is not a complete feed. A balanced diet is only ensured when combined with all three components:<br /><br /> BARF2GO meat can<br /><br /> BARF2GO fruit & vegetable pesto<br /><br /> BARF2GO vitamin & mineral mix<br /><br /> The individual daily requirement depends on the dog’s breed, age, activity level, and living conditions. For overweight dogs, reduce the meat portion or increase the amount of pesto.<br /><br /> Serve at room temperature. After opening, refrigerate and use within 2 days. Always ensure access to fresh drinking water.<br /><br /> <strong>Complementary feed for dogs</strong><br /> Best before: see packaging<br /> Batch number: see packaging<br /> Net weight: 200 g<br /><br /> <strong>MANUFACTURER:</strong> LandFleisch Tiernahrung LFT GmbH, Germany<br /> <strong>IMPORTER:</strong> Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
-    <composition><![CDATA[20% spinat, 20% kartul, 10% lehtkapsas, 10% lillkapsas, 10% brokoli, 10% porgand, 5% õun, 5% suvikõrvits, 5% melon, 2% virsik, 2% rapsiõli, lisaks mango, petersell, võilill, aniis, fenkol, aed-lovage, ingver. Võib sisaldada jälgi muudest koostisosadest.]]></composition>
-    <composition-ee><![CDATA[20% spinat, 20% kartul, 10% lehtkapsas, 10% lillkapsas, 10% brokoli, 10% porgand, 5% õun, 5% suvikõrvits, 5% melon, 2% virsik, 2% rapsiõli, lisaks mango, petersell, võilill, aniis, fenkol, aed-lovage, ingver. Võib sisaldada jälgi muudest koostisosadest.]]></composition-ee>
-    <manufacturer-name><![CDATA[LandFleisch Tiernahrung LFT GmbH, Saksamaa]]></manufacturer-name>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[LANDFLEISCH]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.23]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Looma vanus]]></id>
-        <values>
-          <value><![CDATA[Erinevatele vanustele]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Eriomadus]]></id>
-        <values>
-          <value><![CDATA[Kõigile koertele]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/LandFleisch_Dog_BARF2GO_Roheline_Pesto_Puu-_ja_koogiviljadest_ning_urtidest.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/TAF-0709-7.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.23</weight>
-            <length>0.075</length>
-            <height>0.06</height>
-            <width>0.075</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[4003537445302]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[4003537445302]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10373</category-id>
-    <category-name><![CDATA[Wet/canned dog food]]></category-name>
     <title><![CDATA[Landfleisch hipoalerginis konservuotas šunų ėdalas su antiena (Ente) 400 g]]></title>
     <title-ru><![CDATA[Landfleisch Гипоаллергенный корм для собак – утка 400г]]></title-ru>
     <title-lv><![CDATA[Landfleisch hipoalerģiska suņu barība konserviem ar pīli (Ente) 400g]]></title-lv>
@@ -70020,57 +69871,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
                 <barcode><![CDATA[788169040814]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[JOLL046A]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10394</category-id>
-    <category-name><![CDATA[Toys for dogs]]></category-name>
-    <title><![CDATA[Jolly Pets žaislas šunims, stumdomas, mėlynas, Ø25,4 cm (plaukioja vandenyje)]]></title>
-    <title-ru><![CDATA[Jolly Pets Игрушка для собак Push-n-Play Ø25,4см]]></title-ru>
-    <title-lv><![CDATA[Jolly Pets suņu rotaļlieta "Stum un spēlē" zila Ø25.4cm (peld ūdenī)]]></title-lv>
-    <title-ee><![CDATA[Jolly Pets Mänguasi Koerale Push-n-Play, Sinine 25,4cm (Ujub vees)]]></title-ee>
-    <title-fi><![CDATA[Jolly Pets Koiralelu Työnnettävä ja Leiki Sininen Ø25.4cm (Kelluu vedessä)]]></title-fi>
-    <title-en><![CDATA[Jolly Pets Dog Toy Push-n-Play Blue Ø25,4cm]]></title-en>
-    <long-description><![CDATA[Kieto plastiko stūmimo žaislas šunims.]]></long-description>
-    <long-description-ru><![CDATA[Мяч Jolly Pets Push-n-Play изготовлен из особо прочного и твердого пластика и представляет собой долговечную игрушку для собак, предназначенную для активных игр в догонялки и игры в воде.<br /> Мяч разработан таким образом, чтобы выдерживать нагрузку даже у крупных и сильных собак, помогая им эффективно рассеивать энергию. Благодаря твердому материалу собака не может схватить мяч челюстями, из-за чего он катится и гоняется за ним.<br /> Мяч можно наполнить водой, песком или гравием, чтобы сделать игрушку тяжелее и сложнее для катания.<br /><br /> <strong>Особенности:</strong><br /> Для погони и катания: Идеальная игрушка для активных игр и бега вашей собаки.<br /> Плавает в воде: Игрушка плавает на поверхности воды, что делает ее подходящей для использования в качестве игрушки для плавания на пляже или в озере.<br /> Наполняемая конструкция: Сняв крышку, вы можете добавить груз (воду, песок, гравий) в мяч, чтобы сделать игру более увлекательной для вашей собаки.<br /><br /> <strong>Технические характеристики:</strong><br /> Диаметр: 25,4 см<br /> Материал: Твердый, нетоксичный пластик<br /><br /> <strong>Внимание</strong>: Эта игрушка для собак предназначена для погони, а не для Игрушка для жевания – чрезмерное жевание и трение о твердый пластик могут привести к износу зубов вашей собаки. Всегда следите за своей собакой во время игры. Хотя игрушка исключительно прочная, ни один продукт не является полностью неразрушимым.<br /><br /> <strong>Производитель</strong>: Jolly Pets, США<br /> <strong>Дистрибьютор</strong>: Penner OÜ, Выру 77, Тарту, Эстония (info@penner.ee)]]></long-description-ru>
-    <long-description-lv><![CDATA[Cietas plastmasas stumjama rotaļlieta suņiem.]]></long-description-lv>
-    <long-description-ee><![CDATA[Jolly Pets Push-n-Play Ball on eriti tugevast ja kõvast plastikust valmistatud pall ning vastupidav koera mänguasi, mis on mõeldud aktiivseteks tagaajamis- ja veemängudeks.<br /> Pall on disainitud vastu pidama ka suurtele ja tugevamatele koertele, aidates neil tõhusalt energiat maandada. Tänu kõvale materjalile ei saa koer palli lõugade vahele haarata, mis paneb teda veeretama ning taga ajama.<br /> Palli saab seest täita vee, liiva või kruusaga, et muuta mänguasi raskemaks ja raskemini veerevaks.<br /><br /> <strong>Omadused:</strong><br /> Tagaajamiseks ja veeretamiseks: Ideaalne mänguasi koera füüsiliseks koormamiseks ja aktiivseks jooksmiseks.<br /> Ujuv vees: Mänguasi ujub veepinnal, sobides kasutamiseks ka ujumismänguasjana rannas või järves.<br /> Täidetav disain: Korgi eemaldades saab palli sisse lisada raskust (vesi, liiv, kruus), et muuta mäng koerale põnevamaks.<br /><br /> <strong>Tehnilised andmed:</strong><br /> Diameeter: 25,4cm<br /> Materjal: Kõva, mittetoksiline plastik<br /><br /> <strong>Tähelepanu</strong>: See koera mänguasi on mõeldud tagaajamiseks, mitte närimismänguasjana kasutamiseks – liigne närimine ja hammastega vastu kõva plastikut hõõrumine võib põhjustada koera hammaste kulumist. Jälgi alati koera mängimise ajal. Kuigi mänguasi on erakordselt tugev, ei ole ükski toode täielikult hävimatu.<br /><br /> <strong>Tootja</strong>: Jolly Pets, USA<br /> <strong>Edasimüüja</strong>: Penner OÜ, Võru 77, Tartu, Eesti (info@penner.ee)]]></long-description-ee>
-    <long-description-fi><![CDATA[Jolly Pets Push-n-Play -pallo on erittäin vahvasta ja kovasta muovista valmistettu kestävä koiranlelu, joka on suunniteltu aktiiviseen jahtaamiseen ja vesileikkeihin.<br /> Pallo on suunniteltu kestämään jopa suuria ja vahvempia koiria, auttaen niitä tehokkaasti haihduttamaan energiaa. Kovan materiaalin ansiosta koira ei voi tarttua palloon leukojensa väliin, minkä vuoksi se pyörii ja jahtaa sitä.<br /> Pallon voi täyttää vedellä, hiekalla tai soralla, jolloin lelusta tulee painavampi ja vaikeampi vierittää.<br /><br /> <strong>Ominaisuudet:</strong><br /> Jahtaamiseen ja vierittämiseen: Ihanteellinen lelu koirallesi liikuntaan ja aktiiviseen juoksemiseen.<br /> Kelluu vedessä: Lelu kelluu veden pinnalla, joten se sopii käytettäväksi uimaleluna rannalla tai järvessä.<br /> Täytettävä muotoilu: Poistamalla korkin voit lisätä palloon painoa (vettä, hiekkaa, soraa) tehdäksesi pelistä koirallesi jännittävämmän.<br /><br /> <strong>Tekniset tiedot:</strong><br /> Halkaisija: 25,4 cm<br /> Materiaali: Kova, myrkytön muovi<br /><br /> <strong>Huomio</strong>: Tämä koiran lelu on tarkoitettu jahtaamiseen, ei puruleluksi – liiallinen pureskelu ja hankautuminen kovaa muovia vasten voi aiheuttaa koirasi hampaiden kuluminen. Valvo koiraasi aina leikkiessään. Vaikka lelu on poikkeuksellisen vahva, mikään tuote ei ole täysin tuhoutumaton.<br /><br /> <strong>Valmistaja</strong>: Jolly Pets, USA<br /> <strong>Jälleenmyyjä</strong>: Penner OÜ, Võru 77, Tartto, Viro (info@penner.ee)]]></long-description-fi>
-    <long-description-en><![CDATA[Jolly Pets Push-n-Play Ball is a ball made of extra strong and hard plastic and a durable dog toy designed for active chasing and water games.<br /> The ball is designed to withstand even large and stronger dogs, helping them effectively dissipate energy. Thanks to the hard material, the dog cannot grab the ball between its jaws, which makes it roll and chase.<br /> The ball can be filled with water, sand or gravel to make the toy heavier and harder to roll.<br /><br /> <strong>Features:</strong><br /> For chasing and rolling: An ideal toy for your dog to exercise and run actively.<br /> Floating in water: The toy floats on the water surface, making it suitable for use as a swimming toy on the beach or in a lake.<br /> Fillable design: By removing the cap, you can add weight (water, sand, gravel) to the ball to make the game more exciting for your dog.<br /><br /> <strong>Technical specifications:</strong><br /> Diameter: 25.4cm<br /> Material: Hard, non-toxic plastic<br /><br /> <strong>Attention</strong>: This dog toy is intended for chasing, not as a chew toy for use – excessive chewing and rubbing against hard plastic can cause your dog's teeth to wear down. Always supervise your dog while playing. Although the toy is exceptionally strong, no product is completely indestructible.<br /><br /> <strong>Manufacturer</strong>: Jolly Pets, USA<br /> <strong>Distributor</strong>: Penner OÜ, Võru 77, Tartu, Estonia (info@penner.ee)]]></long-description-en>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[JOLLY PETS]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.5]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Manguasi_Koerale_Jolly_Push-n-Play_Sinine.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.5</weight>
-            <length>0.001</length>
-            <height>0.1</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[788169031027]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[1003100]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -84119,74 +83919,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
   <product>
     <category-id>10373</category-id>
     <category-name><![CDATA[Wet/canned dog food]]></category-name>
-    <title><![CDATA[Amora Wild konservuotas šunų maistas (su jautiena ir elniena) 800 g]]></title>
-    <title-ru><![CDATA[Amora консервы для собак - с олениной 800г]]></title-ru>
-    <title-lv><![CDATA[Amora Wild konservētā suņu barība (ar liellopu un brieža gaļu) 800g]]></title-lv>
-    <title-ee><![CDATA[Amora Wild Koerakonserv (Veise- ja Hirvelihaga) 800g]]></title-ee>
-    <title-fi><![CDATA[Amora Wild -säilykekoiranruoka (naudan- ja peuranlihalla) 800 g]]></title-fi>
-    <title-en><![CDATA[Amora Meat Pure Dog Food (Beef & Venison) 800g]]></title-en>
-    <long-description><![CDATA[„Amora“ konservuotas šunų ėdalas su žvėriena yra visavertis ėdalas, sudarytas iš 70 % mėsos ir subproduktų, kuriame gausu vertingų gyvūninių baltymų ir kuris padeda palaikyti gerą kailio būklę. Be grūdų, cukraus ir dirbtinių priedų.]]></long-description>
-    <long-description-ru><![CDATA[Консервированный корм Amora с дичью предлагает вашей собаке полноценное питание с исключительно высоким содержанием мяса и субпродуктов (70%). Сочетание дичи и говядины обеспечивает разнообразие в рационе и снабжает вашу собаку ценными животными белками, именно так, как того требует ее особый рацион.<br /><br /> Тщательно отобранные богатые питательными веществами субпродукты, такие как печень, сердце, почки и желудок, вместе с сочными кусочками мяса, обеспечивают натуральный вкус. Говяжий бульон добавляет сочности, а высококачественное сафлоровое масло способствует блестящей шерсти и активному образу жизни.<br /><br /> Консервированный корм для собак Amora не содержит добавленных злаков или сахара и полностью свободен от искусственных красителей, ароматизаторов и консервантов.<br /><br /> <strong>СОСТАВ:</strong> 55% говядина (легкие, мясо, печень, сердце, почки), 29% говяжий бульон, 15% оленина (мясо и субпродукты животного происхождения), минералы, сафлоровое масло. Может содержать следы других ингредиентов.<br /> <strong>АНАЛИЗ:</strong> Белок 10%, Жир 6,5%, Сырая зола 2,2%, Сырая клетчатка 0,4%, Влажность 77%<br /> <strong>ДОБАВКИ:</strong> Пищевые добавки/кг: Витамин А 2000 МЕ, Витамин D3 200 МЕ, Витамин Е 25 мг, Цинк в виде оксида цинка 20 мг, Йод в виде безводного йодата кальция 0,75 мг<br /> Технологические добавки: Камедь кассии 2500 мг<br /><br /> <strong>Полноценный корм для собак</strong><br /><br /> <strong>РЕКОМЕНДАЦИИ ПО ПИТАНИЮ:</strong><br /> 5 кг: 290 - 335 г<br /> 10 кг: 485 - 560 г<br /> 15 кг: 660 - 760 г<br /> 20 кг: 815 - 945 г<br /> 30 кг: 1105 - 1280 г<br /> 40 кг: 1375 - 1590 г<br /><br /> <strong>ПРИМЕЧАНИЕ:</strong><br /> Индивидуальные суточные потребности также зависят от других факторов, таких как порода, возраст и активность. Хранить в прохладном, сухом месте. После вскрытия хранить в холодильнике и употребить в течение 2 дней. Подавать при комнатной температуре.<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ:</strong> BTG Beteilingungs GmbH, Германия<br /> <strong>Импортер:</strong> Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Amora konservētā suņu barība ar medījuma gaļu ir pilnvērtīga maltīte ar 70% gaļas un subproduktiem, kas satur vērtīgas dzīvnieku olbaltumvielas un veicina kažoka veselību. Bez graudiem, cukura un mākslīgām piedevām.]]></long-description-lv>
-    <long-description-ee><![CDATA[Amora ulukilihaga konserv pakub koerale täisväärtuslikku einet, mille liha- ja siseelundite sisaldus on erakordselt kõrge (70%). Uluki- ja veiseliha kombinatsioon tagab vaheldust kausis ning varustab koera väärtuslike loomsete proteiinidega, täpselt nii, nagu koerale omane toitumine ette näeb.<br /><br /> Hoolikalt valitud toitaineterikkad siseelundid nagu maks, süda, neer ja magu, koos mahlaste lihatükkidega annavad loomulikku maitset. Veiselihapuljong lisab mahlasust ning kvaliteetne saflooriõli toetab karvkatte läiget ja aktiivset eluviisi.<br /><br /> Amora koerakonserv ei sisalda lisatud teravilja ega suhkrut ning on täielikult ilma kunstlike värv-, lõhna- ja säilitusaineteta.<br /><br /> <strong>KOOSTIS:</strong> 55% veiseliha (kopsud, liha, maks, süda, neer), 29% veiseliha puljong, 15% hirveliha (liha ja loomsed saadused), mineraalid, saflooriõli. Võib sisaldada teise koostisosade jälgi.<br /> <strong>ANALÜÜS:</strong> Proteiin 10%, rasv 6,5%, toortuhk 2,2%, toorkiudained 0,4%, niiskus 77%<br /> <strong>LISANDID:</strong> Toitainelised lisandid/kg: Vitamiin A 2000IU, Vitamiin D3 200IU, Vitamiin E 25mg, tsink kui tsinkoksiid 20mg, jood kui kaltsiumjodaat - veevaba 0.75mg<br /> Tehnoloogilised lisandid: Cassia Gum 2500mg<br /><br /> <strong>Täissööt koertele</strong><br /><br /> <strong>TOITUMISSOOVITUSED:</strong><br /> 5 kg: 290 - 335 g<br /> 10 kg: 485 - 560 g<br /> 15 kg: 660 - 760 g<br /> 20 kg: 815 - 945 g<br /> 30 kg: 1105 - 1280 g<br /> 40 kg: 1375 - 1590 g<br /><br /> <strong>MÄRKUS:</strong><br /> Individuaalsed päevased vajadused sõltuvad ka teistest faktoritest nagu tõug, vanus ja aktiivsus. Hoia jahedas ja kuivas kohas. Avatult hoiustada külmkapis ja tarbida 2 päeva jooksul. Serveeri toatemperatuuril.<br /><br /> <strong>TOOTJA:</strong> BTG Beteilingungs GmbH, Saksamaa<br /> <strong>Maaletooja:</strong> Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[<strong>UUSI RESEPTI!</strong><br /><br /> Täysravintoa koirille<br /><br /> <strong>AMORA-säilykkeet</strong> ovat korkealaatuisia täysravintoja, jotka ovat runsaasti eläinproteiinia, vitamiineja ja kivennäisaineita.<br /> Säilykkeet eivät sisällä makuaineita, väriaineita tai säilöntäaineita. Ei sisällä viljaa, sokeria tai sianlihaa.<br /><br /> <strong>AINESOSAT:</strong>55 % naudanlihaa (keuhkoja, lihaa, maksa, sydän, munuaisia), 29 % naudanlihalientä, 15 % peuranlihaa (lihaa ja eläinperäisiä sivutuotteita), kivennäisaineita, safloriöljyä. Saattaa sisältää jäämiä muista ainesosista.<br /> <strong>ANALYYSI:</strong>Proteiinia 10 %, rasvaa 6,5 %, raakatuhkaa 2,2 %, raakakuitua 0,4 %, kosteutta 77 %<br /> <strong>LISÄAINEET:</strong>Ravitsemukselliset lisäaineet/kg: A-vitamiini 2000 IU, D3-vitamiini 200 IU, E-vitamiini 25 mg, sinkki sinkkioksidina 20 mg, jodi kalsiumjodaattina - vedetön 0,75 mg<br /> Teknologiset lisäaineet: Kassiakumi 2500 mg<br /><br /> <strong>RAVINTOSUOSITUKSIA:</strong><br /> 5 kg: 290–335 g<br /> 10 kg: 485–560 g<br /> 15 kg: 660–760 g<br /> 20 kg: 815–945 g<br /> 30 kg: 1105–1280 g<br /> 40 kg: 1375–1590 g<br /><br /> <strong>HUOM:</strong><br /> Yksilölliset päivittäiset tarpeet riippuvat myös muista tekijöistä, kuten rodusta, iästä ja aktiivisuudesta. Säilytä viileässä ja kuivassa paikassa. Avattu pakkaus säilytetään jääkaapissa ja käytetään 2 päivän kuluessa. Tarjoile huoneenlämmössä.<br /><br /> <strong>AMORA - Valmistettu Saksassa</strong>]]></long-description-fi>
-    <long-description-en><![CDATA[NOW WITH NEW RECIPE!<br /><br /> complete feedingstuffs for dogs<br /><br /> AMORA meat pure is a high-quality complete food, which is produced exclusively from pieces of meat and offal. AMORA Meat pure contains especially high amounts of animal protein, vitamins and minerals. AMORA Meat pure contains no flavourings, colourings or preservatives. - Produced in Germany.<br /><br /> Only high-quality meat and meat by-products are processed. No preservatives, no attractants, no sugar, no flavourings. Pure meat tins for mixing. German production - without pork<br /><br /> composition: 55 % beef (lung, meat, liver, heart, kidney), 29 % beef broth, 15 % venison (meat and animal by-products*), minerals, safflower oil. May contain traces of other ingredients.<br /><br /> Analytical components: Protein 10 %, fat content 6.5 %, crude ash 2.2 %, crude fiber 0.4 %, moisture 77 %.<br /><br /> Additives: Nutritional additives/kg: Vitamin A 2000 IU, vitamin D3 200 IU, vitamin E 25 mg, zinc as zinc oxide 20 mg, iodine as calcium iodate - anhydrous 0.75 mg.<br /><br /> Technological additives: Cassia Gum 2500 mg.<br /><br /> Feeding recommendation:<br /> 5 kg dog/dog: 290 - 335 g<br /> 10 kg dog/dog: 485 - 560 g<br /> 15 kg dog/dog: 660 - 760 g<br /> 20 kg dog/dog: 815 - 945 g<br /> 30 kg dog/dog: 1105 - 1280 g<br /> 40 kg dog/dog: 1375 - 1590 g<br /><br /> Notice:<br /> The individual daily requirement of your dog depends on other factors such as breed, age, activity and attitude. Store in a cool and dry place. Once opened, store in the refrigerator and consume within 2 days. Please feed at room temperature. Please always provide sufficient fresh water. Additional feeding of snacks should be considered in the daily ration. Without added cereals and pork.]]></long-description-en>
-    <composition><![CDATA[55% veiseliha (kopsud, liha, maks, süda, neer), 29% veiseliha puljong, 15% hirveliha (liha ja loomsed saadused), mineraalid, saflooriõli. Võib sisaldada teise koostisosade jälgi.]]></composition>
-    <composition-ee><![CDATA[55% veiseliha (kopsud, liha, maks, süda, neer), 29% veiseliha puljong, 15% hirveliha (liha ja loomsed saadused), mineraalid, saflooriõli. Võib sisaldada teise koostisosade jälgi.]]></composition-ee>
-    <manufacturer-name><![CDATA[BTG Beteiligungs GmbH; Gewerbestr. 5-7]]></manufacturer-name>
-    <manufacturer-address><![CDATA[42499 Hückeswagen, Saksamaa;]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@amora.biz]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[AMORA]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.914]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Looma vanus]]></id>
-        <values>
-          <value><![CDATA[Erinevatele vanustele]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Eriomadus]]></id>
-        <values>
-          <value><![CDATA[Kõigile koertele]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Amora_Wild_Koerakonserv_Veise-_ja_Hirvelihaga.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.914</weight>
-            <length>0.1</length>
-            <height>0.12</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[4028802250405]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[9113758]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10373</category-id>
-    <category-name><![CDATA[Wet/canned dog food]]></category-name>
     <title><![CDATA[Amora Wild konservuotas šunų ėdalas (su jautiena ir elniena) 800 g x 6 vnt.]]></title>
     <title-ru><![CDATA[Amora консервы для собак - с олениной 800г x 6шт]]></title-ru>
     <title-lv><![CDATA[Amora Wild konservētā suņu barība (ar liellopu un brieža gaļu) 800g x 6 gab.]]></title-lv>
@@ -89587,73 +89319,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
                 <barcode><![CDATA[7350118550144]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[PB-24]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10370</category-id>
-    <category-name><![CDATA[Dry dog food]]></category-name>
-    <title><![CDATA[Enova Lifetime Maintenance sausas šunų maistas suaugusiems, 2 kg]]></title>
-    <title-ru><![CDATA[Enova Lifetime Maintenance Полноценное питание для взрослых собак всех пород 2кг]]></title-ru>
-    <title-lv><![CDATA[Enova Lifetime Maintenance sausā barība pieaugušiem suņiem 2 kg]]></title-lv>
-    <title-ee><![CDATA[Enova Lifetime Maintenance Kuivtoit Kanaga Täiskasvanud Koerale 2kg]]></title-ee>
-    <title-fi><![CDATA[Enova Lifetime Maintenance -kuivaruoka aikuisille koirille 2 kg]]></title-fi>
-    <title-en><![CDATA[Enova Lifetime Maintenance Adult Dog Food 2kg]]></title-en>
-    <long-description><![CDATA[Maintenance šunų pašaras tinka visų dydžių suaugusiems šunims.]]></long-description>
-    <long-description-ru><![CDATA[<strong>Корм Maintenance</strong> подходит для взрослых собак любого размера. Курица и яйца обеспечивают высокоусвояемый белок, богатый аминокислотами (помогают поддерживать мышцы даже у активных и рабочих собак). Правильно сбалансированные жирные кислоты омега-6 и омега-3 улучшают состояние шерсти и кожи. Рецепт также богат хондроитином и глюкозамином из натуральных источников (Perna canaliculus – новозеландская зеленогубая мидия) для здоровья и гибкости суставов.<br /><br /> Не содержит: наполнителей; кукурузы, пшеницы и сои; без ГМО<br /><br /> <strong>СОСТАВ</strong>: сушёная курица (28%), рис, коричневый рис, ячмень, куриный жир, сушёные цельные яйца, сушёный свекольный жом, рисовые отруби, гидролизованный белок, семена льна, лососевый жир, сушёные дрожжи, сушёный горох, хлорид натрия, целлюлозное волокно, хлорид калия, сушёный экстракт новозеландской зеленогубой мидии (Perna canaliculus), глюкозамин, хондроитинсульфат<br /> Технологические добавки: антиоксиданты<br /> <strong>АНАЛИТИЧЕСКИЕ КОМПОНЕНТЫ</strong>: Сырой протеин 26,5%, сырой жир 13,5%, сырая клетчатка 2,5%, сырая зола 7,4%, кальций 1,5%, фосфор 1,0%, омега-6 2,1%, омега-3 0,6%<br /> <strong>ОБМЕННАЯ ЭНЕРГИЯ:</strong> 3745 ккал/кг<br /> <strong>ГЛЮКОЗАМИН</strong>: 250 мг/кг<br /> <strong>ХОНДРОИТИН</strong>: 250 мг/кг<br /> <strong>ВИТАМИНЫ</strong>: E672 витамин A 15 000 МЕ, E671 витамин D3 1 200 МЕ, витамин E 150 мг, E4 медь (в виде пентагидрата сульфата меди) 10 мг, цинк (в виде оксида цинка) 90 мг, цинк (в виде гидрата хелата цинка аминокислот) 45 мг, йод (в виде безводного йодата кальция) 2 мг, селен (в виде селенита натрия) 0,2 мг<br /><br /> Форма и размер гранул: продолговатая, длина ок. 1,5 см<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ</strong>: Ticinese Petfood s.r.l, Италия]]></long-description-ru>
-    <long-description-lv><![CDATA[Maintenance suņu barība ir piemērota visu izmēru pieaugušiem suņiem.]]></long-description-lv>
-    <long-description-ee><![CDATA[<strong>Maintenance koeratoit</strong> on sobilik igas suuruses täiskasvanud koertele. Kana ja munad tagavad kõrgelt seeditava proteiini, milles on rikkalikult aminohappeid (aitavad hoida lihaseid ka aktiivsetel ja töötavatel koertel). Õieti balansseeritud omega 6 ja 3 rasvhapped edendavad karva ja naha olukorda. Retseptis on ka rikkalikult kondriotiini ja glükosamiini, mis pärineb naturaalsetest allikatest (Perna canaliculus - jõekarp), et hoida liigesed terved ja paindlikud.<br /><br /> Ei sisalda: täiteaineid; maisi, nisu ja sojat; GMO vaba<br /><br /> <strong>KOOSTIS</strong>: kuivatatud kanaliha (28%), riis, pruun riis, oder, kanarasv, kuivatatud terved munad, kuivatatud peedi viljaliha, riisikliid, hüdrolüüsitud valk, linaseemned, lõheõli, kuivatatud pärm, kuivatatud herned, naatriumkloriid, tsellulooskiud, kaaliumkloriid, kuivatatud jõekarbi ekstrakt (Perna canaliculus), glükosamiin, kondriotiinsulfaat<br /> Tehnoloogilised lisandid: antioksüdandid<br /> <strong>ANALÜÜS</strong>: Toorproteiin 26,5%, Toorrasv 13,5%, Toorkiudained 2,5%, Toortuhk 7,4%, Kaltsium 1,5%, Fosfor 1,0%, Omega 6 2,1%, Omega 3 0,6%<br /> <strong>METABOLISEERUV ENERGIA:</strong> 3745kcal/kg<br /> <strong>GLÜKOSAMIIN</strong>: 250mg/kg<br /> <strong>KONDRIOTIIN</strong>: 250mg/kg<br /> <strong>VITAMIINID</strong>: E672 Vitamiin A 15.000ME, E671 Vitamiin D3 1.200ME, Vitamiin E 150mg, E4 Vask (kui vasksulfaadi pentahüdraat) 10mg, tsink (kui tsinkoksiid) 90mg, tsink (kui tsinkkelaat aminohapete hüdraat) 45mg, jood (kui kaltsiumjodaad, veevaba) 2mg, seleen (kui naatriumseleniit) 0,2mg<br /><br /> Krõbina kuju ja suurus: Piklik, pikkus ∼1,5cm<br /><br /> <strong>TOOTJA</strong>: Ticinese Petfood s.r.l, Itaalia]]></long-description-ee>
-    <long-description-fi><![CDATA[<strong>Maintenance-koiranruoka</strong> sopii kaikenkokoisille aikuisille koirille. Kana ja kananmuna tarjoavat hyvin sulavaa proteiinia, joka sisältää runsaasti aminohappoja (ne auttavat ylläpitämään lihaksia myös aktiivisilla ja työkoirilla). Oikein tasapainotetut omega-6- ja omega-3-rasvahapot edistävät turkin ja ihon kuntoa. Resepti sisältää myös runsaasti kondroitiinia ja glukosamiinia luonnollisista lähteistä (Perna canaliculus – vihersimpukka), jotta nivelet pysyvät terveinä ja joustavina.<br /><br /> Ei sisällä: täyteaineita; maissia, vehnää eikä soijaa; GMO-vapaa<br /><br /> <strong>KOOSTUMUS</strong>: kuivattu kana (28 %), riisi, ruskea riisi, ohra, kananrasva, kuivattu kokonainen kananmuna, kuivattu juurikasleike, riisilese, hydrolysoitu proteiini, pellavansiemen, lohiöljy, kuivattu hiiva, kuivattu herne, natriumkloridi, selluloosakuitu, kaliumkloridi, kuivattu vihersimpukkauute (Perna canaliculus), glukosamiini, kondroitiinisulfaatti<br /> Teknologiset lisäaineet: antioksidantit<br /> <strong>ANALYYTTISET AINESOSAT</strong>: Raakavalkuainen 26,5 %, raakarasva 13,5 %, raakakuitu 2,5 %, raakatuhka 7,4 %, kalsium 1,5 %, fosfori 1,0 %, omega-6 2,1 %, omega-3 0,6 %<br /> <strong>MUUNTOKELPOINEN ENERGIA:</strong> 3745 kcal/kg<br /> <strong>GLUKOSAMIINI</strong>: 250 mg/kg<br /> <strong>KONDROITIINI</strong>: 250 mg/kg<br /> <strong>VITAMIINIT</strong>: E672 A-vitamiini 15 000 KY, E671 D3-vitamiini 1 200 KY, E-vitamiini 150 mg, E4 kupari (kupari(II)sulfaattipentahydraattina) 10 mg, sinkki (sinkkioksidina) 90 mg, sinkki (aminohappojen sinkkikelaattihydraattina) 45 mg, jodi (vedettömänä kalsiumjodaattina) 2 mg, seleeni (natriumseleniittinä) 0,2 mg<br /><br /> Nappulan muoto ja koko: pitkulainen, pituus n. 1,5 cm<br /><br /> <strong>VALMISTAJA</strong>: Ticinese Petfood s.r.l, Italia]]></long-description-fi>
-    <long-description-en><![CDATA[<strong>Maintenance dog food</strong> is suitable for adult dogs of all sizes. Chicken and eggs provide highly digestible protein rich in amino acids (they help maintain muscles even in active and working dogs). Properly balanced omega-6 and omega-3 fatty acids promote coat and skin condition. The recipe is also rich in chondroitin and glucosamine from natural sources (Perna canaliculus – green-lipped mussel) to keep joints healthy and flexible.<br /><br /> Does not contain: fillers; corn, wheat or soy; GMO-free<br /><br /> <strong>COMPOSITION</strong>: dried chicken (28%), rice, brown rice, barley, chicken fat, dried whole eggs, dried beet pulp, rice bran, hydrolysed protein, linseed, salmon oil, dried yeast, dried peas, sodium chloride, cellulose fibre, potassium chloride, dried green-lipped mussel extract (Perna canaliculus), glucosamine, chondroitin sulphate<br /> Technological additives: antioxidants<br /> <strong>ANALYTICAL CONSTITUENTS</strong>: Crude protein 26.5%, Crude fat 13.5%, Crude fibre 2.5%, Crude ash 7.4%, Calcium 1.5%, Phosphorus 1.0%, Omega 6 2.1%, Omega 3 0.6%<br /> <strong>METABOLISABLE ENERGY:</strong> 3745 kcal/kg<br /> <strong>GLUCOSAMINE</strong>: 250 mg/kg<br /> <strong>CHONDROITIN</strong>: 250 mg/kg<br /> <strong>VITAMINS</strong>: E672 Vitamin A 15,000 IU, E671 Vitamin D3 1,200 IU, Vitamin E 150 mg, E4 Copper (as cupric sulphate pentahydrate) 10 mg, zinc (as zinc oxide) 90 mg, zinc (as zinc chelate of amino acids hydrate) 45 mg, iodine (as calcium iodate, anhydrous) 2 mg, selenium (as sodium selenite) 0.2 mg<br /><br /> Kibble shape and size: elongated, length approx. 1.5 cm<br /><br /> <strong>MANUFACTURER</strong>: Ticinese Petfood s.r.l, Italy]]></long-description-en>
-    <manufacturer-name><![CDATA[Enova Petfood srl; Via Vigentina]]></manufacturer-name>
-    <manufacturer-address><![CDATA[102, 27100 PAVIA (PV) Itaalia;]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@enovapetfood.com]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[ENOVA]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[2.1]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Looma vanus]]></id>
-        <values>
-          <value><![CDATA[Erinevatele vanustele]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Eriomadus]]></id>
-        <values>
-          <value><![CDATA[Kõigile koertele]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/ENOVA_Maintenance_Taiskasvanud_Koera_Kuivtoit_12kg.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/enova-maintenance-kuivtoit-koerale-krobin-2.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>2.1</weight>
-            <length>0.095</length>
-            <height>0.34</height>
-            <width>0.2</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[8032869781747]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[CS531]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
