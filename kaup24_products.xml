@@ -1,6 +1,371 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
+    <category-id>10391</category-id>
+    <category-name><![CDATA[Dog bowls, pet food containers]]></category-name>
+    <title><![CDATA[Flamingo keraminis dubenėlis katėms, kreminis 140ml]]></title>
+    <title-ru><![CDATA[Flamingo Керамическая миска для кошек, бежевая 140мл]]></title-ru>
+    <title-lv><![CDATA[Flamingo keramikas bļodiņa kaķiem, bēša 140ml]]></title-lv>
+    <title-ee><![CDATA[Flamingo Keraamiline Kauss Kassile, Beež 140ml]]></title-ee>
+    <title-fi><![CDATA[Flamingo Keraaminen kuppi kissalle, beige 140ml]]></title-fi>
+    <title-en><![CDATA[Flamingo Ceramic Bowl for Cats, Beige 140ml]]></title-en>
+    <long-description><![CDATA[Maisto ir gėrimų dubenėlis katei]]></long-description>
+    <long-description-ru><![CDATA[Стильная и симпатичная керамическая миска в форме кошачьей головы, подходящая как для еды, так и для воды.<br /> Благодаря материалу, из которого она изготовлена, миска достаточно тяжелая, чтобы оставаться устойчивой во время еды.<br /><br /> <strong>Характеристики</strong>:<br /> Материал: глазурованная керамика, гигиеничная и долговечная,<br /> Уход: изделие можно мыть в посудомоечной машине, что делает чистку удобной,<br /> Дизайн: игривая форма кошачьей головы,<br /><br /> <strong>Цвет</strong>: бежевый (серо-коричневый),<br /> <strong>Объем</strong>: 140 мл.<br /><br /> <strong>Производитель</strong>: Flamingo Pet Products, Бельгия,<br /> <strong>Импортер</strong>: Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Barības un dzeršanas bļoda kaķim]]></long-description-lv>
+    <long-description-ee><![CDATA[Stiilne ja armas kassi pead meenutava kujuga keraamiline kauss, mis sobib nii toidu kui ka vee serveerimiseks.<br /> Tänu oma materjalile on kauss piisavalt raske, et püsida söömise ajal stabiilselt paigal.<br /><br /> <strong>Omadused</strong>:<br /> Materjal: glasuuritud keraamika, mis on hügieeniline, ja vastupidav,<br /> Hooldus: toodet on lubatud pesta nõudepesumasinas, mis muudab puhastamise mugavaks,<br /> Disain: mänguline kassi peakuju<br /><br /> <strong>Värv</strong>: beež (taupe),<br /> <strong>Maht</strong>: 140 ml.<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Tyylikäs ja söpö keraaminen kulho, joka on muotoiltu kissan pään muotoon ja sopii sekä ruoan että veden tarjoiluun.<br /> Materiaalinsa ansiosta kulho on riittävän painava pysyäkseen tukevasti paikallaan syömisen aikana.<br /><br /> <strong>Ominaisuudet</strong>:<br /> Materiaali: lasitettu keramiikka, joka on hygieeninen ja kestävä,<br /> Hoito: tuote on konepesun kestävä, mikä tekee puhdistuksesta helppoa,<br /> Muotoilu: leikkisä kissan pään muoto<br /><br /> <strong>Väri</strong>: beige (taupe),<br /> <strong>Tilavuus</strong>: 140 ml.<br /><br /> <strong>Valmistaja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja</strong>: Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Stylish and cute ceramic bowl shaped like a cat's head, suitable for serving both food and water.<br /> Thanks to its material, the bowl is heavy enough to stay stable while eating.<br /><br /> <strong>Features</strong>:<br /> Material: glazed ceramic, which is hygienic and durable,<br /> Care: the product is dishwasher safe, which makes cleaning convenient,<br /> Design: playful cat head shape<br /><br /> <strong>Color</strong>: beige (taupe),<br /> <strong>Volume</strong>: 140 ml.<br /><br /> <strong>Manufacturer</strong>: Flamingo Pet Products, Belgium<br /> <strong>Importer</strong>: Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Maht]]></id>
+        <values>
+          <value><![CDATA[0.14 l]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.13]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/Flamingo-Keraamiline-Kauss-Kassile-Beez-140ml.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.13</weight>
+            <length>0.12</length>
+            <height>0.04</height>
+            <width>0.12</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585313413]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[562176]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10391</category-id>
+    <category-name><![CDATA[Dog bowls, pet food containers]]></category-name>
+    <title><![CDATA[Flamingo maisto dubenėlis „Jappie“, smėlio spalvos, 450 ml]]></title>
+    <title-ru><![CDATA[Flamingo Миска для корма «Jappie», бежевая, 450 мл]]></title-ru>
+    <title-lv><![CDATA[Flamingo pārtikas bļoda "Jappie", bēša 450ml]]></title-lv>
+    <title-ee><![CDATA[Flamingo Söögikauss "Jappie", Beež 450ml]]></title-ee>
+    <title-fi><![CDATA[Flamingo-ruokakulho "Jappie", beige 450ml]]></title-fi>
+    <title-en><![CDATA[Flamingo “Jappie” Feeding Bowl, Beige 450 ml]]></title-en>
+    <long-description><![CDATA[Šunų maisto dubenėlis.]]></long-description>
+    <long-description-ru><![CDATA[Стильная и практичная миска Jappie подходит как для корма, так и для воды. Изготовлена из прочной нержавеющей стали и оснащена противоскользящим основанием, которое удерживает миску на месте во время еды. Легко очищается и подходит для мытья в посудомоечной машине.<br /><br /> <strong>Характеристики:</strong><br /><br /> Материал: нержавеющая сталь<br /><br /> Противоскользящее основание<br /><br /> Можно мыть в посудомоечной машине<br /><br /> <strong>Производитель:</strong> Flamingo Pet Products, Бельгия<br /> <strong>Импортёр:</strong> Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Suņu barības bļoda.]]></long-description-lv>
+    <long-description-ee><![CDATA[Stiilne ja praktiline Jappie söögikauss sobib nii toidu kui ka vee jaoks. Kauss on valmistatud vastupidavast roostevabast terasest ning libisemisvastane põhi hoiab selle söömise ajal kindlalt paigal. Lihtne puhastada – sobib ka nõudepesumasinas pesemiseks.<br /><br /> <strong>Omadused:</strong><br /> Materjal: roostevaba teras<br /> Libisemisvastane põhi<br /> Nõudepesumasinas pestav<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maaletooja:</strong> Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Tyylikäs ja käytännöllinen Jappie-ruokakulho sopii sekä ruoalle että vedelle. Kulho on valmistettu kestävästä ruostumattomasta teräksestä ja liukumaton pohja pitää sen tukevasti paikallaan syömisen aikana. Helppo puhdistaa - myös astianpesukoneen kestävä.<br /><br /> <strong>Ominaisuudet:</strong><br /> Materiaali: ruostumaton teräs<br /> Liukumaton pohja<br /> Astianpesukoneen kestävä<br /><br /> <strong>Valmistaja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja:</strong> Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[The stylish and practical Jappie bowl is suitable for both food and water. Made from durable stainless steel, it features a non-slip base to keep the bowl securely in place during mealtimes. Easy to clean and dishwasher safe.<br /><br /> <strong>Features:</strong><br /><br /> Material: stainless steel<br /><br /> Non-slip base<br /><br /> Dishwasher safe<br /><br /> <strong>Manufacturer:</strong> Flamingo Pet Products, Belgium<br /> <strong>Importer:</strong> Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Maht]]></id>
+        <values>
+          <value><![CDATA[0.45 l]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.2]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/soogikauss-koerale-Jappie-5-4.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.2</weight>
+            <length>0.135</length>
+            <height>0.05</height>
+            <width>0.135</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585349269]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[525723]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10424</category-id>
+    <category-name><![CDATA[Cat litter boxes]]></category-name>
+    <title><![CDATA[Flamingo neslystantis kilimėlis katėms, tualetui, 40x60 cm]]></title>
+    <title-ru><![CDATA[Flamingo Коврик для кошачьего туалета, серый 40x60см]]></title-ru>
+    <title-lv><![CDATA[Flamingo neslīdošs kaķu tualetes paklājiņš priekšpusē 40x60cm]]></title-lv>
+    <title-ee><![CDATA[Flamingo Libisemiskindel kassi liivakasti esine matt, Hall 40x60cm]]></title-ee>
+    <title-fi><![CDATA[Flamingo Liukumaton Kissan Vessan Etumatto 40x60cm]]></title-fi>
+    <title-en><![CDATA[Flamingo Anti-slip Cat Litter Tray, Grey 40x60cm]]></title-en>
+    <long-description><![CDATA[Flamingo kačių kraiko kilimėlis sumažina smėlio ir dulkių plitimą aplink kraiko dėžutę. Vandeniui atsparus PVC kilimėlis, neslystantis pagrindas, tinkantis bet kurios kraiko dėžutės priekiui.]]></long-description>
+    <long-description-ru><![CDATA[Этот прочный коврик для кошачьего туалета из ПВХ помогает поддерживать чистоту в доме, уменьшая количество песка и пыли в лотке.<br /> Текстурированная поверхность коврика действует как пылесборник, улавливая песчинки, которые ваша кошка приносит с собой лапами.<br /><br /> Коврик сохраняет ваш пол чистым и сухим, а его нескользящее основание гарантирует, что коврик будет надежно держаться на месте даже для самых активных кошек.<br /> Водонепроницаемое и влагозащитное покрытие делает уход за ним чрезвычайно простым — просто слегка встряхните его, пропылесосьте или протрите влажной тканью.<br /><br /> Идеально подходит для любого кошачьего туалета.<br /><br /> <strong>Материал</strong>: ПВХ<br /> Уменьшает распространение песка вокруг лотка<br /> Сохраняет пол чистым и сухим<br /> Нескользящее основание<br /> Защита от брызг и Влагостойкий<br /> Очень легко чистится<br /> Подходит для всех кошек и всех лотков<br /> Идеальное решение для домов с одной или несколькими кошками<br /> Мягкая, но прочная поверхность удобна для кошек<br /><br /> <strong>Производитель</strong>: Flamingo Pet Products, Бельгия<br /> <strong>Импортер</strong>: Penner OÜ; Выру 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Flamingo kaķu pakaišu paklājiņš samazina smilšu un putekļu izplatīšanos ap kaķu kasti. Ūdensizturīgs PVC materiāls, neslīdoša pamatne un der jebkuras kaķu kastes priekšpusē.]]></long-description-lv>
+    <long-description-ee><![CDATA[See vastupidavast PVC-materjalist kassiliivamatt aitab hoida kodu puhtamana, vähendades liivakastist välja kanduvat liiva ja tolmu.<br /> Mati tekstuurne pind toimib tolmupüüdjana, püüdes kinni liivaterad, mis kass käppadega kaasa toob.<br /><br /> Matt hoiab põranda puhtana ja kuivana ning selle libisemiskindel põhi tagab, et matt püsib kindlalt paigal ka kõige aktiivsema kassi puhul.<br /> Veekindel ja pritsmekindel pinnakate muudab hooldamise eriti lihtsaks – piisab kergest raputamisest, tolmuimejast või märja lapiga üle pühkimisest.<br /><br /> Sobib suurepäraselt iga liivakasti ette.<br /><br /> <strong>Materjal</strong>: PVC<br /> Vähendab liiva laialikandumist liivakasti ümber<br /> Hoiab põranda puhtana ja kuivana<br /> Libisemiskindel põhi<br /> Pritsme- ja niiskuskindel<br /> Väga lihtne puhastada<br /> Sobib kõikidele kassidele ja kõikidele liivakastidele<br /> Ideaalne lahendus ühe- ja mitmekassilistele kodudele<br /> Pehme, kuid vastupidav pind on kassile mugav astuda<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Tämä kestävä PVC-kissanhiekkamatto auttaa pitämään kotisi puhtaampana vähentämällä hiekkaa ja pölyä hiekkalaatikosta.<br /> Maton kuvioitu pinta toimii "pölyansana" ja kerää kissasi tassuillaan mukanaan tuomat hiekkahiukkaset.<br /><br /> Matto pitää lattiasi puhtaana ja kuivana, ja sen liukumaton pohja varmistaa, että matto pysyy tukevasti paikallaan jopa aktiivisimmalla kissalla.<br /> Vedenpitävä ja roiskevesitiivis pinnoite tekee maton hoidosta erittäin helppoa - ravista sitä vain kevyesti, imuroi se tai pyyhi se kostealla liinalla.<br /><br /> Täydellinen mihin tahansa hiekkalaatikkoon ja kaikenkokoisille kissoille.<br /><br /> <strong>Materiaali</strong>: PVC<br /> Vähentää hiekan leviämistä hiekkalaatikon ympärille<br /> Pitää lattian puhtaana ja kuivana<br /> Toimii "pölymagneettina"<br /> Liukumaton pohja<br /> Roiske- ja kosteutta kestävä<br /> Erittäin helppo puhdistaa<br /> Sopii kaikille kissoille ja kaikille hiekkalaatikoille<br /> Ihanteellinen ratkaisu yhden ja useamman kissan koteihin<br /> Pehmeä mutta kestävä pinta on kissan mukavalle astua<br /><br /> <strong>Valmistaja: Flamingo Pet Products, Belgia</strong><br /> <strong>Maahantuoja: Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee</strong>]]></long-description-fi>
+    <long-description-en><![CDATA[This durable PVC cat litter mat helps keep your home cleaner by reducing sand and dust from the litter box.<br /> The textured surface of the mat acts as a dust collector, catching grains of sand that your cat brings with it with their paws.<br /><br /> The mat keeps your floor clean and dry, and its non-slip base ensures that the mat stays firmly in place even for the most active cat.<br /> The waterproof and splash-proof coating makes maintenance extremely easy - just shake it lightly, vacuum it or wipe it with a wet cloth.<br /><br /> Perfect for any litter box.<br /><br /> <strong>Material</strong>: PVC<br /> Reduces the spread of sand around the litter box<br /> Keeps the floor clean and dry<br /> Slip-resistant base<br /> Splash and moisture resistant<br /> Very easy to clean<br /> Suitable for all cats and all litter boxes<br /> Ideal solution for single and multi-cat homes<br /> Soft but durable surface is comfortable for the cat to step on<br /><br /> <strong>Manufacturer</strong>: Flamingo Pet Products, Belgium<br /> <strong>Importer</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.56]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/wc-mat-kassi-wc-ette-60.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/wc-mat-kassi-wc-ette-7.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.56</weight>
+            <length>0.4</length>
+            <height>0.15</height>
+            <width>0.3</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585043181]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[560547]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10391</category-id>
+    <category-name><![CDATA[Dog bowls, pet food containers]]></category-name>
+    <title><![CDATA[Flamingo keraminis/ergonomiškas dubenėlis katėms, rožinis 110ml]]></title>
+    <title-ru><![CDATA[Flamingo Керамическая/Эргономичная миска для кошек, розовая 110мл]]></title-ru>
+    <title-lv><![CDATA[Flamingo keramikas/ergonomiskā bļodiņa kaķiem, rozā 110ml]]></title-lv>
+    <title-ee><![CDATA[Flamingo Kõrgendatud Kauss Kassile, Roosa 110ml]]></title-ee>
+    <title-fi><![CDATA[Flamingo Keraaminen/Ergonominen kuppi kissalle, vaaleanpunainen 110ml]]></title-fi>
+    <title-en><![CDATA[Flamingo Raised Bowl for Cats, Pink 110ml]]></title-en>
+    <long-description><![CDATA[Stilingas ir praktiškas keraminis maisto dubenėlis]]></long-description>
+    <long-description-ru><![CDATA[Стильная и практичная керамическая миска для еды, разработанная для обеспечения максимального комфорта вашей кошки.<br /> Эргономичный дизайн миски бережет шею вашего питомца и облегчает доступ к еде.<br /><br /> <strong>Характеристики</strong>:<br /> Материал: глазурованная керамика, которая легко моется и долговечна,<br /> Дизайн: эргономичная форма, поддерживающая естественное положение кошки во время еды,<br /> Уход: изделие можно мыть в посудомоечной машине, что обеспечивает быструю и легкую очистку,<br /><br /> <strong>Цвет</strong>: розовый<br /> <strong>Объем</strong>: 110 мл.<br /><br /> <strong>Производитель</strong>: Flamingo Pet Products, Бельгия<br /> <strong>Импортер</strong>: Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Stilīga un praktiska keramikas ēdiena bļoda]]></long-description-lv>
+    <long-description-ee><![CDATA[Stiilne ja praktiline keraamiline söögikauss, mis on loodud pakkuma kassile maksimaalset mugavust.<br /> Kausi ergonoomiline disain säästab lemmiku kaela ja muudab toidu kättesaamise lihtsamaks.<br /><br /> <strong>Omadused</strong>:<br /> Materjal: glasuuritud keraamika, mis on puhas, ja pikaajaliselt vastupidav,<br /> Disain: ergonoomiline kuju, mis toetab kassi loomulikku söömisasendit,<br /> Hooldus: toodet võib pesta nõudepesumasinas, mis tagab kiire, ja kerge puhastamise,<br /><br /> <strong>Värv</strong>: roosa<br /> <strong>Maht</strong>: 110 ml.<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Tyylikäs ja käytännöllinen keraaminen ruokakuppi, joka on suunniteltu tarjoamaan kissallesi maksimaalista mukavuutta.<br /> Kulhon ergonominen muotoilu säästää lemmikkisi niskaa ja helpottaa ruoan saavuttamista.<br /><br /> <strong>Ominaisuudet</strong>:<br /> Materiaali: lasitettua keramiikkaa, joka on puhdasta ja kestävää pitkään,<br /> Muotoilu: ergonominen muoto, joka tukee kissan luonnollista syömisasentoa,<br /> Hoito: tuote voidaan pestä astianpesukoneessa, mikä takaa nopean ja helpon puhdistuksen,<br /><br /> <strong>Väri</strong>: vaaleanpunainen<br /> <strong>Tilavuus</strong>: 110 ml.<br /><br /> <strong>Valmistaja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja</strong>: Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Stylish and practical ceramic food bowl, designed to provide maximum comfort for your cat.<br /> The ergonomic design of the bowl saves your pet's neck and makes it easier to reach the food.<br /><br /> <strong>Features</strong>:<br /> Material: glazed ceramics, which are clean and durable for a long time,<br /> Design: ergonomic shape that supports the cat's natural eating position,<br /> Care: the product can be washed in the dishwasher, which ensures quick and easy cleaning,<br /><br /> <strong>Color</strong>: pink<br /> <strong>Volume</strong>: 110 ml.<br /><br /> <strong>Manufacturer</strong>: Flamingo Pet Products, Belgium<br /> <strong>Importer</strong>: Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Maht]]></id>
+        <values>
+          <value><![CDATA[0.11 l]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.2]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/Flamingo-Keraamiline-Ergonoomiline-Kauss-Kassile-Roosa-110ml.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.2</weight>
+            <length>0.135</length>
+            <height>0.1</height>
+            <width>0.135</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585319941]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[562181]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10370</category-id>
+    <category-name><![CDATA[Dry dog food]]></category-name>
+    <title><![CDATA[ENOVA Omega sausas šunų ėdalas be grūdų su lašiša ir silke, 12 kg]]></title>
+    <title-ru><![CDATA[Enova OMEGA беззерновой корм для собак всех возрастов 12кг]]></title-ru>
+    <title-lv><![CDATA[ENOVA Omega bezgraudu sausā suņu barība ar lasi un siļķēm 12 kg]]></title-lv>
+    <title-ee><![CDATA[ENOVA Omega Teraviljavaba Kuivtoit Koerale Lõhe ja Heeringaga 12kg]]></title-ee>
+    <title-fi><![CDATA[ENOVA Omega viljaton kuiva koiranruoka lohella ja sillillä 12 kg]]></title-fi>
+    <title-en><![CDATA[ENOVA Omega Grain Free Dog Food with Salmon & Herring 12kg]]></title-en>
+    <long-description><![CDATA[Begrūdis visavertis pašaras šunims su lašiša ir silke. Enova Omega yra idealus pasirinkimas tiems, kurie ieško savo šuniui hipoalerginio, riboto sudedamųjų dalių skaičiaus ir begrūdžio pašaro. Vienintelis baltymų šaltinis yra žuvis, pašare nėra grūdų, todėl tai idealus sprendimas šunims, jautriems labiausiai paplitusioms sausų pašarų sudedamosioms dalims.]]></long-description>
+    <long-description-ru><![CDATA[Enova Omega — идеальный выбор для тех, кто ищет для своей собаки гипоаллергенный беззерновой корм с ограниченным составом. Единственный источник белка — рыба, и корм не содержит злаков, что делает его идеальным решением для собак с пищевой чувствительностью к наиболее распространённым ингредиентам сухих кормов.<br />
+<br />
+Высокое содержание рыбы в ENOVA Omega (52%) обеспечивает высококачественные белки и жирные кислоты омега-3, благотворно влияющие на кожу и шерсть. Благодаря высокой калорийности и содержанию животного белка ENOVA Omega удовлетворяет потребности в питании всех взрослых собак, растущих щенков, а также беременных и кормящих сук.<br />
+<br />
+<strong>СОСТАВ</strong>: сушёный лосось 20%, сушёная сельдь 20%, свежий лосось 10%, картофель 10%, горох 10%, жир индейки (консервирован токоферолом), сушёные яблоки, белок лосося, рыбий жир 2%, дрожжи, семена льна 0,5%, морковь 0,5%, гидролизованные панцири ракообразных (источник глюкозамина 250 мг/кг), экстракт хряща (источник хондроитина 150 мг/кг), МОС (150 мг/кг), растительный экстракт (розмарин, тимьян, куркума, цитрусовые 150 мг/кг), ФОС 100 мг/кг<br />
+Технологические добавки: антиоксиданты<br />
+<br />
+<strong>ПИТАТЕЛЬНЫЕ ДОБАВКИ НА 1 КГ:</strong> витамин A E672 20 000 МЕ, витамин D3 E671 1 500 МЕ, витамин E (альфа-токоферол) 3a700 400 мг, цинк E6 82 мг, железо E1 72 мг, марганец E5 36 мг, йод E2 0,65 мг, медь E4 15 мг, селен 3b8.10 0,25 мг<br />
+<strong>АНАЛИТИЧЕСКИЕ КОМПОНЕНТЫ</strong>: протеин 33,0%, жир 16,0%, сырая клетчатка 2,2%, сырая зола 8,2%, кальций 1,3%, фосфор 0,9%, омега-6 2,3%, омега-3 1,1%<br />
+<strong>ОБМЕННАЯ ЭНЕРГИЯ:</strong> 3820 ккал/кг<br />
+<br />
+<strong>Полнорационный корм</strong><br />
+<br />
+Форма и размер гранул: треугольная, длина ок. 1,2 см<br />
+<br />
+<strong>ПРОИЗВОДИТЕЛЬ</strong>: Ticinese Petfood s.r.l, Италия]]></long-description-ru>
+    <long-description-lv><![CDATA[Pilnvērtīga barība suņiem bez graudaugiem ar lasi un siļķi. Enova Omega ir ideāla izvēle tiem, kuri meklē savam sunim hipoalerģisku barību ar ierobežotu sastāvdaļu skaitu un bez graudaugiem. Vienīgais olbaltumvielu avots ir zivis, un barība nesatur graudaugus, tāpēc tā ir ideāls risinājums suņiem ar pārtikas jutību pret visbiežāk sastopamajām sausās barības sastāvdaļām.]]></long-description-lv>
+    <long-description-ee><![CDATA[<b>PANE TÄHELE:</b> <em>Seoses pakendi muutmisega tarnitakse hetkel antud toit ajutises neutraalses pakendis (hõbedane kott tooteetiketiga). Toote koostis, retsept ja kõrge kvaliteet on täpselt samad!</em><br />
+<br />
+Enova Omega on ideaalne valik neile, kes otsivad oma koerale hüpoallergeenset, piiratud koostisainete ja teraviljavaba toitu. Ainus valguallikas on kala ja toit ei sisalda teravilja, see on ideaalseks lahenduseks neile koertele, kellel esineb toidutundlikkust kõige levinumate kuivtoidu koostisosade suhtes.<br />
+<br />
+ENOVA Omega suur kalasisaldus (52%), pakub kõrge kvaliteediga proteiine ning Omega-3 rasvhappeid, millel on kasulik mõju nahale ja kasukale. Tänu oma kõrge kalorsuse ja loomse valgu sisaldusele, täidab ENOVA Omega kõikide täiskasvanud koerte, kasvavate kutsikate ja imetavate ning lakteerivate emaste toitumisvajadusi.<br />
+<br />
+<strong>KOOSTIS</strong>: kuivatatud lõhe 20%, kuivatatud heeringas 20%, värske lõhe 10%, kartulid 10%, herned 10%, kalkunirasv (säilitatud tokoferooliga), kuivatatud õunad, lõheproteiin, kalaõli 2%, pärm, linaseemned 0,5%, porgand 0,5%, hüdrolüüsitud koorikloomade kestad (glükosamiini allikas 250mg/kg), kõhreekstrakt (kondroitiini allikas 150mg/kg), MOS (150mg/kg), botaaniline ekstrakt (rosmariin, tüümian, kurkum, tsitrusviljad 150mg/kg), FOS 100mg/kg<br />
+Tehnoloogilised lisandid: antioksüdandid<br />
+<br />
+<strong>TOITAINELISED LISANDID 1KG KOHTA:</strong> Vitamiin A E672 20.000IU, vitamiin D3 E671 1.500IU, vitamiin E (a-tokoferool) 3a700 400mg, tsink E6 82mg, raud E1 72mg, magneesium E5 36mg, jood E2 0,65mg, vask E4 15mg, seleen 3b8.10 0,25mg<br />
+<strong>ANALÜÜS</strong>: Proteiin 33,0%, Rasv 16,0%, Toorkiud 2,2%, Toortuhk 8,2%, Kaltsium 1,3%, Fosfor 0,9%, Omega-6 2,3%, Omega-3 1,1%<br />
+<strong>METABOLISEERUV ENERGIA:</strong> 3820kcal/kg<br />
+<br />
+<strong>Täissööt</strong><br />
+<br />
+Krõbina kuju ja suurus: Kolmnurkne, pikkus ∼1,2cm<br />
+<br />
+<strong>TOOTJA</strong>: Ticinese Petfood s.r.l, Itaalia]]></long-description-ee>
+    <long-description-fi><![CDATA[Enova Omega on ihanteellinen valinta niille, jotka etsivät koiralleen hypoallergeenista, rajoitetun ainesosaluettelon viljatonta ruokaa. Ainoa proteiininlähde on kala, eikä ruoka sisällä viljaa, joten se on ihanteellinen ratkaisu koirille, jotka ovat herkkiä yleisimmille kuivaruokien ainesosille.<br />
+<br />
+ENOVA Omegan korkea kalapitoisuus (52 %) tarjoaa laadukkaita proteiineja ja omega-3-rasvahappoja, joilla on edullinen vaikutus ihoon ja turkkiin. Korkean energia- ja eläinproteiinipitoisuutensa ansiosta ENOVA Omega täyttää kaikkien aikuisten koirien, kasvavien pentujen sekä tiineiden ja imettävien narttujen ravitsemustarpeet.<br />
+<br />
+<strong>KOOSTUMUS</strong>: kuivattu lohi 20 %, kuivattu silli 20 %, tuore lohi 10 %, peruna 10 %, herne 10 %, kalkkunanrasva (säilötty tokoferolilla), kuivattu omena, loheproteiini, kalaöljy 2 %, hiiva, pellavansiemen 0,5 %, porkkana 0,5 %, hydrolysoidut äyriäisten kuoret (glukosamiinin lähde 250 mg/kg), rustouute (kondroitiinin lähde 150 mg/kg), MOS (150 mg/kg), kasviuute (rosmariini, timjami, kurkuma, sitrushedelmät 150 mg/kg), FOS 100 mg/kg<br />
+Teknologiset lisäaineet: antioksidantit<br />
+<br />
+<strong>RAVITSEMUKSELLISET LISÄAINEET 1 KG:SSA:</strong> A-vitamiini E672 20 000 KY, D3-vitamiini E671 1 500 KY, E-vitamiini (alfatokoferoli) 3a700 400 mg, sinkki E6 82 mg, rauta E1 72 mg, mangaani E5 36 mg, jodi E2 0,65 mg, kupari E4 15 mg, seleeni 3b8.10 0,25 mg<br />
+<strong>ANALYYTTISET AINESOSAT</strong>: valkuainen 33,0 %, rasva 16,0 %, raakakuitu 2,2 %, raakatuhka 8,2 %, kalsium 1,3 %, fosfori 0,9 %, omega-6 2,3 %, omega-3 1,1 %<br />
+<strong>MUUNTOKELPOINEN ENERGIA:</strong> 3820 kcal/kg<br />
+<br />
+<strong>Täysravinto</strong><br />
+<br />
+Nappulan muoto ja koko: kolmiomainen, pituus n. 1,2 cm<br />
+<br />
+<strong>VALMISTAJA</strong>: Ticinese Petfood s.r.l, Italia]]></long-description-fi>
+    <long-description-en><![CDATA[Enova Omega is the ideal choice for those looking for a hypoallergenic, limited-ingredient and grain-free food for their dog. Fish is the only protein source and the food contains no grain, making it an ideal solution for dogs with food sensitivities to the most common dry food ingredients.<br />
+<br />
+The high fish content of ENOVA Omega (52%) provides high-quality proteins and omega-3 fatty acids, which have a beneficial effect on the skin and coat. Thanks to its high calorie and animal protein content, ENOVA Omega meets the nutritional needs of all adult dogs, growing puppies and pregnant and lactating females.<br />
+<br />
+<strong>COMPOSITION</strong>: dried salmon 20%, dried herring 20%, fresh salmon 10%, potatoes 10%, peas 10%, turkey fat (preserved with tocopherols), dried apples, salmon protein, fish oil 2%, yeast, linseed 0.5%, carrot 0.5%, hydrolysed crustacean shells (source of glucosamine 250 mg/kg), cartilage extract (source of chondroitin 150 mg/kg), MOS (150 mg/kg), botanical extract (rosemary, thyme, turmeric, citrus fruits 150 mg/kg), FOS 100 mg/kg<br />
+Technological additives: antioxidants<br />
+<br />
+<strong>NUTRITIONAL ADDITIVES PER 1 KG:</strong> vitamin A E672 20,000 IU, vitamin D3 E671 1,500 IU, vitamin E (alpha-tocopherol) 3a700 400 mg, zinc E6 82 mg, iron E1 72 mg, manganese E5 36 mg, iodine E2 0.65 mg, copper E4 15 mg, selenium 3b8.10 0.25 mg<br />
+<strong>ANALYTICAL CONSTITUENTS</strong>: protein 33.0%, fat 16.0%, crude fibre 2.2%, crude ash 8.2%, calcium 1.3%, phosphorus 0.9%, omega-6 2.3%, omega-3 1.1%<br />
+<strong>METABOLISABLE ENERGY:</strong> 3820 kcal/kg<br />
+<br />
+<strong>Complete food</strong><br />
+<br />
+Kibble shape and size: triangular, length approx. 1.2 cm<br />
+<br />
+<strong>MANUFACTURER</strong>: Ticinese Petfood s.r.l, Italy]]></long-description-en>
+    <manufacturer-name><![CDATA[Enova Petfood srl; Via Vigentina]]></manufacturer-name>
+    <manufacturer-address><![CDATA[102, 27100 PAVIA (PV) Itaalia;]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@enovapetfood.com]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[ENOVA]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[12.2]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Looma vanus]]></id>
+        <values>
+          <value><![CDATA[Erinevatele vanustele]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Eriomadus]]></id>
+        <values>
+          <value><![CDATA[Kõigile koertele]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/Omega-koeratoit-teraviljavaba-lohe-ja-forelliga-originaal.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/Omega-koeratoit-teraviljavaba-lohe-ja-forelliga-2.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/enova-omega-kuivtoit-koerale-krobin-2-2.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>12.2</weight>
+            <length>0.15</length>
+            <height>0.59</height>
+            <width>0.36</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[8032869783154]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[CS611]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
     <category-id>21813</category-id>
     <category-name><![CDATA[Leashes for dogs]]></category-name>
     <title><![CDATA[Flexi L neoninė juoda/geltona juosta 5m 50kg]]></title>
@@ -16335,66 +16700,6 @@ Kaitseb mööblit<br />
   <product>
     <category-id>10391</category-id>
     <category-name><![CDATA[Dog bowls, pet food containers]]></category-name>
-    <title><![CDATA[Flamingo keraminis dubenėlis katėms, kreminis 140ml]]></title>
-    <title-ru><![CDATA[Flamingo Керамическая миска для кошек, бежевая 140мл]]></title-ru>
-    <title-lv><![CDATA[Flamingo keramikas bļodiņa kaķiem, bēša 140ml]]></title-lv>
-    <title-ee><![CDATA[Flamingo Keraamiline Kauss Kassile, Beež 140ml]]></title-ee>
-    <title-fi><![CDATA[Flamingo Keraaminen kuppi kissalle, beige 140ml]]></title-fi>
-    <title-en><![CDATA[Flamingo Ceramic Bowl for Cats, Beige 140ml]]></title-en>
-    <long-description><![CDATA[Maisto ir gėrimų dubenėlis katei]]></long-description>
-    <long-description-ru><![CDATA[Стильная и симпатичная керамическая миска в форме кошачьей головы, подходящая как для еды, так и для воды.<br /> Благодаря материалу, из которого она изготовлена, миска достаточно тяжелая, чтобы оставаться устойчивой во время еды.<br /><br /> <strong>Характеристики</strong>:<br /> Материал: глазурованная керамика, гигиеничная и долговечная,<br /> Уход: изделие можно мыть в посудомоечной машине, что делает чистку удобной,<br /> Дизайн: игривая форма кошачьей головы,<br /><br /> <strong>Цвет</strong>: бежевый (серо-коричневый),<br /> <strong>Объем</strong>: 140 мл.<br /><br /> <strong>Производитель</strong>: Flamingo Pet Products, Бельгия,<br /> <strong>Импортер</strong>: Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Barības un dzeršanas bļoda kaķim]]></long-description-lv>
-    <long-description-ee><![CDATA[Stiilne ja armas kassi pead meenutava kujuga keraamiline kauss, mis sobib nii toidu kui ka vee serveerimiseks.<br /> Tänu oma materjalile on kauss piisavalt raske, et püsida söömise ajal stabiilselt paigal.<br /><br /> <strong>Omadused</strong>:<br /> Materjal: glasuuritud keraamika, mis on hügieeniline, ja vastupidav,<br /> Hooldus: toodet on lubatud pesta nõudepesumasinas, mis muudab puhastamise mugavaks,<br /> Disain: mänguline kassi peakuju<br /><br /> <strong>Värv</strong>: beež (taupe),<br /> <strong>Maht</strong>: 140 ml.<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Tyylikäs ja söpö keraaminen kulho, joka on muotoiltu kissan pään muotoon ja sopii sekä ruoan että veden tarjoiluun.<br /> Materiaalinsa ansiosta kulho on riittävän painava pysyäkseen tukevasti paikallaan syömisen aikana.<br /><br /> <strong>Ominaisuudet</strong>:<br /> Materiaali: lasitettu keramiikka, joka on hygieeninen ja kestävä,<br /> Hoito: tuote on konepesun kestävä, mikä tekee puhdistuksesta helppoa,<br /> Muotoilu: leikkisä kissan pään muoto<br /><br /> <strong>Väri</strong>: beige (taupe),<br /> <strong>Tilavuus</strong>: 140 ml.<br /><br /> <strong>Valmistaja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja</strong>: Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[Stylish and cute ceramic bowl shaped like a cat's head, suitable for serving both food and water.<br /> Thanks to its material, the bowl is heavy enough to stay stable while eating.<br /><br /> <strong>Features</strong>:<br /> Material: glazed ceramic, which is hygienic and durable,<br /> Care: the product is dishwasher safe, which makes cleaning convenient,<br /> Design: playful cat head shape<br /><br /> <strong>Color</strong>: beige (taupe),<br /> <strong>Volume</strong>: 140 ml.<br /><br /> <strong>Manufacturer</strong>: Flamingo Pet Products, Belgium<br /> <strong>Importer</strong>: Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Maht]]></id>
-        <values>
-          <value><![CDATA[0.14 l]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.13]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Flamingo-Keraamiline-Kauss-Kassile-Beez-140ml.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.13</weight>
-            <length>0.12</length>
-            <height>0.04</height>
-            <width>0.12</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585313413]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[562176]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10391</category-id>
-    <category-name><![CDATA[Dog bowls, pet food containers]]></category-name>
     <title><![CDATA[Flamingo keraminis/ergonomiškas dubenėlis katėms, žalias 120ml]]></title>
     <title-ru><![CDATA[Flamingo Керамическая/Эргономичная миска для кошек, зеленая 120мл]]></title-ru>
     <title-lv><![CDATA[Flamingo keramikas/ergonomiskā bļodiņa kaķiem, zaļa 120ml]]></title-lv>
@@ -16716,66 +17021,6 @@ Kaitseb mööblit<br />
                 <barcode><![CDATA[5400585155051]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[520574]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10391</category-id>
-    <category-name><![CDATA[Dog bowls, pet food containers]]></category-name>
-    <title><![CDATA[Flamingo keraminis/ergonomiškas dubenėlis katėms, rožinis 110ml]]></title>
-    <title-ru><![CDATA[Flamingo Керамическая/Эргономичная миска для кошек, розовая 110мл]]></title-ru>
-    <title-lv><![CDATA[Flamingo keramikas/ergonomiskā bļodiņa kaķiem, rozā 110ml]]></title-lv>
-    <title-ee><![CDATA[Flamingo Kõrgendatud Kauss Kassile, Roosa 110ml]]></title-ee>
-    <title-fi><![CDATA[Flamingo Keraaminen/Ergonominen kuppi kissalle, vaaleanpunainen 110ml]]></title-fi>
-    <title-en><![CDATA[Flamingo Raised Bowl for Cats, Pink 110ml]]></title-en>
-    <long-description><![CDATA[Stilingas ir praktiškas keraminis maisto dubenėlis]]></long-description>
-    <long-description-ru><![CDATA[Стильная и практичная керамическая миска для еды, разработанная для обеспечения максимального комфорта вашей кошки.<br /> Эргономичный дизайн миски бережет шею вашего питомца и облегчает доступ к еде.<br /><br /> <strong>Характеристики</strong>:<br /> Материал: глазурованная керамика, которая легко моется и долговечна,<br /> Дизайн: эргономичная форма, поддерживающая естественное положение кошки во время еды,<br /> Уход: изделие можно мыть в посудомоечной машине, что обеспечивает быструю и легкую очистку,<br /><br /> <strong>Цвет</strong>: розовый<br /> <strong>Объем</strong>: 110 мл.<br /><br /> <strong>Производитель</strong>: Flamingo Pet Products, Бельгия<br /> <strong>Импортер</strong>: Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Stilīga un praktiska keramikas ēdiena bļoda]]></long-description-lv>
-    <long-description-ee><![CDATA[Stiilne ja praktiline keraamiline söögikauss, mis on loodud pakkuma kassile maksimaalset mugavust.<br /> Kausi ergonoomiline disain säästab lemmiku kaela ja muudab toidu kättesaamise lihtsamaks.<br /><br /> <strong>Omadused</strong>:<br /> Materjal: glasuuritud keraamika, mis on puhas, ja pikaajaliselt vastupidav,<br /> Disain: ergonoomiline kuju, mis toetab kassi loomulikku söömisasendit,<br /> Hooldus: toodet võib pesta nõudepesumasinas, mis tagab kiire, ja kerge puhastamise,<br /><br /> <strong>Värv</strong>: roosa<br /> <strong>Maht</strong>: 110 ml.<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Tyylikäs ja käytännöllinen keraaminen ruokakuppi, joka on suunniteltu tarjoamaan kissallesi maksimaalista mukavuutta.<br /> Kulhon ergonominen muotoilu säästää lemmikkisi niskaa ja helpottaa ruoan saavuttamista.<br /><br /> <strong>Ominaisuudet</strong>:<br /> Materiaali: lasitettua keramiikkaa, joka on puhdasta ja kestävää pitkään,<br /> Muotoilu: ergonominen muoto, joka tukee kissan luonnollista syömisasentoa,<br /> Hoito: tuote voidaan pestä astianpesukoneessa, mikä takaa nopean ja helpon puhdistuksen,<br /><br /> <strong>Väri</strong>: vaaleanpunainen<br /> <strong>Tilavuus</strong>: 110 ml.<br /><br /> <strong>Valmistaja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja</strong>: Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[Stylish and practical ceramic food bowl, designed to provide maximum comfort for your cat.<br /> The ergonomic design of the bowl saves your pet's neck and makes it easier to reach the food.<br /><br /> <strong>Features</strong>:<br /> Material: glazed ceramics, which are clean and durable for a long time,<br /> Design: ergonomic shape that supports the cat's natural eating position,<br /> Care: the product can be washed in the dishwasher, which ensures quick and easy cleaning,<br /><br /> <strong>Color</strong>: pink<br /> <strong>Volume</strong>: 110 ml.<br /><br /> <strong>Manufacturer</strong>: Flamingo Pet Products, Belgium<br /> <strong>Importer</strong>: Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Maht]]></id>
-        <values>
-          <value><![CDATA[0.11 l]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.2]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Flamingo-Keraamiline-Ergonoomiline-Kauss-Kassile-Roosa-110ml.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.2</weight>
-            <length>0.135</length>
-            <height>0.1</height>
-            <width>0.135</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585319941]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[562181]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -17169,66 +17414,6 @@ Kaitseb mööblit<br />
                 <barcode><![CDATA[5400585341980]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[525725]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10391</category-id>
-    <category-name><![CDATA[Dog bowls, pet food containers]]></category-name>
-    <title><![CDATA[Flamingo maisto dubenėlis „Jappie“, smėlio spalvos, 450 ml]]></title>
-    <title-ru><![CDATA[Flamingo Миска для корма «Jappie», бежевая, 450 мл]]></title-ru>
-    <title-lv><![CDATA[Flamingo pārtikas bļoda "Jappie", bēša 450ml]]></title-lv>
-    <title-ee><![CDATA[Flamingo Söögikauss "Jappie", Beež 450ml]]></title-ee>
-    <title-fi><![CDATA[Flamingo-ruokakulho "Jappie", beige 450ml]]></title-fi>
-    <title-en><![CDATA[Flamingo “Jappie” Feeding Bowl, Beige 450 ml]]></title-en>
-    <long-description><![CDATA[Šunų maisto dubenėlis.]]></long-description>
-    <long-description-ru><![CDATA[Стильная и практичная миска Jappie подходит как для корма, так и для воды. Изготовлена из прочной нержавеющей стали и оснащена противоскользящим основанием, которое удерживает миску на месте во время еды. Легко очищается и подходит для мытья в посудомоечной машине.<br /><br /> <strong>Характеристики:</strong><br /><br /> Материал: нержавеющая сталь<br /><br /> Противоскользящее основание<br /><br /> Можно мыть в посудомоечной машине<br /><br /> <strong>Производитель:</strong> Flamingo Pet Products, Бельгия<br /> <strong>Импортёр:</strong> Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Suņu barības bļoda.]]></long-description-lv>
-    <long-description-ee><![CDATA[Stiilne ja praktiline Jappie söögikauss sobib nii toidu kui ka vee jaoks. Kauss on valmistatud vastupidavast roostevabast terasest ning libisemisvastane põhi hoiab selle söömise ajal kindlalt paigal. Lihtne puhastada – sobib ka nõudepesumasinas pesemiseks.<br /><br /> <strong>Omadused:</strong><br /> Materjal: roostevaba teras<br /> Libisemisvastane põhi<br /> Nõudepesumasinas pestav<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maaletooja:</strong> Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Tyylikäs ja käytännöllinen Jappie-ruokakulho sopii sekä ruoalle että vedelle. Kulho on valmistettu kestävästä ruostumattomasta teräksestä ja liukumaton pohja pitää sen tukevasti paikallaan syömisen aikana. Helppo puhdistaa - myös astianpesukoneen kestävä.<br /><br /> <strong>Ominaisuudet:</strong><br /> Materiaali: ruostumaton teräs<br /> Liukumaton pohja<br /> Astianpesukoneen kestävä<br /><br /> <strong>Valmistaja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja:</strong> Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[The stylish and practical Jappie bowl is suitable for both food and water. Made from durable stainless steel, it features a non-slip base to keep the bowl securely in place during mealtimes. Easy to clean and dishwasher safe.<br /><br /> <strong>Features:</strong><br /><br /> Material: stainless steel<br /><br /> Non-slip base<br /><br /> Dishwasher safe<br /><br /> <strong>Manufacturer:</strong> Flamingo Pet Products, Belgium<br /> <strong>Importer:</strong> Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Maht]]></id>
-        <values>
-          <value><![CDATA[0.45 l]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.2]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/soogikauss-koerale-Jappie-5-4.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.2</weight>
-            <length>0.135</length>
-            <height>0.05</height>
-            <width>0.135</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585349269]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[525723]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -31347,61 +31532,6 @@ Kaitseb mööblit<br />
   <product>
     <category-id>10424</category-id>
     <category-name><![CDATA[Cat litter boxes]]></category-name>
-    <title><![CDATA[Flamingo neslystantis kilimėlis katėms, tualetui, 40x60 cm]]></title>
-    <title-ru><![CDATA[Flamingo Коврик для кошачьего туалета, серый 40x60см]]></title-ru>
-    <title-lv><![CDATA[Flamingo neslīdošs kaķu tualetes paklājiņš priekšpusē 40x60cm]]></title-lv>
-    <title-ee><![CDATA[Flamingo Libisemiskindel kassi liivakasti esine matt, Hall 40x60cm]]></title-ee>
-    <title-fi><![CDATA[Flamingo Liukumaton Kissan Vessan Etumatto 40x60cm]]></title-fi>
-    <title-en><![CDATA[Flamingo Anti-slip Cat Litter Tray, Grey 40x60cm]]></title-en>
-    <long-description><![CDATA[Flamingo kačių kraiko kilimėlis sumažina smėlio ir dulkių plitimą aplink kraiko dėžutę. Vandeniui atsparus PVC kilimėlis, neslystantis pagrindas, tinkantis bet kurios kraiko dėžutės priekiui.]]></long-description>
-    <long-description-ru><![CDATA[Этот прочный коврик для кошачьего туалета из ПВХ помогает поддерживать чистоту в доме, уменьшая количество песка и пыли в лотке.<br /> Текстурированная поверхность коврика действует как пылесборник, улавливая песчинки, которые ваша кошка приносит с собой лапами.<br /><br /> Коврик сохраняет ваш пол чистым и сухим, а его нескользящее основание гарантирует, что коврик будет надежно держаться на месте даже для самых активных кошек.<br /> Водонепроницаемое и влагозащитное покрытие делает уход за ним чрезвычайно простым — просто слегка встряхните его, пропылесосьте или протрите влажной тканью.<br /><br /> Идеально подходит для любого кошачьего туалета.<br /><br /> <strong>Материал</strong>: ПВХ<br /> Уменьшает распространение песка вокруг лотка<br /> Сохраняет пол чистым и сухим<br /> Нескользящее основание<br /> Защита от брызг и Влагостойкий<br /> Очень легко чистится<br /> Подходит для всех кошек и всех лотков<br /> Идеальное решение для домов с одной или несколькими кошками<br /> Мягкая, но прочная поверхность удобна для кошек<br /><br /> <strong>Производитель</strong>: Flamingo Pet Products, Бельгия<br /> <strong>Импортер</strong>: Penner OÜ; Выру 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Flamingo kaķu pakaišu paklājiņš samazina smilšu un putekļu izplatīšanos ap kaķu kasti. Ūdensizturīgs PVC materiāls, neslīdoša pamatne un der jebkuras kaķu kastes priekšpusē.]]></long-description-lv>
-    <long-description-ee><![CDATA[See vastupidavast PVC-materjalist kassiliivamatt aitab hoida kodu puhtamana, vähendades liivakastist välja kanduvat liiva ja tolmu.<br /> Mati tekstuurne pind toimib tolmupüüdjana, püüdes kinni liivaterad, mis kass käppadega kaasa toob.<br /><br /> Matt hoiab põranda puhtana ja kuivana ning selle libisemiskindel põhi tagab, et matt püsib kindlalt paigal ka kõige aktiivsema kassi puhul.<br /> Veekindel ja pritsmekindel pinnakate muudab hooldamise eriti lihtsaks – piisab kergest raputamisest, tolmuimejast või märja lapiga üle pühkimisest.<br /><br /> Sobib suurepäraselt iga liivakasti ette.<br /><br /> <strong>Materjal</strong>: PVC<br /> Vähendab liiva laialikandumist liivakasti ümber<br /> Hoiab põranda puhtana ja kuivana<br /> Libisemiskindel põhi<br /> Pritsme- ja niiskuskindel<br /> Väga lihtne puhastada<br /> Sobib kõikidele kassidele ja kõikidele liivakastidele<br /> Ideaalne lahendus ühe- ja mitmekassilistele kodudele<br /> Pehme, kuid vastupidav pind on kassile mugav astuda<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Tämä kestävä PVC-kissanhiekkamatto auttaa pitämään kotisi puhtaampana vähentämällä hiekkaa ja pölyä hiekkalaatikosta.<br /> Maton kuvioitu pinta toimii "pölyansana" ja kerää kissasi tassuillaan mukanaan tuomat hiekkahiukkaset.<br /><br /> Matto pitää lattiasi puhtaana ja kuivana, ja sen liukumaton pohja varmistaa, että matto pysyy tukevasti paikallaan jopa aktiivisimmalla kissalla.<br /> Vedenpitävä ja roiskevesitiivis pinnoite tekee maton hoidosta erittäin helppoa - ravista sitä vain kevyesti, imuroi se tai pyyhi se kostealla liinalla.<br /><br /> Täydellinen mihin tahansa hiekkalaatikkoon ja kaikenkokoisille kissoille.<br /><br /> <strong>Materiaali</strong>: PVC<br /> Vähentää hiekan leviämistä hiekkalaatikon ympärille<br /> Pitää lattian puhtaana ja kuivana<br /> Toimii "pölymagneettina"<br /> Liukumaton pohja<br /> Roiske- ja kosteutta kestävä<br /> Erittäin helppo puhdistaa<br /> Sopii kaikille kissoille ja kaikille hiekkalaatikoille<br /> Ihanteellinen ratkaisu yhden ja useamman kissan koteihin<br /> Pehmeä mutta kestävä pinta on kissan mukavalle astua<br /><br /> <strong>Valmistaja: Flamingo Pet Products, Belgia</strong><br /> <strong>Maahantuoja: Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee</strong>]]></long-description-fi>
-    <long-description-en><![CDATA[This durable PVC cat litter mat helps keep your home cleaner by reducing sand and dust from the litter box.<br /> The textured surface of the mat acts as a dust collector, catching grains of sand that your cat brings with it with their paws.<br /><br /> The mat keeps your floor clean and dry, and its non-slip base ensures that the mat stays firmly in place even for the most active cat.<br /> The waterproof and splash-proof coating makes maintenance extremely easy - just shake it lightly, vacuum it or wipe it with a wet cloth.<br /><br /> Perfect for any litter box.<br /><br /> <strong>Material</strong>: PVC<br /> Reduces the spread of sand around the litter box<br /> Keeps the floor clean and dry<br /> Slip-resistant base<br /> Splash and moisture resistant<br /> Very easy to clean<br /> Suitable for all cats and all litter boxes<br /> Ideal solution for single and multi-cat homes<br /> Soft but durable surface is comfortable for the cat to step on<br /><br /> <strong>Manufacturer</strong>: Flamingo Pet Products, Belgium<br /> <strong>Importer</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.56]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/wc-mat-kassi-wc-ette-60.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/wc-mat-kassi-wc-ette-7.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.56</weight>
-            <length>0.4</length>
-            <height>0.15</height>
-            <width>0.3</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585043181]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[560547]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10424</category-id>
-    <category-name><![CDATA[Cat litter boxes]]></category-name>
     <title><![CDATA[Flamingo Kačių Kraiko Samtelis XXL, Juodas 35,5cm]]></title>
     <title-ru><![CDATA[Flamingo Совок для Кошачьего Туалета XXL, Черный 35,5см]]></title-ru>
     <title-lv><![CDATA[Flamingo Kaķu Smilšu Lāpstiņa XXL, Melna 35,5cm]]></title-lv>
@@ -39089,61 +39219,6 @@ Kaitseb mööblit<br />
                 <barcode><![CDATA[5400274871873]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[504370]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>21558</category-id>
-    <category-name><![CDATA[Care products for animals]]></category-name>
-    <title><![CDATA[Flamingo šuniukų dresūros kilimėlis M 63x47cm + 10 higieninių servetėlių]]></title>
-    <title-ru><![CDATA[Flamingo Тренировочный коврик для щенков, размер M, 63x47 см + 10 гигиенических салфеток]]></title-ru>
-    <title-lv><![CDATA[Flamingo kucēnu apmācības paklājiņš M 63x47cm + 10 higiēniskās salvetes]]></title-lv>
-    <title-ee><![CDATA[Flamingo Kutsika Treeningmatt M 63x47cm + 10 Hügieenilappi]]></title-ee>
-    <title-fi><![CDATA[Flamingo-pentujen koulutusmatto M 63x47cm + 10 terveyspyyhettä]]></title-fi>
-    <title-en><![CDATA[Flamingo Puppy Training Mat M 63x47cm + Pads 10pcs]]></title-en>
-    <long-description><![CDATA[Šuniukų dresūros kilimėlis, padedantis šuniui išmokyti šlapintis tinkamoje vietoje.]]></long-description>
-    <long-description-ru><![CDATA[Коврик для щенков для мочеиспускания.<br /> Включает 10 гигиенических салфеток 60x40<br /> <strong>Размеры:</strong> 63x47x5cm<br /><br /> Туалет для щенков изготовлен из высококачественного, прочного пластика. В комплект входят 10 впитывающих пеленок. Поверхность подстилки высыхает за 30 секунд.<br /><br /> Сухая подстилка кладется на основание, и щенка или собаку учат писать на нее. Также рекомендуется использовать средство для дрессировки щенков (жидкость для дрессировки) или добавить в лоток подгузник, газету и т. д., уже испачканные мочой щенка или собаки.<br /><br /> <strong>Производитель:</strong> Flamingo Pet Products]]></long-description-ru>
-    <long-description-lv><![CDATA[Kucēnu apmācības paklājiņš, kas palīdz iemācīt sunim čurāt pareizajā vietā.]]></long-description-lv>
-    <long-description-ee><![CDATA[Kutsika treenimiseks mõeldud pissimismatt.<br /> Kaasas 10 hügieenilappi 60x40<br /> <strong>Mõõdud:</strong> 63x47x5cm<br /><br /> Kutsika tualett on valmistatud kvaliteetsest vastupidavast plastikust. Komplektis kaasas 10 imavat pissilappi. Aluslapi pind kuivab 30 sekundiga.<br /><br /> Kuiv pissilapp asetatakse alusele ja õpetatakse kutsikas või koer sellele pissima. Soovitav on kasutada ka puppy trainerit (treenimisvedelikku) või lisada alusele juba kutsika-koera uriiniga koos olev mähe, ajaleht vms<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products]]></long-description-ee>
-    <long-description-fi><![CDATA[Koiranpennun pissa-alusta.<br /> Sisältää 10 terveyssidettä 60x40<br /> <strong>Mitat:</strong> 63x47x5cm<br /><br /> Pentukäynä on valmistettu korkealaatuisesta ja kestävästä muovista. Setti sisältää 10 imukykyistä pissatyynyä. Tyynyn pinta kuivuu 30 sekunnissa.<br /><br /> Kuiva pissatyyny asetetaan alustalle ja pentu tai koira opetetaan pissaamaan siihen. On myös suositeltavaa käyttää pennunkouluttajaa (koulutusnestettä) tai lisätä tarjottimelle vaippa, sanomalehti tms., jossa on jo pennun tai koiran virtsaa.<br /><br /> <strong>Valmistaja:</strong> Flamingo Pet Products]]></long-description-fi>
-    <long-description-en><![CDATA[A pee mat for puppy training.<br /> Includes 10 sanitary pads 60x40<br /> <strong>Dimensions:</strong> 63x47x5cm<br /><br /> The puppy toilet is made of high-quality, durable plastic. The set includes 10 absorbent pee pads. The surface of the pad dries in 30 seconds.<br /><br /> The dry pee pad is placed on the base and the puppy or dog is taught to pee on it. It is also recommended to use puppy trainer (training liquid) or add a diaper, newspaper, etc. that has already been mixed with puppy or dog urine to the base<br /><br /> <strong>Manufacturer:</strong> Flamingo Pet Products]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[1.75]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/kutsika-treenimis-matt-lappidega_v1.jpg</url></image>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/treeningmatt_koerale.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>1.75</weight>
-            <length>0.15</length>
-            <height>0.06</height>
-            <width>0.08</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400274949114]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[507675]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -52010,62 +52085,6 @@ Tootja: Hundesportprofi B.Klin]]></long-description-ee>
                 <barcode><![CDATA[8023222171671]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[c5081167]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10415</category-id>
-    <category-name><![CDATA[Dog clothes]]></category-name>
-    <title><![CDATA[Croci Megztinis Šunims, Valencia, Rožinis 50 cm]]></title>
-    <title-ru><![CDATA[Croci Свитер для собак, Valencia, розовый 50см]]></title-ru>
-    <title-lv><![CDATA[Croci Džemperis Suņiem, Valencia, Rozā 50 cm]]></title-lv>
-    <title-ee><![CDATA[Croci Kampsun Koerale, Valencia, Roosa 50cm]]></title-ee>
-    <title-fi><![CDATA[Croci Neulepaita Koiralle, Valencia, Vaaleanpunainen 50 cm]]></title-fi>
-    <title-en><![CDATA[Croci Sweater for Dogs, Valencia, Pink 50cm]]></title-en>
-    <long-description><![CDATA[Megztinis šuniui.]]></long-description>
-    <long-description-ru><![CDATA[<strong>Длина спины:</strong> 50см<br /> <strong>Материал:</strong> полиэстер<br /><br /> Croci SPA]]></long-description-ru>
-    <long-description-lv><![CDATA[Adīts džemperis sunim.]]></long-description-lv>
-    <long-description-ee><![CDATA[Enne kudumi ostmist palume mõõta oma koera seljapikkus. Pildid on illustratiivsed.<br /><br /> <strong>Selja pikkus:</strong> 50cm<br /><br /> <strong>Materjal:</strong> Polüester<br /><br /> - Kraega<br /> - Turjal auk jalutusrihma jaoks<br /> - Tagajalgade juures kummist paelad.<br /><br /> Tootja: Croci SPA]]></long-description-ee>
-    <long-description-fi><![CDATA[Ennen neuleen ostamista, mittaa koirasi selän pituus. Kuvat ovat vain havainnollistavia.<br /><br /> <strong>Selän pituus:</strong>50 cm<br /><br /> <strong>Materiaali:</strong>Polyesteri<br /><br /> - Pannalla<br /> - Reikä hihnalle takana<br /> - Kuminauhat takajaloissa.<br /><br /> Valmistaja: Croci SPA]]></long-description-fi>
-    <long-description-en><![CDATA[Before purchasing a knitwear, please measure your dog's back length. The pictures are for illustrative purposes only.<br /><br /> <strong>Back length:</strong> 50cm<br /><br /> <strong>Material:</strong> Polyester<br /><br /> - With collar<br /> - Hole for leash at the back<br /> - Rubber bands at the hind legs.<br /><br /> Manufacturer: Croci SPA]]></long-description-en>
-    <manufacturer-name><![CDATA[Camon & Croci Pet Group S.p.A. / Croci S.p.A.; Corso Italia]]></manufacturer-name>
-    <manufacturer-address><![CDATA[22 – 20122 Milano (MI), Itaalia;]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@croci.net]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[CROCI]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.1]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/kudum-valencia-roosa-5.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/kudum-valencia-roosa-A-3.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/moodutabel-kudumile-21.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.1</weight>
-            <length>0.5</length>
-            <height>0.04</height>
-            <width>0.26</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[8023222131927]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[c7174192]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -88915,73 +88934,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
                 <barcode><![CDATA[8436586310141]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[0003002209]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10370</category-id>
-    <category-name><![CDATA[Dry dog food]]></category-name>
-    <title><![CDATA[ENOVA Omega sausas šunų ėdalas be grūdų su lašiša ir silke, 12 kg]]></title>
-    <title-ru><![CDATA[Enova OMEGA беззерновой корм для собак всех возрастов 12кг]]></title-ru>
-    <title-lv><![CDATA[ENOVA Omega bezgraudu sausā suņu barība ar lasi un siļķēm 12 kg]]></title-lv>
-    <title-ee><![CDATA[ENOVA Omega Teraviljavaba Kuivtoit Koerale Lõhe ja Heeringaga 12kg]]></title-ee>
-    <title-fi><![CDATA[ENOVA Omega viljaton kuiva koiranruoka lohella ja sillillä 12 kg]]></title-fi>
-    <title-en><![CDATA[ENOVA Omega Grain Free Dog Food with Salmon & Herring 12kg]]></title-en>
-    <long-description><![CDATA[Begrūdis visavertis pašaras šunims su lašiša ir silke. Enova Omega yra idealus pasirinkimas tiems, kurie ieško savo šuniui hipoalerginio, riboto sudedamųjų dalių skaičiaus ir begrūdžio pašaro. Vienintelis baltymų šaltinis yra žuvis, pašare nėra grūdų, todėl tai idealus sprendimas šunims, jautriems labiausiai paplitusioms sausų pašarų sudedamosioms dalims.]]></long-description>
-    <long-description-ru><![CDATA[Enova Omega — идеальный выбор для тех, кто ищет для своей собаки гипоаллергенный беззерновой корм с ограниченным составом. Единственный источник белка — рыба, и корм не содержит злаков, что делает его идеальным решением для собак с пищевой чувствительностью к наиболее распространённым ингредиентам сухих кормов.<br /><br /> Высокое содержание рыбы в ENOVA Omega (52%) обеспечивает высококачественные белки и жирные кислоты омега-3, благотворно влияющие на кожу и шерсть. Благодаря высокой калорийности и содержанию животного белка ENOVA Omega удовлетворяет потребности в питании всех взрослых собак, растущих щенков, а также беременных и кормящих сук.<br /><br /> <strong>СОСТАВ</strong>: сушёный лосось 20%, сушёная сельдь 20%, свежий лосось 10%, картофель 10%, горох 10%, жир индейки (консервирован токоферолом), сушёные яблоки, белок лосося, рыбий жир 2%, дрожжи, семена льна 0,5%, морковь 0,5%, гидролизованные панцири ракообразных (источник глюкозамина 250 мг/кг), экстракт хряща (источник хондроитина 150 мг/кг), МОС (150 мг/кг), растительный экстракт (розмарин, тимьян, куркума, цитрусовые 150 мг/кг), ФОС 100 мг/кг<br /> Технологические добавки: антиоксиданты<br /><br /> <strong>ПИТАТЕЛЬНЫЕ ДОБАВКИ НА 1 КГ:</strong> витамин A E672 20 000 МЕ, витамин D3 E671 1 500 МЕ, витамин E (альфа-токоферол) 3a700 400 мг, цинк E6 82 мг, железо E1 72 мг, марганец E5 36 мг, йод E2 0,65 мг, медь E4 15 мг, селен 3b8.10 0,25 мг<br /> <strong>АНАЛИТИЧЕСКИЕ КОМПОНЕНТЫ</strong>: протеин 33,0%, жир 16,0%, сырая клетчатка 2,2%, сырая зола 8,2%, кальций 1,3%, фосфор 0,9%, омега-6 2,3%, омега-3 1,1%<br /> <strong>ОБМЕННАЯ ЭНЕРГИЯ:</strong> 3820 ккал/кг<br /><br /> <strong>Полнорационный корм</strong><br /><br /> Форма и размер гранул: треугольная, длина ок. 1,2 см<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ</strong>: Ticinese Petfood s.r.l, Италия]]></long-description-ru>
-    <long-description-lv><![CDATA[Pilnvērtīga barība suņiem bez graudaugiem ar lasi un siļķi. Enova Omega ir ideāla izvēle tiem, kuri meklē savam sunim hipoalerģisku barību ar ierobežotu sastāvdaļu skaitu un bez graudaugiem. Vienīgais olbaltumvielu avots ir zivis, un barība nesatur graudaugus, tāpēc tā ir ideāls risinājums suņiem ar pārtikas jutību pret visbiežāk sastopamajām sausās barības sastāvdaļām.]]></long-description-lv>
-    <long-description-ee><![CDATA[Enova Omega on ideaalne valik neile, kes otsivad oma koerale hüpoallergeenset, piiratud koostisainete ja teraviljavaba toitu. Ainus valguallikas on kala ja toit ei sisalda teravilja, see on ideaalseks lahenduseks neile koertele, kellel esineb toidutundlikkust kõige levinumate kuivtoidu koostisosade suhtes.<br /><br /> ENOVA Omega suur kalasisaldus (52%), pakub kõrge kvaliteediga proteiine ning Omega-3 rasvhappeid, millel on kasulik mõju nahale ja kasukale. Tänu oma kõrge kalorsuse ja loomse valgu sisaldusele, täidab ENOVA Omega kõikide täiskasvanud koerte, kasvavate kutsikate ja imetavate ning lakteerivate emaste toitumisvajadusi.<br /><br /> <strong>KOOSTIS</strong>: kuivatatud lõhe 20%, kuivatatud heeringas 20%, värske lõhe 10%, kartulid 10%, herned 10%, kalkunirasv (säilitatud tokoferooliga), kuivatatud õunad, lõheproteiin, kalaõli 2%, pärm, linaseemned 0,5%, porgand 0,5%, hüdrolüüsitud koorikloomade kestad (glükosamiini allikas 250mg/kg), kõhreekstrakt (kondroitiini allikas 150mg/kg), MOS (150mg/kg), botaaniline ekstrakt (rosmariin, tüümian, kurkum, tsitrusviljad 150mg/kg), FOS 100mg/kg<br /> Tehnoloogilised lisandid: antioksüdandid<br /><br /> <strong>TOITAINELISED LISANDID 1KG KOHTA:</strong> Vitamiin A E672 20.000IU, vitamiin D3 E671 1.500IU, vitamiin E (a-tokoferool) 3a700 400mg, tsink E6 82mg, raud E1 72mg, magneesium E5 36mg, jood E2 0,65mg, vask E4 15mg, seleen 3b8.10 0,25mg<br /> <strong>ANALÜÜS</strong>: Proteiin 33,0%, Rasv 16,0%, Toorkiud 2,2%, Toortuhk 8,2%, Kaltsium 1,3%, Fosfor 0,9%, Omega-6 2,3%, Omega-3 1,1%<br /> <strong>METABOLISEERUV ENERGIA:</strong> 3820kcal/kg<br /><br /> <strong>Täissööt</strong><br /><br /> Krõbina kuju ja suurus: Kolmnurkne, pikkus ∼1,2cm<br /><br /> <strong>TOOTJA</strong>: Ticinese Petfood s.r.l, Itaalia]]></long-description-ee>
-    <long-description-fi><![CDATA[Enova Omega on ihanteellinen valinta niille, jotka etsivät koiralleen hypoallergeenista, rajoitetun ainesosaluettelon viljatonta ruokaa. Ainoa proteiininlähde on kala, eikä ruoka sisällä viljaa, joten se on ihanteellinen ratkaisu koirille, jotka ovat herkkiä yleisimmille kuivaruokien ainesosille.<br /><br /> ENOVA Omegan korkea kalapitoisuus (52 %) tarjoaa laadukkaita proteiineja ja omega-3-rasvahappoja, joilla on edullinen vaikutus ihoon ja turkkiin. Korkean energia- ja eläinproteiinipitoisuutensa ansiosta ENOVA Omega täyttää kaikkien aikuisten koirien, kasvavien pentujen sekä tiineiden ja imettävien narttujen ravitsemustarpeet.<br /><br /> <strong>KOOSTUMUS</strong>: kuivattu lohi 20 %, kuivattu silli 20 %, tuore lohi 10 %, peruna 10 %, herne 10 %, kalkkunanrasva (säilötty tokoferolilla), kuivattu omena, loheproteiini, kalaöljy 2 %, hiiva, pellavansiemen 0,5 %, porkkana 0,5 %, hydrolysoidut äyriäisten kuoret (glukosamiinin lähde 250 mg/kg), rustouute (kondroitiinin lähde 150 mg/kg), MOS (150 mg/kg), kasviuute (rosmariini, timjami, kurkuma, sitrushedelmät 150 mg/kg), FOS 100 mg/kg<br /> Teknologiset lisäaineet: antioksidantit<br /><br /> <strong>RAVITSEMUKSELLISET LISÄAINEET 1 KG:SSA:</strong> A-vitamiini E672 20 000 KY, D3-vitamiini E671 1 500 KY, E-vitamiini (alfatokoferoli) 3a700 400 mg, sinkki E6 82 mg, rauta E1 72 mg, mangaani E5 36 mg, jodi E2 0,65 mg, kupari E4 15 mg, seleeni 3b8.10 0,25 mg<br /> <strong>ANALYYTTISET AINESOSAT</strong>: valkuainen 33,0 %, rasva 16,0 %, raakakuitu 2,2 %, raakatuhka 8,2 %, kalsium 1,3 %, fosfori 0,9 %, omega-6 2,3 %, omega-3 1,1 %<br /> <strong>MUUNTOKELPOINEN ENERGIA:</strong> 3820 kcal/kg<br /><br /> <strong>Täysravinto</strong><br /><br /> Nappulan muoto ja koko: kolmiomainen, pituus n. 1,2 cm<br /><br /> <strong>VALMISTAJA</strong>: Ticinese Petfood s.r.l, Italia]]></long-description-fi>
-    <long-description-en><![CDATA[Enova Omega is the ideal choice for those looking for a hypoallergenic, limited-ingredient and grain-free food for their dog. Fish is the only protein source and the food contains no grain, making it an ideal solution for dogs with food sensitivities to the most common dry food ingredients.<br /><br /> The high fish content of ENOVA Omega (52%) provides high-quality proteins and omega-3 fatty acids, which have a beneficial effect on the skin and coat. Thanks to its high calorie and animal protein content, ENOVA Omega meets the nutritional needs of all adult dogs, growing puppies and pregnant and lactating females.<br /><br /> <strong>COMPOSITION</strong>: dried salmon 20%, dried herring 20%, fresh salmon 10%, potatoes 10%, peas 10%, turkey fat (preserved with tocopherols), dried apples, salmon protein, fish oil 2%, yeast, linseed 0.5%, carrot 0.5%, hydrolysed crustacean shells (source of glucosamine 250 mg/kg), cartilage extract (source of chondroitin 150 mg/kg), MOS (150 mg/kg), botanical extract (rosemary, thyme, turmeric, citrus fruits 150 mg/kg), FOS 100 mg/kg<br /> Technological additives: antioxidants<br /><br /> <strong>NUTRITIONAL ADDITIVES PER 1 KG:</strong> vitamin A E672 20,000 IU, vitamin D3 E671 1,500 IU, vitamin E (alpha-tocopherol) 3a700 400 mg, zinc E6 82 mg, iron E1 72 mg, manganese E5 36 mg, iodine E2 0.65 mg, copper E4 15 mg, selenium 3b8.10 0.25 mg<br /> <strong>ANALYTICAL CONSTITUENTS</strong>: protein 33.0%, fat 16.0%, crude fibre 2.2%, crude ash 8.2%, calcium 1.3%, phosphorus 0.9%, omega-6 2.3%, omega-3 1.1%<br /> <strong>METABOLISABLE ENERGY:</strong> 3820 kcal/kg<br /><br /> <strong>Complete food</strong><br /><br /> Kibble shape and size: triangular, length approx. 1.2 cm<br /><br /> <strong>MANUFACTURER</strong>: Ticinese Petfood s.r.l, Italy]]></long-description-en>
-    <manufacturer-name><![CDATA[Enova Petfood srl; Via Vigentina]]></manufacturer-name>
-    <manufacturer-address><![CDATA[102, 27100 PAVIA (PV) Itaalia;]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@enovapetfood.com]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[ENOVA]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[12.2]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Looma vanus]]></id>
-        <values>
-          <value><![CDATA[Erinevatele vanustele]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Eriomadus]]></id>
-        <values>
-          <value><![CDATA[Kõigile koertele]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/ENOVA_Omega_Teraviljavaba_Kuivtoit_Koerale_Lohe___Heeringaga_12kg.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/enova-omega-kuivtoit-koerale-krobin-2.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>12.2</weight>
-            <length>0.15</length>
-            <height>0.59</height>
-            <width>0.36</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[8032869783154]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[CS611]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
