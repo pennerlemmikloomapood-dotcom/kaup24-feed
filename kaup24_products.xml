@@ -1,6 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
+    <category-id>10388</category-id>
+    <category-name><![CDATA[Dog leashes, collars, harnesses]]></category-name>
+    <title><![CDATA[Zero DC antkaklis GIGA 50 mm x 65–75 cm, juodas su neonine žalia spalva]]></title>
+    <title-ru><![CDATA[Zero DC, Ошейник GIGA 65-75см Черный с неоново-зеленым]]></title-ru>
+    <title-lv><![CDATA[Zero DC kakla siksna GIGA 50 mm x 65–75 cm, melna ar neona zaļu krāsu]]></title-lv>
+    <title-ee><![CDATA[Zero DC Kaelarihm GIGA 50mm x 65-75cm, Must Neoonrohelisega]]></title-ee>
+    <title-fi><![CDATA[Zero DC -panta GIGA 50 mm x 65–75 cm, musta ja neonvihreä]]></title-fi>
+    <title-en><![CDATA[Zero DC Collar GIGA 65-75cm Black with neongreen]]></title-en>
+    <long-description><![CDATA[Ypač platus ir tvirtas antkaklis šunims]]></long-description>
+    <long-description-ru><![CDATA[Очень широкий и прочный ошейник для собак<br /><br /> Ширина: 5 см<br /><br /> Подходит для окружности шеи: 65-75 см<br /><br /> Zero DC]]></long-description-ru>
+    <long-description-lv><![CDATA[Īpaši plata un izturīga kakla siksna suņiem]]></long-description-lv>
+    <long-description-ee><![CDATA[Eriti lai ja tugev kaelarihm koerale<br /><br /> Laius: 5cm<br /><br /> Sobib kaelaümbermõõdule: 65-75cm<br /><br /> Zero DC]]></long-description-ee>
+    <long-description-fi><![CDATA[Erittäin leveä ja vahva koiranpanta<br /><br /> Leveys: 5 cm<br /><br /> Sopii kaulanympärykselle: 65-75 cm<br /><br /> Zero DC]]></long-description-fi>
+    <long-description-en><![CDATA[Extra wide and strong dog collar<br /><br /> Width: 5cm<br /><br /> Suitable for neck circumference: 65-75cm<br /><br /> Zero DC]]></long-description-en>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[ZERO D.C]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.2]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/kaelarihm_giga.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.2</weight>
+            <length>0.1</length>
+            <height>0.1</height>
+            <width>0.1</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[4204886164863]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[3110X6575MNR]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10400</category-id>
+    <category-name><![CDATA[Dog training products]]></category-name>
+    <title><![CDATA[„Gappay“ medžiaginis krepšys su dviem rankenomis, 5x25 cm]]></title>
+    <title-ru><![CDATA[Gappay Жгут с двумя ручками 25x5см]]></title-ru>
+    <title-lv><![CDATA[Gappay auduma iepirkumu soma ar 2 rokturiem 5x25cm]]></title-lv>
+    <title-ee><![CDATA[Gappay Riidest Patuka 2 Sangaga, Must 5x25cm]]></title-ee>
+    <title-fi><![CDATA[Gappay-kangaskassi kahdella kahvalla 5x25cm]]></title-fi>
+    <title-en><![CDATA[Gappay Nyclot Tug with 2 Handles 5x25cm]]></title-en>
+    <long-description><![CDATA[Tvirta sintetinės medžiagos lazda su dviem rankenomis.<br /> <br /> <strong>Matmenys:</strong> 5x25cm<br /> <br /> Iliustracinė nuotrauka, lazdos ir rankenų spalva gali skirtis nuo nuotraukoje.<br /> <br /> Skirta kaip treniruočių priemonė, o ne žaislas.<br /> <br /> <strong>Gamintojas:</strong> „Gappay“<br />]]></long-description>
+    <long-description-lv><![CDATA[Izturīga sintētiska materiāla nūja ar diviem rokturiem.<br /> <br /> <strong>Izmēri:</strong> 5x25cm<br /> <br /> Ilustratīva fotogrāfija, nūjas un rokturu krāsa var atšķirties no fotoattēlā redzamās.<br /> <br /> Paredzēts kā treniņu līdzeklis, nevis rotaļlieta.<br /> <br /> <strong>Ražotājs:</strong> Gappay<br />]]></long-description-lv>
+    <long-description-ee><![CDATA[Tugev sünteetilisest materjalist patuka kahe sangaga.<br /><br /> <strong>Mõõdud:</strong> 5x25cm<br /><br /> Illustratiivne foto, patuka ja sangade värv võib fotol kujutatust erineda.<br /><br /> Mõeldud treeningvahendiks, mitte mänguasjaks.<br /><br /> <strong>Tootja:</strong> Gappay]]></long-description-ee>
+    <long-description-fi><![CDATA[Vahvasta synteettisestä materiaalista valmistettu pamppu, jossa on kaksi kahvaa.<br /><br /> <strong>Mitat:</strong> 5x25cm<br /><br /> Havainnollistava kuva, pampun ja kahvojen väri voi poiketa kuvasta.<br /><br /> Tarkoitettu harjoitusvälineeksi, ei leluksi.<br /><br /> <strong>Valmistaja:</strong> Gappay]]></long-description-fi>
+    <long-description-en><![CDATA[Strong synthetic material baton with two handles.<br /><br /> <strong>Dimensions:</strong> 5x25cm<br /><br /> Illustrative photo, the color of the baton and handles may differ from the photo.<br /><br /> Intended as a training tool, not a toy.<br /><br /> <strong>Manufacturer:</strong> Gappay]]></long-description-en>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[GAPPAY]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.1]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Gappay_Riidest_Patuka_2_Sangaga.jpg</url></image>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Gappay_Riidest_Patuka_2_Sangaga_v1.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.1</weight>
+            <length>0.001</length>
+            <height>0.1</height>
+            <width>0.1</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[8595633301683]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[0444]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
     <category-id>21558</category-id>
     <category-name><![CDATA[Care products for animals]]></category-name>
     <title><![CDATA[Croci lenktos pavilnės šukos M / Furminator "Vanity"]]></title>
@@ -57967,57 +58069,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
                 <barcode><![CDATA[8003507980051]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[98005]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10388</category-id>
-    <category-name><![CDATA[Dog leashes, collars, harnesses]]></category-name>
-    <title><![CDATA[Zero DC antkaklis GIGA 50 mm x 65–75 cm, juodas su neonine žalia spalva]]></title>
-    <title-ru><![CDATA[Zero DC, Ошейник GIGA 65-75см Черный с неоново-зеленым]]></title-ru>
-    <title-lv><![CDATA[Zero DC kakla siksna GIGA 50 mm x 65–75 cm, melna ar neona zaļu krāsu]]></title-lv>
-    <title-ee><![CDATA[Zero DC Kaelarihm GIGA 50mm x 65-75cm, Must Neoonrohelisega]]></title-ee>
-    <title-fi><![CDATA[Zero DC -panta GIGA 50 mm x 65–75 cm, musta ja neonvihreä]]></title-fi>
-    <title-en><![CDATA[Zero DC Collar GIGA 65-75cm Black with neongreen]]></title-en>
-    <long-description><![CDATA[Ypač platus ir tvirtas antkaklis šunims]]></long-description>
-    <long-description-ru><![CDATA[Очень широкий и прочный ошейник для собак<br /><br /> Ширина: 5 см<br /><br /> Подходит для окружности шеи: 65-75 см<br /><br /> Zero DC]]></long-description-ru>
-    <long-description-lv><![CDATA[Īpaši plata un izturīga kakla siksna suņiem]]></long-description-lv>
-    <long-description-ee><![CDATA[Eriti lai ja tugev kaelarihm koerale<br /><br /> Laius: 5cm<br /><br /> Sobib kaelaümbermõõdule: 65-75cm<br /><br /> Zero DC]]></long-description-ee>
-    <long-description-fi><![CDATA[Erittäin leveä ja vahva koiranpanta<br /><br /> Leveys: 5 cm<br /><br /> Sopii kaulanympärykselle: 65-75 cm<br /><br /> Zero DC]]></long-description-fi>
-    <long-description-en><![CDATA[Extra wide and strong dog collar<br /><br /> Width: 5cm<br /><br /> Suitable for neck circumference: 65-75cm<br /><br /> Zero DC]]></long-description-en>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[ZERO D.C]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.2]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/kaelarihm_giga.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.2</weight>
-            <length>0.001</length>
-            <height>0.1</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[4204886164863]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[3110X6575MNR]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
