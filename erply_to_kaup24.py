@@ -226,8 +226,36 @@ def api_call(session_key, request_name, **params):
             time.sleep(wait)
 
 
+# groupID -> ülemgrupi groupID (täidetakse get_all_products ajal; map_category kasutab)
+_GROUP_PARENTS = {}
+
+
+def load_group_parents(session_key):
+    """Loeb Erply grupipuu, et uued alamgrupid saaksid ülemgrupi Kaup24 kategooria."""
+    try:
+        tree = api_call(session_key, "getProductGroups")
+    except Exception as e:  # puu puudumine ei tohi feedi peatada
+        print(f"  (grupipuud ei saanud lugeda, alamgruppide varuvõimalus väljas: {e})")
+        return
+
+    def walk(nodes, parent):
+        for g in nodes or []:
+            try:
+                gid = int(g.get("productGroupID"))
+            except (TypeError, ValueError):
+                continue
+            if parent is not None:
+                _GROUP_PARENTS[gid] = parent
+            walk(g.get("subGroups"), gid)
+
+    walk(tree, None)
+    print(f"  Grupipuu: {len(_GROUP_PARENTS)} alamgruppi.")
+
+
 def get_all_products(session_key):
     """Laeb KÕIK tooted Erplyst, lehitsedes läbi kõik leheküljed."""
+    if not _GROUP_PARENTS:
+        load_group_parents(session_key)
     all_products = []
     page = 1
     while True:
@@ -266,6 +294,12 @@ def map_category(p):
         group_id = int(group_id)
     except (TypeError, ValueError):
         return None, None
+    # Uus alamgrupp, mida tabelis pole (nt kassimänguasjade alamgrupid 10/2026): võta lähima
+    # ülemgrupi kategooria. Kui grupp on tabelis (ka None-na), kehtib tabel.
+    seen = set()
+    while group_id not in GROUP_CATEGORY_MAP and group_id in _GROUP_PARENTS and group_id not in seen:
+        seen.add(group_id)
+        group_id = _GROUP_PARENTS[group_id]
     result = GROUP_CATEGORY_MAP.get(group_id)
     if result is None:
         return None, None
