@@ -1,6 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
+    <category-id>10391</category-id>
+    <category-name><![CDATA[Dog bowls, pet food containers]]></category-name>
+    <title><![CDATA[„Northmate“ katėms skirtas dėklas, violetinis, 27 x 23 x 8 cm]]></title>
+    <title-ru><![CDATA[Northmate Миска для кошек NORTHMATE, фиолетовый, 27x23x8cм]]></title-ru>
+    <title-lv><![CDATA[Northmate kaķu paplāte violeta 27x23x8cm]]></title-lv>
+    <title-ee><![CDATA[Northmate Söömist aeglustav kauss kassile, lilla 27x23x8cm]]></title-ee>
+    <title-fi><![CDATA[Northmate-kissatarjotin, violetti, 27x23x8cm]]></title-fi>
+    <title-en><![CDATA[Northmate Interactive Feeder for Cats 27x23x8cm]]></title-en>
+    <long-description><![CDATA[Maitinimo padėklas, kuris valgymą paverčia žaidimu. Žymiai prailgina valgymo laiką (tinka katėms ir šunims, kurie ėda per greitai).]]></long-description>
+    <long-description-ru><![CDATA[Миска для кошек NORTHMATE, фиолетовый, 27x23x8мм]]></long-description-ru>
+    <long-description-lv><![CDATA[Barošanas paplāte, kas ēdienreizi pārvērš par spēli. Ievērojami pagarina ēdienreizes laiku (piemērota kaķiem un suņiem, kas ēd pārāk ātri).]]></long-description-lv>
+    <long-description-ee><![CDATA[Söögialus, mis muudab söögiaja mänguks. Vähendab oluliselt söögiaega (Sobib kassidele ja koertele, kes söövad liiga kiiresti).<br /><br /> Mõõdud: 27x23x8cm<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products]]></long-description-ee>
+    <long-description-fi><![CDATA[Ruokinta-alusta, joka muuttaa ruokailun leikiksi. Vähentää merkittävästi ruokailuaikaa (sopii kissoille ja koirille, jotka syövät liian nopeasti).<br /><br /> Mitat: 27 x 23 x 8 cm<br /><br /> <strong>Valmistaja:</strong> Flamingo Pet Products]]></long-description-fi>
+    <long-description-en><![CDATA[Interactive feeder that turns your cats meal into a fun interactive game.<br /><br /> Measurements: 27x23x8cm<br /><br /> Manufacturer: Northmate]]></long-description-en>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[Northmate]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.486]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/Soogialus-Kassile-Lilla.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/Soogialus-Kassile-Lilla-1.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.486</weight>
+            <length>0.28</length>
+            <height>0.09</height>
+            <width>0.24</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5723998440997]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[44099]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10451</category-id>
+    <category-name><![CDATA[Toys for cats]]></category-name>
+    <title><![CDATA[Flamingo Kačių Žaislas - Rožinis Skanėstų Kamuoliukas 5,5cm]]></title>
+    <title-ru><![CDATA[Flamingo Игрушка для Кошек - Розовый Мяч для Лакомств 5,5см]]></title-ru>
+    <title-lv><![CDATA[Flamingo Kaķu Rotaļlieta - Rozā Kārumu Bumba 5,5cm]]></title-lv>
+    <title-ee><![CDATA[Flamingo Mänguasi Kassile - Roosa Maiusepall 5,5cm]]></title-ee>
+    <title-fi><![CDATA[Flamingo Kissan Lelu - Vaaleanpunainen Herkkupallo 5,5cm]]></title-fi>
+    <title-en><![CDATA[Flamingo Cat Toy - Pink Treat Ball 5.5cm]]></title-en>
+    <long-description><![CDATA[Flamingo rožinis skanėstų kamuoliukas katėms, kurį galima pripildyti skanėstais arba sausu maistu, kurie iškrenta jam riedant. Padeda išvengti nuobodulio ir per greito ėdimo, skersmuo 5,5 cm.]]></long-description>
+    <long-description-ru><![CDATA[Забавный и катающийся мячик для кошек, с которым они могут играть и получать награды.<br /> Наполните мячик любимыми лакомствами вашей кошки и позвольте вашему питомцу немного потрудиться, чтобы достать еду.<br /> Игрушка предотвращает скуку, заставляет кошку двигаться и идеально подходит для тех питомцев, которые склонны слишком быстро глотать еду из обычной миски.<br /><br /> <strong>Особенности:</strong><br /> Материал: Легкий и прочный пластик.<br /> С ним весело играть: Можно наполнить лакомствами или сухим кормом, которые выпадают из мячика во время катания.<br /> Размеры: Диаметр 5,5 см.<br /> Цвет: Розовый.<br /><br /> Не оставляйте питомца без присмотра с игрушкой. Если игрушка повреждена, уберите её из использования, чтобы обеспечить безопасность кошки.<br /><br /> <strong>Производитель</strong>: Flamingo Pet Products, Бельгия<br /> <strong>Импортер</strong>: Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Flamingo rozā kārumu bumbiņa kaķiem, ko var piepildīt ar kārumiem vai sauso barību, kas izkrīt, tai ripojot. Palīdz novērst garlaicību un pārāk ātru ēšanu, diametrs 5,5 cm.]]></long-description-lv>
+    <long-description-ee><![CDATA[Lõbus ja veerev maiusepall kassidele mängimiseks ja preemia väljateenimiseks.<br /> Täitke maiusepall kassi lemmikmaiustega ja laske oma lemmikloomal toidu saamiseks veidi vaeva näha.<br /> Mänguasi hoiab ära igavuse, paneb kassi liikuma ning sobib suurepäraselt ka neile lemmikloomadele, kes kipuvad tavalisest kausist toitu liiga kiiresti alla neelama.<br /><br /> <strong>Omadused:</strong><br /> Materjal: Kerge ja tugev plastik.<br /> Mängurõõm: Täidetav maiuste või kuivtoiduga, mis pudenevad veeremise ajal palli seest välja.<br /> Mõõtmed: Läbimõõt 5,5 cm.<br /> Värvus: Roosa.<br /><br /> Ärge jätke lemmiklooma mänguasjaga järelevalveta. Kui mänguasi on kahjustunud, eemaldage see kasutusest, et tagada kassi turvalisus.<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Hauska ja pyörivä herkkupallo kissoille leikkimiseen ja palkintojen ansaitsemiseen.<br /> Täytä herkkupallo kissasi lempiherkuilla ja anna lemmikkisi tehdä vähän töitä ruoan saamiseksi.<br /> Lelu estää tylsistymisen, pitää kissan liikkeessä ja sopii myös täydellisesti lemmikeille, jotka nielevät ruokaa tavallisesta kulhosta liian nopeasti.<br /><br /> <strong>Ominaisuudet:</strong><br /> Materiaali: Kevyt ja vahva muovi.<br /> Hauska leikkiä: Voidaan täyttää herkuilla tai kuivalla ruoalla, jotka putoavat pallosta sen vieriessä.<br /> Mitat: Halkaisija 5,5 cm.<br /> Väri: Vaaleanpunainen.<br /><br /> Älä jätä lemmikkiäsi ilman valvontaa lelun kanssa. Jos lelu on vaurioitunut, poista se käytöstä kissan turvallisuuden varmistamiseksi.<br /><br /> <strong>Valmistaja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja</strong>: Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[A fun and rolling treat ball for cats to play with and earn rewards.<br /> Fill the treat ball with your cat's favorite treats and let your pet work a little harder to get the food.<br /> The toy prevents boredom, keeps the cat moving and is also perfect for those pets who tend to swallow food from a regular bowl too quickly.<br /><br /> <strong>Features:</strong><br /> Material: Light and strong plastic.<br /> Fun to play with: Can be filled with treats or dry food that fall out of the ball as it rolls.<br /> Dimensions: Diameter 5.5 cm.<br /> Color: Pink.<br /><br /> Do not leave your pet unattended with the toy. If the toy is damaged, remove it from use to ensure the cat's safety.<br /><br /> <strong>Manufacturer</strong>: Flamingo Pet Products, Belgium<br /> <strong>Importer</strong>: Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.08]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/Maiusepall-Kassile-Roosa-55cm.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.08</weight>
+            <length>0.185</length>
+            <height>0.055</height>
+            <width>0.09</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400274862529]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[504199]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
     <category-id>10427</category-id>
     <category-name><![CDATA[Cat scratching posts]]></category-name>
     <title><![CDATA[Flamingo masažo ir priežiūros arka katėms 36x28.5x35cm]]></title>
@@ -59629,60 +59735,6 @@ The pictures are illustrative, choose the appropriate size according to your dog
     </colours>
   </product>
   <product>
-    <category-id>10451</category-id>
-    <category-name><![CDATA[Toys for cats]]></category-name>
-    <title><![CDATA[Flamingo Kačių Žaislas - Rožinis Skanėstų Kamuoliukas 5,5cm]]></title>
-    <title-ru><![CDATA[Flamingo Игрушка для Кошек - Розовый Мяч для Лакомств 5,5см]]></title-ru>
-    <title-lv><![CDATA[Flamingo Kaķu Rotaļlieta - Rozā Kārumu Bumba 5,5cm]]></title-lv>
-    <title-ee><![CDATA[Flamingo Mänguasi Kassile - Roosa Maiusepall 5,5cm]]></title-ee>
-    <title-fi><![CDATA[Flamingo Kissan Lelu - Vaaleanpunainen Herkkupallo 5,5cm]]></title-fi>
-    <title-en><![CDATA[Flamingo Cat Toy - Pink Treat Ball 5.5cm]]></title-en>
-    <long-description><![CDATA[Flamingo rožinis skanėstų kamuoliukas katėms, kurį galima pripildyti skanėstais arba sausu maistu, kurie iškrenta jam riedant. Padeda išvengti nuobodulio ir per greito ėdimo, skersmuo 5,5 cm.]]></long-description>
-    <long-description-ru><![CDATA[Забавный и катающийся мячик для кошек, с которым они могут играть и получать награды.<br /> Наполните мячик любимыми лакомствами вашей кошки и позвольте вашему питомцу немного потрудиться, чтобы достать еду.<br /> Игрушка предотвращает скуку, заставляет кошку двигаться и идеально подходит для тех питомцев, которые склонны слишком быстро глотать еду из обычной миски.<br /><br /> <strong>Особенности:</strong><br /> Материал: Легкий и прочный пластик.<br /> С ним весело играть: Можно наполнить лакомствами или сухим кормом, которые выпадают из мячика во время катания.<br /> Размеры: Диаметр 5,5 см.<br /> Цвет: Розовый.<br /><br /> Не оставляйте питомца без присмотра с игрушкой. Если игрушка повреждена, уберите её из использования, чтобы обеспечить безопасность кошки.<br /><br /> <strong>Производитель</strong>: Flamingo Pet Products, Бельгия<br /> <strong>Импортер</strong>: Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Flamingo rozā kārumu bumbiņa kaķiem, ko var piepildīt ar kārumiem vai sauso barību, kas izkrīt, tai ripojot. Palīdz novērst garlaicību un pārāk ātru ēšanu, diametrs 5,5 cm.]]></long-description-lv>
-    <long-description-ee><![CDATA[Lõbus ja veerev maiusepall kassidele mängimiseks ja preemia väljateenimiseks.<br /> Täitke maiusepall kassi lemmikmaiustega ja laske oma lemmikloomal toidu saamiseks veidi vaeva näha.<br /> Mänguasi hoiab ära igavuse, paneb kassi liikuma ning sobib suurepäraselt ka neile lemmikloomadele, kes kipuvad tavalisest kausist toitu liiga kiiresti alla neelama.<br /><br /> <strong>Omadused:</strong><br /> Materjal: Kerge ja tugev plastik.<br /> Mängurõõm: Täidetav maiuste või kuivtoiduga, mis pudenevad veeremise ajal palli seest välja.<br /> Mõõtmed: Läbimõõt 5,5 cm.<br /> Värvus: Roosa.<br /><br /> Ärge jätke lemmiklooma mänguasjaga järelevalveta. Kui mänguasi on kahjustunud, eemaldage see kasutusest, et tagada kassi turvalisus.<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Hauska ja pyörivä herkkupallo kissoille leikkimiseen ja palkintojen ansaitsemiseen.<br /> Täytä herkkupallo kissasi lempiherkuilla ja anna lemmikkisi tehdä vähän töitä ruoan saamiseksi.<br /> Lelu estää tylsistymisen, pitää kissan liikkeessä ja sopii myös täydellisesti lemmikeille, jotka nielevät ruokaa tavallisesta kulhosta liian nopeasti.<br /><br /> <strong>Ominaisuudet:</strong><br /> Materiaali: Kevyt ja vahva muovi.<br /> Hauska leikkiä: Voidaan täyttää herkuilla tai kuivalla ruoalla, jotka putoavat pallosta sen vieriessä.<br /> Mitat: Halkaisija 5,5 cm.<br /> Väri: Vaaleanpunainen.<br /><br /> Älä jätä lemmikkiäsi ilman valvontaa lelun kanssa. Jos lelu on vaurioitunut, poista se käytöstä kissan turvallisuuden varmistamiseksi.<br /><br /> <strong>Valmistaja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja</strong>: Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[A fun and rolling treat ball for cats to play with and earn rewards.<br /> Fill the treat ball with your cat's favorite treats and let your pet work a little harder to get the food.<br /> The toy prevents boredom, keeps the cat moving and is also perfect for those pets who tend to swallow food from a regular bowl too quickly.<br /><br /> <strong>Features:</strong><br /> Material: Light and strong plastic.<br /> Fun to play with: Can be filled with treats or dry food that fall out of the ball as it rolls.<br /> Dimensions: Diameter 5.5 cm.<br /> Color: Pink.<br /><br /> Do not leave your pet unattended with the toy. If the toy is damaged, remove it from use to ensure the cat's safety.<br /><br /> <strong>Manufacturer</strong>: Flamingo Pet Products, Belgium<br /> <strong>Importer</strong>: Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.08]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Maiusepall-Kassile-Roosa-55cm.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.08</weight>
-            <length>0.185</length>
-            <height>0.055</height>
-            <width>0.09</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400274862529]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[504199]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
     <category-id>10382</category-id>
     <category-name><![CDATA[Bearings, cushions]]></category-name>
     <title><![CDATA[Flamingo katės lizdas „Avikailis“ 48x37x8cm]]></title>
@@ -64102,58 +64154,6 @@ Manufacturer: Hundesportprofi B. Klin]]></long-description-en>
                 <barcode><![CDATA[8023222179028]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[6098902]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10391</category-id>
-    <category-name><![CDATA[Dog bowls, pet food containers]]></category-name>
-    <title><![CDATA[„Northmate“ katėms skirtas dėklas, violetinis, 27 x 23 x 8 cm]]></title>
-    <title-ru><![CDATA[Northmate Миска для кошек NORTHMATE, фиолетовый, 27x23x8cм]]></title-ru>
-    <title-lv><![CDATA[Northmate kaķu paplāte violeta 27x23x8cm]]></title-lv>
-    <title-ee><![CDATA[Northmate Söömist aeglustav kauss kassile, lilla 27x23x8cm]]></title-ee>
-    <title-fi><![CDATA[Northmate-kissatarjotin, violetti, 27x23x8cm]]></title-fi>
-    <title-en><![CDATA[Northmate Interactive Feeder for Cats 27x23x8cm]]></title-en>
-    <long-description><![CDATA[Maitinimo padėklas, kuris valgymą paverčia žaidimu. Žymiai prailgina valgymo laiką (tinka katėms ir šunims, kurie ėda per greitai).]]></long-description>
-    <long-description-ru><![CDATA[Миска для кошек NORTHMATE, фиолетовый, 27x23x8мм]]></long-description-ru>
-    <long-description-lv><![CDATA[Barošanas paplāte, kas ēdienreizi pārvērš par spēli. Ievērojami pagarina ēdienreizes laiku (piemērota kaķiem un suņiem, kas ēd pārāk ātri).]]></long-description-lv>
-    <long-description-ee><![CDATA[Söögialus, mis muudab söögiaja mänguks. Vähendab oluliselt söögiaega (Sobib kassidele ja koertele, kes söövad liiga kiiresti).<br /><br /> Mõõdud: 27x23x8cm<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products]]></long-description-ee>
-    <long-description-fi><![CDATA[Ruokinta-alusta, joka muuttaa ruokailun leikiksi. Vähentää merkittävästi ruokailuaikaa (sopii kissoille ja koirille, jotka syövät liian nopeasti).<br /><br /> Mitat: 27 x 23 x 8 cm<br /><br /> <strong>Valmistaja:</strong> Flamingo Pet Products]]></long-description-fi>
-    <long-description-en><![CDATA[Interactive feeder that turns your cats meal into a fun interactive game.<br /><br /> Measurements: 27x23x8cm<br /><br /> Manufacturer: Northmate]]></long-description-en>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[MUUD]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.486]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Soogialus-Kassile-Lilla.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/Soogialus-Kassile-Lilla-1.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.486</weight>
-            <length>0.28</length>
-            <height>0.09</height>
-            <width>0.24</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5723998440997]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[44099]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
