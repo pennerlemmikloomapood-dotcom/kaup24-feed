@@ -1,6 +1,475 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
+    <category-id>10490</category-id>
+    <category-name><![CDATA[Wet/canned cat food]]></category-name>
+    <title><![CDATA[Primal Spirit Sardine kačių pašaras (Iberijos kiauliena ir sardinės) 1 kg]]></title>
+    <title-ru><![CDATA[Primal Spirit Sardine корм для кошек (иберийская свинина и сардины) 1 кг]]></title-ru>
+    <title-lv><![CDATA[Primal Spirit Sardine kaķu barība (Ibērijas cūkgaļa un sardīnes) 1 kg]]></title-lv>
+    <title-ee><![CDATA[Primal Spirit Sardine Kassitoit (Ibeeria Sealiha ja Sardiinid) 1kg]]></title-ee>
+    <title-fi><![CDATA[Primal Spirit Sardine -kissanruoka (iberialainen sianliha ja sardiinit) 1 kg]]></title-fi>
+    <title-en><![CDATA[Primal Spirit Sardine Cat Food (Iberian Pork and Sardines) 1 kg]]></title-en>
+    <long-description><![CDATA[Primal Spirit Iberian Pork & Sardine pusiau drėgnas kačių pašaras yra šaltojo spaudimo visavertis pašaras suaugusioms katėms su šviežia kiauliena ir sardinėmis. Be glitimo, mėsos miltų ir priedų.]]></long-description>
+    <long-description-ru><![CDATA[Полнорационный корм холодного прессования для взрослых кошек с иберийской свининой и сардинами.<br /><br /> При холодном прессовании свежее мясо формуется в гранулы при температурах ниже, чем при обычном прессовании. Так сохраняется больше питательных веществ, а вкус корма остаётся более натуральным.<br /> Корм холодного прессования наиболее близок к сырому питанию и подходит для использования параллельно с сырым кормом.<br /> Без глютена, не содержит мясной муки, ароматизаторов и красителей.<br /><br /> <strong>СОСТАВ</strong>: 49% свежей свинины, 26% свежей сардины, рис, молотая свёкла, пивные дрожжи, куркума, 0,2% таурина, 0,01% L-карнитина.<br /> <strong>АНАЛИТИЧЕСКИЕ КОМПОНЕНТЫ:</strong> сырой протеин 32%, сырая клетчатка 2,2%, сырой жир 14%, сырая зола 5%, влажность 18%, кальций 1,6%, фосфор 0,9%.<br /> <strong>ОБМЕННАЯ ЭНЕРГИЯ НА КГ:</strong> 3440 ккал<br /><br /> <strong>РЕКОМЕНДАЦИИ ПО КОРМЛЕНИЮ</strong>: рекомендуемую суточную норму смотрите в таблице на упаковке.<br /><br /> Всегда обеспечивайте доступ к свежей воде. Хранить в сухом прохладном месте, защищённом от прямых солнечных лучей.<br /><br /> Важно! Поскольку это полувлажный корм, рекомендуем давать его небольшими порциями, чтобы он не засыхал в миске.<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ</strong>: Amigüitos Pets and Life S.A., Испания<br /> <strong>Импортёр</strong>: Penner OÜ; Võru 77, Tartu, Эстония; info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Primal Spirit Iberian Pork & Sardine pusmitrā kaķu barība ir aukstā presēšanā ražota pilnvērtīga barība pieaugušiem kaķiem ar svaigu cūkgaļu un sardīnēm. Bez glutēna, gaļas miltiem un piedevām.]]></long-description-lv>
+    <long-description-ee><![CDATA[Külmpressitud täissööt täiskasvanud kassidele ibeeria sealiha ja sardiinidega.<br /><br /> Külmpressi puhul vormitakse värske liha graanuliteks temperatuuridel, mis jäävad pressimisprotseduurist madalamaks. Nii säilib suurem toiteväärtus ning toit on naturaalsema maitsega.<br /> Külmpressitud toit on kõige lähemal toortoidule ning sobib kasutamiseks paralleelselt toortoiduga.<br /> Gluteenivaba, ei sisalda lihajahu ega lõhna- ja värvaineid.<br /><br /> <strong>KOOSTIS</strong>: 49% värske sealiha, 26 % värske sardiin, riis, jahvatatud peet, õllepärm, kurkum, 0.2% tauriin, 0.01% L-karnitiin.<br /> <strong>Analüütiline koostis:</strong> toorvalk 32%, toorkiud 2,2%, toorrasv 14%, toortuhk 5%, niiskus 18%, kaltsium 1.6%, fosfor 0.9%.<br /> <strong>METABOLISEERUV ENERGIA KG KOHTA:</strong> 3440kcal<br /><br /> <strong>TOITMISSOOVITUS:</strong> soovitatav päevanorm vaata pakendil olevast tabelist.<br /><br /> Värske vesi hoida alati saadaval. Säilitada kuivas ja jahedas, kaitstuna otsese päikese eest.<br /><br /> NB! Kuna tegu on poolniiske toiduga, soovitame serveerida korraga väikestes kogustes, et toit kausis ära ei kuivaks.<br /><br /> <strong>TOOTJA</strong>: Amigüitos Pets and Life S.A. / Hispaania<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Kylmäpuristettu täysravinto aikuisille kissoille iberialaisella sianlihalla ja sardiineilla.<br /><br /> Kylmäpuristuksessa tuore liha muotoillaan nappuloiksi puristusprosessia matalammissa lämpötiloissa. Näin ravintoarvo säilyy paremmin ja ruoan maku on luonnollisempi.<br /> Kylmäpuristettu ruoka on lähimpänä raakaruokaa ja sopii käytettäväksi raakaruokinnan rinnalla.<br /> Gluteeniton, ei sisällä lihajauhoja eikä aromi- tai väriaineita.<br /><br /> <strong>KOOSTUMUS</strong>: 49 % tuoretta sianlihaa, 26 % tuoretta sardiinia, riisi, jauhettu juurikas, panimohiiva, kurkuma, 0,2 % tauriinia, 0,01 % L-karnitiinia.<br /> <strong>ANALYYTTISET AINESOSAT:</strong> raakavalkuainen 32 %, raakakuitu 2,2 %, raakarasva 14 %, raakatuhka 5 %, kosteus 18 %, kalsium 1,6 %, fosfori 0,9 %.<br /> <strong>MUUNTOKELPOINEN ENERGIA KILOA KOHDEN:</strong> 3440 kcal<br /><br /> <strong>RUOKINTASUOSITUS</strong>: suositeltu päiväannos löytyy pakkauksen taulukosta.<br /><br /> Pidä raikasta vettä aina saatavilla. Säilytä kuivassa ja viileässä paikassa, suojassa suoralta auringonvalolta.<br /><br /> Huom! Koska kyseessä on puolikostea ruoka, suosittelemme tarjoamaan kerralla pieniä määriä, jotta ruoka ei kuivu kupissa.<br /><br /> <strong>VALMISTAJA</strong>: Amigüitos Pets and Life S.A., Espanja<br /> <strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartu, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Cold-pressed complete food for adult cats with Iberian pork and sardines.<br /><br /> In cold pressing, fresh meat is formed into kibble at temperatures lower than in the pressing process. This preserves more nutritional value and gives the food a more natural taste.<br /> Cold-pressed food is the closest to raw food and can be used alongside raw feeding.<br /> Gluten-free, contains no meat meal, flavourings or colourings.<br /><br /> <strong>COMPOSITION</strong>: 49% fresh pork, 26% fresh sardine, rice, ground beet, brewer's yeast, turmeric, 0.2% taurine, 0.01% L-carnitine.<br /> <strong>ANALYTICAL CONSTITUENTS:</strong> crude protein 32%, crude fibre 2.2%, crude fat 14%, crude ash 5%, moisture 18%, calcium 1.6%, phosphorus 0.9%.<br /> <strong>METABOLISABLE ENERGY PER KG:</strong> 3440 kcal<br /><br /> <strong>FEEDING RECOMMENDATION</strong>: see the table on the packaging for the recommended daily amount.<br /><br /> Always keep fresh water available. Store in a cool, dry place, protected from direct sunlight.<br /><br /> NB! As this is a semi-moist food, we recommend serving small amounts at a time so the food does not dry out in the bowl.<br /><br /> <strong>MANUFACTURER</strong>: Amigüitos Pets and Life S.A., Spain<br /> <strong>Importer</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <composition><![CDATA[toorvalk 32%, toorkiud 2,2%, toorrasv 14%, toortuhk 5%, niiskus 18%, kaltsium 1.6%, fosfor 0.9%.]]></composition>
+    <composition-ee><![CDATA[toorvalk 32%, toorkiud 2,2%, toorrasv 14%, toortuhk 5%, niiskus 18%, kaltsium 1.6%, fosfor 0.9%.]]></composition-ee>
+    <manufacturer-name><![CDATA[AMIGÜITOS PETS & LIFE S.A; Pol. Industrial Saprelorca]]></manufacturer-name>
+    <manufacturer-address><![CDATA[parcela G1, Calle Río Segura, 30817;]]></manufacturer-address>
+    <manufacturer-email><![CDATA[support@aspiritpetfood.com]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[PRIMAL SPIRIT]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[1.1]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Looma vanus]]></id>
+        <values>
+          <value><![CDATA[Erinevatele vanustele]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Eriomadus]]></id>
+        <values>
+          <value><![CDATA[Kõigile kassidele]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/iberian-sardine-kassitoit-kulmpressitud.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>1.1</weight>
+            <length>0.065</length>
+            <height>0.24</height>
+            <width>0.145</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[8436586311476]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[IBERC010301614]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10490</category-id>
+    <category-name><![CDATA[Wet/canned cat food]]></category-name>
+    <title><![CDATA[Primal Spirit Salmon kačių pašaras (Iberijos kiauliena ir lašiša) 1 kg]]></title>
+    <title-ru><![CDATA[Primal Spirit Salmon корм для кошек (иберийская свинина и лосось) 1 кг]]></title-ru>
+    <title-lv><![CDATA[Primal Spirit Salmon kaķu barība (Ibērijas cūkgaļa un lasis) 1 kg]]></title-lv>
+    <title-ee><![CDATA[Primal Spirit Salmon Kassitoit (Ibeeria Sealiha ja Lõhega) 1kg]]></title-ee>
+    <title-fi><![CDATA[Primal Spirit Salmon -kissanruoka (iberialainen sianliha ja lohi) 1 kg]]></title-fi>
+    <title-en><![CDATA[Primal Spirit Salmon Cat Food (Iberian Pork and Salmon) 1 kg]]></title-en>
+    <long-description><![CDATA[Primal Spirit Iberian Pork & Salmon pusiau drėgnas kačių pašaras yra šaltojo spaudimo visavertis pašaras sterilizuotoms ir antsvorio turinčioms katėms, su 75 % šviežios kiaulienos ir lašišos. Be glitimo, mėsos miltų ir priedų.]]></long-description>
+    <long-description-ru><![CDATA[Полувлажный корм для кошек Primal Spirit Iberian Pork & Salmon изготовлен на 75% из свежих ингредиентов.<br /><br /> Полнорационный корм холодного прессования для стерилизованных кошек и кошек с избыточным весом.<br /> При холодном прессовании корм формуется в гранулы при температурах ниже, чем при обычном прессовании. Так сохраняется больше питательных веществ, а вкус корма остаётся более натуральным.<br /> Корм холодного прессования наиболее близок к сырому питанию и подходит для использования параллельно с сырым кормом.<br /> Без глютена, не содержит мясной муки, ароматизаторов и красителей.<br /><br /> <strong>СОСТАВ</strong>: 49% свежей свинины, 26% свежего лосося, рис (белый), молотая свёкла, пивные дрожжи, куркума, 0,2% таурина, 0,01% L-карнитина<br /> <strong>АНАЛИТИЧЕСКИЕ КОМПОНЕНТЫ</strong>: сырой протеин 33%, сырой жир 13%, сырая клетчатка 4,8%, сырая зола 6%, влажность 18%<br /> <strong>РЕКОМЕНДАЦИИ ПО КОРМЛЕНИЮ</strong>: рекомендуемую суточную норму смотрите в таблице на упаковке.<br /><br /> Всегда обеспечивайте доступ к свежей воде. Хранить в сухом прохладном месте, защищённом от прямых солнечных лучей.<br /><br /> Важно! Поскольку это полувлажный корм, рекомендуем давать его небольшими порциями, чтобы он не засыхал в миске.<br /><br /> Полнорационный корм<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ</strong>: Amigüitos Pets and Life S.A., Испания<br /> <strong>Импортёр</strong>: Penner OÜ; Võru 77, Tartu, Эстония; info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Primal Spirit Iberian Pork & Salmon pusmitrā kaķu barība ir aukstā presēšanā ražota pilnvērtīga barība sterilizētiem kaķiem un kaķiem ar lieko svaru, ar 75% svaigas cūkgaļas un laša. Bez glutēna, gaļas miltiem un piedevām.]]></long-description-lv>
+    <long-description-ee><![CDATA[Primal Spirit Iberian Pork & Salmon poolmärg kassitoit on valmistatud 75% värsketest koostisosadest.<br /><br /> Külmpressitud täissööt steriliseeritud ja ülekaalulistele kassidele.<br /> Külmpressi puhul vormitakse graanuliteks temperatuuridel, mis jäävad pressimisprotseduurist madalamaks. Nii säilib suurem toiteväärtus ning toit on naturaalsema maitsega.<br /> Külmpressitud toit on kõige lähemal toortoidule ning sobib kasutamiseks paralleelselt toortoiduga.<br /> Gluteenivaba, ei sisalda lihajahu ega lõhna- ja värvaineid.<br /><br /> <strong>KOOSTIS</strong>: 49% värske sealiha, 26% värske lõhe, riis (valge) , jahvatatud peet, õllepärm, kurkum, 0,2% tauriin, 0,01% L-karnitiin<br /> <strong>ANALÜÜS</strong>: Toorproteiin 33%, Toorrasv 13%, Toorkiud 4,8%, Toortuhk 6%, Niiskus 18%<br /> <strong>TOITMISSOOVITUS</strong>: soovitatav päevanorm vaata pakendil olevast tabelist.<br /><br /> Värske vesi hoida alati saadaval. Säilitada kuivas ja jahedas, kaitstuna otsese päikese eest.<br /><br /> NB! Kuna tegu on poolniiske toiduga, soovitame serveerida korraga väikestes kogustes, et toit kausis ära ei kuivaks.<br /><br /> Täissööt<br /><br /> <strong>TOOTJA</strong>: Amigüitos Pets and Life S.A. / Hispaania<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Primal Spirit Iberian Pork & Salmon puolikostea kissanruoka on valmistettu 75 %:sti tuoreista ainesosista.<br /><br /> Kylmäpuristettu täysravinto steriloiduille ja ylipainoisille kissoille.<br /> Kylmäpuristuksessa ruoka muotoillaan nappuloiksi puristusprosessia matalammissa lämpötiloissa. Näin ravintoarvo säilyy paremmin ja ruoan maku on luonnollisempi.<br /> Kylmäpuristettu ruoka on lähimpänä raakaruokaa ja sopii käytettäväksi raakaruokinnan rinnalla.<br /> Gluteeniton, ei sisällä lihajauhoja eikä aromi- tai väriaineita.<br /><br /> <strong>KOOSTUMUS</strong>: 49 % tuoretta sianlihaa, 26 % tuoretta lohta, riisi (valkoinen), jauhettu juurikas, panimohiiva, kurkuma, 0,2 % tauriinia, 0,01 % L-karnitiinia<br /> <strong>ANALYYTTISET AINESOSAT</strong>: raakavalkuainen 33 %, raakarasva 13 %, raakakuitu 4,8 %, raakatuhka 6 %, kosteus 18 %<br /> <strong>RUOKINTASUOSITUS</strong>: suositeltu päiväannos löytyy pakkauksen taulukosta.<br /><br /> Pidä raikasta vettä aina saatavilla. Säilytä kuivassa ja viileässä paikassa, suojassa suoralta auringonvalolta.<br /><br /> Huom! Koska kyseessä on puolikostea ruoka, suosittelemme tarjoamaan kerralla pieniä määriä, jotta ruoka ei kuivu kupissa.<br /><br /> Täysravinto<br /><br /> <strong>VALMISTAJA</strong>: Amigüitos Pets and Life S.A., Espanja<br /> <strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartu, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Primal Spirit Iberian Pork & Salmon semi-moist cat food is made with 75% fresh ingredients.<br /><br /> Cold-pressed complete food for sterilised and overweight cats.<br /> In cold pressing, the food is formed into kibble at temperatures lower than in the pressing process. This preserves more nutritional value and gives the food a more natural taste.<br /> Cold-pressed food is the closest to raw food and can be used alongside raw feeding.<br /> Gluten-free, contains no meat meal, flavourings or colourings.<br /><br /> <strong>COMPOSITION</strong>: 49% fresh pork, 26% fresh salmon, rice (white), ground beet, brewer's yeast, turmeric, 0.2% taurine, 0.01% L-carnitine<br /> <strong>ANALYTICAL CONSTITUENTS</strong>: crude protein 33%, crude fat 13%, crude fibre 4.8%, crude ash 6%, moisture 18%<br /> <strong>FEEDING RECOMMENDATION</strong>: see the table on the packaging for the recommended daily amount.<br /><br /> Always keep fresh water available. Store in a cool, dry place, protected from direct sunlight.<br /><br /> NB! As this is a semi-moist food, we recommend serving small amounts at a time so the food does not dry out in the bowl.<br /><br /> Complete food<br /><br /> <strong>MANUFACTURER</strong>: Amigüitos Pets and Life S.A., Spain<br /> <strong>Importer</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[AMIGÜITOS PETS & LIFE S.A; Pol. Industrial Saprelorca]]></manufacturer-name>
+    <manufacturer-address><![CDATA[parcela G1, Calle Río Segura, 30817;]]></manufacturer-address>
+    <manufacturer-email><![CDATA[support@aspiritpetfood.com]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[PRIMAL SPIRIT]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[1.1]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Looma vanus]]></id>
+        <values>
+          <value><![CDATA[Erinevatele vanustele]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Eriomadus]]></id>
+        <values>
+          <value><![CDATA[Kõigile kassidele]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/iberian-salmon-kassitoit-kulmpressitud.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>1.1</weight>
+            <length>0.065</length>
+            <height>0.24</height>
+            <width>0.145</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[8436586311469]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[IBERC010300914]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10370</category-id>
+    <category-name><![CDATA[Dry dog food]]></category-name>
+    <title><![CDATA[Enova MONO Salmon - Sausas pašaras suaugusiems šunims su lašiša 12 kg]]></title>
+    <title-ru><![CDATA[Enova MONO Salmon - Сухой корм для взрослых собак с лососем 12 кг]]></title-ru>
+    <title-lv><![CDATA[Enova MONO Salmon - Sausā barība pieaugušiem suņiem ar lasi 12 kg]]></title-lv>
+    <title-ee><![CDATA[Enova MONO Salmon - Kuivtoit Täiskasvanud Koerale Lõhega 12kg]]></title-ee>
+    <title-fi><![CDATA[Enova MONO Salmon - Kuivaruoka aikuisille koirille lohella 12 kg]]></title-fi>
+    <title-en><![CDATA[Enova MONO Salmon - Dry Food for Adult Dogs with Salmon 12kg]]></title-en>
+    <long-description><![CDATA[Enova MONO Salmon – visavertis ir subalansuotas sausas pašaras visų veislių ir dydžių suaugusiems šunims.
+Receptas pagrįstas vienu gyvūninės kilmės baltymu – lašiša, todėl jis ypač tinka šunims, turintiems jautrų virškinimą arba odos problemų.
+
+Pašare esantys kokybiški žuvies šaltiniai ir optimalus Omega-6 ir Omega-3 riebalų rūgščių santykis palaiko odos sveikatą ir padeda sumažinti niežulį, pleiskanas, kailio blankumą bei pernelyg gausų šėrimąsi.
+Didelis Omega-3 kiekis padeda palaikyti gerą odos ir kailio būklę bei bendrą gerovę.
+
+Sudėtis: Lašiša 28% (šviežia lašiša 14%, džiovinta lašiša 14%), ryžiai 25%, džiovinti žirniai, paukščių riebalai, džiovintos bulvės, hidrolizuoti augaliniai baltymai, bulvių baltymai, džiovinta runkelių masė 2,5%, mineralinės medžiagos, fruktooligosacharidai (FOS) 0,3%, džiovintos mielės (MOS ir beta gliukanų šaltinis) 0,1%, gliukozaminas iš gyvūninių audinių (400 mg/kg), žaliųjų midijų ekstraktas (250 mg/kg), chondroitino sulfatas (100 mg/kg), yucca schidigera.
+
+Analitinės sudedamosios dalys: Žali baltymai 26,0%, Žali riebalai 15,0%, Žalios skaidulos 2,3%, Žali pelenai 6,0%, Kalcis 1,2%, Fosforas 1,0%, Drėgmė 9,0%
+Apykaitos energija: 3705 kcal/kg
+
+Priedai (kilograme): Vitaminas A 22 500 IU, vitaminas D3 1 500 IU, vitaminas E 315 mg, vitaminas B1 3 mg, vitaminas B2 8,2 mg, vitaminas B6 2,2 mg, vitaminas B12 0,06 mg, vitaminas C 150 mg, niacinas 27 mg, folio rūgštis 0,37 mg, kalcio D-pantotenatas 19 mg, geležis 75 mg, varis 15 mg, manganas 7,5 mg, cinkas 96 mg, jodas 2,2 mg, selenas 0,22 mg.
+
+Rekomenduojamas paros pašaro kiekis pagal šuns svorį ir aktyvumo lygį:
+10 kg šuo: esant mažam aktyvumui 145 g, esant vidutiniam aktyvumui 170 g
+15 kg šuo: esant mažam aktyvumui 195 g, esant vidutiniam aktyvumui 230 g
+20 kg šuo: esant mažam aktyvumui 245 g, esant vidutiniam aktyvumui 280 g
+25 kg šuo: esant mažam aktyvumui 290 g, esant vidutiniam aktyvumui 335 g
+30 kg šuo: esant mažam aktyvumui 330 g, esant vidutiniam aktyvumui 380 g
+35 kg šuo: esant mažam aktyvumui 370 g, esant vidutiniam aktyvumui 430 g
+40 kg šuo: esant mažam aktyvumui 410 g, esant vidutiniam aktyvumui 475 g
+45 kg šuo: esant mažam aktyvumui 445 g, esant vidutiniam aktyvumui 520 g
+50 kg šuo: esant mažam aktyvumui 485 g, esant vidutiniam aktyvumui 560 g
+(Mažas aktyvumas = mažiau nei 1 h judėjimo per dieną; vidutinis aktyvumas = 1–3 h judėjimo per dieną)
+
+Duokite sausą arba, jei reikia, sudrėkintą vandeniu. Visada užtikrinkite, kad šuniui būtų prieinamas šviežias geriamasis vanduo. Paros kiekis priklauso nuo šuns amžiaus, aktyvumo ir gyvenimo būdo.
+Papildomų maisto papildų duoti nereikia, nebent tai rekomenduoja veterinarijos gydytojas.
+
+Gamintojas: Enova Pet Food s.r.l, Italija
+Importuotojas: Penner OÜ; Võru 77, Tartu, Estija; info@penner.ee]]></long-description>
+    <long-description-ru><![CDATA[Enova MONO Salmon — полноценный и сбалансированный сухой корм для взрослых собак всех пород и размеров.<br />
+Рецепт основан на одном животном белке – лососе, что делает его особенно подходящим для собак с чувствительным пищеварением или проблемами кожи.<br />
+<br />
+Качественные рыбные источники и оптимальное соотношение жирных кислот омега-6 и омега-3 поддерживают здоровье кожи и помогают уменьшить зуд, перхоть, тусклость шерсти и чрезмерную линьку.<br />
+Высокое содержание омега-3 помогает поддерживать кожу и шерсть в хорошем состоянии и способствует общему благополучию.<br />
+<br />
+<strong>Состав:</strong> лосось 28% (свежий лосось 14%, сушёный лосось 14%), рис 25%, сушёный горох, жир птицы, сушёный картофель, гидролизованные растительные белки, картофельный белок, сушёный свекольный жом 2,5%, минеральные вещества, фруктоолигосахариды (ФОС) 0,3%, сушёные дрожжи (источник МОС и бета-глюканов) 0,1%, глюкозамин из тканей животных (400 мг/кг), экстракт новозеландской зеленогубой мидии (250 мг/кг), хондроитинсульфат (100 мг/кг), Yucca schidigera.<br />
+<br />
+<strong>Аналитические компоненты:</strong> сырой протеин 26,0%, сырой жир 15,0%, сырая клетчатка 2,3%, сырая зола 6,0%, кальций 1,2%, фосфор 1,0%, влажность 9,0%<br />
+<strong>Обменная энергия:</strong> 3705 ккал/кг<br />
+<br />
+<strong>Добавки (на кг):</strong> витамин A 22 500 МЕ, витамин D3 1 500 МЕ, витамин E 315 мг, витамин B1 3 мг, витамин B2 8,2 мг, витамин B6 2,2 мг, витамин B12 0,06 мг, витамин C 150 мг, ниацин 27 мг, фолиевая кислота 0,37 мг, D-пантотенат кальция 19 мг, железо 75 мг, медь 15 мг, марганец 7,5 мг, цинк 96 мг, йод 2,2 мг, селен 0,22 мг.<br />
+<br />
+<strong>Рекомендуемые суточные нормы в зависимости от веса и уровня активности собаки:</strong><br />
+Собака 10 кг: при низкой активности 145 г, при умеренной активности 170 г<br />
+Собака 15 кг: при низкой активности 195 г, при умеренной активности 230 г<br />
+Собака 20 кг: при низкой активности 245 г, при умеренной активности 280 г<br />
+Собака 25 кг: при низкой активности 290 г, при умеренной активности 335 г<br />
+Собака 30 кг: при низкой активности 330 г, при умеренной активности 380 г<br />
+Собака 35 кг: при низкой активности 370 г, при умеренной активности 430 г<br />
+Собака 40 кг: при низкой активности 410 г, при умеренной активности 475 г<br />
+Собака 45 кг: при низкой активности 445 г, при умеренной активности 520 г<br />
+Собака 50 кг: при низкой активности 485 г, при умеренной активности 560 г<br />
+(Низкая активность = менее 1 ч движения в день; умеренная активность = 1–3 ч движения в день)<br />
+<br />
+Давать в сухом виде или при необходимости смочить водой. У собаки всегда должна быть свежая питьевая вода. Суточное количество зависит от возраста, активности и образа жизни собаки.<br />
+Дополнительные добавки давать не нужно, если их не рекомендует ветеринар.<br />
+<br />
+<strong>Производитель</strong>: Enova Pet Food s.r.l, Италия<br />
+<strong>Импортёр</strong>: Penner OÜ; Võru 77, Tartu, Эстония; info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Enova MONO Salmon ir pilnvērtīga un sabalansēta sausā barība visu šķirņu un izmēru pieaugušiem suņiem.
+Recepte balstīta uz vienu dzīvnieku izcelsmes olbaltumvielu – lasi, tāpēc tā ir īpaši piemērota suņiem ar jutīgu gremošanu vai ādas problēmām.
+
+Barībā esošie kvalitatīvie zivju avoti un optimālā Omega-6 un Omega-3 taukskābju attiecība atbalsta ādas veselību un palīdz mazināt niezi, blaugznas, apmatojuma blāvumu un pārmērīgu spalvas mešanu.
+Augstais Omega-3 saturs palīdz uzturēt ādu un apmatojumu labā stāvoklī un atbalsta vispārējo labsajūtu.
+
+Sastāvs: Lasis 28% (svaigs lasis 14%, kaltēts lasis 14%), rīsi 25%, kaltēti zirņi, mājputnu tauki, kaltēti kartupeļi, hidrolizētas augu olbaltumvielas, kartupeļu proteīns, kaltēts biešu mīkstums 2,5%, minerālvielas, fruktooligosaharīdi (FOS) 0,3%, kaltēts raugs (MOS un beta-glikānu avots) 0,1%, glikozamīns no dzīvnieku audiem (400 mg/kg), zaļās lūpu mīdijas ekstrakts (250 mg/kg), hondroitīna sulfāts (100 mg/kg), yucca schidigera.
+
+Analītiskās sastāvdaļas: Kopproteīns 26,0%, Koptauki 15,0%, Kopšķiedra 2,3%, Kopējie pelni 6,0%, Kalcijs 1,2%, Fosfors 1,0%, Mitrums 9,0%
+Metabolizējamā enerģija: 3705 kcal/kg
+
+Piedevas (uz kg): A vitamīns 22 500 IU, D3 vitamīns 1 500 IU, E vitamīns 315 mg, B1 vitamīns 3 mg, B2 vitamīns 8,2 mg, B6 vitamīns 2,2 mg, B12 vitamīns 0,06 mg, C vitamīns 150 mg, niacīns 27 mg, folskābe 0,37 mg, kalcija D-pantotenāts 19 mg, dzelzs 75 mg, varš 15 mg, mangāns 7,5 mg, cinks 96 mg, jods 2,2 mg, selēns 0,22 mg.
+
+Ieteicamais dienas barības daudzums atkarībā no suņa svara un aktivitātes līmeņa:
+10 kg suns: zemas aktivitātes gadījumā 145 g, mērenas aktivitātes gadījumā 170 g
+15 kg suns: zemas aktivitātes gadījumā 195 g, mērenas aktivitātes gadījumā 230 g
+20 kg suns: zemas aktivitātes gadījumā 245 g, mērenas aktivitātes gadījumā 280 g
+25 kg suns: zemas aktivitātes gadījumā 290 g, mērenas aktivitātes gadījumā 335 g
+30 kg suns: zemas aktivitātes gadījumā 330 g, mērenas aktivitātes gadījumā 380 g
+35 kg suns: zemas aktivitātes gadījumā 370 g, mērenas aktivitātes gadījumā 430 g
+40 kg suns: zemas aktivitātes gadījumā 410 g, mērenas aktivitātes gadījumā 475 g
+45 kg suns: zemas aktivitātes gadījumā 445 g, mērenas aktivitātes gadījumā 520 g
+50 kg suns: zemas aktivitātes gadījumā 485 g, mērenas aktivitātes gadījumā 560 g
+(Zema aktivitāte = mazāk nekā 1 h kustību dienā; mērena aktivitāte = 1–3 h kustību dienā)
+
+Barot sausu vai, ja nepieciešams, samitrinātu ar ūdeni. Vienmēr nodrošiniet, lai sunim būtu pieejams svaigs dzeramais ūdens. Dienas deva ir atkarīga no suņa vecuma, aktivitātes un dzīvesveida.
+Papildu uztura bagātinātāji nav nepieciešami, izņemot gadījumus, kad to iesaka veterinārārsts.
+
+Ražotājs: Enova Pet Food s.r.l, Itālija
+Importētājs: Penner OÜ; Võru 77, Tartu, Igaunija; info@penner.ee]]></long-description-lv>
+    <long-description-ee><![CDATA[Enova MONO Salmon on täisväärtuslik ja tasakaalustatud kuivtoit kõikide tõugude ja suurustega täiskasvanud koertele.<br />
+Retsept põhineb ühel loomsel valgul – lõhel, mis muudab selle eriti sobivaks tundliku seedimisega või nahaprobleemidega koertele.<br />
+<br />
+Toidus sisalduvad kvaliteetsed kalaallikad ning optimaalne Omega-6 ja Omega-3 rasvhapete suhe toetavad naha tervist ja aitavad vähendada sügelust, kõõma, karvkatte tuhmumist ning liigset karvavahetust.<br />
+Kõrge Omega-3 sisaldus aitab hoida naha ja karvkatte heas seisukorras ning toetab üldist heaolu.<br />
+<br />
+<strong>Koostis:</strong> Lõhe 28% (värske lõhe 14%, kuivatatud lõhe 14%), riis 25%, kuivatatud hernes, linnurasv, kuivatatud kartul, hüdrolüüsitud taimsed valgud, kartulivalk, kuivatatud peedimass 2,5%, mineraalained, fruktooligosahhariidid (FOS) 0,3%, kuivatatud pärm (MOS ja beetaglükaanide allikas) 0,1%, glükoosamiin loomsetest kudedest (400 mg/kg), rohelise rannakarbi ekstrakt (250 mg/kg), kondroitiinsulfaat (100 mg/kg), yucca schidigera.<br />
+<br />
+<strong>Analüütiline koostis:</strong> Toorvalk 26,0%, Toorrasv 15,0%, Toorkiud 2,3%, Toortuhk 6,0%, Kaltsium 1,2%, Fosfor 1,0%, Niiskus 9,0%<br />
+<strong>Metaboliseeruv energia:</strong> 3705 kcal/kg<br />
+<br />
+<strong>Lisandid (kg kohta):</strong> Vitamiin A 22 500 IU, vitamiin D3 1 500 IU, vitamiin E 315 mg, vitamiin B1 3 mg, vitamiin B2 8,2 mg, vitamiin B6 2,2 mg, vitamiin B12 0,06 mg, vitamiin C 150 mg, niatsiin 27 mg, foolhape 0,37 mg, kaltsium-D-pantotenaat 19 mg, raud 75 mg, vask 15 mg, mangaan 7,5 mg, tsink 96 mg, jood 2,2 mg, seleen 0,22 mg.<br />
+<br />
+Pakkuda kuivalt või vajadusel veega niisutatult. Hoidke alati värske joogivesi koerale kättesaadavana. Päevane kogus sõltub koera vanusest, aktiivsusest ja eluviisist.<br />
+Täiendavaid toidulisandeid ei ole vaja anda, välja arvatud juhul, kui veterinaararst seda soovitab.<br />
+<br />
+<strong>Tootja</strong>: Enova Pet Food s.r.l, Itaalia<br />
+<strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Enova MONO Salmon on täysipainoinen ja tasapainoinen kuivaruoka kaikenrotuisille ja -kokoisille aikuisille koirille.<br />
+Resepti perustuu yhteen eläinproteiiniin – loheen, minkä ansiosta se sopii erityisen hyvin herkkävatsaisille tai iho-ongelmaisille koirille.<br />
+<br />
+Ruoan laadukkaat kalanlähteet ja omega-6- ja omega-3-rasvahappojen optimaalinen suhde tukevat ihon terveyttä ja auttavat vähentämään kutinaa, hilseilyä, turkin himmenemistä ja liiallista karvanlähtöä.<br />
+Korkea omega-3-pitoisuus auttaa pitämään ihon ja turkin hyvässä kunnossa ja tukee yleistä hyvinvointia.<br />
+<br />
+<strong>Koostumus:</strong> lohi 28 % (tuore lohi 14 %, kuivattu lohi 14 %), riisi 25 %, kuivattu herne, siipikarjanrasva, kuivattu peruna, hydrolysoidut kasviproteiinit, perunaproteiini, kuivattu juurikasleike 2,5 %, kivennäisaineet, fruktooligosakkaridit (FOS) 0,3 %, kuivattu hiiva (MOS:n ja beetaglukaanien lähde) 0,1 %, eläinkudoksista saatu glukosamiini (400 mg/kg), vihersimpukkauute (250 mg/kg), kondroitiinisulfaatti (100 mg/kg), Yucca schidigera.<br />
+<br />
+<strong>Analyyttiset ainesosat:</strong> raakavalkuainen 26,0 %, raakarasva 15,0 %, raakakuitu 2,3 %, raakatuhka 6,0 %, kalsium 1,2 %, fosfori 1,0 %, kosteus 9,0 %<br />
+<strong>Muuntokelpoinen energia:</strong> 3705 kcal/kg<br />
+<br />
+<strong>Lisäaineet (kiloa kohden):</strong> A-vitamiini 22 500 KY, D3-vitamiini 1 500 KY, E-vitamiini 315 mg, B1-vitamiini 3 mg, B2-vitamiini 8,2 mg, B6-vitamiini 2,2 mg, B12-vitamiini 0,06 mg, C-vitamiini 150 mg, niasiini 27 mg, foolihappo 0,37 mg, kalsium-D-pantotenaatti 19 mg, rauta 75 mg, kupari 15 mg, mangaani 7,5 mg, sinkki 96 mg, jodi 2,2 mg, seleeni 0,22 mg.<br />
+<br />
+<strong>Suositellut päivittäiset ruokamäärät koiran painon ja aktiivisuustason mukaan:</strong><br />
+10 kg:n koira: vähäinen aktiivisuus 145 g, kohtalainen aktiivisuus 170 g<br />
+15 kg:n koira: vähäinen aktiivisuus 195 g, kohtalainen aktiivisuus 230 g<br />
+20 kg:n koira: vähäinen aktiivisuus 245 g, kohtalainen aktiivisuus 280 g<br />
+25 kg:n koira: vähäinen aktiivisuus 290 g, kohtalainen aktiivisuus 335 g<br />
+30 kg:n koira: vähäinen aktiivisuus 330 g, kohtalainen aktiivisuus 380 g<br />
+35 kg:n koira: vähäinen aktiivisuus 370 g, kohtalainen aktiivisuus 430 g<br />
+40 kg:n koira: vähäinen aktiivisuus 410 g, kohtalainen aktiivisuus 475 g<br />
+45 kg:n koira: vähäinen aktiivisuus 445 g, kohtalainen aktiivisuus 520 g<br />
+50 kg:n koira: vähäinen aktiivisuus 485 g, kohtalainen aktiivisuus 560 g<br />
+(Vähäinen aktiivisuus = alle 1 h liikuntaa päivässä; kohtalainen aktiivisuus = 1–3 h liikuntaa päivässä)<br />
+<br />
+Tarjoa kuivana tai tarvittaessa vedellä kostutettuna. Pidä koiran saatavilla aina raikasta juomavettä. Päivittäinen määrä riippuu koiran iästä, aktiivisuudesta ja elämäntavasta.<br />
+Lisäravinteita ei tarvitse antaa, ellei eläinlääkäri niitä suosittele.<br />
+<br />
+<strong>Valmistaja</strong>: Enova Pet Food s.r.l, Italia<br />
+<strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartu, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Enova MONO Salmon is a complete and balanced dry food for adult dogs of all breeds and sizes.<br />
+The recipe is based on a single animal protein – salmon – which makes it particularly suitable for dogs with sensitive digestion or skin problems.<br />
+<br />
+The high-quality fish sources and optimal ratio of omega-6 and omega-3 fatty acids support skin health and help reduce itching, dandruff, a dull coat and excessive shedding.<br />
+The high omega-3 content helps keep the skin and coat in good condition and supports overall wellbeing.<br />
+<br />
+<strong>Composition:</strong> salmon 28% (fresh salmon 14%, dried salmon 14%), rice 25%, dried peas, poultry fat, dried potato, hydrolysed vegetable proteins, potato protein, dried beet pulp 2.5%, minerals, fructo-oligosaccharides (FOS) 0.3%, dried yeast (source of MOS and beta-glucans) 0.1%, glucosamine from animal tissue (400 mg/kg), green-lipped mussel extract (250 mg/kg), chondroitin sulphate (100 mg/kg), Yucca schidigera.<br />
+<br />
+<strong>Analytical constituents:</strong> crude protein 26.0%, crude fat 15.0%, crude fibre 2.3%, crude ash 6.0%, calcium 1.2%, phosphorus 1.0%, moisture 9.0%<br />
+<strong>Metabolisable energy:</strong> 3705 kcal/kg<br />
+<br />
+<strong>Additives (per kg):</strong> vitamin A 22,500 IU, vitamin D3 1,500 IU, vitamin E 315 mg, vitamin B1 3 mg, vitamin B2 8.2 mg, vitamin B6 2.2 mg, vitamin B12 0.06 mg, vitamin C 150 mg, niacin 27 mg, folic acid 0.37 mg, calcium D-pantothenate 19 mg, iron 75 mg, copper 15 mg, manganese 7.5 mg, zinc 96 mg, iodine 2.2 mg, selenium 0.22 mg.<br />
+<br />
+<strong>Recommended daily amounts according to the dog's weight and activity level:</strong><br />
+10 kg dog: low activity 145 g, moderate activity 170 g<br />
+15 kg dog: low activity 195 g, moderate activity 230 g<br />
+20 kg dog: low activity 245 g, moderate activity 280 g<br />
+25 kg dog: low activity 290 g, moderate activity 335 g<br />
+30 kg dog: low activity 330 g, moderate activity 380 g<br />
+35 kg dog: low activity 370 g, moderate activity 430 g<br />
+40 kg dog: low activity 410 g, moderate activity 475 g<br />
+45 kg dog: low activity 445 g, moderate activity 520 g<br />
+50 kg dog: low activity 485 g, moderate activity 560 g<br />
+(Low activity = less than 1 h of exercise per day; moderate activity = 1–3 h of exercise per day)<br />
+<br />
+Serve dry or moistened with water if needed. Always keep fresh drinking water available for the dog. The daily amount depends on the dog's age, activity and lifestyle.<br />
+No additional supplements are needed unless recommended by a veterinarian.<br />
+<br />
+<strong>Manufacturer</strong>: Enova Pet Food s.r.l, Italy<br />
+<strong>Importer</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <composition><![CDATA[Lõhe 28% (värske lõhe 14%, kuivatatud lõhe 14%), riis 25%, kuivatatud hernes, linnurasv, kuivatatud kartul, hüdrolüüsitud taimsed valgud, kartulivalk, kuivatatud peedimass 2,5%, mineraalained, fruktooligosahhariidid (FOS) 0,3%, kuivatatud pärm (MOS ja beetaglükaanide allikas) 0,1%, glükoosamiin loomsetest kudedest (400 mg/kg), rohelise rannakarbi ekstrakt (250 mg/kg), kondroitiinsulfaat (100 mg/kg), yucca schidigera.]]></composition>
+    <composition-ee><![CDATA[Lõhe 28% (värske lõhe 14%, kuivatatud lõhe 14%), riis 25%, kuivatatud hernes, linnurasv, kuivatatud kartul, hüdrolüüsitud taimsed valgud, kartulivalk, kuivatatud peedimass 2,5%, mineraalained, fruktooligosahhariidid (FOS) 0,3%, kuivatatud pärm (MOS ja beetaglükaanide allikas) 0,1%, glükoosamiin loomsetest kudedest (400 mg/kg), rohelise rannakarbi ekstrakt (250 mg/kg), kondroitiinsulfaat (100 mg/kg), yucca schidigera.]]></composition-ee>
+    <manufacturer-name><![CDATA[Enova Petfood srl; Via Vigentina]]></manufacturer-name>
+    <manufacturer-address><![CDATA[102, 27100 PAVIA (PV) Itaalia;]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@enovapetfood.com]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[ENOVA]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[12.2]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Looma vanus]]></id>
+        <values>
+          <value><![CDATA[Erinevatele vanustele]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Eriomadus]]></id>
+        <values>
+          <value><![CDATA[Kõigile koertele]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/Enova-MONO-salmon-taiskasvanud-koera-kuivtoit.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/Enova-Mono-Salmon-kuivtoit-taiskasvanud-koerale-lohega-krobin-2.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>12.2</weight>
+            <length>0.15</length>
+            <height>0.59</height>
+            <width>0.36</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[8032869783291]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[CS624]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10400</category-id>
+    <category-name><![CDATA[Dog training products]]></category-name>
+    <title><![CDATA[Gappay mankštos kamuolys su rankena, geltonas, ilgis 16 cm]]></title>
+    <title-ru><![CDATA[Gappay Тренировочный мяч с ручкой, жёлтый 16см]]></title-ru>
+    <title-lv><![CDATA[Gappay vingrošanas bumba ar rokturi, dzeltena, L 16cm]]></title-lv>
+    <title-ee><![CDATA[Gappay Sangaga Treeningpall, Kollane L 16cm]]></title-ee>
+    <title-fi><![CDATA[Gappay Jumppapallo Kahvalla, Keltainen L 16cm]]></title-fi>
+    <title-en><![CDATA[Gappay Training Ball with Handle, Yellow 16cm]]></title-en>
+    <long-description><![CDATA[Mankštos kamuolys šunims.]]></long-description>
+    <long-description-ru><![CDATA[Прочный и долговечный тренировочный мяч Gappay в форме футбольного мяча с ручкой предназначен для активных игр, тренировок и мотивации. Благодаря удобной ручке мяч удобно бросать, тянуть и использовать в различных тренировочных упражнениях.<br /> Яркий мяч привлекает внимание собаки и идеально подходит как для щенков, так и для взрослых собак, которые любят движение и игры.<br /><br /> Прочный и высококачественный материал<br /> Удобная прочная ручка для лучшего захвата<br /> Легкий и удобный для бросания<br /> Можно накачивать при необходимости<br /> Яркий цвет обеспечивает хорошую видимость<br /> Диаметр: около 16 см<br /> Вес: около 200 г<br /> Цвет: желтый<br /><br /> Благодаря ручке игрушку также можно использовать в качестве поощрения — она особенно хорошо подходит для рабочих и спортивных собак.<br /><br /> <strong>Важно:</strong> Игрушка не предназначена для самостоятельного жевания. Мы рекомендуем использовать продукт только под присмотром, чтобы обеспечить более длительный срок его службы и безопасность собаки.<br /><br /> <strong>Производитель: Gappay</strong><br /> <strong>Импортер: Penner OÜ; Выру 77, Тарту, Эстония; info@penner.ee</strong>]]></long-description-ru>
+    <long-description-lv><![CDATA[Vingrošanas bumba suņiem.]]></long-description-lv>
+    <long-description-ee><![CDATA[Tugev ja vastupidav <strong>Gappay jalgpallikujuline treeningpall sangaga</strong> on loodud aktiivseks mänguks, treeninguks ja motiveerimiseks. Tänu praktilisele sangale on palli mugav visata, tõmmata ja kasutada erinevates treeningharjutustes.<br /> Erksavärviline pall püüab koera tähelepanu ning sobib suurepäraselt nii kutsikatele kui ka täiskasvanud koertele, kes armastavad liikumist ja mängu.<br /><br /> Vastupidav ja kvaliteetne materjal<br /> Mugav tugev sang paremaks haardeks<br /> Kerge ja hästi visatav<br /> Võimalik vastavalt vajadusele juurde pumbata<br /> Erk värv tagab hea nähtavuse<br /> Läbimõõt: ca 16 cm<br /> Kaal: ca 200 g<br /> Värv: kollane<br /><br /> Tänu sangale saab mänguasja kasutada ka preemiavahendina – eriti hästi toimib see töö- ja spordikoertega.<br /><br /> <strong>Oluline:</strong> Mänguasi ei ole mõeldud iseseisvaks närimiseks. Soovitame kasutada ainult järelvalve all, et tagada toote pikem eluiga ja koera ohutus.<br /><br /> <strong>Tootja: Gappay</strong><br /> <strong>Maaletooja: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee</strong>]]></long-description-ee>
+    <long-description-fi><![CDATA[Vahva ja kestävä<strong>Gappayn jalkapallon muotoinen harjoituspallo kahvalla</strong> on suunniteltu aktiiviseen leikkiin, harjoitteluun ja motivointiin. Käytännöllisen kahvan ansiosta palloa on helppo heittää, hakea ja käyttää erilaisissa harjoituksissa.<br /> Kirkkaanvärinen pallo kiinnittää koiran huomion ja sopii täydellisesti sekä pennuille että aikuisille koirille, jotka rakastavat liikettä ja leikkiä.<br /><br /> Kestävä ja korkealaatuinen materiaali<br /> Mukava vahva kahva paremman otteen takaamiseksi<br /> Kevyt ja helppo heittää<br /> Voidaan pumpata tarpeen mukaan<br /> Kirkas väri varmistaa hyvän näkyvyyden<br /> Halkaisija: noin 16 cm<br /> Paino: noin 200 g<br /> Väri: keltainen<br /><br /> Kahvan ansiosta lelua voidaan käyttää myös palkitsemisvälineenä - se toimii erityisen hyvin työ- ja urheilukoirien kanssa.<br /><br /> <strong>Tärkeää:</strong> Lelua ei ole tarkoitettu itsenäiseen pureskeluun. Suosittelemme käyttöä vain valvonnassa tuotteen pidemmän käyttöiän ja koiran turvallisuuden varmistamiseksi.<br /><br /> <strong>Valmistaja:Gappay</strong><br /> <strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartto, Viro;info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[The strong and durable <strong>Gappay football-shaped training ball with handle</strong> is designed for active play, training and motivation. Thanks to the practical handle, the ball is convenient to throw, pull and use in various training exercises.<br /> The brightly colored ball catches the dog's attention and is perfect for both puppies and adult dogs who love movement and play.<br /><br /> Durable and high-quality material<br /> Comfortable strong handle for better grip<br /> Lightweight and easy to throw<br /> Can be pumped up as needed<br /> Bright color ensures good visibility<br /> Diameter: approx. 16 cm<br /> Weight: approx. 200 g<br /> Color: yellow<br /><br /> Thanks to the handle, the toy can also be used as a reward tool - it works especially well with working and sporting dogs.<br /><br /> <strong>Important:</strong> The toy is not intended for independent chewing. We recommend using only under supervision to ensure a longer product life and the safety of the dog.<br /><br /> <strong>Manufacturer: Gappay</strong><br /> <strong>Importer: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee</strong>]]></long-description-en>
+    <manufacturer-name><![CDATA[Gappay]]></manufacturer-name>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[GAPPAY]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.21]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/gappay-nahast-pall-kollane-L.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.21</weight>
+            <length>0.001</length>
+            <height>0.1</height>
+            <width>0.1</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[978020137963]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[0742N]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10400</category-id>
+    <category-name><![CDATA[Dog training products]]></category-name>
+    <title><![CDATA[Gappay mankštos kamuolys su rankena, geltonas, M, 10 cm]]></title>
+    <title-ru><![CDATA[Gappay Тренировочный мяч с ручкой, жёлтый 10 см]]></title-ru>
+    <title-lv><![CDATA[Gappay vingrošanas bumba ar rokturi, dzeltena, M, 10 cm]]></title-lv>
+    <title-ee><![CDATA[Gappay Sangaga Treeningpall, Kollane M 10cm]]></title-ee>
+    <title-fi><![CDATA[Gappay Jumppapallo Kahvalla, Keltainen M 10cm]]></title-fi>
+    <title-en><![CDATA[Gappay Training Ball with Handle, Yellow 10 cm]]></title-en>
+    <long-description><![CDATA[Mankštos kamuolys šunims.]]></long-description>
+    <long-description-ru><![CDATA[Прочный и долговечный тренировочный мяч Gappay в форме футбольного мяча с ручкой предназначен для активных игр, тренировок и мотивации. Благодаря практичной ручке мяч удобно бросать, тянуть и использовать в различных тренировочных упражнениях.<br /> Яркий мяч привлекает внимание собаки и идеально подходит как для щенков, так и для взрослых собак, которые любят движение и игры.<br /><br /> Прочный и высококачественный материал<br /> Удобная прочная ручка для лучшего захвата<br /> Легкий и удобный для бросания<br /> Можно накачивать при необходимости<br /> Яркий цвет обеспечивает хорошую видимость<br /> Диаметр: около 10 см<br /> Вес: около 130 г<br /> Цвет: желтый<br /><br /> Благодаря ручке игрушку также можно использовать в качестве поощрения — она особенно хорошо подходит для рабочих и спортивных собак.<br /><br /> <strong>Важно:</strong> Игрушка не предназначена для самостоятельного жевания. Мы рекомендуем использовать продукт только под присмотром, чтобы обеспечить более длительный срок его службы и безопасность собаки.<br /><br /> <strong>Производитель: Gappay</strong><br /> <strong>Импортер: Penner OÜ; Выру 77, Тарту, Эстония; info@penner.ee</strong>]]></long-description-ru>
+    <long-description-lv><![CDATA[Vingrošanas bumba suņiem.]]></long-description-lv>
+    <long-description-ee><![CDATA[Tugev ja vastupidav <strong>Gappay jalgpallikujuline treeningpall sangaga</strong> on loodud aktiivseks mänguks, treeninguks ja motiveerimiseks. Tänu praktilisele sangale on palli mugav visata, tõmmata ja kasutada erinevates treeningharjutustes.<br /> Erksavärviline pall püüab koera tähelepanu ning sobib suurepäraselt nii kutsikatele kui ka täiskasvanud koertele, kes armastavad liikumist ja mängu.<br /><br /> Vastupidav ja kvaliteetne materjal<br /> Mugav tugev sang paremaks haardeks<br /> Kerge ja hästi visatav<br /> Võimalik vastavalt vajadusele juurde pumbata<br /> Erk värv tagab hea nähtavuse<br /> Läbimõõt: ca 10 cm<br /> Kaal: ca 130 g<br /> Värv: kollane<br /><br /> Tänu sangale saab mänguasja kasutada ka preemiavahendina – eriti hästi toimib see töö- ja spordikoertega.<br /><br /> <strong>Oluline:</strong> Mänguasi ei ole mõeldud iseseisvaks närimiseks. Soovitame kasutada ainult järelvalve all, et tagada toote pikem eluiga ja koera ohutus.<br /><br /> <strong>Tootja: Gappay</strong><br /> <strong>Maaletooja: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee</strong>]]></long-description-ee>
+    <long-description-fi><![CDATA[Vahva ja kestävä <strong>Gappayn jalkapallon muotoinen harjoituspallo kahvalla</strong> on suunniteltu aktiiviseen leikkiin, harjoitteluun ja motivointiin. Käytännöllisen kahvan ansiosta palloa on helppo heittää, vetää ja käyttää erilaisissa harjoituksissa.<br /> Kirkkaanvärinen pallo kiinnittää koiran huomion ja sopii täydellisesti sekä pennuille että aikuisille koirille, jotka rakastavat liikettä ja leikkiä.<br /><br /> Kestävä ja korkealaatuinen materiaali<br /> Mukava vahva kahva paremman otteen takaamiseksi<br /> Kevyt ja helppo heittää<br /> Voidaan pumpata tarpeen mukaan<br /> Kirkas väri varmistaa hyvän näkyvyyden<br /> Halkaisija: noin 10 cm<br /> Paino: noin 130 g<br /> Väri: keltainen<br /><br /> Kahvan ansiosta lelua voidaan käyttää myös palkintona - se toimii erityisen hyvin työ- ja urheilukoirien kanssa.<br /><br /> <strong>Tärkeää:</strong> Lelua ei ole tarkoitettu itsenäiseen pureskeluun. Suosittelemme käyttöä vain valvonnassa tuotteen pidemmän käyttöiän ja koiran turvallisuuden varmistamiseksi.<br /><br /> <strong>Valmistaja: Gappay</strong><br /> <strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[The strong and durable <strong>Gappay football-shaped training ball with handle</strong> is designed for active play, training and motivation. Thanks to the practical handle, the ball is convenient to throw, pull and use in various training exercises.<br /> The brightly colored ball catches the dog's attention and is perfect for both puppies and adult dogs who love movement and play.<br /><br /> Durable and high-quality material<br /> Comfortable strong handle for better grip<br /> Lightweight and easy to throw<br /> Can be pumped up as needed<br /> Bright color ensures good visibility<br /> Diameter: approx. 10 cm<br /> Weight: approx. 130 g<br /> Color: yellow<br /><br /> Thanks to the handle, the toy can also be used as a reward tool - it works especially well with working and sporting dogs.<br /><br /> <strong>Important:</strong> The toy is not intended for independent chewing. We recommend using only under supervision to ensure a longer product life and the safety of the dog.<br /><br /> <strong>Manufacturer: Gappay</strong><br /> <strong>Importer: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee</strong>]]></long-description-en>
+    <manufacturer-name><![CDATA[Gappay]]></manufacturer-name>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[GAPPAY]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.1]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/gappay-nahast-pall-kollane.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.1</weight>
+            <length>0.001</length>
+            <height>0.1</height>
+            <width>0.1</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[978020137962]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[0741N]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
     <category-id>10400</category-id>
     <category-name><![CDATA[Dog training products]]></category-name>
     <title><![CDATA[Gappay odinis dresūros kamuolys šunims (su rankena) 11 cm]]></title>
@@ -18616,133 +19085,6 @@ Importētājs: Penner OÜ; Võru 77, Tartu, Igaunija; info@penner.ee]]></long-de
                 <barcode><![CDATA[6417679035167]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[4416]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10370</category-id>
-    <category-name><![CDATA[Dry dog food]]></category-name>
-    <title><![CDATA[Enova MONO Salmon - Sausas pašaras suaugusiems šunims su lašiša 12 kg]]></title>
-    <title-ru><![CDATA[Enova MONO Salmon - Сухой корм для взрослых собак с лососем 12 кг]]></title-ru>
-    <title-lv><![CDATA[Enova MONO Salmon - Sausā barība pieaugušiem suņiem ar lasi 12 kg]]></title-lv>
-    <title-ee><![CDATA[Enova MONO Salmon - Kuivtoit Täiskasvanud Koerale Lõhega 12kg]]></title-ee>
-    <title-fi><![CDATA[Enova MONO Salmon - Kuivaruoka aikuisille koirille lohella 12 kg]]></title-fi>
-    <title-en><![CDATA[Enova MONO Salmon - Dry Food for Adult Dogs with Salmon 12kg]]></title-en>
-    <long-description><![CDATA[Enova MONO Salmon – visavertis ir subalansuotas sausas pašaras visų veislių ir dydžių suaugusiems šunims.
-Receptas pagrįstas vienu gyvūninės kilmės baltymu – lašiša, todėl jis ypač tinka šunims, turintiems jautrų virškinimą arba odos problemų.
-
-Pašare esantys kokybiški žuvies šaltiniai ir optimalus Omega-6 ir Omega-3 riebalų rūgščių santykis palaiko odos sveikatą ir padeda sumažinti niežulį, pleiskanas, kailio blankumą bei pernelyg gausų šėrimąsi.
-Didelis Omega-3 kiekis padeda palaikyti gerą odos ir kailio būklę bei bendrą gerovę.
-
-Sudėtis: Lašiša 28% (šviežia lašiša 14%, džiovinta lašiša 14%), ryžiai 25%, džiovinti žirniai, paukščių riebalai, džiovintos bulvės, hidrolizuoti augaliniai baltymai, bulvių baltymai, džiovinta runkelių masė 2,5%, mineralinės medžiagos, fruktooligosacharidai (FOS) 0,3%, džiovintos mielės (MOS ir beta gliukanų šaltinis) 0,1%, gliukozaminas iš gyvūninių audinių (400 mg/kg), žaliųjų midijų ekstraktas (250 mg/kg), chondroitino sulfatas (100 mg/kg), yucca schidigera.
-
-Analitinės sudedamosios dalys: Žali baltymai 26,0%, Žali riebalai 15,0%, Žalios skaidulos 2,3%, Žali pelenai 6,0%, Kalcis 1,2%, Fosforas 1,0%, Drėgmė 9,0%
-Apykaitos energija: 3705 kcal/kg
-
-Priedai (kilograme): Vitaminas A 22 500 IU, vitaminas D3 1 500 IU, vitaminas E 315 mg, vitaminas B1 3 mg, vitaminas B2 8,2 mg, vitaminas B6 2,2 mg, vitaminas B12 0,06 mg, vitaminas C 150 mg, niacinas 27 mg, folio rūgštis 0,37 mg, kalcio D-pantotenatas 19 mg, geležis 75 mg, varis 15 mg, manganas 7,5 mg, cinkas 96 mg, jodas 2,2 mg, selenas 0,22 mg.
-
-Rekomenduojamas paros pašaro kiekis pagal šuns svorį ir aktyvumo lygį:
-10 kg šuo: esant mažam aktyvumui 145 g, esant vidutiniam aktyvumui 170 g
-15 kg šuo: esant mažam aktyvumui 195 g, esant vidutiniam aktyvumui 230 g
-20 kg šuo: esant mažam aktyvumui 245 g, esant vidutiniam aktyvumui 280 g
-25 kg šuo: esant mažam aktyvumui 290 g, esant vidutiniam aktyvumui 335 g
-30 kg šuo: esant mažam aktyvumui 330 g, esant vidutiniam aktyvumui 380 g
-35 kg šuo: esant mažam aktyvumui 370 g, esant vidutiniam aktyvumui 430 g
-40 kg šuo: esant mažam aktyvumui 410 g, esant vidutiniam aktyvumui 475 g
-45 kg šuo: esant mažam aktyvumui 445 g, esant vidutiniam aktyvumui 520 g
-50 kg šuo: esant mažam aktyvumui 485 g, esant vidutiniam aktyvumui 560 g
-(Mažas aktyvumas = mažiau nei 1 h judėjimo per dieną; vidutinis aktyvumas = 1–3 h judėjimo per dieną)
-
-Duokite sausą arba, jei reikia, sudrėkintą vandeniu. Visada užtikrinkite, kad šuniui būtų prieinamas šviežias geriamasis vanduo. Paros kiekis priklauso nuo šuns amžiaus, aktyvumo ir gyvenimo būdo.
-Papildomų maisto papildų duoti nereikia, nebent tai rekomenduoja veterinarijos gydytojas.
-
-Gamintojas: Enova Pet Food s.r.l, Italija
-Importuotojas: Penner OÜ; Võru 77, Tartu, Estija; info@penner.ee]]></long-description>
-    <long-description-ru><![CDATA[Enova MONO Salmon — полноценный и сбалансированный сухой корм для взрослых собак всех пород и размеров.<br /> Рецепт основан на одном животном белке – лососе, что делает его особенно подходящим для собак с чувствительным пищеварением или проблемами кожи.<br /><br /> Качественные рыбные источники и оптимальное соотношение жирных кислот омега-6 и омега-3 поддерживают здоровье кожи и помогают уменьшить зуд, перхоть, тусклость шерсти и чрезмерную линьку.<br /> Высокое содержание омега-3 помогает поддерживать кожу и шерсть в хорошем состоянии и способствует общему благополучию.<br /><br /> <strong>Состав:</strong> лосось 28% (свежий лосось 14%, сушёный лосось 14%), рис 25%, сушёный горох, жир птицы, сушёный картофель, гидролизованные растительные белки, картофельный белок, сушёный свекольный жом 2,5%, минеральные вещества, фруктоолигосахариды (ФОС) 0,3%, сушёные дрожжи (источник МОС и бета-глюканов) 0,1%, глюкозамин из тканей животных (400 мг/кг), экстракт новозеландской зеленогубой мидии (250 мг/кг), хондроитинсульфат (100 мг/кг), Yucca schidigera.<br /><br /> <strong>Аналитические компоненты:</strong> сырой протеин 26,0%, сырой жир 15,0%, сырая клетчатка 2,3%, сырая зола 6,0%, кальций 1,2%, фосфор 1,0%, влажность 9,0%<br /> <strong>Обменная энергия:</strong> 3705 ккал/кг<br /><br /> <strong>Добавки (на кг):</strong> витамин A 22 500 МЕ, витамин D3 1 500 МЕ, витамин E 315 мг, витамин B1 3 мг, витамин B2 8,2 мг, витамин B6 2,2 мг, витамин B12 0,06 мг, витамин C 150 мг, ниацин 27 мг, фолиевая кислота 0,37 мг, D-пантотенат кальция 19 мг, железо 75 мг, медь 15 мг, марганец 7,5 мг, цинк 96 мг, йод 2,2 мг, селен 0,22 мг.<br /><br /> <strong>Рекомендуемые суточные нормы в зависимости от веса и уровня активности собаки:</strong><br /> Собака 10 кг: при низкой активности 145 г, при умеренной активности 170 г<br /> Собака 15 кг: при низкой активности 195 г, при умеренной активности 230 г<br /> Собака 20 кг: при низкой активности 245 г, при умеренной активности 280 г<br /> Собака 25 кг: при низкой активности 290 г, при умеренной активности 335 г<br /> Собака 30 кг: при низкой активности 330 г, при умеренной активности 380 г<br /> Собака 35 кг: при низкой активности 370 г, при умеренной активности 430 г<br /> Собака 40 кг: при низкой активности 410 г, при умеренной активности 475 г<br /> Собака 45 кг: при низкой активности 445 г, при умеренной активности 520 г<br /> Собака 50 кг: при низкой активности 485 г, при умеренной активности 560 г<br /> (Низкая активность = менее 1 ч движения в день; умеренная активность = 1–3 ч движения в день)<br /><br /> Давать в сухом виде или при необходимости смочить водой. У собаки всегда должна быть свежая питьевая вода. Суточное количество зависит от возраста, активности и образа жизни собаки.<br /> Дополнительные добавки давать не нужно, если их не рекомендует ветеринар.<br /><br /> <strong>Производитель</strong>: Enova Pet Food s.r.l, Италия<br /> <strong>Импортёр</strong>: Penner OÜ; Võru 77, Tartu, Эстония; info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Enova MONO Salmon ir pilnvērtīga un sabalansēta sausā barība visu šķirņu un izmēru pieaugušiem suņiem.
-Recepte balstīta uz vienu dzīvnieku izcelsmes olbaltumvielu – lasi, tāpēc tā ir īpaši piemērota suņiem ar jutīgu gremošanu vai ādas problēmām.
-
-Barībā esošie kvalitatīvie zivju avoti un optimālā Omega-6 un Omega-3 taukskābju attiecība atbalsta ādas veselību un palīdz mazināt niezi, blaugznas, apmatojuma blāvumu un pārmērīgu spalvas mešanu.
-Augstais Omega-3 saturs palīdz uzturēt ādu un apmatojumu labā stāvoklī un atbalsta vispārējo labsajūtu.
-
-Sastāvs: Lasis 28% (svaigs lasis 14%, kaltēts lasis 14%), rīsi 25%, kaltēti zirņi, mājputnu tauki, kaltēti kartupeļi, hidrolizētas augu olbaltumvielas, kartupeļu proteīns, kaltēts biešu mīkstums 2,5%, minerālvielas, fruktooligosaharīdi (FOS) 0,3%, kaltēts raugs (MOS un beta-glikānu avots) 0,1%, glikozamīns no dzīvnieku audiem (400 mg/kg), zaļās lūpu mīdijas ekstrakts (250 mg/kg), hondroitīna sulfāts (100 mg/kg), yucca schidigera.
-
-Analītiskās sastāvdaļas: Kopproteīns 26,0%, Koptauki 15,0%, Kopšķiedra 2,3%, Kopējie pelni 6,0%, Kalcijs 1,2%, Fosfors 1,0%, Mitrums 9,0%
-Metabolizējamā enerģija: 3705 kcal/kg
-
-Piedevas (uz kg): A vitamīns 22 500 IU, D3 vitamīns 1 500 IU, E vitamīns 315 mg, B1 vitamīns 3 mg, B2 vitamīns 8,2 mg, B6 vitamīns 2,2 mg, B12 vitamīns 0,06 mg, C vitamīns 150 mg, niacīns 27 mg, folskābe 0,37 mg, kalcija D-pantotenāts 19 mg, dzelzs 75 mg, varš 15 mg, mangāns 7,5 mg, cinks 96 mg, jods 2,2 mg, selēns 0,22 mg.
-
-Ieteicamais dienas barības daudzums atkarībā no suņa svara un aktivitātes līmeņa:
-10 kg suns: zemas aktivitātes gadījumā 145 g, mērenas aktivitātes gadījumā 170 g
-15 kg suns: zemas aktivitātes gadījumā 195 g, mērenas aktivitātes gadījumā 230 g
-20 kg suns: zemas aktivitātes gadījumā 245 g, mērenas aktivitātes gadījumā 280 g
-25 kg suns: zemas aktivitātes gadījumā 290 g, mērenas aktivitātes gadījumā 335 g
-30 kg suns: zemas aktivitātes gadījumā 330 g, mērenas aktivitātes gadījumā 380 g
-35 kg suns: zemas aktivitātes gadījumā 370 g, mērenas aktivitātes gadījumā 430 g
-40 kg suns: zemas aktivitātes gadījumā 410 g, mērenas aktivitātes gadījumā 475 g
-45 kg suns: zemas aktivitātes gadījumā 445 g, mērenas aktivitātes gadījumā 520 g
-50 kg suns: zemas aktivitātes gadījumā 485 g, mērenas aktivitātes gadījumā 560 g
-(Zema aktivitāte = mazāk nekā 1 h kustību dienā; mērena aktivitāte = 1–3 h kustību dienā)
-
-Barot sausu vai, ja nepieciešams, samitrinātu ar ūdeni. Vienmēr nodrošiniet, lai sunim būtu pieejams svaigs dzeramais ūdens. Dienas deva ir atkarīga no suņa vecuma, aktivitātes un dzīvesveida.
-Papildu uztura bagātinātāji nav nepieciešami, izņemot gadījumus, kad to iesaka veterinārārsts.
-
-Ražotājs: Enova Pet Food s.r.l, Itālija
-Importētājs: Penner OÜ; Võru 77, Tartu, Igaunija; info@penner.ee]]></long-description-lv>
-    <long-description-ee><![CDATA[Enova MONO Salmon on täisväärtuslik ja tasakaalustatud kuivtoit kõikide tõugude ja suurustega täiskasvanud koertele.<br /> Retsept põhineb ühel loomsel valgul – lõhel, mis muudab selle eriti sobivaks tundliku seedimisega või nahaprobleemidega koertele.<br /><br /> Toidus sisalduvad kvaliteetsed kalaallikad ning optimaalne Omega-6 ja Omega-3 rasvhapete suhe toetavad naha tervist ja aitavad vähendada sügelust, kõõma, karvkatte tuhmumist ning liigset karvavahetust.<br /> Kõrge Omega-3 sisaldus aitab hoida naha ja karvkatte heas seisukorras ning toetab üldist heaolu.<br /><br /> <strong>Koostis:</strong> Lõhe 28% (värske lõhe 14%, kuivatatud lõhe 14%), riis 25%, kuivatatud hernes, linnurasv, kuivatatud kartul, hüdrolüüsitud taimsed valgud, kartulivalk, kuivatatud peedimass 2,5%, mineraalained, fruktooligosahhariidid (FOS) 0,3%, kuivatatud pärm (MOS ja beetaglükaanide allikas) 0,1%, glükoosamiin loomsetest kudedest (400 mg/kg), rohelise rannakarbi ekstrakt (250 mg/kg), kondroitiinsulfaat (100 mg/kg), yucca schidigera.<br /><br /> <strong>Analüütiline koostis:</strong> Toorvalk 26,0%, Toorrasv 15,0%, Toorkiud 2,3%, Toortuhk 6,0%, Kaltsium 1,2%, Fosfor 1,0%, Niiskus 9,0%<br /> <strong>Metaboliseeruv energia:</strong> 3705 kcal/kg<br /><br /> <strong>Lisandid (kg kohta):</strong> Vitamiin A 22 500 IU, vitamiin D3 1 500 IU, vitamiin E 315 mg, vitamiin B1 3 mg, vitamiin B2 8,2 mg, vitamiin B6 2,2 mg, vitamiin B12 0,06 mg, vitamiin C 150 mg, niatsiin 27 mg, foolhape 0,37 mg, kaltsium-D-pantotenaat 19 mg, raud 75 mg, vask 15 mg, mangaan 7,5 mg, tsink 96 mg, jood 2,2 mg, seleen 0,22 mg.<br /><br /> <strong>Soovituslikud päevased toidukogused vastavalt koera kaalule ja aktiivsustasemele:</strong><br /> 10 kg koer: madala aktiivsuse korral 145 g, mõõduka aktiivsuse korral 170 g<br /> 15 kg koer: madala aktiivsuse korral 195 g, mõõduka aktiivsuse korral 230 g<br /> 20 kg koer: madala aktiivsuse korral 245 g, mõõduka aktiivsuse korral 280 g<br /> 25 kg koer: madala aktiivsuse korral 290 g, mõõduka aktiivsuse korral 335 g<br /> 30 kg koer: madala aktiivsuse korral 330 g, mõõduka aktiivsuse korral 380 g<br /> 35 kg koer: madala aktiivsuse korral 370 g, mõõduka aktiivsuse korral 430 g<br /> 40 kg koer: madala aktiivsuse korral 410 g, mõõduka aktiivsuse korral 475 g<br /> 45 kg koer: madala aktiivsuse korral 445 g, mõõduka aktiivsuse korral 520 g<br /> 50 kg koer: madala aktiivsuse korral 485 g, mõõduka aktiivsuse korral 560 g<br /> (Madal aktiivsus = alla 1 h liikumist päevas; mõõdukas aktiivsus = 1–3 h liikumist päevas)<br /><br /> Pakkuda kuivalt või vajadusel veega niisutatult. Hoidke alati värske joogivesi koerale kättesaadavana. Päevane kogus sõltub koera vanusest, aktiivsusest ja eluviisist.<br /> Täiendavaid toidulisandeid ei ole vaja anda, välja arvatud juhul, kui veterinaararst seda soovitab.<br /><br /> <strong>Tootja</strong>: Enova Pet Food s.r.l, Itaalia<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Enova MONO Salmon on täysipainoinen ja tasapainoinen kuivaruoka kaikenrotuisille ja -kokoisille aikuisille koirille.<br /> Resepti perustuu yhteen eläinproteiiniin – loheen, minkä ansiosta se sopii erityisen hyvin herkkävatsaisille tai iho-ongelmaisille koirille.<br /><br /> Ruoan laadukkaat kalanlähteet ja omega-6- ja omega-3-rasvahappojen optimaalinen suhde tukevat ihon terveyttä ja auttavat vähentämään kutinaa, hilseilyä, turkin himmenemistä ja liiallista karvanlähtöä.<br /> Korkea omega-3-pitoisuus auttaa pitämään ihon ja turkin hyvässä kunnossa ja tukee yleistä hyvinvointia.<br /><br /> <strong>Koostumus:</strong> lohi 28 % (tuore lohi 14 %, kuivattu lohi 14 %), riisi 25 %, kuivattu herne, siipikarjanrasva, kuivattu peruna, hydrolysoidut kasviproteiinit, perunaproteiini, kuivattu juurikasleike 2,5 %, kivennäisaineet, fruktooligosakkaridit (FOS) 0,3 %, kuivattu hiiva (MOS:n ja beetaglukaanien lähde) 0,1 %, eläinkudoksista saatu glukosamiini (400 mg/kg), vihersimpukkauute (250 mg/kg), kondroitiinisulfaatti (100 mg/kg), Yucca schidigera.<br /><br /> <strong>Analyyttiset ainesosat:</strong> raakavalkuainen 26,0 %, raakarasva 15,0 %, raakakuitu 2,3 %, raakatuhka 6,0 %, kalsium 1,2 %, fosfori 1,0 %, kosteus 9,0 %<br /> <strong>Muuntokelpoinen energia:</strong> 3705 kcal/kg<br /><br /> <strong>Lisäaineet (kiloa kohden):</strong> A-vitamiini 22 500 KY, D3-vitamiini 1 500 KY, E-vitamiini 315 mg, B1-vitamiini 3 mg, B2-vitamiini 8,2 mg, B6-vitamiini 2,2 mg, B12-vitamiini 0,06 mg, C-vitamiini 150 mg, niasiini 27 mg, foolihappo 0,37 mg, kalsium-D-pantotenaatti 19 mg, rauta 75 mg, kupari 15 mg, mangaani 7,5 mg, sinkki 96 mg, jodi 2,2 mg, seleeni 0,22 mg.<br /><br /> <strong>Suositellut päivittäiset ruokamäärät koiran painon ja aktiivisuustason mukaan:</strong><br /> 10 kg:n koira: vähäinen aktiivisuus 145 g, kohtalainen aktiivisuus 170 g<br /> 15 kg:n koira: vähäinen aktiivisuus 195 g, kohtalainen aktiivisuus 230 g<br /> 20 kg:n koira: vähäinen aktiivisuus 245 g, kohtalainen aktiivisuus 280 g<br /> 25 kg:n koira: vähäinen aktiivisuus 290 g, kohtalainen aktiivisuus 335 g<br /> 30 kg:n koira: vähäinen aktiivisuus 330 g, kohtalainen aktiivisuus 380 g<br /> 35 kg:n koira: vähäinen aktiivisuus 370 g, kohtalainen aktiivisuus 430 g<br /> 40 kg:n koira: vähäinen aktiivisuus 410 g, kohtalainen aktiivisuus 475 g<br /> 45 kg:n koira: vähäinen aktiivisuus 445 g, kohtalainen aktiivisuus 520 g<br /> 50 kg:n koira: vähäinen aktiivisuus 485 g, kohtalainen aktiivisuus 560 g<br /> (Vähäinen aktiivisuus = alle 1 h liikuntaa päivässä; kohtalainen aktiivisuus = 1–3 h liikuntaa päivässä)<br /><br /> Tarjoa kuivana tai tarvittaessa vedellä kostutettuna. Pidä koiran saatavilla aina raikasta juomavettä. Päivittäinen määrä riippuu koiran iästä, aktiivisuudesta ja elämäntavasta.<br /> Lisäravinteita ei tarvitse antaa, ellei eläinlääkäri niitä suosittele.<br /><br /> <strong>Valmistaja</strong>: Enova Pet Food s.r.l, Italia<br /> <strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartu, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[Enova MONO Salmon is a complete and balanced dry food for adult dogs of all breeds and sizes.<br /> The recipe is based on a single animal protein – salmon – which makes it particularly suitable for dogs with sensitive digestion or skin problems.<br /><br /> The high-quality fish sources and optimal ratio of omega-6 and omega-3 fatty acids support skin health and help reduce itching, dandruff, a dull coat and excessive shedding.<br /> The high omega-3 content helps keep the skin and coat in good condition and supports overall wellbeing.<br /><br /> <strong>Composition:</strong> salmon 28% (fresh salmon 14%, dried salmon 14%), rice 25%, dried peas, poultry fat, dried potato, hydrolysed vegetable proteins, potato protein, dried beet pulp 2.5%, minerals, fructo-oligosaccharides (FOS) 0.3%, dried yeast (source of MOS and beta-glucans) 0.1%, glucosamine from animal tissue (400 mg/kg), green-lipped mussel extract (250 mg/kg), chondroitin sulphate (100 mg/kg), Yucca schidigera.<br /><br /> <strong>Analytical constituents:</strong> crude protein 26.0%, crude fat 15.0%, crude fibre 2.3%, crude ash 6.0%, calcium 1.2%, phosphorus 1.0%, moisture 9.0%<br /> <strong>Metabolisable energy:</strong> 3705 kcal/kg<br /><br /> <strong>Additives (per kg):</strong> vitamin A 22,500 IU, vitamin D3 1,500 IU, vitamin E 315 mg, vitamin B1 3 mg, vitamin B2 8.2 mg, vitamin B6 2.2 mg, vitamin B12 0.06 mg, vitamin C 150 mg, niacin 27 mg, folic acid 0.37 mg, calcium D-pantothenate 19 mg, iron 75 mg, copper 15 mg, manganese 7.5 mg, zinc 96 mg, iodine 2.2 mg, selenium 0.22 mg.<br /><br /> <strong>Recommended daily amounts according to the dog's weight and activity level:</strong><br /> 10 kg dog: low activity 145 g, moderate activity 170 g<br /> 15 kg dog: low activity 195 g, moderate activity 230 g<br /> 20 kg dog: low activity 245 g, moderate activity 280 g<br /> 25 kg dog: low activity 290 g, moderate activity 335 g<br /> 30 kg dog: low activity 330 g, moderate activity 380 g<br /> 35 kg dog: low activity 370 g, moderate activity 430 g<br /> 40 kg dog: low activity 410 g, moderate activity 475 g<br /> 45 kg dog: low activity 445 g, moderate activity 520 g<br /> 50 kg dog: low activity 485 g, moderate activity 560 g<br /> (Low activity = less than 1 h of exercise per day; moderate activity = 1–3 h of exercise per day)<br /><br /> Serve dry or moistened with water if needed. Always keep fresh drinking water available for the dog. The daily amount depends on the dog's age, activity and lifestyle.<br /> No additional supplements are needed unless recommended by a veterinarian.<br /><br /> <strong>Manufacturer</strong>: Enova Pet Food s.r.l, Italy<br /> <strong>Importer</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <composition><![CDATA[Lõhe 28% (värske lõhe 14%, kuivatatud lõhe 14%), riis 25%, kuivatatud hernes, linnurasv, kuivatatud kartul, hüdrolüüsitud taimsed valgud, kartulivalk, kuivatatud peedimass 2,5%, mineraalained, fruktooligosahhariidid (FOS) 0,3%, kuivatatud pärm (MOS ja beetaglükaanide allikas) 0,1%, glükoosamiin loomsetest kudedest (400 mg/kg), rohelise rannakarbi ekstrakt (250 mg/kg), kondroitiinsulfaat (100 mg/kg), yucca schidigera.]]></composition>
-    <composition-ee><![CDATA[Lõhe 28% (värske lõhe 14%, kuivatatud lõhe 14%), riis 25%, kuivatatud hernes, linnurasv, kuivatatud kartul, hüdrolüüsitud taimsed valgud, kartulivalk, kuivatatud peedimass 2,5%, mineraalained, fruktooligosahhariidid (FOS) 0,3%, kuivatatud pärm (MOS ja beetaglükaanide allikas) 0,1%, glükoosamiin loomsetest kudedest (400 mg/kg), rohelise rannakarbi ekstrakt (250 mg/kg), kondroitiinsulfaat (100 mg/kg), yucca schidigera.]]></composition-ee>
-    <manufacturer-name><![CDATA[Enova Petfood srl; Via Vigentina]]></manufacturer-name>
-    <manufacturer-address><![CDATA[102, 27100 PAVIA (PV) Itaalia;]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@enovapetfood.com]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[ENOVA]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[12.2]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Looma vanus]]></id>
-        <values>
-          <value><![CDATA[Erinevatele vanustele]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Eriomadus]]></id>
-        <values>
-          <value><![CDATA[Kõigile koertele]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Enova-MONO-salmon-taiskasvanud-koera-kuivtoit.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/Enova-Mono-Salmon-kuivtoit-taiskasvanud-koerale-lohega-krobin-2.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>12.2</weight>
-            <length>0.15</length>
-            <height>0.59</height>
-            <width>0.36</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[8032869783291]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[CS624]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -87570,58 +87912,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
   <product>
     <category-id>10400</category-id>
     <category-name><![CDATA[Dog training products]]></category-name>
-    <title><![CDATA[Gappay mankštos kamuolys su rankena, geltonas, M, 10 cm]]></title>
-    <title-ru><![CDATA[Gappay Тренировочный мяч с ручкой, жёлтый 10 см]]></title-ru>
-    <title-lv><![CDATA[Gappay vingrošanas bumba ar rokturi, dzeltena, M, 10 cm]]></title-lv>
-    <title-ee><![CDATA[Gappay Sangaga Treeningpall, Kollane M 10cm]]></title-ee>
-    <title-fi><![CDATA[Gappay Jumppapallo Kahvalla, Keltainen M 10cm]]></title-fi>
-    <title-en><![CDATA[Gappay Training Ball with Handle, Yellow 10 cm]]></title-en>
-    <long-description><![CDATA[Mankštos kamuolys šunims.]]></long-description>
-    <long-description-ru><![CDATA[Прочный и долговечный тренировочный мяч Gappay в форме футбольного мяча с ручкой предназначен для активных игр, тренировок и мотивации. Благодаря практичной ручке мяч удобно бросать, тянуть и использовать в различных тренировочных упражнениях.<br /> Яркий мяч привлекает внимание собаки и идеально подходит как для щенков, так и для взрослых собак, которые любят движение и игры.<br /><br /> Прочный и высококачественный материал<br /> Удобная прочная ручка для лучшего захвата<br /> Легкий и удобный для бросания<br /> Можно накачивать при необходимости<br /> Яркий цвет обеспечивает хорошую видимость<br /> Диаметр: около 10 см<br /> Вес: около 130 г<br /> Цвет: желтый<br /><br /> Благодаря ручке игрушку также можно использовать в качестве поощрения — она особенно хорошо подходит для рабочих и спортивных собак.<br /><br /> <strong>Важно:</strong> Игрушка не предназначена для самостоятельного жевания. Мы рекомендуем использовать продукт только под присмотром, чтобы обеспечить более длительный срок его службы и безопасность собаки.<br /><br /> <strong>Производитель: Gappay</strong><br /> <strong>Импортер: Penner OÜ; Выру 77, Тарту, Эстония; info@penner.ee</strong>]]></long-description-ru>
-    <long-description-lv><![CDATA[Vingrošanas bumba suņiem.]]></long-description-lv>
-    <long-description-ee><![CDATA[Tugev ja vastupidav <strong>Gappay jalgpallikujuline treeningpall sangaga</strong> on loodud aktiivseks mänguks, treeninguks ja motiveerimiseks. Tänu praktilisele sangale on palli mugav visata, tõmmata ja kasutada erinevates treeningharjutustes.<br /> Erksavärviline pall püüab koera tähelepanu ning sobib suurepäraselt nii kutsikatele kui ka täiskasvanud koertele, kes armastavad liikumist ja mängu.<br /><br /> Vastupidav ja kvaliteetne materjal<br /> Mugav tugev sang paremaks haardeks<br /> Kerge ja hästi visatav<br /> Võimalik vastavalt vajadusele juurde pumbata<br /> Erk värv tagab hea nähtavuse<br /> Läbimõõt: ca 10 cm<br /> Kaal: ca 130 g<br /> Värv: kollane<br /><br /> Tänu sangale saab mänguasja kasutada ka preemiavahendina – eriti hästi toimib see töö- ja spordikoertega.<br /><br /> <strong>Oluline:</strong> Mänguasi ei ole mõeldud iseseisvaks närimiseks. Soovitame kasutada ainult järelvalve all, et tagada toote pikem eluiga ja koera ohutus.<br /><br /> <strong>Tootja: Gappay</strong><br /> <strong>Maaletooja: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee</strong>]]></long-description-ee>
-    <long-description-fi><![CDATA[Vahva ja kestävä <strong>Gappayn jalkapallon muotoinen harjoituspallo kahvalla</strong> on suunniteltu aktiiviseen leikkiin, harjoitteluun ja motivointiin. Käytännöllisen kahvan ansiosta palloa on helppo heittää, vetää ja käyttää erilaisissa harjoituksissa.<br /> Kirkkaanvärinen pallo kiinnittää koiran huomion ja sopii täydellisesti sekä pennuille että aikuisille koirille, jotka rakastavat liikettä ja leikkiä.<br /><br /> Kestävä ja korkealaatuinen materiaali<br /> Mukava vahva kahva paremman otteen takaamiseksi<br /> Kevyt ja helppo heittää<br /> Voidaan pumpata tarpeen mukaan<br /> Kirkas väri varmistaa hyvän näkyvyyden<br /> Halkaisija: noin 10 cm<br /> Paino: noin 130 g<br /> Väri: keltainen<br /><br /> Kahvan ansiosta lelua voidaan käyttää myös palkintona - se toimii erityisen hyvin työ- ja urheilukoirien kanssa.<br /><br /> <strong>Tärkeää:</strong> Lelua ei ole tarkoitettu itsenäiseen pureskeluun. Suosittelemme käyttöä vain valvonnassa tuotteen pidemmän käyttöiän ja koiran turvallisuuden varmistamiseksi.<br /><br /> <strong>Valmistaja: Gappay</strong><br /> <strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[The strong and durable <strong>Gappay football-shaped training ball with handle</strong> is designed for active play, training and motivation. Thanks to the practical handle, the ball is convenient to throw, pull and use in various training exercises.<br /> The brightly colored ball catches the dog's attention and is perfect for both puppies and adult dogs who love movement and play.<br /><br /> Durable and high-quality material<br /> Comfortable strong handle for better grip<br /> Lightweight and easy to throw<br /> Can be pumped up as needed<br /> Bright color ensures good visibility<br /> Diameter: approx. 10 cm<br /> Weight: approx. 130 g<br /> Color: yellow<br /><br /> Thanks to the handle, the toy can also be used as a reward tool - it works especially well with working and sporting dogs.<br /><br /> <strong>Important:</strong> The toy is not intended for independent chewing. We recommend using only under supervision to ensure a longer product life and the safety of the dog.<br /><br /> <strong>Manufacturer: Gappay</strong><br /> <strong>Importer: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee</strong>]]></long-description-en>
-    <manufacturer-name><![CDATA[Gappay]]></manufacturer-name>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[GAPPAY]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.1]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/gappay-nahast-pall-kollane.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.1</weight>
-            <length>0.001</length>
-            <height>0.1</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[8595633396597]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[0741N]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10400</category-id>
-    <category-name><![CDATA[Dog training products]]></category-name>
     <title><![CDATA[Gappay Kandimo Pelė, Oda, Su Dviem Rankenomis 3x25cm]]></title>
     <title-ru><![CDATA[Gappay Ухватка, кожа, две ручки 3x25см]]></title-ru>
     <title-lv><![CDATA[Gappay Vilkšanas Treniņu Aksesuārs, Āda, Ar Diviem Rokturiem 3x25cm]]></title-lv>
@@ -87823,58 +88113,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
                 <barcode><![CDATA[8595633388097]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[0724]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10400</category-id>
-    <category-name><![CDATA[Dog training products]]></category-name>
-    <title><![CDATA[Gappay mankštos kamuolys su rankena, geltonas, ilgis 16 cm]]></title>
-    <title-ru><![CDATA[Gappay Тренировочный мяч с ручкой, жёлтый 16см]]></title-ru>
-    <title-lv><![CDATA[Gappay vingrošanas bumba ar rokturi, dzeltena, L 16cm]]></title-lv>
-    <title-ee><![CDATA[Gappay Sangaga Treeningpall, Kollane L 16cm]]></title-ee>
-    <title-fi><![CDATA[Gappay Jumppapallo Kahvalla, Keltainen L 16cm]]></title-fi>
-    <title-en><![CDATA[Gappay Training Ball with Handle, Yellow 16cm]]></title-en>
-    <long-description><![CDATA[Mankštos kamuolys šunims.]]></long-description>
-    <long-description-ru><![CDATA[Прочный и долговечный тренировочный мяч Gappay в форме футбольного мяча с ручкой предназначен для активных игр, тренировок и мотивации. Благодаря удобной ручке мяч удобно бросать, тянуть и использовать в различных тренировочных упражнениях.<br /> Яркий мяч привлекает внимание собаки и идеально подходит как для щенков, так и для взрослых собак, которые любят движение и игры.<br /><br /> Прочный и высококачественный материал<br /> Удобная прочная ручка для лучшего захвата<br /> Легкий и удобный для бросания<br /> Можно накачивать при необходимости<br /> Яркий цвет обеспечивает хорошую видимость<br /> Диаметр: около 16 см<br /> Вес: около 200 г<br /> Цвет: желтый<br /><br /> Благодаря ручке игрушку также можно использовать в качестве поощрения — она особенно хорошо подходит для рабочих и спортивных собак.<br /><br /> <strong>Важно:</strong> Игрушка не предназначена для самостоятельного жевания. Мы рекомендуем использовать продукт только под присмотром, чтобы обеспечить более длительный срок его службы и безопасность собаки.<br /><br /> <strong>Производитель: Gappay</strong><br /> <strong>Импортер: Penner OÜ; Выру 77, Тарту, Эстония; info@penner.ee</strong>]]></long-description-ru>
-    <long-description-lv><![CDATA[Vingrošanas bumba suņiem.]]></long-description-lv>
-    <long-description-ee><![CDATA[Tugev ja vastupidav <strong>Gappay jalgpallikujuline treeningpall sangaga</strong> on loodud aktiivseks mänguks, treeninguks ja motiveerimiseks. Tänu praktilisele sangale on palli mugav visata, tõmmata ja kasutada erinevates treeningharjutustes.<br /> Erksavärviline pall püüab koera tähelepanu ning sobib suurepäraselt nii kutsikatele kui ka täiskasvanud koertele, kes armastavad liikumist ja mängu.<br /><br /> Vastupidav ja kvaliteetne materjal<br /> Mugav tugev sang paremaks haardeks<br /> Kerge ja hästi visatav<br /> Võimalik vastavalt vajadusele juurde pumbata<br /> Erk värv tagab hea nähtavuse<br /> Läbimõõt: ca 16 cm<br /> Kaal: ca 200 g<br /> Värv: kollane<br /><br /> Tänu sangale saab mänguasja kasutada ka preemiavahendina – eriti hästi toimib see töö- ja spordikoertega.<br /><br /> <strong>Oluline:</strong> Mänguasi ei ole mõeldud iseseisvaks närimiseks. Soovitame kasutada ainult järelvalve all, et tagada toote pikem eluiga ja koera ohutus.<br /><br /> <strong>Tootja: Gappay</strong><br /> <strong>Maaletooja: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee</strong>]]></long-description-ee>
-    <long-description-fi><![CDATA[Vahva ja kestävä<strong>Gappayn jalkapallon muotoinen harjoituspallo kahvalla</strong> on suunniteltu aktiiviseen leikkiin, harjoitteluun ja motivointiin. Käytännöllisen kahvan ansiosta palloa on helppo heittää, hakea ja käyttää erilaisissa harjoituksissa.<br /> Kirkkaanvärinen pallo kiinnittää koiran huomion ja sopii täydellisesti sekä pennuille että aikuisille koirille, jotka rakastavat liikettä ja leikkiä.<br /><br /> Kestävä ja korkealaatuinen materiaali<br /> Mukava vahva kahva paremman otteen takaamiseksi<br /> Kevyt ja helppo heittää<br /> Voidaan pumpata tarpeen mukaan<br /> Kirkas väri varmistaa hyvän näkyvyyden<br /> Halkaisija: noin 16 cm<br /> Paino: noin 200 g<br /> Väri: keltainen<br /><br /> Kahvan ansiosta lelua voidaan käyttää myös palkitsemisvälineenä - se toimii erityisen hyvin työ- ja urheilukoirien kanssa.<br /><br /> <strong>Tärkeää:</strong> Lelua ei ole tarkoitettu itsenäiseen pureskeluun. Suosittelemme käyttöä vain valvonnassa tuotteen pidemmän käyttöiän ja koiran turvallisuuden varmistamiseksi.<br /><br /> <strong>Valmistaja:Gappay</strong><br /> <strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartto, Viro;info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[The strong and durable <strong>Gappay football-shaped training ball with handle</strong> is designed for active play, training and motivation. Thanks to the practical handle, the ball is convenient to throw, pull and use in various training exercises.<br /> The brightly colored ball catches the dog's attention and is perfect for both puppies and adult dogs who love movement and play.<br /><br /> Durable and high-quality material<br /> Comfortable strong handle for better grip<br /> Lightweight and easy to throw<br /> Can be pumped up as needed<br /> Bright color ensures good visibility<br /> Diameter: approx. 16 cm<br /> Weight: approx. 200 g<br /> Color: yellow<br /><br /> Thanks to the handle, the toy can also be used as a reward tool - it works especially well with working and sporting dogs.<br /><br /> <strong>Important:</strong> The toy is not intended for independent chewing. We recommend using only under supervision to ensure a longer product life and the safety of the dog.<br /><br /> <strong>Manufacturer: Gappay</strong><br /> <strong>Importer: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee</strong>]]></long-description-en>
-    <manufacturer-name><![CDATA[Gappay]]></manufacturer-name>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[GAPPAY]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.21]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/gappay-nahast-pall-kollane-L.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.21</weight>
-            <length>0.001</length>
-            <height>0.1</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[8595633342785]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[0742N]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -95038,140 +95276,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
                 <barcode><![CDATA[815260002998]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[FG00019]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10490</category-id>
-    <category-name><![CDATA[Wet/canned cat food]]></category-name>
-    <title><![CDATA[Primal Spirit Salmon kačių pašaras (Iberijos kiauliena ir lašiša) 1 kg]]></title>
-    <title-ru><![CDATA[Primal Spirit Salmon корм для кошек (иберийская свинина и лосось) 1 кг]]></title-ru>
-    <title-lv><![CDATA[Primal Spirit Salmon kaķu barība (Ibērijas cūkgaļa un lasis) 1 kg]]></title-lv>
-    <title-ee><![CDATA[Primal Spirit Salmon Kassitoit (Ibeeria Sealiha ja Lõhega) 1kg]]></title-ee>
-    <title-fi><![CDATA[Primal Spirit Salmon -kissanruoka (iberialainen sianliha ja lohi) 1 kg]]></title-fi>
-    <title-en><![CDATA[Primal Spirit Salmon Cat Food (Iberian Pork and Salmon) 1 kg]]></title-en>
-    <long-description><![CDATA[Primal Spirit Iberian Pork & Salmon pusiau drėgnas kačių pašaras yra šaltojo spaudimo visavertis pašaras sterilizuotoms ir antsvorio turinčioms katėms, su 75 % šviežios kiaulienos ir lašišos. Be glitimo, mėsos miltų ir priedų.]]></long-description>
-    <long-description-ru><![CDATA[Полувлажный корм для кошек Primal Spirit Iberian Pork & Salmon изготовлен на 75% из свежих ингредиентов.<br /><br /> Полнорационный корм холодного прессования для стерилизованных кошек и кошек с избыточным весом.<br /> При холодном прессовании корм формуется в гранулы при температурах ниже, чем при обычном прессовании. Так сохраняется больше питательных веществ, а вкус корма остаётся более натуральным.<br /> Корм холодного прессования наиболее близок к сырому питанию и подходит для использования параллельно с сырым кормом.<br /> Без глютена, не содержит мясной муки, ароматизаторов и красителей.<br /><br /> <strong>СОСТАВ</strong>: 49% свежей свинины, 26% свежего лосося, рис (белый), молотая свёкла, пивные дрожжи, куркума, 0,2% таурина, 0,01% L-карнитина<br /> <strong>АНАЛИТИЧЕСКИЕ КОМПОНЕНТЫ</strong>: сырой протеин 33%, сырой жир 13%, сырая клетчатка 4,8%, сырая зола 6%, влажность 18%<br /> <strong>РЕКОМЕНДАЦИИ ПО КОРМЛЕНИЮ</strong>: рекомендуемую суточную норму смотрите в таблице на упаковке.<br /><br /> Всегда обеспечивайте доступ к свежей воде. Хранить в сухом прохладном месте, защищённом от прямых солнечных лучей.<br /><br /> Важно! Поскольку это полувлажный корм, рекомендуем давать его небольшими порциями, чтобы он не засыхал в миске.<br /><br /> Полнорационный корм<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ</strong>: Amigüitos Pets and Life S.A., Испания<br /> <strong>Импортёр</strong>: Penner OÜ; Võru 77, Tartu, Эстония; info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Primal Spirit Iberian Pork & Salmon pusmitrā kaķu barība ir aukstā presēšanā ražota pilnvērtīga barība sterilizētiem kaķiem un kaķiem ar lieko svaru, ar 75% svaigas cūkgaļas un laša. Bez glutēna, gaļas miltiem un piedevām.]]></long-description-lv>
-    <long-description-ee><![CDATA[Primal Spirit Iberian Pork & Salmon poolmärg kassitoit on valmistatud 75% värsketest koostisosadest.<br /><br /> Külmpressitud täissööt steriliseeritud ja ülekaalulistele kassidele.<br /> Külmpressi puhul vormitakse graanuliteks temperatuuridel, mis jäävad pressimisprotseduurist madalamaks. Nii säilib suurem toiteväärtus ning toit on naturaalsema maitsega.<br /> Külmpressitud toit on kõige lähemal toortoidule ning sobib kasutamiseks paralleelselt toortoiduga.<br /> Gluteenivaba, ei sisalda lihajahu ega lõhna- ja värvaineid.<br /><br /> <strong>KOOSTIS</strong>: 49% värske sealiha, 26% värske lõhe, riis (valge) , jahvatatud peet, õllepärm, kurkum, 0,2% tauriin, 0,01% L-karnitiin<br /> <strong>ANALÜÜS</strong>: Toorproteiin 33%, Toorrasv 13%, Toorkiud 4,8%, Toortuhk 6%, Niiskus 18%<br /> <strong>TOITMISSOOVITUS</strong>: soovitatav päevanorm vaata pakendil olevast tabelist.<br /><br /> Värske vesi hoida alati saadaval. Säilitada kuivas ja jahedas, kaitstuna otsese päikese eest.<br /><br /> NB! Kuna tegu on poolniiske toiduga, soovitame serveerida korraga väikestes kogustes, et toit kausis ära ei kuivaks.<br /><br /> Täissööt<br /><br /> <strong>TOOTJA</strong>: Amigüitos Pets and Life S.A. / Hispaania<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Primal Spirit Iberian Pork & Salmon puolikostea kissanruoka on valmistettu 75 %:sti tuoreista ainesosista.<br /><br /> Kylmäpuristettu täysravinto steriloiduille ja ylipainoisille kissoille.<br /> Kylmäpuristuksessa ruoka muotoillaan nappuloiksi puristusprosessia matalammissa lämpötiloissa. Näin ravintoarvo säilyy paremmin ja ruoan maku on luonnollisempi.<br /> Kylmäpuristettu ruoka on lähimpänä raakaruokaa ja sopii käytettäväksi raakaruokinnan rinnalla.<br /> Gluteeniton, ei sisällä lihajauhoja eikä aromi- tai väriaineita.<br /><br /> <strong>KOOSTUMUS</strong>: 49 % tuoretta sianlihaa, 26 % tuoretta lohta, riisi (valkoinen), jauhettu juurikas, panimohiiva, kurkuma, 0,2 % tauriinia, 0,01 % L-karnitiinia<br /> <strong>ANALYYTTISET AINESOSAT</strong>: raakavalkuainen 33 %, raakarasva 13 %, raakakuitu 4,8 %, raakatuhka 6 %, kosteus 18 %<br /> <strong>RUOKINTASUOSITUS</strong>: suositeltu päiväannos löytyy pakkauksen taulukosta.<br /><br /> Pidä raikasta vettä aina saatavilla. Säilytä kuivassa ja viileässä paikassa, suojassa suoralta auringonvalolta.<br /><br /> Huom! Koska kyseessä on puolikostea ruoka, suosittelemme tarjoamaan kerralla pieniä määriä, jotta ruoka ei kuivu kupissa.<br /><br /> Täysravinto<br /><br /> <strong>VALMISTAJA</strong>: Amigüitos Pets and Life S.A., Espanja<br /> <strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartu, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[Primal Spirit Iberian Pork & Salmon semi-moist cat food is made with 75% fresh ingredients.<br /><br /> Cold-pressed complete food for sterilised and overweight cats.<br /> In cold pressing, the food is formed into kibble at temperatures lower than in the pressing process. This preserves more nutritional value and gives the food a more natural taste.<br /> Cold-pressed food is the closest to raw food and can be used alongside raw feeding.<br /> Gluten-free, contains no meat meal, flavourings or colourings.<br /><br /> <strong>COMPOSITION</strong>: 49% fresh pork, 26% fresh salmon, rice (white), ground beet, brewer's yeast, turmeric, 0.2% taurine, 0.01% L-carnitine<br /> <strong>ANALYTICAL CONSTITUENTS</strong>: crude protein 33%, crude fat 13%, crude fibre 4.8%, crude ash 6%, moisture 18%<br /> <strong>FEEDING RECOMMENDATION</strong>: see the table on the packaging for the recommended daily amount.<br /><br /> Always keep fresh water available. Store in a cool, dry place, protected from direct sunlight.<br /><br /> NB! As this is a semi-moist food, we recommend serving small amounts at a time so the food does not dry out in the bowl.<br /><br /> Complete food<br /><br /> <strong>MANUFACTURER</strong>: Amigüitos Pets and Life S.A., Spain<br /> <strong>Importer</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[AMIGÜITOS PETS & LIFE S.A; Pol. Industrial Saprelorca]]></manufacturer-name>
-    <manufacturer-address><![CDATA[parcela G1, Calle Río Segura, 30817;]]></manufacturer-address>
-    <manufacturer-email><![CDATA[support@aspiritpetfood.com]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[PRIMAL SPIRIT]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[1.1]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Looma vanus]]></id>
-        <values>
-          <value><![CDATA[Erinevatele vanustele]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Eriomadus]]></id>
-        <values>
-          <value><![CDATA[Kõigile kassidele]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Primal_Spirit_Iberian_Salmon_Kassitoit__Lohega__1kg.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>1.1</weight>
-            <length>0.065</length>
-            <height>0.24</height>
-            <width>0.145</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[8436586311469]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[IBERC010300914]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10490</category-id>
-    <category-name><![CDATA[Wet/canned cat food]]></category-name>
-    <title><![CDATA[Primal Spirit Sardine kačių pašaras (Iberijos kiauliena ir sardinės) 1 kg]]></title>
-    <title-ru><![CDATA[Primal Spirit Sardine корм для кошек (иберийская свинина и сардины) 1 кг]]></title-ru>
-    <title-lv><![CDATA[Primal Spirit Sardine kaķu barība (Ibērijas cūkgaļa un sardīnes) 1 kg]]></title-lv>
-    <title-ee><![CDATA[Primal Spirit Sardine Kassitoit (Ibeeria Sealiha ja Sardiinid) 1kg]]></title-ee>
-    <title-fi><![CDATA[Primal Spirit Sardine -kissanruoka (iberialainen sianliha ja sardiinit) 1 kg]]></title-fi>
-    <title-en><![CDATA[Primal Spirit Sardine Cat Food (Iberian Pork and Sardines) 1 kg]]></title-en>
-    <long-description><![CDATA[Primal Spirit Iberian Pork & Sardine pusiau drėgnas kačių pašaras yra šaltojo spaudimo visavertis pašaras suaugusioms katėms su šviežia kiauliena ir sardinėmis. Be glitimo, mėsos miltų ir priedų.]]></long-description>
-    <long-description-ru><![CDATA[Полнорационный корм холодного прессования для взрослых кошек с иберийской свининой и сардинами.<br /><br /> При холодном прессовании свежее мясо формуется в гранулы при температурах ниже, чем при обычном прессовании. Так сохраняется больше питательных веществ, а вкус корма остаётся более натуральным.<br /> Корм холодного прессования наиболее близок к сырому питанию и подходит для использования параллельно с сырым кормом.<br /> Без глютена, не содержит мясной муки, ароматизаторов и красителей.<br /><br /> <strong>СОСТАВ</strong>: 49% свежей свинины, 26% свежей сардины, рис, молотая свёкла, пивные дрожжи, куркума, 0,2% таурина, 0,01% L-карнитина.<br /> <strong>АНАЛИТИЧЕСКИЕ КОМПОНЕНТЫ:</strong> сырой протеин 32%, сырая клетчатка 2,2%, сырой жир 14%, сырая зола 5%, влажность 18%, кальций 1,6%, фосфор 0,9%.<br /> <strong>ОБМЕННАЯ ЭНЕРГИЯ НА КГ:</strong> 3440 ккал<br /><br /> <strong>РЕКОМЕНДАЦИИ ПО КОРМЛЕНИЮ</strong>: рекомендуемую суточную норму смотрите в таблице на упаковке.<br /><br /> Всегда обеспечивайте доступ к свежей воде. Хранить в сухом прохладном месте, защищённом от прямых солнечных лучей.<br /><br /> Важно! Поскольку это полувлажный корм, рекомендуем давать его небольшими порциями, чтобы он не засыхал в миске.<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ</strong>: Amigüitos Pets and Life S.A., Испания<br /> <strong>Импортёр</strong>: Penner OÜ; Võru 77, Tartu, Эстония; info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Primal Spirit Iberian Pork & Sardine pusmitrā kaķu barība ir aukstā presēšanā ražota pilnvērtīga barība pieaugušiem kaķiem ar svaigu cūkgaļu un sardīnēm. Bez glutēna, gaļas miltiem un piedevām.]]></long-description-lv>
-    <long-description-ee><![CDATA[Külmpressitud täissööt täiskasvanud kassidele ibeeria sealiha ja sardiinidega.<br /><br /> Külmpressi puhul vormitakse värske liha graanuliteks temperatuuridel, mis jäävad pressimisprotseduurist madalamaks. Nii säilib suurem toiteväärtus ning toit on naturaalsema maitsega.<br /> Külmpressitud toit on kõige lähemal toortoidule ning sobib kasutamiseks paralleelselt toortoiduga.<br /> Gluteenivaba, ei sisalda lihajahu ega lõhna- ja värvaineid.<br /><br /> <strong>KOOSTIS</strong>: 49% värske sealiha, 26 % värske sardiin, riis, jahvatatud peet, õllepärm, kurkum, 0.2% tauriin, 0.01% L-karnitiin.<br /> <strong>Analüütiline koostis:</strong> toorvalk 32%, toorkiud 2,2%, toorrasv 14%, toortuhk 5%, niiskus 18%, kaltsium 1.6%, fosfor 0.9%.<br /> <strong>METABOLISEERUV ENERGIA KG KOHTA:</strong> 3440kcal<br /><br /> <strong>TOITMISSOOVITUS:</strong> soovitatav päevanorm vaata pakendil olevast tabelist.<br /><br /> Värske vesi hoida alati saadaval. Säilitada kuivas ja jahedas, kaitstuna otsese päikese eest.<br /><br /> NB! Kuna tegu on poolniiske toiduga, soovitame serveerida korraga väikestes kogustes, et toit kausis ära ei kuivaks.<br /><br /> <strong>TOOTJA</strong>: Amigüitos Pets and Life S.A. / Hispaania<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Kylmäpuristettu täysravinto aikuisille kissoille iberialaisella sianlihalla ja sardiineilla.<br /><br /> Kylmäpuristuksessa tuore liha muotoillaan nappuloiksi puristusprosessia matalammissa lämpötiloissa. Näin ravintoarvo säilyy paremmin ja ruoan maku on luonnollisempi.<br /> Kylmäpuristettu ruoka on lähimpänä raakaruokaa ja sopii käytettäväksi raakaruokinnan rinnalla.<br /> Gluteeniton, ei sisällä lihajauhoja eikä aromi- tai väriaineita.<br /><br /> <strong>KOOSTUMUS</strong>: 49 % tuoretta sianlihaa, 26 % tuoretta sardiinia, riisi, jauhettu juurikas, panimohiiva, kurkuma, 0,2 % tauriinia, 0,01 % L-karnitiinia.<br /> <strong>ANALYYTTISET AINESOSAT:</strong> raakavalkuainen 32 %, raakakuitu 2,2 %, raakarasva 14 %, raakatuhka 5 %, kosteus 18 %, kalsium 1,6 %, fosfori 0,9 %.<br /> <strong>MUUNTOKELPOINEN ENERGIA KILOA KOHDEN:</strong> 3440 kcal<br /><br /> <strong>RUOKINTASUOSITUS</strong>: suositeltu päiväannos löytyy pakkauksen taulukosta.<br /><br /> Pidä raikasta vettä aina saatavilla. Säilytä kuivassa ja viileässä paikassa, suojassa suoralta auringonvalolta.<br /><br /> Huom! Koska kyseessä on puolikostea ruoka, suosittelemme tarjoamaan kerralla pieniä määriä, jotta ruoka ei kuivu kupissa.<br /><br /> <strong>VALMISTAJA</strong>: Amigüitos Pets and Life S.A., Espanja<br /> <strong>Maahantuoja</strong>: Penner OÜ; Võru 77, Tartu, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[Cold-pressed complete food for adult cats with Iberian pork and sardines.<br /><br /> In cold pressing, fresh meat is formed into kibble at temperatures lower than in the pressing process. This preserves more nutritional value and gives the food a more natural taste.<br /> Cold-pressed food is the closest to raw food and can be used alongside raw feeding.<br /> Gluten-free, contains no meat meal, flavourings or colourings.<br /><br /> <strong>COMPOSITION</strong>: 49% fresh pork, 26% fresh sardine, rice, ground beet, brewer's yeast, turmeric, 0.2% taurine, 0.01% L-carnitine.<br /> <strong>ANALYTICAL CONSTITUENTS:</strong> crude protein 32%, crude fibre 2.2%, crude fat 14%, crude ash 5%, moisture 18%, calcium 1.6%, phosphorus 0.9%.<br /> <strong>METABOLISABLE ENERGY PER KG:</strong> 3440 kcal<br /><br /> <strong>FEEDING RECOMMENDATION</strong>: see the table on the packaging for the recommended daily amount.<br /><br /> Always keep fresh water available. Store in a cool, dry place, protected from direct sunlight.<br /><br /> NB! As this is a semi-moist food, we recommend serving small amounts at a time so the food does not dry out in the bowl.<br /><br /> <strong>MANUFACTURER</strong>: Amigüitos Pets and Life S.A., Spain<br /> <strong>Importer</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <composition><![CDATA[toorvalk 32%, toorkiud 2,2%, toorrasv 14%, toortuhk 5%, niiskus 18%, kaltsium 1.6%, fosfor 0.9%.]]></composition>
-    <composition-ee><![CDATA[toorvalk 32%, toorkiud 2,2%, toorrasv 14%, toortuhk 5%, niiskus 18%, kaltsium 1.6%, fosfor 0.9%.]]></composition-ee>
-    <manufacturer-name><![CDATA[AMIGÜITOS PETS & LIFE S.A; Pol. Industrial Saprelorca]]></manufacturer-name>
-    <manufacturer-address><![CDATA[parcela G1, Calle Río Segura, 30817;]]></manufacturer-address>
-    <manufacturer-email><![CDATA[support@aspiritpetfood.com]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[PRIMAL SPIRIT]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[1.1]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Looma vanus]]></id>
-        <values>
-          <value><![CDATA[Erinevatele vanustele]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Eriomadus]]></id>
-        <values>
-          <value><![CDATA[Kõigile kassidele]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Primal_Spirit_Iberian_Sardine_Kassitoit_1kg.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>1.1</weight>
-            <length>0.065</length>
-            <height>0.24</height>
-            <width>0.145</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[8436586311476]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[IBERC010301614]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
