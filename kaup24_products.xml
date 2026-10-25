@@ -1,6 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
+    <category-id>21813</category-id>
+    <category-name><![CDATA[Leashes for dogs]]></category-name>
+    <title><![CDATA[Flexi XS New Classic virvė, mėlyna, 3 m - 8 kg]]></title>
+    <title-ru><![CDATA[FLEXI Рулетка New Classic XS трос 3м, 8кг]]></title-ru>
+    <title-lv><![CDATA[Flexi XS New Classic, zila virve 3m - 8kg]]></title-lv>
+    <title-ee><![CDATA[Flexi XS New Classic, Sinine Nöör 3m - 8kg]]></title-ee>
+    <title-fi><![CDATA[Flexi XS New Classic, sininen köysi 3 m - 8 kg]]></title-fi>
+    <title-en><![CDATA[Flexi New Classic XS Blue Cord 3m - 8kg]]></title-en>
+    <long-description><![CDATA[Lankstus pavadėlis.]]></long-description>
+    <long-description-ru><![CDATA[Материал: пластик<br /> Хромированный карабин<br /> Со шнуром<br /> Подходит для животных весом до 8 кг<br /> С кнопочным тормозом<br /><br /> Гибкий]]></long-description-ru>
+    <long-description-lv><![CDATA[Elastīga pavada.]]></long-description-lv>
+    <long-description-ee><![CDATA[Materjal: plastik<br /> Kroomitud karabiin<br /> Nööriga<br /> Sobib lemmikloomadele kaaluga kuni 8kg<br /> Nupppiduriga<br /><br /> Flexi]]></long-description-ee>
+    <long-description-fi><![CDATA[Materiaali: muovi<br /> Kromattu sulkurengas<br /> Narulla<br /> Sopii jopa 8 kg painaville lemmikeille<br /> Painonappijarrulla<br /><br /> Joustava]]></long-description-fi>
+    <long-description-en><![CDATA[Material: plastic<br /> Chrome-plated carabiner<br /> With cord<br /> Suitable for pets weighing up to 8kg<br /> With push-button brake<br /><br /> Flexi]]></long-description-en>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLEXI]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.1]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/flexi-new-classic-Sinine-noor-jalutusrihm-koerale-XS.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.1</weight>
+            <length>0.001</length>
+            <height>0.1</height>
+            <width>0.1</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[4000498022412]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[1033136]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>21813</category-id>
+    <category-name><![CDATA[Leashes for dogs]]></category-name>
+    <title><![CDATA[Flexi XS New Classic virvė, juoda, 3 m - 8 kg]]></title>
+    <title-ru><![CDATA[FLEXI Рулетка New Classic XS трос 3м]]></title-ru>
+    <title-lv><![CDATA[Flexi XS New Classic, melna virve 3m - 8kg]]></title-lv>
+    <title-ee><![CDATA[Flexi XS New Classic, Must Nöör 3m - 8kg]]></title-ee>
+    <title-fi><![CDATA[Flexi XS New Classic, musta köysi 3 m - 8 kg]]></title-fi>
+    <title-en><![CDATA[Flexi New Classic XS Black 3m Cord]]></title-en>
+    <long-description><![CDATA[Pavadėlis šunims, sveriantiems iki 8 kg.]]></long-description>
+    <long-description-ru><![CDATA[Ременные автоматические поводки – прекрасный вариант для ежедневного выгула домашнего любимца, тем более если он отличается особенной активностью. Такой аксессуар не только выдержит большую нагрузку, но также позволит контролировать поведение собаки, корректировать дистанцию между вами и избегать нежелательных встреч с пешеходами и чужими животными.]]></long-description-ru>
+    <long-description-lv><![CDATA[Pavadas suņiem, kuru svars ir līdz 8 kg.]]></long-description-lv>
+    <long-description-ee><![CDATA[Flexi jalutusrihma valimisel tuleb lähtuda koera kaalust – see ei tohi ületada pakendil märgitud maksimaalset kaalu.<br /><br /> Kui koer on väga äkilise temperamendiga või pole teda õpetatud rahulikult kõrval käima ning koer tirib pidevalt, siis võiks Flexi rihma kasutamist vältida.<br /><br /> Flexi rihm ei sobi kutsikale esimeseks jalutusrihmaks, sest selle rihmaga ei õpi kutsikas omanikku jälgima ja tunnetama ning võib harjuda tirima.<br /><br /> Tootja: Flexi-Bogdahn International GmbH]]></long-description-ee>
+    <long-description-fi><![CDATA[Flexi-taluttimen valinnassa on otettava huomioon koiran paino – se ei saa ylittää pakkauksessa ilmoitettua enimmäispainoa.<br /><br /> Jos koiralla on erittäin nopea temperamentti tai sitä ei ole opetettu kävelemään rauhallisesti rinnallasi ja koira vetää jatkuvasti, Flexi-taluttimen käyttöä tulee välttää.<br /><br /> Flexi-talutin ei sovellu pennun ensimmäiseksi taluttimeksi, koska tämän taluttimen kanssa pentu ei opi seuraamaan ja tunnistamaan omistajaa ja saattaa tottua vetämään.<br /><br /> Valmistaja: Flexi-Bogdahn International GmbH]]></long-description-fi>
+    <long-description-en><![CDATA[When choosing a Flexi leash, you should base it on the weight of the dog - it must not exceed the maximum weight indicated on the package.<br /><br /> If the dog has a very quick temper or has not been taught to walk calmly alongside you and the dog constantly pulls, then you should avoid using the Flexi leash.<br /><br /> The Flexi leash is not suitable as a puppy's first leash, because with this leash the puppy will not learn to follow and recognize the owner and may get used to pulling.<br /><br /> Manufacturer: Flexi-Bogdahn International GmbH]]></long-description-en>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLEXI]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.152]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/flexi-new-classic-Must-noor-jalutusrihm-koerale-XS-2.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.152</weight>
+            <length>0.001</length>
+            <height>0.1</height>
+            <width>0.1</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[4000498022429]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[1033137]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10442</category-id>
+    <category-name><![CDATA[Cat leashes, collars, harnesses]]></category-name>
+    <title><![CDATA[Flexi XS New Classic kačių pavadėlis, juodas, 3 m - 8 kg]]></title>
+    <title-ru><![CDATA[FLEXI Рулетка New Classic XS трос 3м, 8кг]]></title-ru>
+    <title-lv><![CDATA[Flexi XS New Classic kaķu pavada, melna, 3m - 8kg]]></title-lv>
+    <title-ee><![CDATA[Flexi XS New Classic Jalutusrihm Kassile, Must Nöör 3m - 8kg]]></title-ee>
+    <title-fi><![CDATA[Flexi XS New Classic kissan musta talutushihna 3m - 8kg]]></title-fi>
+    <title-en><![CDATA[Flexi New Classic XS Black Cord 3m - 8kg]]></title-en>
+    <long-description><![CDATA[„Flexi“ 3 metrų ilgio automatinis katės pavadėlis su stabdymo ir užrakinimo sistema. Tinka katėms, sveriančioms iki 8 kg, juodos spalvos.]]></long-description>
+    <long-description-ru><![CDATA[Этот удобный и практичный автоматический поводок Flexi (поводок на катушке) — отличный выбор для ежедневных прогулок вашей кошки.<br /> Поводок длиной 3 метра дает вашему питомцу достаточно свободы для исследования окрестностей, обеспечивая при этом полный контроль над его движениями.<br /> Поводок оснащен удобной системой торможения и блокировки, а также прочным хромированным карабином.<br /> Изделие предназначено для использования на открытом воздухе и подходит для маленьких кошек весом до 8 кг.<br /><br /> <strong>Особенности:</strong><br /> Функциональность: Удобная кнопка управления с функцией торможения и блокировки обеспечивает лучший контроль над движениями кошки.<br /> Тип: Поводок на катушке<br /> Материалы: Прочный пластиковый корпус и хромированный металлический карабин.<br /> Размеры и ограничения: Длина 3 метра, предназначен для кошек весом до 8 кг (размер XS).<br /> Вес: Легкий и удобный в использовании, Вес изделия составляет приблизительно 100 г.<br /> Цвет: черный.<br /><br /> <strong>Производитель</strong>: Flexi, Германия<br /> <strong>Дистрибьютор</strong>: Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Flexi 3 metru automātiskā kaķu pavada ar bremzēšanas un bloķēšanas sistēmu. Piemērota kaķiem, kuru svars ir līdz 8 kg, krāsa melna.]]></long-description-lv>
+    <long-description-ee><![CDATA[See mugav ja käepärane Flexi automaatne jalutusrihm (rullrihm) on suurepärane valik Sinu kassi igapäevasteks jalutuskäikudeks.<br /> 3 meetri pikkune nöörrihm annab lemmikule piisavalt vabadust ümbruse avastamiseks, tagades samal ajal Sulle täieliku kontrolli tema liikumise üle.<br /> Rihm on varustatud mugava pidurdus- ja lukustussüsteemiga ning tugeva kroomitud karabiiniga.<br /> Toode on mõeldud kasutamiseks välitingimustes ja sobib väikest kasvu kassidele kaaluga kuni 8kg.<br /><br /> <strong>Omadused:</strong><br /> Funktsionaalsus: Mugav juhtnupp koos piduri- ja lukustusfunktsiooniga tagab parema kontrolli kassi liikumise üle.<br /> Tüüp: Nööriga rullrihm<br /> Materjalid: Vastupidavast plastikust korpus ja kroomitud metallist karabiinkinnitus.<br /> Mõõdud ja piirangud: Pikkus 3 meetrit, mõeldud kassidele kaaluga kuni 8 kg (suurus XS).<br /> Kaal: Kerge ja mugav käes hoida, toote kaal on ligikaudu 100 g.<br /> Värvus: Must.<br /><br /> <strong>Tootja</strong>: Flexi, Saksamaa<br /> <strong>Edasimüüja</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Materiaali: muovi<br /> Kromattu sulkurengas<br /> Narulla<br /> Sopii jopa 8 kg painaville lemmikeille<br /> Painonappijarrulla<br /><br /> Joustava]]></long-description-fi>
+    <long-description-en><![CDATA[This comfortable and handy Flexi automatic leash (reel leash) is a great choice for your cat's daily walks.<br /> The 3-meter long cord leash gives your pet enough freedom to explore the surroundings, while ensuring you have full control over its movements.<br /> The leash is equipped with a convenient braking and locking system and a strong chrome-plated carabiner.<br /> The product is designed for outdoor use and is suitable for small cats weighing up to 8 kg.<br /><br /> <strong>Features:</strong><br /> Functionality: A convenient control button with a braking and locking function ensures better control over the cat's movements.<br /> Type: Corded reel leash<br /> Materials: Durable plastic body and chrome-plated metal carabiner fastener.<br /> Dimensions and limitations: Length 3 meters, designed for cats weighing up to 8 kg (size XS).<br /> Weight: Light and comfortable to hold, the product weighs approximately 100 g.<br /> Color: Black.<br /><br /> <strong>Manufacturer</strong>: Flexi, Germany<br /> <strong>Distributor</strong>: Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLEXI]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.1]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/flexi-new-classic-Must-noor-jalutusrihm-koerale-XS.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.1</weight>
+            <length>0.001</length>
+            <height>0.1</height>
+            <width>0.1</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[4000498023426]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[560666]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10442</category-id>
+    <category-name><![CDATA[Cat leashes, collars, harnesses]]></category-name>
+    <title><![CDATA[Flexi XS New Classic katėms skirtas pavadėlis, rožinis, 3 m - 8 kg]]></title>
+    <title-ru><![CDATA[FLEXI Рулетка New Classic XS трос 3м, 8кг]]></title-ru>
+    <title-lv><![CDATA[Flexi XS New Classic kaķu pavada, rozā, 3m - 8kg]]></title-lv>
+    <title-ee><![CDATA[Flexi XS New Classic Kassile Roosa Nöör 3m - 8kg]]></title-ee>
+    <title-fi><![CDATA[Flexi XS New Classic -kissanhihna, pinkki, 3m - 8kg]]></title-fi>
+    <title-en><![CDATA[Flexi New Classic XS Pink Cord 3m - 8kg]]></title-en>
+    <long-description><![CDATA[Lankstus pavadėlis katėms.]]></long-description>
+    <long-description-ru><![CDATA[Материал: пластик<br /> Хромированный карабин<br /> Со шнуром<br /> Подходит для животных весом до 8 кг<br /> С кнопочным тормозом<br /><br /> Гибкий]]></long-description-ru>
+    <long-description-lv><![CDATA[Elastīga pavada kaķiem.]]></long-description-lv>
+    <long-description-ee><![CDATA[Materjal: plastik<br /> Kroomitud karabiin<br /> Nööriga<br /> Sobib lemmikloomadele kaaluga kuni 8kg<br /> Nupppiduriga<br /><br /> Flexi]]></long-description-ee>
+    <long-description-fi><![CDATA[Materiaali: muovi<br /> Kromattu sulkurengas<br /> Narulla<br /> Sopii jopa 8 kg painaville lemmikeille<br /> Painonappijarrulla<br /><br /> Joustava]]></long-description-fi>
+    <long-description-en><![CDATA[Material: plastic<br /> Chrome-plated carabiner<br /> With cord<br /> Suitable for pets weighing up to 8kg<br /> With push-button brake<br /><br /> Flexi]]></long-description-en>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLEXI]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.2]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/flexi-new-classic-roosa-noor-jalutusrihm-koerale-XS.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.2</weight>
+            <length>0.001</length>
+            <height>0.1</height>
+            <width>0.1</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[4000498023433]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[560664]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
     <category-id>10490</category-id>
     <category-name><![CDATA[Wet/canned cat food]]></category-name>
     <title><![CDATA[Primal Spirit Sardine kačių pašaras (Iberijos kiauliena ir sardinės) 1 kg]]></title>
@@ -76752,57 +76956,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
   <product>
     <category-id>10400</category-id>
     <category-name><![CDATA[Dog training products]]></category-name>
-    <title><![CDATA[Petsafe radijo tvoros prailginimo viela 0,5 mm x 100 m + vėliavėlės]]></title>
-    <title-ru><![CDATA[Petsafe, Проволока 0,5мм х 100м + Флажки]]></title-ru>
-    <title-lv><![CDATA[Petsafe radiožoga pagarinātāja vads 0,5 mm x 100 m + karodziņi]]></title-lv>
-    <title-ee><![CDATA[Petsafe Raadiopiirde lisajuhe 0,5mm x 100m + Lipud]]></title-ee>
-    <title-fi><![CDATA[Petsafe-radioaidan jatkojohto 0,5 mm x 100 m + liput]]></title-fi>
-    <title-en><![CDATA[Petsafe Extra Wire 0,5mm x 100m + Flags]]></title-en>
-    <long-description><![CDATA[Raudonas prailginimo laidas „Petsafe“ radijo tvorai]]></long-description>
-    <long-description-ru><![CDATA[Красный удлинительный провод для радиоизгороди Petsafe.<br /> Флажки в комплекте.]]></long-description-ru>
-    <long-description-lv><![CDATA[Sarkans pagarinātāja kabelis Petsafe radio žogam]]></long-description-lv>
-    <long-description-ee><![CDATA[Punane Lisajuhe Petsafe raadiopiirdele.<br /> Komplektis lipud.]]></long-description-ee>
-    <long-description-fi><![CDATA[Punainen jatkojohto Petsafe-radioaitaan.<br /> Liput sisältyvät hintaan.]]></long-description-fi>
-    <long-description-en><![CDATA[Red Extension wire for Petsafe radio fence.<br /> Flags included.]]></long-description-en>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[MUUD]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.3]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Petsafe-Raadiopiirde-lisajuhe.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.3</weight>
-            <length>0.001</length>
-            <height>0.1</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5901854403724]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[JUHE]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10400</category-id>
-    <category-name><![CDATA[Dog training products]]></category-name>
     <title><![CDATA[PetSafe Standard antkaklis nuo lojimo PBC19-10765]]></title>
     <title-ru><![CDATA[PetSafe Standard ошейник антилай PBC19-10765]]></title-ru>
     <title-lv><![CDATA[PetSafe Standard pretriešanas kaklasiksna PBC19-10765]]></title-lv>
@@ -89875,159 +90028,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
   <product>
     <category-id>21813</category-id>
     <category-name><![CDATA[Leashes for dogs]]></category-name>
-    <title><![CDATA[Flexi XS New Classic virvė, mėlyna, 3 m - 8 kg]]></title>
-    <title-ru><![CDATA[FLEXI Рулетка New Classic XS трос 3м, 8кг]]></title-ru>
-    <title-lv><![CDATA[Flexi XS New Classic, zila virve 3m - 8kg]]></title-lv>
-    <title-ee><![CDATA[Flexi XS New Classic, Sinine Nöör 3m - 8kg]]></title-ee>
-    <title-fi><![CDATA[Flexi XS New Classic, sininen köysi 3 m - 8 kg]]></title-fi>
-    <title-en><![CDATA[Flexi New Classic XS Blue Cord 3m - 8kg]]></title-en>
-    <long-description><![CDATA[Lankstus pavadėlis.]]></long-description>
-    <long-description-ru><![CDATA[Материал: пластик<br /> Хромированный карабин<br /> Со шнуром<br /> Подходит для животных весом до 8 кг<br /> С кнопочным тормозом<br /><br /> Гибкий]]></long-description-ru>
-    <long-description-lv><![CDATA[Elastīga pavada.]]></long-description-lv>
-    <long-description-ee><![CDATA[Materjal: plastik<br /> Kroomitud karabiin<br /> Nööriga<br /> Sobib lemmikloomadele kaaluga kuni 8kg<br /> Nupppiduriga<br /><br /> Flexi]]></long-description-ee>
-    <long-description-fi><![CDATA[Materiaali: muovi<br /> Kromattu sulkurengas<br /> Narulla<br /> Sopii jopa 8 kg painaville lemmikeille<br /> Painonappijarrulla<br /><br /> Joustava]]></long-description-fi>
-    <long-description-en><![CDATA[Material: plastic<br /> Chrome-plated carabiner<br /> With cord<br /> Suitable for pets weighing up to 8kg<br /> With push-button brake<br /><br /> Flexi]]></long-description-en>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLEXI]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.1]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/flexi-new-classic-Sinine-noor-jalutusrihm-koerale-XS.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.1</weight>
-            <length>0.001</length>
-            <height>0.1</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[4000498022412]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[1033136]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10442</category-id>
-    <category-name><![CDATA[Cat leashes, collars, harnesses]]></category-name>
-    <title><![CDATA[Flexi XS New Classic kačių pavadėlis, juodas, 3 m - 8 kg]]></title>
-    <title-ru><![CDATA[FLEXI Рулетка New Classic XS трос 3м, 8кг]]></title-ru>
-    <title-lv><![CDATA[Flexi XS New Classic kaķu pavada, melna, 3m - 8kg]]></title-lv>
-    <title-ee><![CDATA[Flexi XS New Classic Jalutusrihm Kassile, Must Nöör 3m - 8kg]]></title-ee>
-    <title-fi><![CDATA[Flexi XS New Classic kissan musta talutushihna 3m - 8kg]]></title-fi>
-    <title-en><![CDATA[Flexi New Classic XS Black Cord 3m - 8kg]]></title-en>
-    <long-description><![CDATA[„Flexi“ 3 metrų ilgio automatinis katės pavadėlis su stabdymo ir užrakinimo sistema. Tinka katėms, sveriančioms iki 8 kg, juodos spalvos.]]></long-description>
-    <long-description-ru><![CDATA[Этот удобный и практичный автоматический поводок Flexi (поводок на катушке) — отличный выбор для ежедневных прогулок вашей кошки.<br /> Поводок длиной 3 метра дает вашему питомцу достаточно свободы для исследования окрестностей, обеспечивая при этом полный контроль над его движениями.<br /> Поводок оснащен удобной системой торможения и блокировки, а также прочным хромированным карабином.<br /> Изделие предназначено для использования на открытом воздухе и подходит для маленьких кошек весом до 8 кг.<br /><br /> <strong>Особенности:</strong><br /> Функциональность: Удобная кнопка управления с функцией торможения и блокировки обеспечивает лучший контроль над движениями кошки.<br /> Тип: Поводок на катушке<br /> Материалы: Прочный пластиковый корпус и хромированный металлический карабин.<br /> Размеры и ограничения: Длина 3 метра, предназначен для кошек весом до 8 кг (размер XS).<br /> Вес: Легкий и удобный в использовании, Вес изделия составляет приблизительно 100 г.<br /> Цвет: черный.<br /><br /> <strong>Производитель</strong>: Flexi, Германия<br /> <strong>Дистрибьютор</strong>: Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Flexi 3 metru automātiskā kaķu pavada ar bremzēšanas un bloķēšanas sistēmu. Piemērota kaķiem, kuru svars ir līdz 8 kg, krāsa melna.]]></long-description-lv>
-    <long-description-ee><![CDATA[See mugav ja käepärane Flexi automaatne jalutusrihm (rullrihm) on suurepärane valik Sinu kassi igapäevasteks jalutuskäikudeks.<br /> 3 meetri pikkune nöörrihm annab lemmikule piisavalt vabadust ümbruse avastamiseks, tagades samal ajal Sulle täieliku kontrolli tema liikumise üle.<br /> Rihm on varustatud mugava pidurdus- ja lukustussüsteemiga ning tugeva kroomitud karabiiniga.<br /> Toode on mõeldud kasutamiseks välitingimustes ja sobib väikest kasvu kassidele kaaluga kuni 8kg.<br /><br /> <strong>Omadused:</strong><br /> Funktsionaalsus: Mugav juhtnupp koos piduri- ja lukustusfunktsiooniga tagab parema kontrolli kassi liikumise üle.<br /> Tüüp: Nööriga rullrihm<br /> Materjalid: Vastupidavast plastikust korpus ja kroomitud metallist karabiinkinnitus.<br /> Mõõdud ja piirangud: Pikkus 3 meetrit, mõeldud kassidele kaaluga kuni 8 kg (suurus XS).<br /> Kaal: Kerge ja mugav käes hoida, toote kaal on ligikaudu 100 g.<br /> Värvus: Must.<br /><br /> <strong>Tootja</strong>: Flexi, Saksamaa<br /> <strong>Edasimüüja</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Materiaali: muovi<br /> Kromattu sulkurengas<br /> Narulla<br /> Sopii jopa 8 kg painaville lemmikeille<br /> Painonappijarrulla<br /><br /> Joustava]]></long-description-fi>
-    <long-description-en><![CDATA[This comfortable and handy Flexi automatic leash (reel leash) is a great choice for your cat's daily walks.<br /> The 3-meter long cord leash gives your pet enough freedom to explore the surroundings, while ensuring you have full control over its movements.<br /> The leash is equipped with a convenient braking and locking system and a strong chrome-plated carabiner.<br /> The product is designed for outdoor use and is suitable for small cats weighing up to 8 kg.<br /><br /> <strong>Features:</strong><br /> Functionality: A convenient control button with a braking and locking function ensures better control over the cat's movements.<br /> Type: Corded reel leash<br /> Materials: Durable plastic body and chrome-plated metal carabiner fastener.<br /> Dimensions and limitations: Length 3 meters, designed for cats weighing up to 8 kg (size XS).<br /> Weight: Light and comfortable to hold, the product weighs approximately 100 g.<br /> Color: Black.<br /><br /> <strong>Manufacturer</strong>: Flexi, Germany<br /> <strong>Distributor</strong>: Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLEXI]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.1]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/flexi-new-classic-Must-noor-jalutusrihm-koerale-XS.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.1</weight>
-            <length>0.001</length>
-            <height>0.1</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[4000498023426]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[560666]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>21813</category-id>
-    <category-name><![CDATA[Leashes for dogs]]></category-name>
-    <title><![CDATA[Flexi XS New Classic virvė, juoda, 3 m - 8 kg]]></title>
-    <title-ru><![CDATA[FLEXI Рулетка New Classic XS трос 3м]]></title-ru>
-    <title-lv><![CDATA[Flexi XS New Classic, melna virve 3m - 8kg]]></title-lv>
-    <title-ee><![CDATA[Flexi XS New Classic, Must Nöör 3m - 8kg]]></title-ee>
-    <title-fi><![CDATA[Flexi XS New Classic, musta köysi 3 m - 8 kg]]></title-fi>
-    <title-en><![CDATA[Flexi New Classic XS Black 3m Cord]]></title-en>
-    <long-description><![CDATA[Pavadėlis šunims, sveriantiems iki 8 kg.]]></long-description>
-    <long-description-ru><![CDATA[Ременные автоматические поводки – прекрасный вариант для ежедневного выгула домашнего любимца, тем более если он отличается особенной активностью. Такой аксессуар не только выдержит большую нагрузку, но также позволит контролировать поведение собаки, корректировать дистанцию между вами и избегать нежелательных встреч с пешеходами и чужими животными.]]></long-description-ru>
-    <long-description-lv><![CDATA[Pavadas suņiem, kuru svars ir līdz 8 kg.]]></long-description-lv>
-    <long-description-ee><![CDATA[Flexi jalutusrihma valimisel tuleb lähtuda koera kaalust – see ei tohi ületada pakendil märgitud maksimaalset kaalu.<br /><br /> Kui koer on väga äkilise temperamendiga või pole teda õpetatud rahulikult kõrval käima ning koer tirib pidevalt, siis võiks Flexi rihma kasutamist vältida.<br /><br /> Flexi rihm ei sobi kutsikale esimeseks jalutusrihmaks, sest selle rihmaga ei õpi kutsikas omanikku jälgima ja tunnetama ning võib harjuda tirima.<br /><br /> Tootja: Flexi-Bogdahn International GmbH]]></long-description-ee>
-    <long-description-fi><![CDATA[Flexi-taluttimen valinnassa on otettava huomioon koiran paino – se ei saa ylittää pakkauksessa ilmoitettua enimmäispainoa.<br /><br /> Jos koiralla on erittäin nopea temperamentti tai sitä ei ole opetettu kävelemään rauhallisesti rinnallasi ja koira vetää jatkuvasti, Flexi-taluttimen käyttöä tulee välttää.<br /><br /> Flexi-talutin ei sovellu pennun ensimmäiseksi taluttimeksi, koska tämän taluttimen kanssa pentu ei opi seuraamaan ja tunnistamaan omistajaa ja saattaa tottua vetämään.<br /><br /> Valmistaja: Flexi-Bogdahn International GmbH]]></long-description-fi>
-    <long-description-en><![CDATA[When choosing a Flexi leash, you should base it on the weight of the dog - it must not exceed the maximum weight indicated on the package.<br /><br /> If the dog has a very quick temper or has not been taught to walk calmly alongside you and the dog constantly pulls, then you should avoid using the Flexi leash.<br /><br /> The Flexi leash is not suitable as a puppy's first leash, because with this leash the puppy will not learn to follow and recognize the owner and may get used to pulling.<br /><br /> Manufacturer: Flexi-Bogdahn International GmbH]]></long-description-en>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLEXI]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.152]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/flexi-new-classic-Must-noor-jalutusrihm-koerale-XS-2.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.152</weight>
-            <length>0.001</length>
-            <height>0.1</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[4000498022429]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[1033137]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>21813</category-id>
-    <category-name><![CDATA[Leashes for dogs]]></category-name>
     <title><![CDATA[Flexi XS New Classic raudona virvė 3 m - 8 kg]]></title>
     <title-ru><![CDATA[FLEXI Рулетка New Classic XS трос 3м, 8кг]]></title-ru>
     <title-lv><![CDATA[Flexi XS New Classic sarkana virve 3m - 8kg]]></title-lv>
@@ -90070,57 +90070,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
                 <barcode><![CDATA[4000498022405]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[C5055173]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10442</category-id>
-    <category-name><![CDATA[Cat leashes, collars, harnesses]]></category-name>
-    <title><![CDATA[Flexi XS New Classic katėms skirtas pavadėlis, rožinis, 3 m - 8 kg]]></title>
-    <title-ru><![CDATA[FLEXI Рулетка New Classic XS трос 3м, 8кг]]></title-ru>
-    <title-lv><![CDATA[Flexi XS New Classic kaķu pavada, rozā, 3m - 8kg]]></title-lv>
-    <title-ee><![CDATA[Flexi XS New Classic Kassile Roosa Nöör 3m - 8kg]]></title-ee>
-    <title-fi><![CDATA[Flexi XS New Classic -kissanhihna, pinkki, 3m - 8kg]]></title-fi>
-    <title-en><![CDATA[Flexi New Classic XS Pink Cord 3m - 8kg]]></title-en>
-    <long-description><![CDATA[Lankstus pavadėlis katėms.]]></long-description>
-    <long-description-ru><![CDATA[Материал: пластик<br /> Хромированный карабин<br /> Со шнуром<br /> Подходит для животных весом до 8 кг<br /> С кнопочным тормозом<br /><br /> Гибкий]]></long-description-ru>
-    <long-description-lv><![CDATA[Elastīga pavada kaķiem.]]></long-description-lv>
-    <long-description-ee><![CDATA[Materjal: plastik<br /> Kroomitud karabiin<br /> Nööriga<br /> Sobib lemmikloomadele kaaluga kuni 8kg<br /> Nupppiduriga<br /><br /> Flexi]]></long-description-ee>
-    <long-description-fi><![CDATA[Materiaali: muovi<br /> Kromattu sulkurengas<br /> Narulla<br /> Sopii jopa 8 kg painaville lemmikeille<br /> Painonappijarrulla<br /><br /> Joustava]]></long-description-fi>
-    <long-description-en><![CDATA[Material: plastic<br /> Chrome-plated carabiner<br /> With cord<br /> Suitable for pets weighing up to 8kg<br /> With push-button brake<br /><br /> Flexi]]></long-description-en>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLEXI]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.2]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/flexi-new-classic-roosa-noor-jalutusrihm-koerale-XS.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.2</weight>
-            <length>0.001</length>
-            <height>0.1</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[4000498023433]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[560664]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
