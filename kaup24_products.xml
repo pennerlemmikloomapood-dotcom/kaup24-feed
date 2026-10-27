@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
+    <category-id>10394</category-id>
+    <category-name><![CDATA[Toys for dogs]]></category-name>
+    <title><![CDATA[Croci žaislas šuniui Kalėdų gyvūnėlis 17 cm]]></title>
+    <title-ru><![CDATA[Croci Игрушка для собак "Рождественское животное" 17 см]]></title-ru>
+    <title-lv><![CDATA[Croci suņu rotaļlieta Ziemassvētku dzīvnieks 17 cm]]></title-lv>
+    <title-ee><![CDATA[Croci Mänguasi Koerale X-mas Loomake 17cm]]></title-ee>
+    <title-fi><![CDATA[Croci-koiranlelu Joulueläin 17 cm]]></title-fi>
+    <title-en><![CDATA[Croci X-mas Antlers Dog Toy 17 cm]]></title-en>
+    <long-description><![CDATA[Žaislas šuniui.]]></long-description>
+    <long-description-ru><![CDATA[Отличная мягкая рождественская игрушка, которая подарит вам праздничное настроение во время любимых игр!<br /> Игрушка изготовлена из мягкого плюша и оснащена звуковым сигналом, что делает игру еще веселее.<br /> Рожки изготовлены из прочного материала TPR, который выдерживает активные игры и жевание.<br /><br /> Доступны два разных персонажа на рождественскую тематику - мы отправим случайный выбор.<br /><br /> <strong>Длина</strong>: 17 см<br /><br /> Идеальный подарок для вашей собаки, который принесет радость и счастливые моменты во время праздников!<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ:</strong> Croci SPA, Италия<br /> <strong>ИМПОРТЕР:</strong> Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Rotaļlieta sunim.]]></long-description-lv>
+    <long-description-ee><![CDATA[Vahva ja pehme jõulumänguasi, mis toob pühadetunnet ka sinu lemmiku mänguaega!<br /> Mänguasi on valmistatud <strong>pehmest plüüsist</strong> ja varustatud <strong>piiksuga</strong>, mis muudab mängu veelgi lõbusamaks.<br /> Sarved on valmistatud <strong>tugevast TPR-materjalist</strong>, mis peab vastu ka aktiivsemale mängule ja närimisele.<br /><br /> Saadaval <strong>kaks erinevat jõuluteemalist tegelast</strong> – saadame välja juhuvaliku.<br /><br /> <strong>Pikkus</strong>: 17 cm<br /><br /> Ideaalne kingitus koerale, et tuua pühade ajal mängurõõmu ja rõõmsaid hetki!<br /><br /> <strong>TOOTJA:</strong> Croci SPA, Itaalia<br /> <strong>MAALETOOJA:</strong> Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Hieno ja pehmeä joululelu, joka tuo joulumielen lempileikkeihisi!<br /> Lelu on valmistettu <strong>pehmeästä pehmolelusta</strong> ja varustettu <strong>piippauksella</strong>, mikä tekee pelistä entistä hauskempaa.<br /> Sarvet on valmistettu <strong>vahvasta TPR-materiaalista</strong>, joka kestää entistäkin aktiivisempaa leikkiä ja pureskelua.<br /><br /> Saatavilla <strong>kahdella eri jouluteemaisella hahmolla</strong> – lähetämme satunnaisen valikoima.<br /><br /> <strong>Pituus</strong>: 17 cm<br /><br /> Ihanteellinen lahja koiralle tuomaan iloa ja onnellisia hetkiä lomien aikana!<br /><br /> <strong>VALMISTAJA:</strong>Croci SPA, Italia<br /> <strong>MAAHANTUOJA:</strong>Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[A great and soft Christmas toy that will bring the holiday spirit to your favorite playtime!<br /> The toy is made of <strong>soft plush</strong> and equipped with a <strong>beep</strong>, which makes the game even more fun.<br /> The horns are made of <strong>strong TPR material</strong>, which can withstand even more active play and chewing.<br /><br /> Available in <strong>two different Christmas-themed characters</strong> – we will send a random selection.<br /><br /> <strong>Length</strong>: 17 cm<br /><br /> The ideal gift for a dog to bring joy and happy moments during the holidays!<br /><br /> <strong>MANUFACTURER:</strong> Croci SPA, Italy<br /> <strong>IMPORTER:</strong> Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[Camon & Croci Pet Group S.p.A. / Croci S.p.A.; Corso Italia]]></manufacturer-name>
+    <manufacturer-address><![CDATA[22 – 20122 Milano (MI), Itaalia;]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@croci.net]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[CROCI]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.3]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/X-mas-loomake-Croci-koera-manguasi-A.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/X-mas-loomake-Croci-koera-manguasi-2.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/X-mas-loomake-Croci-koera-manguasi-B.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.3</weight>
+            <length>0.16</length>
+            <height>0.08</height>
+            <width>0.14</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[8023222281936]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[C8073193]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
     <category-id>10400</category-id>
     <category-name><![CDATA[Dog training products]]></category-name>
     <title><![CDATA[Dingo Agility Kandimo Pelė, Elastinga Rankena 8x15cm, Mėlyna]]></title>
@@ -65640,62 +65696,6 @@ Manufacturer: Hundesportprofi B. Klin]]></long-description-en>
                 <barcode><![CDATA[8023222271487]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[C6073148]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10394</category-id>
-    <category-name><![CDATA[Toys for dogs]]></category-name>
-    <title><![CDATA[Croci žaislas šuniui Kalėdų gyvūnėlis 17 cm]]></title>
-    <title-ru><![CDATA[Croci Игрушка для собак "Рождественское животное" 17 см]]></title-ru>
-    <title-lv><![CDATA[Croci suņu rotaļlieta Ziemassvētku dzīvnieks 17 cm]]></title-lv>
-    <title-ee><![CDATA[Croci Mänguasi Koerale X-mas Loomake 17cm]]></title-ee>
-    <title-fi><![CDATA[Croci-koiranlelu Joulueläin 17 cm]]></title-fi>
-    <title-en><![CDATA[Croci X-mas Antlers Dog Toy 17 cm]]></title-en>
-    <long-description><![CDATA[Žaislas šuniui.]]></long-description>
-    <long-description-ru><![CDATA[Отличная мягкая рождественская игрушка, которая подарит вам праздничное настроение во время любимых игр!<br /> Игрушка изготовлена из мягкого плюша и оснащена звуковым сигналом, что делает игру еще веселее.<br /> Рожки изготовлены из прочного материала TPR, который выдерживает активные игры и жевание.<br /><br /> Доступны два разных персонажа на рождественскую тематику - мы отправим случайный выбор.<br /><br /> <strong>Длина</strong>: 17 см<br /><br /> Идеальный подарок для вашей собаки, который принесет радость и счастливые моменты во время праздников!<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ:</strong> Croci SPA, Италия<br /> <strong>ИМПОРТЕР:</strong> Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Rotaļlieta sunim.]]></long-description-lv>
-    <long-description-ee><![CDATA[Vahva ja pehme jõulumänguasi, mis toob pühadetunnet ka sinu lemmiku mänguaega!<br /> Mänguasi on valmistatud <strong>pehmest plüüsist</strong> ja varustatud <strong>piiksuga</strong>, mis muudab mängu veelgi lõbusamaks.<br /> Sarved on valmistatud <strong>tugevast TPR-materjalist</strong>, mis peab vastu ka aktiivsemale mängule ja närimisele.<br /><br /> Saadaval <strong>kaks erinevat jõuluteemalist tegelast</strong> – saadame välja juhuvaliku.<br /><br /> <strong>Pikkus</strong>: 17 cm<br /><br /> Ideaalne kingitus koerale, et tuua pühade ajal mängurõõmu ja rõõmsaid hetki!<br /><br /> <strong>TOOTJA:</strong> Croci SPA, Itaalia<br /> <strong>MAALETOOJA:</strong> Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Hieno ja pehmeä joululelu, joka tuo joulumielen lempileikkeihisi!<br /> Lelu on valmistettu <strong>pehmeästä pehmolelusta</strong> ja varustettu <strong>piippauksella</strong>, mikä tekee pelistä entistä hauskempaa.<br /> Sarvet on valmistettu <strong>vahvasta TPR-materiaalista</strong>, joka kestää entistäkin aktiivisempaa leikkiä ja pureskelua.<br /><br /> Saatavilla <strong>kahdella eri jouluteemaisella hahmolla</strong> – lähetämme satunnaisen valikoima.<br /><br /> <strong>Pituus</strong>: 17 cm<br /><br /> Ihanteellinen lahja koiralle tuomaan iloa ja onnellisia hetkiä lomien aikana!<br /><br /> <strong>VALMISTAJA:</strong>Croci SPA, Italia<br /> <strong>MAAHANTUOJA:</strong>Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[A great and soft Christmas toy that will bring the holiday spirit to your favorite playtime!<br /> The toy is made of <strong>soft plush</strong> and equipped with a <strong>beep</strong>, which makes the game even more fun.<br /> The horns are made of <strong>strong TPR material</strong>, which can withstand even more active play and chewing.<br /><br /> Available in <strong>two different Christmas-themed characters</strong> – we will send a random selection.<br /><br /> <strong>Length</strong>: 17 cm<br /><br /> The ideal gift for a dog to bring joy and happy moments during the holidays!<br /><br /> <strong>MANUFACTURER:</strong> Croci SPA, Italy<br /> <strong>IMPORTER:</strong> Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Camon & Croci Pet Group S.p.A. / Croci S.p.A.; Corso Italia]]></manufacturer-name>
-    <manufacturer-address><![CDATA[22 – 20122 Milano (MI), Itaalia;]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@croci.net]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[CROCI]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.3]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/X-mas-loomake-Croci-koera-manguasi-A.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/X-mas-loomake-Croci-koera-manguasi-2.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/X-mas-loomake-Croci-koera-manguasi-B.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.3</weight>
-            <length>0.16</length>
-            <height>0.08</height>
-            <width>0.14</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[8023222281936]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[C8073193]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
