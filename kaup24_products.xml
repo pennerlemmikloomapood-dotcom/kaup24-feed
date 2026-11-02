@@ -1,6 +1,804 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
+    <category-id>10412</category-id>
+    <category-name><![CDATA[Cat snacks]]></category-name>
+    <title><![CDATA[Flamingo skanėstai katėms - pagalvėlės su vištiena ir taurinu 50g]]></title>
+    <title-ru><![CDATA[Flamingo лакомство для кошек - подушечки с курицей и таурином 50г]]></title-ru>
+    <title-lv><![CDATA[Flamingo gardumi kaķiem - spilventiņi ar vistu un taurīnu 50g]]></title-lv>
+    <title-ee><![CDATA[Flamingo Kassi Maiused - Padjakesed Kana ja Tauriiniga 50g]]></title-ee>
+    <title-fi><![CDATA[Flamingo kissan herkut - tyynyt kanalla ja tauriinilla 50g]]></title-fi>
+    <title-en><![CDATA[Flamingo cat treats - pillows with chicken and taurine 50g]]></title-en>
+    <long-description><![CDATA[Hellita oma kassi nende krõbedate Pillows maiustega, millel on pehme kanamaitseline täidis. Rikkad vitamiinide poolest ja ilma tarbetute lisaaineteta. Valmistatud Euroopas – maitsev pisike preemia, mida su kass kindlasti naudib.<br />
+<br />
+<strong>Koostis</strong>: teravili, liha ja loomsed kõrvalsaadused (kokku 21%, sh 18% kana), õlid ja rasvad, mineraalained, taimsed kõrvalsaadused, taimse valgu ekstraktid, piim ja piimatooted.<br />
+<strong>Toitainelised lisandid (kg kohta)</strong>: vitamiin A (3a672a) 5000 RÜ, vitamiin D3 (3a671) 500 RÜ, vitamiin E (3a700) 50 mg, tauriin (3a370) 1000 mg. Sisaldab värvaineid ja antioksüdante.<br />
+<br />
+<strong>Toote omadused:</strong><br />
+Täiendsööt kassidele<br />
+Krõbe väliskest pehme täidisega<br />
+Kanamaitseline<br />
+Rikas vitamiinide poolest<br />
+Ilma lisatud suhkru ja säilitusaineteta<br />
+Valmistatud Euroopas<br />
+Kogus: 50 g<br />
+<br />
+<strong>TOOTJA</strong>: Flamingo Pet Products NV, Belgia<br />
+<strong>MAALETOOJA</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description>
+    <long-description-ru><![CDATA[Побалуйте свою кошку этими хрустящими лакомствами Pillows с мягкой начинкой со вкусом курицы. Богаты витаминами и не содержат ненужных добавок. Произведено в Европе – маленькое вкусное угощение, которое обязательно понравится вашей кошке.<br />
+<br />
+<strong>Состав</strong>: злаки, мясо и продукты животного происхождения (всего 21%, в т.ч. 18% курицы), масла и жиры, минеральные вещества, продукты растительного происхождения, экстракты растительного белка, молоко и молочные продукты.<br />
+<strong>Питательные добавки (на кг)</strong>: витамин A (3a672a) 5000 МЕ, витамин D3 (3a671) 500 МЕ, витамин E (3a700) 50 мг, таурин (3a370) 1000 мг. Содержит красители и антиоксиданты.<br />
+<br />
+<strong>Характеристики:</strong><br />
+Дополнительный корм для кошек<br />
+Хрустящая оболочка с мягкой начинкой<br />
+Со вкусом курицы<br />
+Богат витаминами<br />
+Без добавленного сахара и консервантов<br />
+Произведено в Европе<br />
+Вес: 50 г<br />
+<br />
+<strong>ПРОИЗВОДИТЕЛЬ</strong>: Flamingo Pet Products NV, Бельгия<br />
+<strong>ИМПОРТЕР</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ru>
+    <long-description-ee><![CDATA[Hellita oma kassi nende krõbedate Pillows maiustega, millel on pehme kanamaitseline täidis. Rikkad vitamiinide poolest ja ilma tarbetute lisaaineteta. Valmistatud Euroopas – maitsev pisike preemia, mida su kass kindlasti naudib.<br />
+<br />
+<strong>Koostis</strong>: teravili, liha ja loomsed kõrvalsaadused (kokku 21%, sh 18% kana), õlid ja rasvad, mineraalained, taimsed kõrvalsaadused, taimse valgu ekstraktid, piim ja piimatooted.<br />
+<strong>Toitainelised lisandid (kg kohta)</strong>: vitamiin A (3a672a) 5000 RÜ, vitamiin D3 (3a671) 500 RÜ, vitamiin E (3a700) 50 mg, tauriin (3a370) 1000 mg. Sisaldab värvaineid ja antioksüdante.<br />
+<br />
+<strong>Toote omadused:</strong><br />
+Täiendsööt kassidele<br />
+Krõbe väliskest pehme täidisega<br />
+Kanamaitseline<br />
+Rikas vitamiinide poolest<br />
+Ilma lisatud suhkru ja säilitusaineteta<br />
+Valmistatud Euroopas<br />
+Kogus: 50 g<br />
+<br />
+<strong>TOOTJA</strong>: Flamingo Pet Products NV, Belgia<br />
+<strong>MAALETOOJA</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Hemmottele kissaasi näillä rapeilla Pillows-herkuilla, joissa on pehmeä kananmakuinen täyte. Runsaasti vitamiineja eikä tarpeettomia lisäaineita. Valmistettu Euroopassa – pieni herkullinen palkkio, josta kissasi varmasti nauttii.<br />
+<br />
+<strong>Koostumus</strong>: viljat, liha ja eläinperäiset sivutuotteet (yhteensä 21 %, josta 18 % kanaa), öljyt ja rasvat, kivennäisaineet, kasviperäiset sivutuotteet, kasviproteiiniuutteet, maito ja maitotuotteet.<br />
+<strong>Ravitsemukselliset lisäaineet (per kg)</strong>: A-vitamiini (3a672a) 5000 IU, D3-vitamiini (3a671) 500 IU, E-vitamiini (3a700) 50 mg, tauriini (3a370) 1000 mg. Sisältää väriaineita ja antioksidantteja.<br />
+<br />
+<strong>Tuotteen ominaisuudet:</strong><br />
+Täydennysrehu kissoille<br />
+Rapea kuori ja pehmeä täyte<br />
+Kananmakuinen<br />
+Runsaasti vitamiineja<br />
+Ei lisättyä sokeria eikä säilöntäaineita<br />
+Valmistettu Euroopassa<br />
+Paino: 50 g<br />
+<br />
+<strong>VALMISTAJA</strong>: Flamingo Pet Products NV, Belgia<br />
+<strong>MAAHANTUOJA</strong>: Penner OÜ; Võru 77, Tartu, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Treat your cat to these crunchy Pillows snacks with a soft chicken-flavoured filling. Packed with vitamins and free from unnecessary additives. Made in Europe – a tasty little treat your feline connoisseur is sure to enjoy.<br />
+<br />
+<strong>Composition</strong>: cereals, meat and animal derivatives (total 21%, of which 18% chicken), oils and fats, minerals, derivatives of vegetable origin, vegetable protein extracts, milk and milk derivatives.<br />
+<strong>Nutritional additives (per kg)</strong>: vitamin A (3a672a) 5000 IU, vitamin D3 (3a671) 500 IU, vitamin E (3a700) 50 mg, taurine (3a370) 1000 mg. Contains colourants and antioxidants.<br />
+<br />
+<strong>Product features:</strong><br />
+Complementary food for cats<br />
+Crunchy shell with soft filling<br />
+Chicken flavour<br />
+Rich in vitamins<br />
+No added sugar or preservatives<br />
+Made in Europe<br />
+Weight: 50 g<br />
+<br />
+<strong>MANUFACTURER</strong>: Flamingo Pet Products NV, Belgium<br />
+<strong>IMPORTER</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.06]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Looma vanus]]></id>
+        <values>
+          <value><![CDATA[Erinevatele vanustele]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Eriomadus]]></id>
+        <values>
+          <value><![CDATA[Kõigile kassidele]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/561869-V-01.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.06</weight>
+            <length>0.1</length>
+            <height>0.03</height>
+            <width>0.08</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585396904]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[561869]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10376</category-id>
+    <category-name><![CDATA[Dog snacks]]></category-name>
+    <title><![CDATA[Flamingo dešra šunims su vištiena ir ėriena 400g]]></title>
+    <title-ru><![CDATA[Flamingo колбаса для собак с курицей и ягнёнком 400г]]></title-ru>
+    <title-lv><![CDATA[Flamingo desa suņiem ar vistu un jēru 400g]]></title-lv>
+    <title-ee><![CDATA[Flamingo Koeravorst Kana ja Lambalihaga 400g]]></title-ee>
+    <title-fi><![CDATA[Flamingo koiran makkara kanaa ja lammasta 400g]]></title-fi>
+    <title-en><![CDATA[Flamingo dog sausage with chicken and lamb 400g]]></title-en>
+    <long-description><![CDATA[Isu millegi maitsva järele? See maitsev kana- ja lambalihaga vorst sisaldab koguni 80% liha ning olulisi vitamiine ja mineraalaineid. Sobib täisväärtuslikuks toidukorraks, lisandiks toortoidule või kuivtoidule ning preemiaks treeningul. Gluteenivaba, ilma lisatud värv- ja lõhnaaineteta, valmistatud Euroopas.<br />
+<br />
+<strong>Koostis</strong>: kana (73%), lambaliha (7%), hernetärklis.<br />
+<strong>Toitainelised lisandid (kg kohta)</strong>: vitamiin A (3a672a) 6000 RÜ, vitamiin D3 (3a671) 500 RÜ, vitamiin E (3a700) 20 mg; mikroelemendid: raud (3b108) 20 mg, jood (3b202) 0,5 mg, tsink (3b607) 35 mg, mangaan (3b506) 15 mg, vask (3b413) 3,5 mg, seleen (3b801) 0,1 mg.<br />
+<strong>Tehnoloogilised lisandid</strong>: sidrunhape (1a330) 10 mg/kg.<br />
+<br />
+<strong>Toote omadused:</strong><br />
+Täissööt koertele<br />
+Liha 80% (kana ja lammas)<br />
+Gluteenivaba<br />
+Ilma lisatud värv- ja lõhnaaineteta<br />
+Ei sobi alla 3 kuu vanustele kutsikatele<br />
+Säilitada kuivas, toatemperatuuril, päikese eest kaitstult<br />
+Pärast avamist hoida külmkapis ja kasutada 5 päeva jooksul<br />
+Kogus: 400 g<br />
+<br />
+<strong>TOOTJA</strong>: Flamingo Pet Products NV, Belgia<br />
+<strong>MAALETOOJA</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description>
+    <long-description-ru><![CDATA[Хочется чего-нибудь вкусненького? Эта вкусная колбаса с курицей и ягнёнком содержит целых 80% мяса, а также важные витамины и минералы. Подходит как полноценный приём пищи, добавка к сырому или сухому корму и как награда во время дрессировки. Без глютена, без добавленных красителей и ароматизаторов, произведено в Европе.<br />
+<br />
+<strong>Состав</strong>: курица (73%), ягнёнок (7%), гороховый крахмал.<br />
+<strong>Питательные добавки (на кг)</strong>: витамин A (3a672a) 6000 МЕ, витамин D3 (3a671) 500 МЕ, витамин E (3a700) 20 мг; микроэлементы: железо (3b108) 20 мг, йод (3b202) 0,5 мг, цинк (3b607) 35 мг, марганец (3b506) 15 мг, медь (3b413) 3,5 мг, селен (3b801) 0,1 мг.<br />
+<strong>Технологические добавки</strong>: лимонная кислота (1a330) 10 мг/кг.<br />
+<br />
+<strong>Характеристики:</strong><br />
+Полнорационный корм для собак<br />
+Мясо 80% (курица и ягнёнок)<br />
+Без глютена<br />
+Без добавленных красителей и ароматизаторов<br />
+Не подходит щенкам младше 3 месяцев<br />
+Хранить в сухом месте при комнатной температуре, вдали от солнца<br />
+После вскрытия хранить в холодильнике и использовать в течение 5 дней<br />
+Вес: 400 г<br />
+<br />
+<strong>ПРОИЗВОДИТЕЛЬ</strong>: Flamingo Pet Products NV, Бельгия<br />
+<strong>ИМПОРТЕР</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ru>
+    <long-description-ee><![CDATA[Isu millegi maitsva järele? See maitsev kana- ja lambalihaga vorst sisaldab koguni 80% liha ning olulisi vitamiine ja mineraalaineid. Sobib täisväärtuslikuks toidukorraks, lisandiks toortoidule või kuivtoidule ning preemiaks treeningul. Gluteenivaba, ilma lisatud värv- ja lõhnaaineteta, valmistatud Euroopas.<br />
+<br />
+<strong>Koostis</strong>: kana (73%), lambaliha (7%), hernetärklis.<br />
+<strong>Toitainelised lisandid (kg kohta)</strong>: vitamiin A (3a672a) 6000 RÜ, vitamiin D3 (3a671) 500 RÜ, vitamiin E (3a700) 20 mg; mikroelemendid: raud (3b108) 20 mg, jood (3b202) 0,5 mg, tsink (3b607) 35 mg, mangaan (3b506) 15 mg, vask (3b413) 3,5 mg, seleen (3b801) 0,1 mg.<br />
+<strong>Tehnoloogilised lisandid</strong>: sidrunhape (1a330) 10 mg/kg.<br />
+<br />
+<strong>Toote omadused:</strong><br />
+Täissööt koertele<br />
+Liha 80% (kana ja lammas)<br />
+Gluteenivaba<br />
+Ilma lisatud värv- ja lõhnaaineteta<br />
+Ei sobi alla 3 kuu vanustele kutsikatele<br />
+Säilitada kuivas, toatemperatuuril, päikese eest kaitstult<br />
+Pärast avamist hoida külmkapis ja kasutada 5 päeva jooksul<br />
+Kogus: 400 g<br />
+<br />
+<strong>TOOTJA</strong>: Flamingo Pet Products NV, Belgia<br />
+<strong>MAALETOOJA</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Tekeekö mieli jotain herkullista? Tämä maukas kana-lammasmakkara sisältää peräti 80 % lihaa sekä tärkeitä vitamiineja ja kivennäisaineita. Sopii täysipainoiseksi ateriaksi, raaka- tai kuivaruoan lisäksi sekä palkkioksi koulutuksessa. Gluteeniton, ei lisättyjä väri- tai aromiaineita, valmistettu Euroopassa.<br />
+<br />
+<strong>Koostumus</strong>: kana (73 %), lammas (7 %), hernetärkkelys.<br />
+<strong>Ravitsemukselliset lisäaineet (per kg)</strong>: A-vitamiini (3a672a) 6000 IU, D3-vitamiini (3a671) 500 IU, E-vitamiini (3a700) 20 mg; hivenaineet: rauta (3b108) 20 mg, jodi (3b202) 0,5 mg, sinkki (3b607) 35 mg, mangaani (3b506) 15 mg, kupari (3b413) 3,5 mg, seleeni (3b801) 0,1 mg.<br />
+<strong>Teknologiset lisäaineet</strong>: sitruunahappo (1a330) 10 mg/kg.<br />
+<br />
+<strong>Tuotteen ominaisuudet:</strong><br />
+Täysravinto koirille<br />
+Lihaa 80 % (kana ja lammas)<br />
+Gluteeniton<br />
+Ei lisättyjä väri- tai aromiaineita<br />
+Ei sovi alle 3 kuukauden ikäisille pennuille<br />
+Säilytä kuivassa, huoneenlämmössä, suojassa auringolta<br />
+Avaamisen jälkeen säilytä jääkaapissa ja käytä 5 päivän kuluessa<br />
+Paino: 400 g<br />
+<br />
+<strong>VALMISTAJA</strong>: Flamingo Pet Products NV, Belgia<br />
+<strong>MAAHANTUOJA</strong>: Penner OÜ; Võru 77, Tartu, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Fancy something tasty? This delicious sausage with chicken and lamb contains a whopping 80% meat, along with essential vitamins and minerals. Perfect as a complete meal, a topper for raw food or dry kibble, or a reward during training. Gluten-free, with no added colourings or flavourings, made in Europe.<br />
+<br />
+<strong>Composition</strong>: chicken (73%), lamb (7%), pea starch.<br />
+<strong>Nutritional additives (per kg)</strong>: vitamin A (3a672a) 6000 IU, vitamin D3 (3a671) 500 IU, vitamin E (3a700) 20 mg; trace elements: iron (3b108) 20 mg, iodine (3b202) 0.5 mg, zinc (3b607) 35 mg, manganese (3b506) 15 mg, copper (3b413) 3.5 mg, selenium (3b801) 0.1 mg.<br />
+<strong>Technological additives</strong>: citric acid (1a330) 10 mg/kg.<br />
+<br />
+<strong>Product features:</strong><br />
+Complete food for dogs<br />
+80% meat (chicken and lamb)<br />
+Gluten-free<br />
+No added colourings or flavourings<br />
+Not suitable for puppies under 3 months<br />
+Store in a dry place at room temperature, away from sunlight<br />
+After opening, keep refrigerated and use within 5 days<br />
+Weight: 400 g<br />
+<br />
+<strong>MANUFACTURER</strong>: Flamingo Pet Products NV, Belgium<br />
+<strong>IMPORTER</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.41]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Looma vanus]]></id>
+        <values>
+          <value><![CDATA[Erinevatele vanustele]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Eriomadus]]></id>
+        <values>
+          <value><![CDATA[Kõigile koertele]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/527032-E-01.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/527032-A-01.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.41</weight>
+            <length>0.2</length>
+            <height>0.06</height>
+            <width>0.08</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585390193]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[527032]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>21553</category-id>
+    <category-name><![CDATA[Cosmetics for animals]]></category-name>
+    <title><![CDATA[Flamingo valomoji pirštinė šunims L 7vnt]]></title>
+    <title-ru><![CDATA[Flamingo очищающая рукавица для собак L 7шт]]></title-ru>
+    <title-lv><![CDATA[Flamingo tīrīšanas cimds suņiem L 7gab]]></title-lv>
+    <title-ee><![CDATA[Flamingo puhastuskinnas koerale L 7tk]]></title-ee>
+    <title-fi><![CDATA[Flamingo koiran puhdistuskinnas L 7kpl]]></title-fi>
+    <title-en><![CDATA[Flamingo cleaning mitt for dogs L 7pcs]]></title-en>
+    <long-description><![CDATA[Propy pesukindaga saad oma lemmikule kiiresti ja vaevata värskust anda! Pesulahusega immutatud kinnas puhastab karva ja eemaldab ebameeldivad lõhnad ilma veeta. Praktiline abivahend igale loomaomanikule – kodus, reisil või pärast jalutuskäiku. Taassuletav pakend hoiab kindad niisked.<br />
+<br />
+<strong>Toote omadused:</strong><br />
+Materjal: immutatud polüesterkinnas pesulahusega<br />
+Puhastab karva ja eemaldab lõhnu<br />
+Ei vaja vett<br />
+Lõhn: neutraalne<br />
+Suurus: L, sobib suurematele tõugudele<br />
+Pakis: 7 tk (kokku 42 ml lahust)<br />
+Kinda mõõdud: 24 x 24 cm<br />
+Hoida lastele kättesaamatus kohas<br />
+<br />
+<strong>TOOTJA</strong>: Flamingo Pet Products NV, Belgia<br />
+<strong>MAALETOOJA</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description>
+    <long-description-ru><![CDATA[С рукавицей Propy вы быстро и без хлопот освежите своего любимца! Пропитанная моющим лосьоном рукавица очищает шерсть и устраняет неприятные запахи без воды. Практичное средство для каждого владельца животного – дома, в поездке или после прогулки. Повторно закрываемая упаковка сохраняет рукавицы влажными.<br />
+<br />
+<strong>Характеристики:</strong><br />
+Материал: пропитанная полиэстеровая рукавица с моющим лосьоном<br />
+Очищает шерсть и устраняет запахи<br />
+Не требует воды<br />
+Запах: нейтральный<br />
+Размер: L, подходит для крупных пород<br />
+В упаковке: 7 шт. (всего 42 мл лосьона)<br />
+Размер рукавицы: 24 x 24 см<br />
+Хранить в недоступном для детей месте<br />
+<br />
+<strong>ПРОИЗВОДИТЕЛЬ</strong>: Flamingo Pet Products NV, Бельгия<br />
+<strong>ИМПОРТЕР</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ru>
+    <long-description-ee><![CDATA[Propy pesukindaga saad oma lemmikule kiiresti ja vaevata värskust anda! Pesulahusega immutatud kinnas puhastab karva ja eemaldab ebameeldivad lõhnad ilma veeta. Praktiline abivahend igale loomaomanikule – kodus, reisil või pärast jalutuskäiku. Taassuletav pakend hoiab kindad niisked.<br />
+<br />
+<strong>Toote omadused:</strong><br />
+Materjal: immutatud polüesterkinnas pesulahusega<br />
+Puhastab karva ja eemaldab lõhnu<br />
+Ei vaja vett<br />
+Lõhn: neutraalne<br />
+Suurus: L, sobib suurematele tõugudele<br />
+Pakis: 7 tk (kokku 42 ml lahust)<br />
+Kinda mõõdud: 24 x 24 cm<br />
+Hoida lastele kättesaamatus kohas<br />
+<br />
+<strong>TOOTJA</strong>: Flamingo Pet Products NV, Belgia<br />
+<strong>MAALETOOJA</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Propy-pesukintaalla raikastat lemmikkisi nopeasti ja vaivattomasti! Pesunesteellä kostutettu kinnas puhdistaa turkin ja poistaa epämiellyttävät hajut ilman vettä. Kätevä apuväline jokaiselle eläimen omistajalle – kotona, matkoilla tai lenkin jälkeen. Uudelleen suljettava pakkaus pitää kintaat kosteina.<br />
+<br />
+<strong>Tuotteen ominaisuudet:</strong><br />
+Materiaali: pesunesteellä kostutettu polyesterikinnas<br />
+Puhdistaa turkin ja poistaa hajuja<br />
+Ei tarvitse vettä<br />
+Tuoksu: neutraali<br />
+Koko: L, sopii suuremmille roduille<br />
+Pakkauksessa: 7 kpl (yhteensä 42 ml pesunestettä)<br />
+Kintaan mitat: 24 x 24 cm<br />
+Säilytettävä lasten ulottumattomissa<br />
+<br />
+<strong>VALMISTAJA</strong>: Flamingo Pet Products NV, Belgia<br />
+<strong>MAAHANTUOJA</strong>: Penner OÜ; Võru 77, Tartu, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[With the Propy washing mitt you can freshen up your pet quickly and effortlessly! The mitt is impregnated with wash lotion, cleans the coat and removes unpleasant odours without water. A handy aid for every pet owner – at home, when travelling or after a walk. The resealable pack keeps the mitts moist.<br />
+<br />
+<strong>Product features:</strong><br />
+Material: polyester mitt impregnated with wash lotion<br />
+Cleans the coat and removes odours<br />
+No water needed<br />
+Scent: neutral<br />
+Size: L, suitable for larger breeds<br />
+Contents: 7 pcs (total 42 ml lotion)<br />
+Mitt size: 24 x 24 cm<br />
+Keep out of reach of children<br />
+<br />
+<strong>MANUFACTURER</strong>: Flamingo Pet Products NV, Belgium<br />
+<strong>IMPORTER</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.334]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/523545-V-01.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/puhastuskinnas-koerale-2.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.334</weight>
+            <length>0.24</length>
+            <height>0.002</height>
+            <width>0.24</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585262889]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[523545]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>21553</category-id>
+    <category-name><![CDATA[Cosmetics for animals]]></category-name>
+    <title><![CDATA[Flamingo valomoji pirštinė šunims S 7vnt]]></title>
+    <title-ru><![CDATA[Flamingo очищающая рукавица для собак S 7шт]]></title-ru>
+    <title-lv><![CDATA[Flamingo tīrīšanas cimds suņiem S 7gab]]></title-lv>
+    <title-ee><![CDATA[Flamingo puhastuskinnas koerale S 7tk]]></title-ee>
+    <title-fi><![CDATA[Flamingo koiran puhdistuskinnas S 7kpl]]></title-fi>
+    <title-en><![CDATA[Flamingo cleaning mitt for dogs S 7pcs]]></title-en>
+    <long-description><![CDATA[Propy pesukindaga saad oma lemmikule kiiresti ja vaevata värskust anda! Pesulahusega immutatud kinnas puhastab karva ja eemaldab ebameeldivad lõhnad ilma veeta. Praktiline abivahend igale loomaomanikule – kodus, reisil või pärast jalutuskäiku. Taassuletav pakend hoiab kindad niisked.<br />
+<br />
+<strong>Toote omadused:</strong><br />
+Materjal: immutatud polüesterkinnas pesulahusega<br />
+Puhastab karva ja eemaldab lõhnu<br />
+Ei vaja vett<br />
+Lõhn: neutraalne<br />
+Suurus: S, sobib väikestele tõugudele<br />
+Pakis: 7 tk (kokku 28 ml lahust)<br />
+Kinda mõõdud: 24 x 24 cm<br />
+Hoida lastele kättesaamatus kohas<br />
+<br />
+<strong>TOOTJA</strong>: Flamingo Pet Products NV, Belgia<br />
+<strong>MAALETOOJA</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description>
+    <long-description-ru><![CDATA[С рукавицей Propy вы быстро и без хлопот освежите своего любимца! Пропитанная моющим лосьоном рукавица очищает шерсть и устраняет неприятные запахи без воды. Практичное средство для каждого владельца животного – дома, в поездке или после прогулки. Повторно закрываемая упаковка сохраняет рукавицы влажными.<br />
+<br />
+<strong>Характеристики:</strong><br />
+Материал: пропитанная полиэстеровая рукавица с моющим лосьоном<br />
+Очищает шерсть и устраняет запахи<br />
+Не требует воды<br />
+Запах: нейтральный<br />
+Размер: S, подходит для мелких пород<br />
+В упаковке: 7 шт. (всего 28 мл лосьона)<br />
+Размер рукавицы: 24 x 24 см<br />
+Хранить в недоступном для детей месте<br />
+<br />
+<strong>ПРОИЗВОДИТЕЛЬ</strong>: Flamingo Pet Products NV, Бельгия<br />
+<strong>ИМПОРТЕР</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ru>
+    <long-description-ee><![CDATA[Propy pesukindaga saad oma lemmikule kiiresti ja vaevata värskust anda! Pesulahusega immutatud kinnas puhastab karva ja eemaldab ebameeldivad lõhnad ilma veeta. Praktiline abivahend igale loomaomanikule – kodus, reisil või pärast jalutuskäiku. Taassuletav pakend hoiab kindad niisked.<br />
+<br />
+<strong>Toote omadused:</strong><br />
+Materjal: immutatud polüesterkinnas pesulahusega<br />
+Puhastab karva ja eemaldab lõhnu<br />
+Ei vaja vett<br />
+Lõhn: neutraalne<br />
+Suurus: S, sobib väikestele tõugudele<br />
+Pakis: 7 tk (kokku 28 ml lahust)<br />
+Kinda mõõdud: 24 x 24 cm<br />
+Hoida lastele kättesaamatus kohas<br />
+<br />
+<strong>TOOTJA</strong>: Flamingo Pet Products NV, Belgia<br />
+<strong>MAALETOOJA</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Propy-pesukintaalla raikastat lemmikkisi nopeasti ja vaivattomasti! Pesunesteellä kostutettu kinnas puhdistaa turkin ja poistaa epämiellyttävät hajut ilman vettä. Kätevä apuväline jokaiselle eläimen omistajalle – kotona, matkoilla tai lenkin jälkeen. Uudelleen suljettava pakkaus pitää kintaat kosteina.<br />
+<br />
+<strong>Tuotteen ominaisuudet:</strong><br />
+Materiaali: pesunesteellä kostutettu polyesterikinnas<br />
+Puhdistaa turkin ja poistaa hajuja<br />
+Ei tarvitse vettä<br />
+Tuoksu: neutraali<br />
+Koko: S, sopii pienille roduille<br />
+Pakkauksessa: 7 kpl (yhteensä 28 ml pesunestettä)<br />
+Kintaan mitat: 24 x 24 cm<br />
+Säilytettävä lasten ulottumattomissa<br />
+<br />
+<strong>VALMISTAJA</strong>: Flamingo Pet Products NV, Belgia<br />
+<strong>MAAHANTUOJA</strong>: Penner OÜ; Võru 77, Tartu, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[With the Propy washing mitt you can freshen up your pet quickly and effortlessly! The mitt is impregnated with wash lotion, cleans the coat and removes unpleasant odours without water. A handy aid for every pet owner – at home, when travelling or after a walk. The resealable pack keeps the mitts moist.<br />
+<br />
+<strong>Product features:</strong><br />
+Material: polyester mitt impregnated with wash lotion<br />
+Cleans the coat and removes odours<br />
+No water needed<br />
+Scent: neutral<br />
+Size: S, suitable for small breeds<br />
+Contents: 7 pcs (total 28 ml lotion)<br />
+Mitt size: 24 x 24 cm<br />
+Keep out of reach of children<br />
+<br />
+<strong>MANUFACTURER</strong>: Flamingo Pet Products NV, Belgium<br />
+<strong>IMPORTER</strong>: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.239]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/523544-V-01.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/puhastuskinnas-koerale.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.239</weight>
+            <length>0.24</length>
+            <height>0.002</height>
+            <width>0.24</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585269109]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[523544]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10427</category-id>
+    <category-name><![CDATA[Cat scratching posts]]></category-name>
+    <title><![CDATA[Flamingo Draskyklė-Stulpas Katėms, Rožinė 60cm]]></title>
+    <title-ru><![CDATA[Flamingo Когтеточка для Кошек, Розовая 60см]]></title-ru>
+    <title-lv><![CDATA[Flamingo Skrāpējamais Stabiņš Kaķiem, Rozā 60cm]]></title-lv>
+    <title-ee><![CDATA[Flamingo Kraapimispost Kassile, Antiikroosa 60cm]]></title-ee>
+    <title-fi><![CDATA[Flamingo Raapimispuu Kissalle, Vaaleanpunainen 60cm]]></title-fi>
+    <title-en><![CDATA[Flamingo Cat Scratching Post, Pink 60cm]]></title-en>
+    <long-description><![CDATA[Flamingo antikvarinės rožinės spalvos katėms skirtas draskyklės stulpas su džiuto virve ir plunksnomis. Aukštis 60 cm, tinka įvairaus amžiaus ir dydžio katėms.]]></long-description>
+    <long-description-ru><![CDATA[Антикварная розовая когтеточка для кошек в виде фламинго. К когтеточке прикреплена игрушка-перо.<br /> Изделие предназначено для использования в помещении и подходит для кошек всех возрастов и размеров.<br /><br /> <strong>Особенности:</strong><br /> Функциональность: Мягкая подставка и джутовая когтеточка с веревкой.<br /> Аксессуары: Игрушка-перо на пружинном креплении.<br /> Материалы: Мягкий плюш (плотность 330 г/м²), ДСП (основание), джутовая веревка (толщина 5 мм).<br /> Размеры: Основание 38,5 x 38,5 см, диаметр столбика 9 см, общая высота 60 см.<br /> Вес: 2,12 кг.<br /> Цвет: Античный розовый<br /><br /> <strong>Производитель</strong>: Flamingo Pet Products, Бельгия<br /> <strong>Импортер</strong>: Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Flamingo antīki rozā kaķu skrāpēšanas stabs ar džutas virvi un spalvām. Augstums 60 cm, piemērots visu vecumu un izmēru kaķiem.]]></long-description-lv>
+    <long-description-ee><![CDATA[Flamingo antiikroosa kraapimispost kassidele. Kraapimisposti külge on kinnitatud sulgedega mänguasi.<br /> Toode on mõeldud kasutamiseks siseruumides ja sobib igas vanuses ning igas suuruses kassidele.<br /><br /> <strong>Omadused:</strong><br /> Funktsionaalsus: Polsterdatud alusplatvorm ja džuudist kraapimisnööriga post.<br /> Lisatarvikud: Vedruga kinnitatud sulgedega mänguasi.<br /> Materjalid: Pehme plüüs (tihedus 330 g/m²), puitlaastplaat (alus), džuudist nöör (paksus 5 mm).<br /> Mõõdud: Alusplaat 38,5 x 38,5 cm, posti läbimõõt 9 cm, üldkõrgus 60 cm.<br /> Kaal: 2,12 kg.<br /> Värvus: Antiikroosa<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Flamingo antiikkipinkki raapimapuu kissoille. Raapimapuuhun on kiinnitetty höyhenlelu.<br /> Tuote on tarkoitettu sisäkäyttöön ja sopii kaikenikäisille ja -kokoisille kissoille.<br /><br /> <strong>Ominaisuudet:</strong><br /> Toiminnallisuus: Pehmustettu pohjalevy ja juutista valmistettu raapimapuu köydellä.<br /> Lisävarusteet: Jousitettu höyhenlelu.<br /> Materiaalit: Pehmeä plyysi (tiheys 330 g/m²), lastulevy (pohja), juuttikierre (paksuus 5 mm).<br /> Mitat: Pohjalevy 38,5 x 38,5 cm, pylvään halkaisija 9 cm, kokonaiskorkeus 60 cm.<br /> Paino: 2,12 kg.<br /> Väri: Antiikkipinkki<br /><br /> <strong>Valmistaja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja</strong>: Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Flamingo antique pink scratching post for cats. A feather toy is attached to the scratching post.<br /> The product is intended for indoor use and is suitable for cats of all ages and sizes.<br /><br /> <strong>Features:</strong><br /> Functionality: Padded base platform and jute scratching post with rope.<br /> Accessories: Spring-mounted feather toy.<br /> Materials: Soft plush (density 330 g/m²), chipboard (base), jute rope (thickness 5 mm).<br /> Dimensions: Base plate 38.5 x 38.5 cm, post diameter 9 cm, total height 60 cm.<br /> Weight: 2.12 kg.<br /> Color: Antique pink<br /><br /> <strong>Manufacturer</strong>: Flamingo Pet Products, Belgium<br /> <strong>Importer</strong>: Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[2]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/Flamingo-Kraapimispost-Kassile-Roosa-60cm.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>2</weight>
+            <length>0.6</length>
+            <height>0.4</height>
+            <width>0.4</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585330038]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[562060]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10403</category-id>
+    <category-name><![CDATA[Travel accessories for dog]]></category-name>
+    <title><![CDATA[Flamingo automobilio priekinės sėdynės užvalkalas „Oslo“ 135x70cm]]></title>
+    <title-ru><![CDATA[Flamingo Покрывало для переднего сиденъя 135x70см]]></title-ru>
+    <title-lv><![CDATA[Flamingo automašīnas priekšējā sēdekļa pārvalks "Oslo" 135x70cm]]></title-lv>
+    <title-ee><![CDATA[Flamingo Auto Esiistme Kate "Oslo" 135x70cm]]></title-ee>
+    <title-fi><![CDATA[Flamingo auton etuistuimen suojus "Oslo" 135x70cm]]></title-fi>
+    <title-en><![CDATA[Flamingo Front Seat Cover 135x70cm]]></title-en>
+    <long-description><![CDATA[Automobilio priekinės sėdynės užvalkalas.]]></long-description>
+    <long-description-ru><![CDATA[Предотвращает попадание грязи и шерсти на сиденье. Легко в уходе.<br /><br /> Размеры: 135x70 см<br /><br /> Flamingo Pet Products]]></long-description-ru>
+    <long-description-lv><![CDATA[Automašīnas priekšējā sēdekļa pārvalks.]]></long-description-lv>
+    <long-description-ee><![CDATA[Hoiab istmel ära mustuse ja karvad. Kerge hooldada.<br /><br /> Mõõtmed: 135x70cm<br /><br /> Flamingo Pet Products]]></long-description-ee>
+    <long-description-fi><![CDATA[Estää lian ja hiusten pääsyn istuimelle. Helppo huoltaa.<br /><br /> Mitat: 135x70cm<br /><br /> Flamingo Pet Products]]></long-description-fi>
+    <long-description-en><![CDATA[Prevents dirt and hair from getting on the seat. Easy to maintain.<br /><br /> Dimensions: 135x70cm<br /><br /> Flamingo Pet Products]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.3]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/autoistmekate_esiistmele_flamingo.jpg</url></image>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/autoistmekate_esiistmele_flamingo_A.jpg</url></image>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/autoistmekate_esiistmele_flamingo_C.jpg</url></image>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/autoistmekate_esiistmele_flamingo_B.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.3</weight>
+            <length>0.2</length>
+            <height>0.06</height>
+            <width>0.165</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585002140]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[31497]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10424</category-id>
+    <category-name><![CDATA[Cat litter boxes]]></category-name>
+    <title><![CDATA[Flamingo aktyvuotos anglies filtrai kačių tualetui 15 x 19,5 cm (3 vnt.)]]></title>
+    <title-ru><![CDATA[Flamingo Активный уголъный филътр 15 х 19,5, 3шт]]></title-ru>
+    <title-lv><![CDATA[Flamingo aktivētās ogles filtri kaķu tualetei 15 x 19,5 cm (3 gab.)]]></title-lv>
+    <title-ee><![CDATA[Flamingo Aktiivsöe Filter Kassi Liivakastile 15x19,5cm (3tk)]]></title-ee>
+    <title-fi><![CDATA[Flamingo Aktiivihiilisuodattimet Kissan Vessalle 15 x 19.5cm (3kpl)]]></title-fi>
+    <title-en><![CDATA[Flamingo Active Charcoal Filters 15 x 19,5cm, 3pcs]]></title-en>
+    <long-description><![CDATA[„Flamingo“ aktyvuotos anglies filtrai sumažina nemalonius kvapus kačių kraiko dėžėse. Tinka daugumai dengtų kraiko dėžių, galima karpyti pagal dydį, pakuotėje yra 3 vienetai.]]></long-description>
+    <long-description-ru><![CDATA[Фильтры с активированным углём эффективно уменьшают неприятные запахи в кошачьем туалете и помогают сохранять свежесть воздуха в помещении. Подходят для большинства закрытых лотков.<br /><br /> Размер фильтра можно легко подогнать — просто обрежьте его ножницами по размеру предыдущего фильтра.<br /><br /> Размеры: 15,4 × 19,6 × 0,3 см<br /> В упаковке: 3 фильтра<br /><br /> Производитель: Flamingo Pet Products, Бельгия<br /> Дистрибьютор: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Flamingo aktivētās ogles filtri samazina nepatīkamas smakas kaķu tualetēs. Piemērots lielākajai daļai pārklāto tualetes kastīšu, var sagriezt pēc izmēra, 3 gabali iepakojumā.]]></long-description-lv>
+    <long-description-ee><![CDATA[Aktiivsöega filtrid aitavad tõhusalt vähendada ebameeldivaid lõhnu kassi liivakastis ning hoida ruumi õhu värskemana. Sobivad kasutamiseks enamikus katusega liivakastides.<br /> Filtri suurust saab vajadusel lihtsalt kohandada – lõika see kääridega sobivaks vastavalt vana filtri mõõdule.<br /><br /> <strong>Mõõdud</strong>: 15 × 19,5 × 0,3 cm<br /> <strong>Pakis</strong>: 3 filtrit<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Aktiivihiilisuodattimet vähentävät tehokkaasti epämiellyttäviä hajuja kissanhiekkalaatikoissa ja pitävät huoneilman raikkaampana. Sopii käytettäväksi useimmissa katetuissa hiekkalaatikoissa.<br /><br /> Suodattimen kokoa voidaan helposti säätää tarvittaessa - leikkaa se saksilla vanhan suodattimen kokoon sopivaksi.<br /><br /> Mitat: 15,4 × 19,6 × 0,3 cm<br /> Pakkaus: 3 suodatinta<br /><br /> Valmistaja: Flamingo Pet Products, Belgia<br /> Maahantuoja: Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Activated carbon filters help effectively reduce unpleasant odours in the litter box and keep the surrounding air fresher. Suitable for use in most covered litter boxes.<br /><br /> The filter can easily be adjusted to size – simply trim it with scissors according to the dimensions of your previous filter.<br /><br /> Dimensions: 15.4 × 19.6 × 0.3 cm<br /> Pack contains: 3 filters<br /><br /> Manufacturer: Flamingo Pet Products, Belgium<br /> Distributor: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.02]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Aktiivsoe_Filtrid_Kassi_WC_1.jpg</url></image>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Aktiivsoe_Filtrid_Kassi_WC.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.02</weight>
+            <length>0.2</length>
+            <height>0.01</height>
+            <width>0.2</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400274769378]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[501058]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10391</category-id>
+    <category-name><![CDATA[Dog bowls, pet food containers]]></category-name>
+    <title><![CDATA[Flamingo maisto dubenėlis „Jappie“, smėlio spalvos, 850 ml]]></title>
+    <title-ru><![CDATA[Flamingo Миска для корма «Jappie», бежевая, 850 мл]]></title-ru>
+    <title-lv><![CDATA[Flamingo pārtikas bļoda "Jappie", bēša, 850ml]]></title-lv>
+    <title-ee><![CDATA[Flamingo Söögikauss "Jappie", Beež 850ml]]></title-ee>
+    <title-fi><![CDATA[Flamingo-ruokakulho "Jappie", beige 850ml]]></title-fi>
+    <title-en><![CDATA[Flamingo “Jappie” Feeding Bowl, Beige 850 ml]]></title-en>
+    <long-description><![CDATA[Flamingo maisto dubenėlis „Jappie“, smėlio spalvos, 850 ml]]></long-description>
+    <long-description-ru><![CDATA[Стильная и практичная миска Jappie подходит как для корма, так и для воды. Изготовлена из прочной нержавеющей стали и оснащена противоскользящим основанием, которое удерживает миску на месте во время еды. Легко очищается и подходит для мытья в посудомоечной машине.<br /><br /> <strong>Характеристики:</strong><br /><br /> Материал: нержавеющая сталь<br /><br /> Противоскользящее основание<br /><br /> Можно мыть в посудомоечной машине<br /><br /> <strong>Производитель:</strong> Flamingo Pet Products, Бельгия<br /> <strong>Импортёр:</strong> Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Flamingo pārtikas bļoda "Jappie", bēša, 850ml]]></long-description-lv>
+    <long-description-ee><![CDATA[Stiilne ja praktiline Jappie söögikauss sobib nii toidu kui ka vee jaoks. Kauss on valmistatud vastupidavast roostevabast terasest ning libisemisvastane põhi hoiab selle söömise ajal kindlalt paigal. Lihtne puhastada – sobib ka nõudepesumasinas pesemiseks.<br /><br /> <strong>Omadused:</strong><br /> Materjal: roostevaba teras<br /> Libisemisvastane põhi<br /> Nõudepesumasinas pestav<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maaletooja:</strong> Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Tyylikäs ja käytännöllinen Jappie-ruokakulho sopii sekä ruoalle että vedelle. Kulho on valmistettu kestävästä ruostumattomasta teräksestä ja liukumaton pohja pitää sen tukevasti paikallaan syömisen aikana. Helppo puhdistaa - myös astianpesukoneen kestävä.<br /><br /> <strong>Ominaisuudet:</strong><br /> Materiaali: ruostumaton teräs<br /> Liukumaton pohja<br /> Astianpesukoneen kestävä<br /><br /> <strong>Valmistaja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja:</strong> Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[The stylish and practical Jappie bowl is suitable for both food and water. Made from durable stainless steel, it features a non-slip base to keep the bowl securely in place during mealtimes. Easy to clean and dishwasher safe.<br /><br /> <strong>Features:</strong><br /><br /> Material: stainless steel<br /><br /> Non-slip base<br /><br /> Dishwasher safe<br /><br /> <strong>Manufacturer:</strong> Flamingo Pet Products, Belgium<br /> <strong>Importer:</strong> Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Maht]]></id>
+        <values>
+          <value><![CDATA[0.85 l]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.22]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/soogikauss-koerale-Jappie-5-3.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.22</weight>
+            <length>0.17</length>
+            <height>0.06</height>
+            <width>0.17</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585391015]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[525724]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10424</category-id>
+    <category-name><![CDATA[Cat litter boxes]]></category-name>
+    <title><![CDATA[Flamingo neslystantis kilimėlis katėms, tualetui, 60x90 cm]]></title>
+    <title-ru><![CDATA[Flamingo Коврик для кошачьего туалета, серый 60x90см]]></title-ru>
+    <title-lv><![CDATA[Flamingo neslīdošs kaķu tualetes paklājiņš priekšpusē 60x90cm]]></title-lv>
+    <title-ee><![CDATA[Flamingo Libisemiskindel kassi liivakasti esine matt, Hall 60x90cm]]></title-ee>
+    <title-fi><![CDATA[Flamingo Liukumaton Kissan Vessan Etumatto 60x90cm]]></title-fi>
+    <title-en><![CDATA[Flamingo Anti-slip Cat Litter Tray, Grey 60x90cm]]></title-en>
+    <long-description><![CDATA[Neslystantis kilimėlis grindims priešais kačių kraiko dėžę, kad katė galėtų nusivalyti kojas nuo kraiko ir neplatintų jo letenėlėmis.]]></long-description>
+    <long-description-ru><![CDATA[Этот прочный коврик для кошачьего туалета из ПВХ помогает поддерживать чистоту в доме, уменьшая количество песка и пыли в лотке.<br /> Текстурированная поверхность коврика действует как «ловушка для пыли», улавливая частицы песка, которые ваша кошка приносит с собой лапами.<br /><br /> Коврик сохраняет ваш пол чистым и сухим, а его нескользящая основа гарантирует, что коврик будет надежно держаться на месте даже для самых активных кошек.<br /> Водонепроницаемое и влагостойкое покрытие делает уход за ним чрезвычайно простым — просто слегка встряхните его, пропылесосьте или протрите влажной тканью.<br /><br /> Идеально подходит для любого лотка и для кошек всех размеров.<br /><br /> <strong>Материал</strong>: ПВХ<br /> Уменьшает распространение песка вокруг лотка<br /> Сохраняет пол чистым и сухим<br /> Работает как «ловушка для пыли» магнит<br /> Нескользящее основание<br /> Защита от брызг и влаги<br /> Очень легко чистить<br /> Подходит для всех кошек и всех лотков<br /> Идеальное решение для домов с одной или несколькими кошками<br /> Мягкая, но прочная поверхность удобна для кошки<br /><br /> <strong>Производитель: Flamingo Pet Products, Бельгия</strong><br /> <strong>Импортер: Penner OÜ; Выру 77, Тарту, Эстония; info@penner.ee</strong>]]></long-description-ru>
+    <long-description-lv><![CDATA[Neslīdošs paklājiņš grīdai kaķu pakaišu kastes priekšā, lai kaķis varētu notīrīt kājas no pakaišiem un neizkaisīt tos ar ķepām.]]></long-description-lv>
+    <long-description-ee><![CDATA[See vastupidavast PVC-materjalist kassiliivamatt aitab hoida kodu puhtamana, vähendades liivakastist välja kanduvat liiva ja tolmu.<br /> Mati tekstuurne pind toimib “tolmupüüdjana”, püüdes kinni liivaterad, mis kass käppadega kaasa toob.<br /><br /> Matt hoiab põranda puhtana ja kuivana ning selle libisemiskindel põhi tagab, et matt püsib kindlalt paigal ka kõige aktiivsema kassi puhul.<br /> Veekindel ja pritsmekindel pinnakate muudab hooldamise eriti lihtsaks – piisab kergest raputamisest, tolmuimejast või märja lapiga üle pühkimisest.<br /><br /> Sobib suurepäraselt iga liivakasti ette ja igas suuruses kassidele.<br /><br /> <strong>Materjal</strong>: PVC<br /> Vähendab liiva laialikandumist liivakasti ümber<br /> Hoiab põranda puhtana ja kuivana<br /> Töötab kui “tolmumagnet”<br /> Libisemiskindel põhi<br /> Pritsme- ja niiskuskindel<br /> Väga lihtne puhastada<br /> Sobib kõikidele kassidele ja kõikidele liivakastidele<br /> Ideaalne lahendus ühe- ja mitmekassilistele kodudele<br /> Pehme, kuid vastupidav pind on kassile mugav astuda<br /><br /> <strong>Tootja: Flamingo Pet Products, Belgia</strong><br /> <strong>Maaletooja: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee</strong>]]></long-description-ee>
+    <long-description-fi><![CDATA[Tämä kestävä PVC-kissanhiekkamatto auttaa pitämään kotisi puhtaampana vähentämällä hiekkaa ja pölyä hiekkalaatikosta.<br /> Maton kuvioitu pinta toimii "pölyansana" ja kerää kissasi tassuillaan mukanaan tuomat hiekkahiukkaset.<br /><br /> Matto pitää lattiasi puhtaana ja kuivana, ja sen liukumaton pohja varmistaa, että matto pysyy tukevasti paikallaan jopa aktiivisimmalla kissalla.<br /> Vedenpitävä ja roiskevesitiivis pinnoite tekee maton hoidosta erittäin helppoa - ravista sitä vain kevyesti, imuroi se tai pyyhi se kostealla liinalla.<br /><br /> Täydellinen mihin tahansa hiekkalaatikkoon ja kaikenkokoisille kissoille.<br /><br /> <strong>Materiaali</strong>: PVC<br /> Vähentää hiekan leviämistä hiekkalaatikon ympärille<br /> Pitää lattian puhtaana ja kuivana<br /> Toimii "pölymagneettina"<br /> Liukumaton pohja<br /> Roiske- ja kosteutta kestävä<br /> Erittäin helppo puhdistaa<br /> Sopii kaikille kissoille ja kaikille hiekkalaatikoille<br /> Ihanteellinen ratkaisu yhden ja useamman kissan koteihin<br /> Pehmeä mutta kestävä pinta on kissan mukavalle astua<br /><br /> <strong>Valmistaja: Flamingo Pet Products, Belgia</strong><br /> <strong>Maahantuoja: Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee</strong>]]></long-description-fi>
+    <long-description-en><![CDATA[This durable PVC cat litter mat helps keep your home cleaner by reducing sand and dust from the litter box.<br /> The textured surface of the mat acts as a "dust trap", catching the sand particles that your cat brings with it with their paws.<br /><br /> The mat keeps your floor clean and dry, and its non-slip base ensures that the mat stays firmly in place even for the most active cat.<br /> The waterproof and splash-proof coating makes maintenance extremely easy - just shake it lightly, vacuum it or wipe it with a wet cloth.<br /><br /> Perfect for any litter box and for cats of all sizes.<br /><br /> <strong>Material</strong>: PVC<br /> Reduces the spread of sand around the litter box<br /> Keeps the floor clean and dry<br /> Works as a “dust magnet”<br /> Non-slip base<br /> Splash and moisture resistant<br /> Very easy to clean<br /> Suitable for all cats and all litter boxes<br /> Ideal solution for single and multi-cat homes<br /> Soft but durable surface is comfortable for the cat to step on<br /><br /> <strong>Manufacturer: Flamingo Pet Products, Belgium</strong><br /> <strong>Importer: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee</strong>]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.5]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/wc-mat-kassi-wc-ette-90.jpg</url></image>
+          <image><url>https://cdn.erply.com/assets/37488/image/wc-mat-kassi-wc-ette-8.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.5</weight>
+            <length>0.3</length>
+            <height>0.15</height>
+            <width>0.45</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585043211]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[560548]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
     <category-id>21558</category-id>
     <category-name><![CDATA[Care products for animals]]></category-name>
     <title><![CDATA[Flamingo rujos kelnaitės šunims juodos Luvly M 32-39cm]]></title>
@@ -6522,61 +7320,6 @@
   <product>
     <category-id>10424</category-id>
     <category-name><![CDATA[Cat litter boxes]]></category-name>
-    <title><![CDATA[Flamingo neslystantis kilimėlis katėms, tualetui, 60x90 cm]]></title>
-    <title-ru><![CDATA[Flamingo Коврик для кошачьего туалета, серый 60x90см]]></title-ru>
-    <title-lv><![CDATA[Flamingo neslīdošs kaķu tualetes paklājiņš priekšpusē 60x90cm]]></title-lv>
-    <title-ee><![CDATA[Flamingo Libisemiskindel kassi liivakasti esine matt, Hall 60x90cm]]></title-ee>
-    <title-fi><![CDATA[Flamingo Liukumaton Kissan Vessan Etumatto 60x90cm]]></title-fi>
-    <title-en><![CDATA[Flamingo Anti-slip Cat Litter Tray, Grey 60x90cm]]></title-en>
-    <long-description><![CDATA[Neslystantis kilimėlis grindims priešais kačių kraiko dėžę, kad katė galėtų nusivalyti kojas nuo kraiko ir neplatintų jo letenėlėmis.]]></long-description>
-    <long-description-ru><![CDATA[Этот прочный коврик для кошачьего туалета из ПВХ помогает поддерживать чистоту в доме, уменьшая количество песка и пыли в лотке.<br /> Текстурированная поверхность коврика действует как «ловушка для пыли», улавливая частицы песка, которые ваша кошка приносит с собой лапами.<br /><br /> Коврик сохраняет ваш пол чистым и сухим, а его нескользящая основа гарантирует, что коврик будет надежно держаться на месте даже для самых активных кошек.<br /> Водонепроницаемое и влагостойкое покрытие делает уход за ним чрезвычайно простым — просто слегка встряхните его, пропылесосьте или протрите влажной тканью.<br /><br /> Идеально подходит для любого лотка и для кошек всех размеров.<br /><br /> <strong>Материал</strong>: ПВХ<br /> Уменьшает распространение песка вокруг лотка<br /> Сохраняет пол чистым и сухим<br /> Работает как «ловушка для пыли» магнит<br /> Нескользящее основание<br /> Защита от брызг и влаги<br /> Очень легко чистить<br /> Подходит для всех кошек и всех лотков<br /> Идеальное решение для домов с одной или несколькими кошками<br /> Мягкая, но прочная поверхность удобна для кошки<br /><br /> <strong>Производитель: Flamingo Pet Products, Бельгия</strong><br /> <strong>Импортер: Penner OÜ; Выру 77, Тарту, Эстония; info@penner.ee</strong>]]></long-description-ru>
-    <long-description-lv><![CDATA[Neslīdošs paklājiņš grīdai kaķu pakaišu kastes priekšā, lai kaķis varētu notīrīt kājas no pakaišiem un neizkaisīt tos ar ķepām.]]></long-description-lv>
-    <long-description-ee><![CDATA[See vastupidavast PVC-materjalist kassiliivamatt aitab hoida kodu puhtamana, vähendades liivakastist välja kanduvat liiva ja tolmu.<br /> Mati tekstuurne pind toimib “tolmupüüdjana”, püüdes kinni liivaterad, mis kass käppadega kaasa toob.<br /><br /> Matt hoiab põranda puhtana ja kuivana ning selle libisemiskindel põhi tagab, et matt püsib kindlalt paigal ka kõige aktiivsema kassi puhul.<br /> Veekindel ja pritsmekindel pinnakate muudab hooldamise eriti lihtsaks – piisab kergest raputamisest, tolmuimejast või märja lapiga üle pühkimisest.<br /><br /> Sobib suurepäraselt iga liivakasti ette ja igas suuruses kassidele.<br /><br /> <strong>Materjal</strong>: PVC<br /> Vähendab liiva laialikandumist liivakasti ümber<br /> Hoiab põranda puhtana ja kuivana<br /> Töötab kui “tolmumagnet”<br /> Libisemiskindel põhi<br /> Pritsme- ja niiskuskindel<br /> Väga lihtne puhastada<br /> Sobib kõikidele kassidele ja kõikidele liivakastidele<br /> Ideaalne lahendus ühe- ja mitmekassilistele kodudele<br /> Pehme, kuid vastupidav pind on kassile mugav astuda<br /><br /> <strong>Tootja: Flamingo Pet Products, Belgia</strong><br /> <strong>Maaletooja: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee</strong>]]></long-description-ee>
-    <long-description-fi><![CDATA[Tämä kestävä PVC-kissanhiekkamatto auttaa pitämään kotisi puhtaampana vähentämällä hiekkaa ja pölyä hiekkalaatikosta.<br /> Maton kuvioitu pinta toimii "pölyansana" ja kerää kissasi tassuillaan mukanaan tuomat hiekkahiukkaset.<br /><br /> Matto pitää lattiasi puhtaana ja kuivana, ja sen liukumaton pohja varmistaa, että matto pysyy tukevasti paikallaan jopa aktiivisimmalla kissalla.<br /> Vedenpitävä ja roiskevesitiivis pinnoite tekee maton hoidosta erittäin helppoa - ravista sitä vain kevyesti, imuroi se tai pyyhi se kostealla liinalla.<br /><br /> Täydellinen mihin tahansa hiekkalaatikkoon ja kaikenkokoisille kissoille.<br /><br /> <strong>Materiaali</strong>: PVC<br /> Vähentää hiekan leviämistä hiekkalaatikon ympärille<br /> Pitää lattian puhtaana ja kuivana<br /> Toimii "pölymagneettina"<br /> Liukumaton pohja<br /> Roiske- ja kosteutta kestävä<br /> Erittäin helppo puhdistaa<br /> Sopii kaikille kissoille ja kaikille hiekkalaatikoille<br /> Ihanteellinen ratkaisu yhden ja useamman kissan koteihin<br /> Pehmeä mutta kestävä pinta on kissan mukavalle astua<br /><br /> <strong>Valmistaja: Flamingo Pet Products, Belgia</strong><br /> <strong>Maahantuoja: Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee</strong>]]></long-description-fi>
-    <long-description-en><![CDATA[This durable PVC cat litter mat helps keep your home cleaner by reducing sand and dust from the litter box.<br /> The textured surface of the mat acts as a "dust trap", catching the sand particles that your cat brings with it with their paws.<br /><br /> The mat keeps your floor clean and dry, and its non-slip base ensures that the mat stays firmly in place even for the most active cat.<br /> The waterproof and splash-proof coating makes maintenance extremely easy - just shake it lightly, vacuum it or wipe it with a wet cloth.<br /><br /> Perfect for any litter box and for cats of all sizes.<br /><br /> <strong>Material</strong>: PVC<br /> Reduces the spread of sand around the litter box<br /> Keeps the floor clean and dry<br /> Works as a “dust magnet”<br /> Non-slip base<br /> Splash and moisture resistant<br /> Very easy to clean<br /> Suitable for all cats and all litter boxes<br /> Ideal solution for single and multi-cat homes<br /> Soft but durable surface is comfortable for the cat to step on<br /><br /> <strong>Manufacturer: Flamingo Pet Products, Belgium</strong><br /> <strong>Importer: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee</strong>]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.5]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/wc-mat-kassi-wc-ette-90.jpg</url></image>
-          <image><url>https://cdn.erply.com/assets/37488/image/wc-mat-kassi-wc-ette-8.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.5</weight>
-            <length>0.3</length>
-            <height>0.15</height>
-            <width>0.45</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585043211]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[560548]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10424</category-id>
-    <category-name><![CDATA[Cat litter boxes]]></category-name>
     <title><![CDATA[Flamingo kačių kraiko samtelis, pilkas, 13x13x15,5 cm]]></title>
     <title-ru><![CDATA[Flamingo Совок-ковш, 13x13x15,5см]]></title-ru>
     <title-lv><![CDATA[Flamingo kaķu pakaišu liekšķere, pelēka, 13x13x15.5cm]]></title-lv>
@@ -11807,6 +12550,61 @@
                 <barcode><![CDATA[5400585147124]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[561000]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10394</category-id>
+    <category-name><![CDATA[Toys for dogs]]></category-name>
+    <title><![CDATA[Flamingo žaislas šunims Nyl'o bambukinis T-Bone (jautienos skonio) L 18.5cm]]></title>
+    <title-ru><![CDATA[Flamingo Игрушка для собак Nyl'O Bamboo T-Bone (со вкусом говядины) L 18.5см]]></title-ru>
+    <title-lv><![CDATA[Flamingo suņu rotaļlieta Nyl'o bambusa T-Bone (liellopa gaļas garša) L 18.5cm]]></title-lv>
+    <title-ee><![CDATA[Flamingo Mänguasi Koerale Nyl'o Bamboo T-Bone (Veiselihamaitseline) L 18.5cm]]></title-ee>
+    <title-fi><![CDATA[Flamingo-koiralelu Nyl'o bambuinen T-luu (naudanlihan maku) L 18,5 cm]]></title-fi>
+    <title-en><![CDATA[Flamingo Dog Toy Nyl'O Bamboo T-Bone (Beef flavored) L 18.5cm]]></title-en>
+    <long-description><![CDATA[Kramtomas žaislas šuniui]]></long-description>
+    <long-description-ru><![CDATA[Прочная игрушка для жевания для детей, которые любят грызть.<br /> Изготовлена из комбинации бамбукового волокна и нейлона, что обеспечивает длительное удовольствие от жевания и способствует здоровью зубов и десен. Говяжий вкус делает игрушку более привлекательной для собак.<br /><br /> <strong>Материалы:</strong>бамбуковое волокно, нейлон<br /> <strong>Особенности:</strong><br /> Помогает уменьшить образование зубного налета<br /> Массирует десны во время жевания<br /> Подходит для активных и сильных собак, которые любят грызть<br /> С говяжьим вкусом<br /> Подходит для собак всех возрастов<br /><br /> Изделие предназначено для жевания собаками и для регулярного использования на домашних животных.<br /><br /> Рекомендуется использовать игрушку под присмотром взрослых и убирать ее, если она сильно повреждена. <strong>Производитель:</strong> Flamingo Pet Products, Бельгия<br /> <strong>Импортер:</strong> Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Košļājamā rotaļlieta sunim]]></long-description-lv>
+    <long-description-ee><![CDATA[Vastupidav närimismänguasi tugevatele närijatele.<br /> Valmistatud bambuskiu ja nailoni kombinatsioonist, mis aitab pakkuda kauakestvat närimisrõõmu ning toetab hammaste ja igemete hooldust. Veiseliha maitse muudab mänguasja koerale atraktiivsemaks.<br /><br /> <strong>Materjalid:</strong> bambuskiud, nailon<br /> <strong>Omadused:</strong><br /> Aitab vähendada hambakatu teket<br /> Masseerib igemeid närimise ajal<br /> Sobib aktiivsetele ja tugevatele närijatele<br /> Veiseliha maitsega<br /> Sobib igas vanuses koertele<br /><br /> Toode on mõeldud koertele närimiseks ning tavapäraseks kasutamiseks lemmikloomal. Soovitatav kasutada järelvalve all ja eemaldada mänguasi, kui see muutub tugevalt kahjustunuks.<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maaletooja:</strong> Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Kestävä purulelu voimakkaille pureskelijoille.<br /> Valmistettu bambukuidun ja nailonin yhdistelmästä, joka tarjoaa pitkäkestoisen pureskelunautinnon ja tukee hampaiden ja ikenien hoitoa. Naudanlihan maku tekee lelusta houkuttelevamman koirille.<br /><br /> <strong>Materiaalit:</strong> bambukuitu, nailon<br /> <strong>Ominaisuudet:</strong><br /> Auttaa vähentämään plakin muodostumista<br /> Hieroo ikeniä pureskelun aikana<br /> Sopii aktiivisille ja voimakkaille pureskelijoille<br /> Naudanlihan makuinen<br /> Sopii kaikenikäisille koirille<br /><br /> Tuote on tarkoitettu koirien pureskeltavaksi ja säännölliseen käyttöön lemmikeillä. On suositeltavaa käyttää sitä valvonnassa ja poistaa lelu, jos se vaurioituu vakavasti.<br /><br /> <strong>Valmistaja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja:</strong> Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Durable chew toy for strong chewers.<br /> Made from a combination of bamboo fiber and nylon, which helps provide long-lasting chewing pleasure and supports the care of teeth and gums. The beef flavor makes the toy more attractive to dogs.<br /><br /> <strong>Materials:</strong> bamboo fiber, nylon<br /> <strong>Features:</strong><br /> Helps reduce plaque formation<br /> Massages gums while chewing<br /> Suitable for active and strong chewers<br /> With beef flavor<br /> Suitable for dogs of all ages<br /><br /> The product is intended for chewing by dogs and for regular use on pets. It is recommended to use under supervision and remove the toy if it becomes severely damaged.<br /><br /> <strong>Manufacturer:</strong> Flamingo Pet Products, Belgium<br /> <strong>Importer:</strong> Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
+    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[FLAMINGO]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.23]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Manguasi_Koerale_Nyl_o_Bamboo_T-Bone__Veiselihamaitseline__v1.jpg</url></image>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Manguasi_Koerale_Nyl_o_Bamboo_T-Bone__Veiselihamaitseline__L_1.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.23</weight>
+            <length>0.3</length>
+            <height>0.05</height>
+            <width>0.2</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[5400585260328]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[522192]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -17522,66 +18320,6 @@
     </colours>
   </product>
   <product>
-    <category-id>10391</category-id>
-    <category-name><![CDATA[Dog bowls, pet food containers]]></category-name>
-    <title><![CDATA[Flamingo maisto dubenėlis „Jappie“, smėlio spalvos, 850 ml]]></title>
-    <title-ru><![CDATA[Flamingo Миска для корма «Jappie», бежевая, 850 мл]]></title-ru>
-    <title-lv><![CDATA[Flamingo pārtikas bļoda "Jappie", bēša, 850ml]]></title-lv>
-    <title-ee><![CDATA[Flamingo Söögikauss "Jappie", Beež 850ml]]></title-ee>
-    <title-fi><![CDATA[Flamingo-ruokakulho "Jappie", beige 850ml]]></title-fi>
-    <title-en><![CDATA[Flamingo “Jappie” Feeding Bowl, Beige 850 ml]]></title-en>
-    <long-description><![CDATA[Flamingo maisto dubenėlis „Jappie“, smėlio spalvos, 850 ml]]></long-description>
-    <long-description-ru><![CDATA[Стильная и практичная миска Jappie подходит как для корма, так и для воды. Изготовлена из прочной нержавеющей стали и оснащена противоскользящим основанием, которое удерживает миску на месте во время еды. Легко очищается и подходит для мытья в посудомоечной машине.<br /><br /> <strong>Характеристики:</strong><br /><br /> Материал: нержавеющая сталь<br /><br /> Противоскользящее основание<br /><br /> Можно мыть в посудомоечной машине<br /><br /> <strong>Производитель:</strong> Flamingo Pet Products, Бельгия<br /> <strong>Импортёр:</strong> Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Flamingo pārtikas bļoda "Jappie", bēša, 850ml]]></long-description-lv>
-    <long-description-ee><![CDATA[Stiilne ja praktiline Jappie söögikauss sobib nii toidu kui ka vee jaoks. Kauss on valmistatud vastupidavast roostevabast terasest ning libisemisvastane põhi hoiab selle söömise ajal kindlalt paigal. Lihtne puhastada – sobib ka nõudepesumasinas pesemiseks.<br /><br /> <strong>Omadused:</strong><br /> Materjal: roostevaba teras<br /> Libisemisvastane põhi<br /> Nõudepesumasinas pestav<br /><br /> <strong>Tootja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maaletooja:</strong> Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Tyylikäs ja käytännöllinen Jappie-ruokakulho sopii sekä ruoalle että vedelle. Kulho on valmistettu kestävästä ruostumattomasta teräksestä ja liukumaton pohja pitää sen tukevasti paikallaan syömisen aikana. Helppo puhdistaa - myös astianpesukoneen kestävä.<br /><br /> <strong>Ominaisuudet:</strong><br /> Materiaali: ruostumaton teräs<br /> Liukumaton pohja<br /> Astianpesukoneen kestävä<br /><br /> <strong>Valmistaja:</strong> Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja:</strong> Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[The stylish and practical Jappie bowl is suitable for both food and water. Made from durable stainless steel, it features a non-slip base to keep the bowl securely in place during mealtimes. Easy to clean and dishwasher safe.<br /><br /> <strong>Features:</strong><br /><br /> Material: stainless steel<br /><br /> Non-slip base<br /><br /> Dishwasher safe<br /><br /> <strong>Manufacturer:</strong> Flamingo Pet Products, Belgium<br /> <strong>Importer:</strong> Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Maht]]></id>
-        <values>
-          <value><![CDATA[0.85 l]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.22]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/soogikauss-koerale-Jappie-5-3.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.22</weight>
-            <length>0.17</length>
-            <height>0.06</height>
-            <width>0.17</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585391015]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[525724]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
     <category-id>10394</category-id>
     <category-name><![CDATA[Toys for dogs]]></category-name>
     <title><![CDATA[Flamingo žaislas šuniui „Žirafa“ 57 cm]]></title>
@@ -19396,60 +20134,6 @@
     </colours>
   </product>
   <product>
-    <category-id>10427</category-id>
-    <category-name><![CDATA[Cat scratching posts]]></category-name>
-    <title><![CDATA[Flamingo Draskyklė-Stulpas Katėms, Rožinė 60cm]]></title>
-    <title-ru><![CDATA[Flamingo Когтеточка для Кошек, Розовая 60см]]></title-ru>
-    <title-lv><![CDATA[Flamingo Skrāpējamais Stabiņš Kaķiem, Rozā 60cm]]></title-lv>
-    <title-ee><![CDATA[Flamingo Kraapimispost Kassile, Antiikroosa 60cm]]></title-ee>
-    <title-fi><![CDATA[Flamingo Raapimispuu Kissalle, Vaaleanpunainen 60cm]]></title-fi>
-    <title-en><![CDATA[Flamingo Cat Scratching Post, Pink 60cm]]></title-en>
-    <long-description><![CDATA[Flamingo antikvarinės rožinės spalvos katėms skirtas draskyklės stulpas su džiuto virve ir plunksnomis. Aukštis 60 cm, tinka įvairaus amžiaus ir dydžio katėms.]]></long-description>
-    <long-description-ru><![CDATA[Антикварная розовая когтеточка для кошек в виде фламинго. К когтеточке прикреплена игрушка-перо.<br /> Изделие предназначено для использования в помещении и подходит для кошек всех возрастов и размеров.<br /><br /> <strong>Особенности:</strong><br /> Функциональность: Мягкая подставка и джутовая когтеточка с веревкой.<br /> Аксессуары: Игрушка-перо на пружинном креплении.<br /> Материалы: Мягкий плюш (плотность 330 г/м²), ДСП (основание), джутовая веревка (толщина 5 мм).<br /> Размеры: Основание 38,5 x 38,5 см, диаметр столбика 9 см, общая высота 60 см.<br /> Вес: 2,12 кг.<br /> Цвет: Античный розовый<br /><br /> <strong>Производитель</strong>: Flamingo Pet Products, Бельгия<br /> <strong>Импортер</strong>: Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Flamingo antīki rozā kaķu skrāpēšanas stabs ar džutas virvi un spalvām. Augstums 60 cm, piemērots visu vecumu un izmēru kaķiem.]]></long-description-lv>
-    <long-description-ee><![CDATA[Flamingo antiikroosa kraapimispost kassidele. Kraapimisposti külge on kinnitatud sulgedega mänguasi.<br /> Toode on mõeldud kasutamiseks siseruumides ja sobib igas vanuses ning igas suuruses kassidele.<br /><br /> <strong>Omadused:</strong><br /> Funktsionaalsus: Polsterdatud alusplatvorm ja džuudist kraapimisnööriga post.<br /> Lisatarvikud: Vedruga kinnitatud sulgedega mänguasi.<br /> Materjalid: Pehme plüüs (tihedus 330 g/m²), puitlaastplaat (alus), džuudist nöör (paksus 5 mm).<br /> Mõõdud: Alusplaat 38,5 x 38,5 cm, posti läbimõõt 9 cm, üldkõrgus 60 cm.<br /> Kaal: 2,12 kg.<br /> Värvus: Antiikroosa<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Flamingo antiikkipinkki raapimapuu kissoille. Raapimapuuhun on kiinnitetty höyhenlelu.<br /> Tuote on tarkoitettu sisäkäyttöön ja sopii kaikenikäisille ja -kokoisille kissoille.<br /><br /> <strong>Ominaisuudet:</strong><br /> Toiminnallisuus: Pehmustettu pohjalevy ja juutista valmistettu raapimapuu köydellä.<br /> Lisävarusteet: Jousitettu höyhenlelu.<br /> Materiaalit: Pehmeä plyysi (tiheys 330 g/m²), lastulevy (pohja), juuttikierre (paksuus 5 mm).<br /> Mitat: Pohjalevy 38,5 x 38,5 cm, pylvään halkaisija 9 cm, kokonaiskorkeus 60 cm.<br /> Paino: 2,12 kg.<br /> Väri: Antiikkipinkki<br /><br /> <strong>Valmistaja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maahantuoja</strong>: Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[Flamingo antique pink scratching post for cats. A feather toy is attached to the scratching post.<br /> The product is intended for indoor use and is suitable for cats of all ages and sizes.<br /><br /> <strong>Features:</strong><br /> Functionality: Padded base platform and jute scratching post with rope.<br /> Accessories: Spring-mounted feather toy.<br /> Materials: Soft plush (density 330 g/m²), chipboard (base), jute rope (thickness 5 mm).<br /> Dimensions: Base plate 38.5 x 38.5 cm, post diameter 9 cm, total height 60 cm.<br /> Weight: 2.12 kg.<br /> Color: Antique pink<br /><br /> <strong>Manufacturer</strong>: Flamingo Pet Products, Belgium<br /> <strong>Importer</strong>: Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[2]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Flamingo-Kraapimispost-Kassile-Roosa-60cm.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>2</weight>
-            <length>0.6</length>
-            <height>0.4</height>
-            <width>0.4</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585330038]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[562060]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
     <category-id>10394</category-id>
     <category-name><![CDATA[Toys for dogs]]></category-name>
     <title><![CDATA[Flamingo šuns žaislas Paukštis 25x28,5cm]]></title>
@@ -19605,63 +20289,6 @@
                 <barcode><![CDATA[5400585216493]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[523982]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10403</category-id>
-    <category-name><![CDATA[Travel accessories for dog]]></category-name>
-    <title><![CDATA[Flamingo automobilio priekinės sėdynės užvalkalas „Oslo“ 135x70cm]]></title>
-    <title-ru><![CDATA[Flamingo Покрывало для переднего сиденъя 135x70см]]></title-ru>
-    <title-lv><![CDATA[Flamingo automašīnas priekšējā sēdekļa pārvalks "Oslo" 135x70cm]]></title-lv>
-    <title-ee><![CDATA[Flamingo Auto Esiistme Kate "Oslo" 135x70cm]]></title-ee>
-    <title-fi><![CDATA[Flamingo auton etuistuimen suojus "Oslo" 135x70cm]]></title-fi>
-    <title-en><![CDATA[Flamingo Front Seat Cover 135x70cm]]></title-en>
-    <long-description><![CDATA[Automobilio priekinės sėdynės užvalkalas.]]></long-description>
-    <long-description-ru><![CDATA[Предотвращает попадание грязи и шерсти на сиденье. Легко в уходе.<br /><br /> Размеры: 135x70 см<br /><br /> Flamingo Pet Products]]></long-description-ru>
-    <long-description-lv><![CDATA[Automašīnas priekšējā sēdekļa pārvalks.]]></long-description-lv>
-    <long-description-ee><![CDATA[Hoiab istmel ära mustuse ja karvad. Kerge hooldada.<br /><br /> Mõõtmed: 135x70cm<br /><br /> Flamingo Pet Products]]></long-description-ee>
-    <long-description-fi><![CDATA[Estää lian ja hiusten pääsyn istuimelle. Helppo huoltaa.<br /><br /> Mitat: 135x70cm<br /><br /> Flamingo Pet Products]]></long-description-fi>
-    <long-description-en><![CDATA[Prevents dirt and hair from getting on the seat. Easy to maintain.<br /><br /> Dimensions: 135x70cm<br /><br /> Flamingo Pet Products]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.3]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/autoistmekate_esiistmele_flamingo.jpg</url></image>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/autoistmekate_esiistmele_flamingo_A.jpg</url></image>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/autoistmekate_esiistmele_flamingo_C.jpg</url></image>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/autoistmekate_esiistmele_flamingo_B.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.3</weight>
-            <length>0.2</length>
-            <height>0.06</height>
-            <width>0.165</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400585002140]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[31497]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -66146,61 +66773,6 @@ The pictures are illustrative, choose the appropriate size according to your dog
     </colours>
   </product>
   <product>
-    <category-id>10424</category-id>
-    <category-name><![CDATA[Cat litter boxes]]></category-name>
-    <title><![CDATA[Flamingo aktyvuotos anglies filtrai kačių tualetui 15 x 19,5 cm (3 vnt.)]]></title>
-    <title-ru><![CDATA[Flamingo Активный уголъный филътр 15 х 19,5, 3шт]]></title-ru>
-    <title-lv><![CDATA[Flamingo aktivētās ogles filtri kaķu tualetei 15 x 19,5 cm (3 gab.)]]></title-lv>
-    <title-ee><![CDATA[Flamingo Aktiivsöe Filter Kassi Liivakastile 15x19,5cm (3tk)]]></title-ee>
-    <title-fi><![CDATA[Flamingo Aktiivihiilisuodattimet Kissan Vessalle 15 x 19.5cm (3kpl)]]></title-fi>
-    <title-en><![CDATA[Flamingo Active Charcoal Filters 15 x 19,5cm, 3pcs]]></title-en>
-    <long-description><![CDATA[„Flamingo“ aktyvuotos anglies filtrai sumažina nemalonius kvapus kačių kraiko dėžėse. Tinka daugumai dengtų kraiko dėžių, galima karpyti pagal dydį, pakuotėje yra 3 vienetai.]]></long-description>
-    <long-description-ru><![CDATA[Фильтры с активированным углём эффективно уменьшают неприятные запахи в кошачьем туалете и помогают сохранять свежесть воздуха в помещении. Подходят для большинства закрытых лотков.<br /><br /> Размер фильтра можно легко подогнать — просто обрежьте его ножницами по размеру предыдущего фильтра.<br /><br /> Размеры: 15,4 × 19,6 × 0,3 см<br /> В упаковке: 3 фильтра<br /><br /> Производитель: Flamingo Pet Products, Бельгия<br /> Дистрибьютор: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Flamingo aktivētās ogles filtri samazina nepatīkamas smakas kaķu tualetēs. Piemērots lielākajai daļai pārklāto tualetes kastīšu, var sagriezt pēc izmēra, 3 gabali iepakojumā.]]></long-description-lv>
-    <long-description-ee><![CDATA[Aktiivsöega filtrid aitavad tõhusalt vähendada ebameeldivaid lõhnu kassi liivakastis ning hoida ruumi õhu värskemana. Sobivad kasutamiseks enamikus katusega liivakastides.<br /> Filtri suurust saab vajadusel lihtsalt kohandada – lõika see kääridega sobivaks vastavalt vana filtri mõõdule.<br /><br /> <strong>Mõõdud</strong>: 15 × 19,5 × 0,3 cm<br /> <strong>Pakis</strong>: 3 filtrit<br /><br /> <strong>Tootja</strong>: Flamingo Pet Products, Belgia<br /> <strong>Maaletooja</strong>: Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Aktiivihiilisuodattimet vähentävät tehokkaasti epämiellyttäviä hajuja kissanhiekkalaatikoissa ja pitävät huoneilman raikkaampana. Sopii käytettäväksi useimmissa katetuissa hiekkalaatikoissa.<br /><br /> Suodattimen kokoa voidaan helposti säätää tarvittaessa - leikkaa se saksilla vanhan suodattimen kokoon sopivaksi.<br /><br /> Mitat: 15,4 × 19,6 × 0,3 cm<br /> Pakkaus: 3 suodatinta<br /><br /> Valmistaja: Flamingo Pet Products, Belgia<br /> Maahantuoja: Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[Activated carbon filters help effectively reduce unpleasant odours in the litter box and keep the surrounding air fresher. Suitable for use in most covered litter boxes.<br /><br /> The filter can easily be adjusted to size – simply trim it with scissors according to the dimensions of your previous filter.<br /><br /> Dimensions: 15.4 × 19.6 × 0.3 cm<br /> Pack contains: 3 filters<br /><br /> Manufacturer: Flamingo Pet Products, Belgium<br /> Distributor: Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Flamingo Pet Products]]></manufacturer-name>
-    <manufacturer-address><![CDATA[Lammerdries - Winkelstraat 25, 2250 Olen, Belgia]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@flamingo.be]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[FLAMINGO]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.02]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Aktiivsoe_Filtrid_Kassi_WC_1.jpg</url></image>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Aktiivsoe_Filtrid_Kassi_WC.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.02</weight>
-            <length>0.2</length>
-            <height>0.01</height>
-            <width>0.2</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[5400274769378]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[501058]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
     <category-id>21558</category-id>
     <category-name><![CDATA[Care products for animals]]></category-name>
     <title><![CDATA[Flamingo Bambukinis Šepetys-Plaukų Rinkiklis Šunims ir Katėms M]]></title>
@@ -81681,58 +82253,6 @@ The Flexi leash is not suitable as a puppy's first leash, because with this leas
                 <barcode><![CDATA[873199001741]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[59856]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10394</category-id>
-    <category-name><![CDATA[Toys for dogs]]></category-name>
-    <title><![CDATA[„Starmark“ šunų žaislas „Bob-a-Lot S“]]></title>
-    <title-ru><![CDATA[Игрушка для собак Starmark Bob-a-lot S]]></title-ru>
-    <title-lv><![CDATA[Starmark suņu rotaļlieta Bob-a-Lot S]]></title-lv>
-    <title-ee><![CDATA[Starmark Mänguasi Koerale Bob-a-Lot S]]></title-ee>
-    <title-fi><![CDATA[Starmark-koiranlelu Bob-a-Lot S]]></title-fi>
-    <title-en><![CDATA[Starmark Dog Toy Bob-a-lot S]]></title-en>
-    <long-description><![CDATA[Skanėstų žaislas šuniui.]]></long-description>
-    <long-description-ru><![CDATA[Игрушка для собак, наполненная лакомствами.<br /> Игрушка Bob-a-Lot многократно выпрямляется, поэтому собаке приходится несколько раз толкать её, чтобы достать лакомства.<br /> Это развивает собаку как умственно, так и физически.<br /> С регулируемой сложностью.<br /><br /> Starmark]]></long-description-ru>
-    <long-description-lv><![CDATA[Kārumu rotaļlieta sunim.]]></long-description-lv>
-    <long-description-ee><![CDATA[Maiustustega täidetav koeramänguasi.<br /> Bob-a-Lot sirgub korduvalt püsti, nii et koer peab teda mitu korda nügima, et maiused seest välja saada.<br /> Nii tekib tegevus, mis treenib koera nii vaimselt kui ka füüsiliselt.<br /> Reguleeritava raskusastmega.<br /><br /> Starmark]]></long-description-ee>
-    <long-description-fi><![CDATA[Koiranlelu täynnä herkkuja.<br /> Bob-a-Lot suoristuu toistuvasti, joten koiran on tönäistävä sitä useita kertoja saadakseen herkut ulos.<br /> Tämä luo aktiviteetin, joka kouluttaa koiraa sekä henkisesti että fyysisesti.<br /> Säädettävällä vaikeusasteella.<br /><br /> Starmark]]></long-description-fi>
-    <long-description-en><![CDATA[A dog toy filled with treats.<br /> Bob-a-Lot repeatedly straightens up, so the dog has to nudge it several times to get the treats out.<br /> This creates an activity that trains the dog both mentally and physically.<br /> With adjustable difficulty.<br /><br /> Starmark]]></long-description-en>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[STARMARK]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.5]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/starmark_manguasi_koerale.jpg</url></image>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/starmark_manguasi_koerale_A.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.5</weight>
-            <length>0.001</length>
-            <height>0.1</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[873199001147]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[59840]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
