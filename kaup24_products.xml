@@ -1,6 +1,392 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
+    <category-id>21558</category-id>
+    <category-name><![CDATA[Care products for animals]]></category-name>
+    <title><![CDATA[Earth Rated 100 % nepralaidūs kvapnūs maišeliai išmatoms, 21 ritinėlis (315 vnt.)]]></title>
+    <title-ru><![CDATA[Пакеты 100% непротекаемыe "Earth Rated" для выгула собак 315шт]]></title-ru>
+    <title-lv><![CDATA[Earth Rated 100% hermētiski aromatizēti kaku maisiņi, 21 rullis (315 gab.)]]></title-lv>
+    <title-ee><![CDATA[Earth Rated 100% Lekkekindlad Lõhnatud Kakakotid 21 rulli (315tk)]]></title-ee>
+    <title-fi><![CDATA[Earth Rated 100% vuotamattomat tuoksukakkapussit 21 rullaa (315 kpl)]]></title-fi>
+    <title-en><![CDATA[Earth Rated 100% Leak proof Unscented Poop Bags 21 Rolls / 315pcs]]></title-en>
+    <long-description><![CDATA[Sandarūs, bekvapiai maišeliai išmatoms (315 vnt.)]]></long-description>
+    <long-description-ru><![CDATA[Пакеты для уборки экскрементов Earth Rated больше по размеру, прочнее и полностью герметичны.<br /> Подходят для владельцев домашних животных, которые предпочитают пакеты с приятным запахом. В упаковке 21 сменный рулон, которые можно использовать отдельно или с зеленым держателем для пакетов Earth Rated. Пакеты легко открываются и отрываются от рулона, при этом они очень толстые и прочные.<br /><br /> <strong>Количество: 21</strong> рулон (315 пакетов)<br /> <strong>Размеры пакета:</strong> 22,8x33 см<br /><br /> <strong>Производитель:</strong> Earth Rated]]></long-description-ru>
+    <long-description-lv><![CDATA[Necaurlaidīgi, bez smaržas kaku maisiņi (315 gab.)]]></long-description-lv>
+    <long-description-ee><![CDATA[Earth Rated kakakotid on suuremad, vastupidavamad ja täielikult lekkekindlad.<br /> Sobivad loomaomanikele, kes eelistavad meeldiva lõhnaga varianti. Pakis on 21 asendusrulli, mida võib kasutada eraldi, kui ka Earth rated rohelise kakakotihoidjaga. Kotte saab lihtsalt avada ja rullist lahti rebida, olles siiski ekstra paksud ja vastupidavad.<br /><br /> <strong>Kogus: 21</strong> rulli (315 kotti)<br /> <strong>Koti mõõdud:</strong> 22,8x33cm<br /><br /> <strong>Tootja:</strong> Earth Rated]]></long-description-ee>
+    <long-description-fi><![CDATA[Earth Rated -kakkapussit ovat suurempia, kestävämpiä ja täysin vuotamattomia.<br /> Sopii lemmikkien omistajille, jotka arvostavat miellyttävän tuoksuista vaihtoehtoa. Pakkaus sisältää 21 vaihtorullaa, joita voidaan käyttää erikseen tai Earth Rated -vihreän kakkapussin pidikkeen kanssa. Pussit on helppo avata ja repäistä rullasta, mutta ne ovat erittäin paksuja ja kestäviä.<br /><br /> <strong>Määrä: 21</strong> rullaa (315 pussia)<br /> <strong>Pussin mitat:</strong>22,8 x 33 cm<br /><br /> <strong>Valmistaja:</strong>Earth Rated]]></long-description-fi>
+    <long-description-en><![CDATA[Earth Rated poop bags are larger, more durable and completely leak-proof.<br /> Suitable for pet owners who prefer a pleasant-smelling option. The pack contains 21 replacement rolls that can be used separately or with the Earth Rated green poop bag holder. The bags can be easily opened and torn off the roll, yet are extra thick and durable.<br /><br /> <strong>Quantity: 21</strong> rolls (315 bags)<br /> <strong>Bag dimensions:</strong> 22.8x33cm<br /><br /> <strong>Manufacturer:</strong> Earth Rated]]></long-description-en>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[EARTH RATED]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.5]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Earth_Rated_Lekkekindlad_Kakakotid_Lohnatud_21_rulli.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.5</weight>
+            <length>0.22</length>
+            <height>0.07</height>
+            <width>0.1</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[870856000710]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[E-BG0006]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10376</category-id>
+    <category-name><![CDATA[Dog snacks]]></category-name>
+    <title><![CDATA[Dokas džiovintos triušio ausys su kailiu šunims, 100 g]]></title>
+    <title-ru><![CDATA[Dokas сушёные кроличьи уши с шерстью 100 г]]></title-ru>
+    <title-lv><![CDATA[Dokas kārums suņiem - žāvētas truša ausis ar kažoku 100g]]></title-lv>
+    <title-ee><![CDATA[Dokas Maius Koerale - Kuivatatud Küülikukõrvad Karvaga 100g]]></title-ee>
+    <title-fi><![CDATA[Dokas Herkku koirille - Kuivatut kaninkorvat karvalla 100g]]></title-fi>
+    <title-en><![CDATA[Dokas Dried Rabbit Ears with Fur 100 g]]></title-en>
+    <long-description><![CDATA[Džiovintos triušio ausys su kailiu – gardus kramtomas skanėstas šunims. Tinka ir šunims, turintiems maisto alergijų.]]></long-description>
+    <long-description-ru><![CDATA[Сушёные кроличьи уши с шерстью — это вкусное жевательное лакомство для собак. Также подходит для собак, страдающих пищевой аллергией.<br /><br /> <strong>Состав:</strong> 100% сушёные кроличьи уши<br /> <strong>Анализ:</strong> Сырой протеин 72%, сырые жиры 19%, сырая зола 2,9%, сырая клетчатка 0,5%, влажность 9%<br /> <strong>Энергетическая ценность:</strong> 460 ккал / 100 г<br /><br /> <strong>Кормовое сырьё для собак.</strong><br /><br /> <strong>Рекомендации по кормлению:</strong> Давать в качестве поощрения. При необходимости уменьшить суточную норму корма (см. информацию об энергетической ценности). Обеспечить доступ к свежей питьевой воде.<br /> <strong>Хранение:</strong> После вскрытия тщательно закрыть упаковку застёжкой и хранить в сухом и прохладном месте.<br /> <strong>Срок годности и номер партии:</strong> см. на упаковке<br /> <strong>Масса нетто:</strong> 100 г<br /><br /> <strong>Производитель:</strong> Dokas Handelsgesellschaft GmbH<br /> <strong>Импортёр:</strong> Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Žāvētas truša ausis ar kažokādu ir gards košļājamais našķis suņiem. Piemērots arī suņiem, kas cieš no pārtikas alerģijām.]]></long-description-lv>
+    <long-description-ee><![CDATA[Kuivatatud küülikukõrvad karvaga on maitsev närimismaius koertele. Sobib ka toiduallergiate all kannatavatele koertele.<br /><br /> <strong>Koostis:</strong> 100% kuivatatud küülikukõrvad<br /> <strong>Analüüs:</strong> Toorproteiin 72%, toorrasvad 19%, toortuhk 2,9%, toorkiud 0,5%, niiskus 9%<br /> <strong>Energia:</strong> 460kcal/100g<br /><br /> <strong>Söödamaterjal koerale.</strong><br /><br /> <strong>Toitumis juhised</strong>: Serveeri preemiana.Vähenda päevast toitumiskogust nii palju kui vaja (vaata energia infot). Pakkuda rohkelt joogivett.<br /> <strong>Säilitamine:</strong> Pärast avamist sulgege hoolikalt tõmblukuga ja hoidke kuivas ja jahedas kohas.<br /> <strong>Parim enne ja partii nr</strong> vaata pakendilt<br /> <strong>Neto kogus</strong> 100g<br /><br /> <strong>Tootja:</strong> Dokas Handelsgesellschaft Gmbh<br /> <strong>Maaletooja:</strong> Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Kuivatut, karvaiset kaninkorvat ovat herkullinen pureskeltava herkku koirille. Sopii myös koirille, jotka kärsivät ruoka-aineallergioista.<br /><br /> <strong>Ainesosat:</strong> 100 % kuivatut kaninkorvat<br /> <strong>Analyysi:</strong> Raakaproteiini 72 %, raakarasva 19 %, raakatuhka 2,9 %, raakakuitu 0,5 %, kosteus 9 %<br /> <strong>Energia:</strong> 460 kcal/100 g<br /><br /> <strong>Koiranruokaa.</strong><br /><br /> <strong>Ruokintaohjeet</strong>: Tarjoile palkintona. Vähennä päivittäistä saantia tarpeen mukaan (katso energiatiedot). Tarjoa runsaasti juomavettä.<br /> <strong>Säilytys:</strong>Avaamisen jälkeen sulje huolellisesti vetoketjulla ja säilytä kuivassa ja viileässä paikassa.<br /> <strong>Parasta ennen ja eränumero</strong> katso pakkaus<br /> <strong>Nettomäärä</strong>100 g<br /><br /> <strong>Valmistaja:</strong>Dokas Handelsgesellschaft Gmbh<br /> <strong>Maahantuoja:</strong>Penner OÜ, Võru 77, Tartto, Viro,info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Dried rabbit ears with fur are a delicious chew treat for dogs. Also suitable for dogs suffering from food allergies.<br /><br /> <strong>Ingredients:</strong> 100% dried rabbit ears<br /> <strong>Analysis:</strong> Crude protein 72%, crude fat 19%, crude ash 2.9%, crude fiber 0.5%, moisture 9%<br /> <strong>Energy:</strong> 460kcal/100g<br /><br /> <strong>Food for dogs.</strong><br /><br /> <strong>Feeding instructions</strong>: Serve as a reward. Reduce the daily intake as needed (see energy information). Provide plenty of drinking water.<br /> <strong>Storage:</strong> After opening, close carefully with a zip and store in a dry and cool place.<br /> <strong>Best before and batch number</strong> see packaging<br /> <strong>Net quantity</strong> 100g<br /><br /> <strong>Manufacturer:</strong> Dokas Handelsgesellschaft Gmbh<br /> <strong>Importer:</strong> Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
+    <composition><![CDATA[100% kuivatatud küülikukõrvad]]></composition>
+    <composition-ee><![CDATA[100% kuivatatud küülikukõrvad]]></composition-ee>
+    <manufacturer-name><![CDATA[Dokas Handelsgesellschaft Gmbh]]></manufacturer-name>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[DOKAS]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.11]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Looma vanus]]></id>
+        <values>
+          <value><![CDATA[Erinevatele vanustele]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Eriomadus]]></id>
+        <values>
+          <value><![CDATA[Kõigile koertele]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/Dokas-Kuivatatud-Kuulikukorvad-Karvaga-100g-2.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.11</weight>
+            <length>0.22</length>
+            <height>0.025</height>
+            <width>0.18</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[4251276203459]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[DK-203459]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>21558</category-id>
+    <category-name><![CDATA[Care products for animals]]></category-name>
+    <title><![CDATA[Earth Rated nepraleidžiantys maišeliai išmatoms su levandų kvapu, 21 ritinėlis (315 vnt.)]]></title>
+    <title-ru><![CDATA[Пакеты 100% непротекаемыe "Earth Rated" для выгула собак, С запахом лаванды 315шт]]></title-ru>
+    <title-lv><![CDATA[Earth Rated 100 % necaurlaidīgi maisiņi ekskrementiem ar lavandas smaržu, 21 rullis (315 gab.)]]></title-lv>
+    <title-ee><![CDATA[Earth Rated 100% Lekkekindlad Kakakotid Lavendlilõhnalised 21 rulli (315tk)]]></title-ee>
+    <title-fi><![CDATA[Earth Rated 100% vuotamattomat kakkapussit laventelin tuoksulla 21 rullaa (315 kpl)]]></title-fi>
+    <title-en><![CDATA[Earth Rated 100% Leak proof Lavender-scented Poop Bags 21 Rolls / 315pcs]]></title-en>
+    <long-description><![CDATA[Levandų kvapo nepraleidžiantys maišeliai išmatoms (315 vnt.)]]></long-description>
+    <long-description-ru><![CDATA[Пакеты для уборки экскрементов Earth Rated больше по размеру, прочнее и полностью герметичны.<br /> Подходят для владельцев домашних животных, которые предпочитают пакеты с приятным запахом. В упаковке 21 сменный рулон, которые можно использовать отдельно или с зеленым держателем для пакетов Earth Rated. Пакеты легко открываются и отрываются от рулона, при этом они очень толстые и прочные.<br /><br /> <strong>Количество: 21</strong> рулон (315 пакетов)<br /> <strong>Размеры пакета:</strong> 22,8x33 см<br /><br /> <strong>Производитель:</strong> Earth Rated]]></long-description-ru>
+    <long-description-lv><![CDATA[Necaurlaidīgi lavandas aromāta kakas maisiņi (315 gab.)]]></long-description-lv>
+    <long-description-ee><![CDATA[Earth Rated kakakotid on suuremad, vastupidavamad ja täielikult lekkekindlad.<br /> Sobivad loomaomanikele, kes eelistavad meeldiva lõhnaga varianti. Pakis on 21 asendusrulli, mida võib kasutada eraldi, kui ka Earth rated rohelise kakakotihoidjaga. Kotte saab lihtsalt avada ja rullist lahti rebida, olles siiski ekstra paksud ja vastupidavad.<br /><br /> <strong>Kogus: 21</strong> rulli (315 kotti)<br /> <strong>Koti mõõdud:</strong> 22,8x33cm<br /><br /> <strong>Tootja:</strong> Earth Rated]]></long-description-ee>
+    <long-description-fi><![CDATA[Earth Rated -kakkapussit ovat suurempia, kestävämpiä ja täysin vuotamattomia.<br /> Sopii lemmikkien omistajille, jotka arvostavat miellyttävän tuoksuista vaihtoehtoa. Pakkaus sisältää 21 vaihtorullaa, joita voidaan käyttää erikseen tai Earth Rated -vihreän kakkapussin pidikkeen kanssa. Pussit on helppo avata ja repäistä rullasta, mutta ne ovat erittäin paksuja ja kestäviä.<br /><br /> <strong>Määrä: 21</strong> rullaa (315 pussia)<br /> <strong>Pussin mitat:</strong>22,8 x 33 cm<br /><br /> <strong>Valmistaja:</strong>Earth Rated]]></long-description-fi>
+    <long-description-en><![CDATA[Earth Rated poop bags are larger, more durable and completely leak-proof.<br /> Suitable for pet owners who prefer a pleasant-smelling option. The pack contains 21 replacement rolls that can be used separately or with the Earth Rated green poop bag holder. The bags can be easily opened and torn off the roll, yet are extra thick and durable.<br /><br /> <strong>Quantity: 21</strong> rolls (315 bags)<br /> <strong>Bag dimensions:</strong> 22.8x33cm<br /><br /> <strong>Manufacturer:</strong> Earth Rated]]></long-description-en>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[EARTH RATED]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.7]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Earth_Rated_Lekkekindlad_Kakakotid_Lavendlilohnalised_21_Rulli.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.7</weight>
+            <length>0.22</length>
+            <height>0.07</height>
+            <width>0.1</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[870856000703]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[E-BG0005]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>21558</category-id>
+    <category-name><![CDATA[Care products for animals]]></category-name>
+    <title><![CDATA[Earth Rated 100 % nepralaidūs kvapnūs maišeliai išmatoms, 8 ritinėliai (120 vnt.)]]></title>
+    <title-ru><![CDATA[Earth Rated Пакеты 100% непротекаемыe для выгула собак 120шт]]></title-ru>
+    <title-lv><![CDATA[Earth Rated 100% hermētiski aromatizēti kaku maisiņi, 8 ruļļi (120 gab.)]]></title-lv>
+    <title-ee><![CDATA[Earth Rated 100% Lekkekindlad Lõhnatud Kakakotid 8 rulli (120tk)]]></title-ee>
+    <title-fi><![CDATA[Earth Rated 100% vuotamattomat tuoksukakkapussit 8 rullaa (120 kpl)]]></title-fi>
+    <title-en><![CDATA[Earth Rated Unscented 100% Leak proof Poop Bags 120pcs]]></title-en>
+    <long-description><![CDATA[Nepralaidūs, bekvapiai maišeliai išmatoms (120 vnt.)]]></long-description>
+    <long-description-ru><![CDATA[Пакеты для уборки экскрементов Earth Rated больше по размеру, прочнее и полностью герметичны.<br /> Подходят для владельцев домашних животных, которые предпочитают вариант без запаха. В упаковке 8 сменных рулонов, которые можно использовать отдельно или с зеленым держателем для пакетов Earth Rated. Пакеты легко открываются и отрываются от рулона, при этом они очень толстые и прочные.<br /><br /> <strong>Количество:</strong> 8 рулонов (120 пакетов)<br /> <strong>Размеры пакета:</strong> 22,8 x 33 см<br /><br /> <strong>Производитель:</strong> Earth Rated]]></long-description-ru>
+    <long-description-lv><![CDATA[Necaurlaidīgi, bez smaržas kaku maisiņi (120 gab.)]]></long-description-lv>
+    <long-description-ee><![CDATA[Earth Rated kakakotid on suuremad, vastupidavamad ja täielikult lekkekindlad.<br /> Sobivad loomaomanikele, kes eelistavad lõhnavaba varianti. Pakis on 8 asendusrulli, mida võib kasutada eraldi, kui ka Earth rated rohelise kakakotihoidjaga. Kotte saab lihtsalt avada ja rullist lahti rebida, olles siiski ekstra paksud ja vastupidavad.<br /><br /> <strong>Kogus:</strong> 8 rulli (120 kotti)<br /> <strong>Koti mõõdud:</strong> 22,8x33cm<br /><br /> <strong>Tootja:</strong> Earth Rated]]></long-description-ee>
+    <long-description-fi><![CDATA[Earth Rated -kakkapussit ovat suurempia, kestävämpiä ja täysin vuotamattomia.<br /> Sopii lemmikkien omistajille, jotka suosivat hajutonta vaihtoehtoa. Pakkaus sisältää 8 vaihtorullaa, joita voidaan käyttää erikseen tai Earth Rated -vihreän kakkapussinpidikkeen kanssa. Pussit on helppo avata ja repäistä rullasta, mutta ne ovat erittäin paksuja ja kestäviä.<br /><br /> <strong>Määrä:</strong> 8 rullaa (120 pussia)<br /> <strong>Pussin mitat:</strong> 22,8 x 33 cm<br /><br /> <strong>Valmistaja:</strong> Earth Rated]]></long-description-fi>
+    <long-description-en><![CDATA[Earth Rated poop bags are larger, more durable and completely leak-proof.<br /> Suitable for pet owners who prefer a scent-free option. The pack includes 8 replacement rolls that can be used separately or with the Earth Rated green poop bag holder. The bags can be easily opened and torn off the roll, yet are extra thick and durable.<br /><br /> <strong>Quantity:</strong> 8 rolls (120 bags)<br /> <strong>Bag dimensions:</strong> 22.8x33cm<br /><br /> <strong>Manufacturer:</strong> Earth Rated]]></long-description-en>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[EARTH RATED]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.1]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Earth_Rated_Lekkekindlad_Kakakotid_Lohnatud_8_rulli.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.1</weight>
+            <length>0.13</length>
+            <height>0.065</height>
+            <width>0.065</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[870856000185]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[E-BG0013]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>21558</category-id>
+    <category-name><![CDATA[Care products for animals]]></category-name>
+    <title><![CDATA[Earth Rated 100 % nepraleidžiantys maišeliai išmatoms su levandų kvapu, 8 ritinėliai (120 vnt.)]]></title>
+    <title-ru><![CDATA[Пакеты 100% непротекаемыe "Earth Rated" для выгула собак, С запахом лаванды 120шт]]></title-ru>
+    <title-lv><![CDATA[Earth Rated 100 % necaurlaidīgi maisiņi ekskrementiem ar lavandas smaržu, 8 rulli (120 gab.)]]></title-lv>
+    <title-ee><![CDATA[Earth Rated 100% Lekkekindlad Kakakotid Lavendlilõhnalised 8 rulli (120tk)]]></title-ee>
+    <title-fi><![CDATA[Earth Rated 100% vuotamattomat kakkapussit laventelin tuoksulla 8 rullaa (120 kpl)]]></title-fi>
+    <title-en><![CDATA[Earth Rated 100% Leak proof Lavender-scented Poop Bags 120pcs]]></title-en>
+    <long-description><![CDATA[Levandų kvapo nepraleidžiantys maišeliai išmatoms (120 vnt.)]]></long-description>
+    <long-description-ru><![CDATA[Высококачественные и сверхпрочные пакеты для собачьих экскрементов, обеспечивающие комфортное и полностью герметичное использование во время ежедневных прогулок.<br /> Эти пакеты с приятным ароматом лаванды достаточно большие, чтобы вместить все породы собак.<br /><br /> Пакеты для собачьих экскрементов нового поколения от Earth Rated изготовлены из 65% сертифицированного переработанного пластика (PCR).<br /> Это материал с контролируемым происхождением и строгим контролем качества, который дает новую жизнь уже использованному пластику.<br /><br /> <strong>Особенности:</strong><br /> Тип продукта: Прочные, толстые и полностью герметичные пакеты для собачьих экскрементов.<br /> Аромат и дизайн: С приятным ароматом лаванды, который помогает замаскировать неприятные запахи.<br /> Экологичность: Изготовлены из 65% сертифицированного переработанного пластика (PCR). Упаковка и внутренние компоненты изготовлены из переработанных материалов.<br /><br /> <strong>Производитель:</strong> Earth Rated<br /> <strong>Дистрибьютор:</strong> Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Necaurlaidīgi lavandas aromāta kaku maisiņi (120 gab.)]]></long-description-lv>
+    <long-description-ee><![CDATA[Kvaliteetsed ja eriti tugevad koera kakakotid, mis tagavad mugava ning täielikult lekkekindla kasutamise igapäevastel jalutuskäikudel.<br /> Need meeldiva lavendlilõhnaga koera väljaheidete kotid on piisavalt suured, et sobida igat tõugu koertele.<br /><br /> Earth Rated uue põlvkonna koera kakakotid on valmistatud 65% ulatuses sertifitseeritud ringlussevõetud plastikust (PCR).<br /> Tegemist on kontrollitud päritoluga ja range kvaliteedikontrolli läbinud materjaliga, mis annab juba kasutusel olnud plastikule uue elu.<br /><br /> <strong>Omadused:</strong><br /> Toote tüüp: Tugevad, paksud ja täielikult lekkekindlad koera kakakotid.<br /> Lõhn ja disain: Meeldiva lavendlilõhnaga, mis aitab varjata ebameeldivaid lõhnu.<br /> Keskkonnasõbralikkus: Valmistatud 65% sertifitseeritud ringlussevõetud plastikust (PCR). Pakend ja sisekomponendid on taaskasutatud materjalist.<br /><br /> <strong>Tootja:</strong> Earth Rated<br /> <strong>Edasimüüja</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Earth Rated -kakkapussit ovat suurempia, kestävämpiä ja täysin vuotamattomia.<br /> Sopii lemmikkien omistajille, jotka arvostavat miellyttävän tuoksuista vaihtoehtoa. Pakkaus sisältää 8 vaihtorullaa, joita voidaan käyttää erikseen tai Earth Rated -vihreän kakkapussin pidikkeen kanssa. Pussit on helppo avata ja repäistä rullasta, mutta ne ovat erittäin paksuja ja kestäviä.<br /><br /> <strong>Määrä:</strong>8 rullaa (120 pussia)<br /> <strong>Pussin mitat:</strong>22,8 x 33 cm<br /><br /> <strong>Valmistaja:</strong>Earth Rated]]></long-description-fi>
+    <long-description-en><![CDATA[Earth Rated poop bags are larger, more durable and completely leak-proof.<br /> Suitable for pet owners who prefer a pleasant-smelling option. The pack includes 8 replacement rolls that can be used separately or with the Earth Rated green poop bag holder. The bags can be easily opened and torn off the roll, yet are extra thick and durable.<br /><br /> <strong>Quantity:</strong> 8 rolls (120 bags)<br /> <strong>Bag dimensions:</strong> 22.8x33cm<br /><br /> <strong>Manufacturer:</strong> Earth Rated]]></long-description-en>
+    <manufacturer-name><![CDATA[Earth Rated]]></manufacturer-name>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[EARTH RATED]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.1]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Earth_Rated_Lekkekindlad_Kakakotid_Lavendlilohnalised_8_Rulli.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.1</weight>
+            <length>0.13</length>
+            <height>0.065</height>
+            <width>0.065</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[870856000024]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[E-BG0001]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10376</category-id>
+    <category-name><![CDATA[Dog snacks]]></category-name>
+    <title><![CDATA[Dokas mini antienos kubeliai šunims, 70 g]]></title>
+    <title-ru><![CDATA[Dokas Лакомство для Собак - Мини-Кубики из Утки 70г]]></title-ru>
+    <title-lv><![CDATA[Dokas mini pīles kubiņi suņiem, 70 g]]></title-lv>
+    <title-ee><![CDATA[Dokas Maius Koerale - Mini Pardikuubikud 70g]]></title-ee>
+    <title-fi><![CDATA[Dokas Koiran Herkku - Mini Ankkakuutiot 70g]]></title-fi>
+    <title-en><![CDATA[Dokas Dog Treat - Mini Duck Cubes 70g]]></title-en>
+    <long-description><![CDATA[Skanėstas šunims.]]></long-description>
+    <long-description-ru><![CDATA[Натуральное лакомство для собак из высококачественного филе утиной грудки. Благодаря небольшому размеру эти вкусные кубики из утиного филе идеально подходят для поощрения вашей собаки во время тренировок или активных игр, позволяя вам чаще вознаграждать своего питомца, не перекармливая его.<br /><br /> Это полезное лакомство для собак содержит L-карнитин, который способствует сжиганию жира и дает вашей собаке необходимую энергию. Лакомства для домашних животных Dokas изготавливаются из строго контролируемого сырья и полностью не содержат консервантов, искусственных красителей, ароматизаторов и глицерина.<br /><br /> <strong>СОСТАВ</strong>: Филе утиной грудки 91%, растительные субпродукты, фруктоолигосахариды, минералы. Добавленные аминокислоты (на 1 кг): L-карнитин 300 г.<br /> <strong>АНАЛИЗ:</strong> Сырой протеин: 37%, Сырые масла и жиры: 7,4%, Сырая зола: 3,4%, Сырая клетчатка: 0,5%, Влажность: 17,8%<br /><br /> <strong>Инструкция по применению и хранению:</strong><br /> Кормите в качестве поощрения. Всегда обеспечивайте питомцу доступ к чистой питьевой воде. После вскрытия упаковки аккуратно закройте ее застежкой minigrip и храните в сухом и прохладном месте.<br /><br /> <strong>Дополнительный корм</strong><br /><br /> <strong>Производитель:</strong> Dokas Handelsgesellschaft Gmbh<br /> <strong>Дистрибьютор</strong>: Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Gardums suņiem]]></long-description-lv>
+    <long-description-ee><![CDATA[Naturaalne koera maius, mis on valmistatud kvaliteetsest pardi rinnafileest. Tänu väikesele suurusele on need maitsvad pardikuubikud ideaalsed koera premeerimiseks treeningul või aktiivsel tegevusel, võimaldades lemmiklooma sagedamini premeerida ilma teda ülesöötmata.<br /><br /> See tervislik koera maius sisaldab L-karnitiini, mis toetab rasvade põletamist ja annab koerale vajalikku energiat. Dokas lemmiklooma maiustused on valmistatud rangelt kontrollitud toorainest ning on täiesti vabad säilitusainetest, kunstlikest värv-, lõhna- ja maitseainetest ning glütseriinist.<br /><br /> <strong>KOOSTIS</strong>: Pardi rinnafilee 91%, taimsed kõrvalsaadused, fruktooligosahhariidid, mineraalained. Lisatud aminohapped (1 kg kohta): L-karnitiin 300 g.<br /> <strong>ANALÜÜS:</strong> Toorvalk: 37%, Toorõlid ja -rasvad: 7,4%, Toortuhk: 3,4%, Toorkiud: 0,5%, Niiskusesisaldus: 17,8%<br /><br /> <strong>Kasutus- ja säilitusjuhend:</strong><br /> Sööta preemiana. Tagage lemmikloomale alati juurdepääs puhtale joogiveele. Pärast avamist sulgeda pakend hoolikalt minigrip-kinnitusega ning hoida kuivas ja jahedas kohas.<br /><br /> <strong>Täiendsööt</strong><br /><br /> <strong>Tootja:</strong> Dokas Handelsgesellschaft Gmbh<br /> <strong>Edasimüüja</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Luonnollinen koiranherkku, joka on valmistettu korkealaatuisesta ankanrintafileestä. Pienen kokonsa ansiosta nämä maukkaat ankkakuutiot sopivat ihanteellisesti koiran palkitsemiseen koulutuksen tai aktiivisen toiminnan aikana, jolloin voit palkita lemmikkiäsi useammin ilman, että sitä ruokitaan liikaa.<br /><br /> Tämä terveellinen koiranherkku sisältää L-karnitiinia, joka tukee rasvanpolttoa ja antaa koirallesi tarvitsemansa energian. Dokas-lemmikkiherkut on valmistettu tiukasti valvotuista raaka-aineista, ja ne ovat täysin vapaita säilöntäaineista, keinotekoisista väriaineista, aromeista ja glyseriinistä.<br /><br /> <strong>AINESOSAT</strong>: Ankanrintafilee 91 %, kasviperäiset sivutuotteet, frukto-oligosakkaridit, kivennäisaineet. Lisätyt aminohapot (per 1 kg): L-karnitiini 300 g.<br /> <strong>ANALYYSI:</strong> Raakaproteiini: 37 %, Raakarasvat: 7,4 %, Raakatuhka: 3,4 %, Raakakuitu: 0,5 %, Kosteuspitoisuus: 17,8 %<br /><br /> <strong>Käyttö- ja säilytysohjeet:</strong><br /> Anna palkintona. Varmista aina, että lemmikilläsi on puhdasta juomavettä saatavilla. Avaamisen jälkeen sulje pakkaus huolellisesti minigrip-sulkimella ja säilytä kuivassa ja viileässä paikassa.<br /><br /> <strong>Täydennysrehu</strong><br /><br /> <strong>Valmistaja:</strong> Dokas Handelsgesellschaft Gmbh<br /> <strong>Jakelija</strong>: Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Natural dog treat made from high-quality duck breast fillet. Thanks to their small size, these tasty duck cubes are ideal for rewarding your dog during training or active activities, allowing you to reward your pet more often without overfeeding him.<br /><br /> This healthy dog treat contains L-carnitine, which supports fat burning and gives your dog the energy it needs. Dokas pet treats are made from strictly controlled raw materials and are completely free of preservatives, artificial colors, flavors and glycerin.<br /><br /> <strong>INGREDIENTS</strong>: Duck breast fillet 91%, vegetable by-products, fructooligosaccharides, minerals. Added amino acids (per 1 kg): L-carnitine 300 g.<br /> <strong>ANALYSIS:</strong> Crude protein: 37%, Crude oils and fats: 7.4%, Crude ash: 3.4%, Crude fiber: 0.5%, Moisture content: 17.8%<br /><br /> <strong>Instructions for use and storage:</strong><br /> Feed as a reward. Always ensure that your pet has access to clean drinking water. After opening, close the package carefully with the minigrip closure and store in a dry and cool place.<br /><br /> <strong>Complementary feed</strong><br /><br /> <strong>Manufacturer:</strong> Dokas Handelsgesellschaft Gmbh<br /> <strong>Distributor</strong>: Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[Dokas Handelsgesellschaft Gmbh]]></manufacturer-name>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[DOKAS]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.08]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Looma vanus]]></id>
+        <values>
+          <value><![CDATA[Erinevatele vanustele]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Eriomadus]]></id>
+        <values>
+          <value><![CDATA[Kõigile koertele]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/Dokas-Maius-Koerale-Mini-Pardikuubikud-70g.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.08</weight>
+            <length>0.21</length>
+            <height>0.025</height>
+            <width>0.08</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[4251276204296]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[DK-204296]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10388</category-id>
+    <category-name><![CDATA[Dog leashes, collars, harnesses]]></category-name>
+    <title><![CDATA[Griežtas grandininis antkaklis šunims, 4,0 mm x 60 cm]]></title>
+    <title-ru><![CDATA[Прижимной воротник 4 мм х 60 см]]></title-ru>
+    <title-lv><![CDATA[Dzeloņu ķēdes kaklasiksna suņiem, 4 mm x 60 cm]]></title-lv>
+    <title-ee><![CDATA[Ogadega Treeningkett, poolpoov 4,0mm x 60cm]]></title-ee>
+    <title-fi><![CDATA[Piikkinen harjoitusketju 4.0 mm x 60 cm]]></title-fi>
+    <title-en><![CDATA[Pinch Collar 4mm x 60cm]]></title-en>
+    <long-description><![CDATA[Griežtas antkaklis.]]></long-description>
+    <long-description-ru><![CDATA[Пояс для тренировок с шипами]]></long-description-ru>
+    <long-description-lv><![CDATA[Radzīta treniņu josta]]></long-description-lv>
+    <long-description-ee><![CDATA[Ogadega treeningrihm]]></long-description-ee>
+    <long-description-fi><![CDATA[Piikkinen harjoitusvyö]]></long-description-fi>
+    <long-description-en><![CDATA[Spiked training belt]]></long-description-en>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[MUUD]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.367]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/Ogadega-Treeningkett-40mm-x-60cm.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.367</weight>
+            <length>0.001</length>
+            <height>0.1</height>
+            <width>0.1</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[6934060406080]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[6934060406080]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
     <category-id>10400</category-id>
     <category-name><![CDATA[Dog training products]]></category-name>
     <title><![CDATA[Petsafe radijo ribotuvas]]></title>
@@ -10,6 +396,27 @@
     <title-fi><![CDATA[Petsafe-radiorajoitin]]></title-fi>
     <title-en><![CDATA[Petsafe In-ground Containment System]]></title-en>
     <long-description><![CDATA[<h2 style="margin: 0px 5px 14px 0px; padding: 0px; font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; color: rgb(17, 17, 17);">Išsami informacija<br /> Sistemą sudaro ribojimo viela, prijungta prie radijo siųstuvo, ir imtuvas, pritvirtintas prie gyvūno antkaklio. Apribotos teritorijos kontūro ilgis gali būti iki 1200 m, o plotas – iki 8 hektarų.<br /> <br /> Augintinio judėjimui leidžiama teritorija yra atskirta ribojimo viela. Be išorinio kontūro, taip pat gali būti apribotos lysvės, dekoratyviniai krūmai, baseinėliai ar kitos gyvūnui draudžiamos zonos, esančios toje teritorijoje.<br /> Ribojimo viela įkasama kelis centimetrus į žemę arba pritvirtinama prie esamos tvoros. Laidas sudaro uždarą kilpą, o jo galai prijungti prie radijo siųstuvo, kuris aplink laidą generuoja mažos galios, žemo dažnio radijo signalą.<br /> <br /> Prie antkaklio pritvirtintas mažytis imtuvas reaguoja į laidą supantį radijo lauką. Kai gyvūnas artėja prie leidžiamos judėjimo zonos ribos (0,5...5 m atstumu nuo laido), imtuvas pradeda skleisti pypsėjimo garso signalą. Gyvūnas greitai išmoksta į jį reaguoti ir grįžta į leidžiamą judėjimo zoną.<br /> <br /> Jei gyvūnas vis dėlto išvengia įspėjamojo signalo (dažniausiai kelis kartus dresūros pradžioje), jis gauna korekcinį impulsą iš antkaklio. Pulsas gyvūnui nemalonus ir ateityje jis stengiasi jo išvengti. Dauguma gyvūnų išmoksta atpažinti savo ribas per savaitę.<br /> <br /> - Skirta vidutinio dydžio šunims<br /> - Iki 1200 m ilgio kontūras<br /> <br /> Įeina: <br /> - Siųstuvas<br /> - Antkaklis su imtuvu (PIG19-10763) <br /> - 150 metrų kabelio <br /> - 50 taikinių vėliavėlių<br /> - Baterijos antkaklyje<br /> - Estų kalbos naudotojo vadovas</h2>]]></long-description>
+    <long-description-ru><![CDATA[Система состоит из ограничительного провода, подключённого к радиопередатчику, и приёмника, закреплённого на ошейнике животного. Длина контура ограничиваемой зоны может составлять до 1200 м, площадь – до 8 гектаров.<br />
+<br />
+Разрешённая для питомца зона передвижения отделяется ограничительным проводом. Помимо внешнего контура, можно также оградить находящиеся внутри зоны грядки, декоративные кустарники, бассейны или другие запретные для животного участки.<br />
+Ограничительный провод заглубляется в грунт на несколько сантиметров или крепится к существующему забору. Провод образует замкнутый контур, а его концы подключаются к радиопередатчику, который создаёт вокруг провода низкочастотный радиосигнал малой мощности.<br />
+<br />
+Крошечный приёмник на ошейнике реагирует на радиополе вокруг провода. Когда животное приближается к границе разрешённой зоны (0,5...5 м от провода), приёмник начинает подавать звуковой сигнал. Животное быстро учится реагировать на него и возвращается в разрешённую зону.<br />
+<br />
+Если животное всё же игнорирует предупреждающий сигнал (обычно несколько раз в начале обучения), оно получает корректирующий импульс от ошейника. Импульс неприятен для животного, и в дальнейшем оно старается его избегать. Большинство животных учатся признавать свои границы в течение недели.<br />
+<br />
+Радиоограждение PetSafe предназначено для собак весом более 3,6 кг<br />
+Подходит для собак с обхватом шеи 15 - 71 см<br />
+4 регулируемых уровня стимуляции, а также возможность использовать только звуковое предупреждение<br />
+К системе можно подключить неограниченное количество собак, добавив ошейники Add-A-Dog® Extra Receiver.<br />
+<br />
+В комплекте: <br />
+- Передатчик<br />
+- Ошейник с приёмником<br />
+- 150 метров провода <br />
+- 50 флажков-маркеров<br />
+- Батарейки для ошейника<br />
+- Инструкция по эксплуатации на эстонском языке]]></long-description-ru>
     <long-description-lv><![CDATA[<h2 style="margin: 0px 5px 14px 0px; padding: 0px; font-family: Verdana, Geneva, sans-serif; font-size: 12px; line-height: normal; color: rgb(17, 17, 17);">Sīkāka informācija<br /> Sistēma sastāv no robežvada, kas savienots ar radio raidītāju, un uztvērēja, kas piestiprināts pie dzīvnieka kakla siksnas. Ierobežotās zonas kontūras garums var būt līdz 1200 m, bet platība - līdz 8 hektāriem.<br /> <br /> Mājdzīvniekam atļautā pārvietošanās zona ir atdalīta ar robežvadu. Papildus ārējai kontūrai var ierobežot arī dobes, dekoratīvos krūmus, baseinus vai citas dzīvniekam aizliegtas zonas, kas atrodas šajā zonā.<br /> Robežvads tiek ierakts dažus centimetrus zemē vai piestiprināts pie esoša žoga. Vads veido slēgtu cilpu, un tā gali ir savienoti ar radio raidītāju, kas ģenerē mazas jaudas, zemas frekvences radiosignālu ap vadu.<br /> <br /> Pie kakla siksnas piestiprināts niecīgs uztvērējs reaģē uz vadu ieskaujošo radio lauku. Kad dzīvnieks tuvojas atļautās kustības zonas malai (0,5...5 m attālumā no vada), uztvērējs sāk izdot pīkstošu skaņas signālu. Dzīvnieks ātri iemācās uz to reaģēt un atgriežas atļautajā kustības zonā.<br /> <br /> Ja dzīvnieks tomēr izvairās no brīdinājuma signāla (parasti dažas reizes apmācības sākumā), tas saņem korekcijas impulsu no kakla siksnas. Pulss dzīvniekam ir nepatīkams, un tas cenšas no tā izvairīties nākotnē. Lielākā daļa dzīvnieku iemācās atpazīt savas robežas nedēļas laikā.<br /> <br /> - Paredzēts vidēja auguma suņiem<br /> - Līdz 1200 m gara kontūra<br /> <br /> Komplektā ietilpst: <br /> - Raidītājs<br /> - Kakla siksna ar uztvērēju (PIG19-10763) <br /> - 150 metru kabelis <br /> - 50 mērķa karodziņi<br /> - Baterijas kakla siksnā<br /> - Lietotāja rokasgrāmata igauņu valodā</h2>]]></long-description-lv>
     <long-description-ee><![CDATA[Süsteem koosneb raadiosaatjaga ühendatud piiravast juhtmest ning looma kaelarihmale kinnitatud vastuvõtjast. Piiratava ala kontuuri pikkus võib olla kuni 1200m, pindala kuni 8 hektarit.<br />
 <br />
@@ -102,6 +509,146 @@ Includes: <br />
                 <barcode><![CDATA[729849153943]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[729849153943]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10490</category-id>
+    <category-name><![CDATA[Wet/canned cat food]]></category-name>
+    <title><![CDATA[Vibrisse Natural drebučiai katėms su tunu ir kumpiu, 70 g]]></title>
+    <title-ru><![CDATA[Vibrisse Natural Желе для кошек Тунец & Куриная ветчина 70г]]></title-ru>
+    <title-lv><![CDATA[Vibrisse Natural želeja kaķiem ar tunci un šķiņķi, 70 g]]></title-lv>
+    <title-ee><![CDATA[Vibrisse Natural Tarretis Kassile Tuunikala & Sink 70g]]></title-ee>
+    <title-fi><![CDATA[Vibrisse Natural Hyytelö Kissalle Tonnikala & Kananliha Kinkku 70g]]></title-fi>
+    <title-en><![CDATA[Vibrisse Natural Jelly for Cats Tuna & Chicken Ham 70g]]></title-en>
+    <long-description><![CDATA[Tuno ir kumpio gabaliukai drebučiuose.]]></long-description>
+    <long-description-ru><![CDATA[Кусочки тунца и ветчины в желе. Не содержит красителей и консервантов.<br /><br /> <strong>Ингредиенты:</strong> тунец 56%, ветчина 4%, рис 1%, вода 37,96%, минералы.<br /> <strong>Технологические добавки:</strong> камедь кассии (загуститель) 4680 мг/кг<br /> <strong>Анализ:</strong> сырой протеин 11%, сырые масла и жиры 0,3%, сырая клетчатка 1%, сырая зола 2%, влажность 85,5%<br /><br /> Подавать при комнатной температуре. Хранить в холодильнике после вскрытия упаковки и употребить в течение 48 часов.<br /> Приготовлено на пару.<br /><br /> <strong>Прикорм</strong><br /> Годен до и номер партии см. на упаковке.<br /> <strong>Чистый вес</strong> 70 г<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ:</strong> Croci SPA, Италия<br /> <strong>ИМПОРТЕР:</strong> Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Tunča un šķiņķa gabaliņi želejā.]]></long-description-lv>
+    <long-description-ee><![CDATA[Tuunikala ja singi tükid tarretises. Ei sisalda värv- ja säilitusaineid.<br /><br /> <strong>Koostis:</strong> tuunikala 56%, sink 4% , Riis 1%, Vesi 37,96%, mineraalid.<br /> <strong>Tehnoloogilised lisandid:</strong> kassiakumm (paksendav aine) 4680mg/kg<br /> <strong>Analüüs:</strong> toorproteiin 11%, toorõlid ja rasvad 0,3%, toorkiud 1%, toortuhk 2%, niiskus 85,5%<br /><br /> Serveerida toatemperatuuril. Avatult hoiustada külmkapis ja kasutada ära 48 tunni jooksul.<br /> Küpsetatud auruga.<br /><br /> <strong>Täiendsööt</strong><br /> Parim enne ja partii nr vaata pakendilt<br /> <strong>Neto kogus</strong> 70g<br /><br /> <strong>TOOTJA:</strong> Croci SPA, Itaalia<br /> <strong>MAALETOOJA:</strong> Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Tonnikala- ja kinkkupaloja hyytelössä. Ei sisällä väri- tai säilöntäaineita.<br /><br /> <strong>Ainesosat:</strong> tonnikala 56 %, kinkku 4 %, riisi 1 %, vesi 37,96 %, kivennäisaineet.<br /> <strong>Teknologiset lisäaineet:</strong> kassiakumi (sakeuttamisaine) 4680 mg/kg<br /> <strong>Analyysi:</strong> raakaproteiini 11 %, raakaöljyt ja -rasvat 0,3 %, raakakuitu 1 %, raakatuhka 2 %, kosteus 85,5 %<br /><br /> Tarjoile huoneenlämmössä. Säilytä avattu pakkaus jääkaapissa ja käytä 48 tunnin kuluessa.<br /> Höyrytetty.<br /><br /> <strong>Täydentävä ravinto</strong><br /> Parasta ennen -päiväys ja eränumero, katso pakkaus<br /> <strong>Nettomäärä</strong> 70 g<br /><br /> <strong>VALMISTAJA:</strong> Croci SPA, Italia<br /> <strong>MAAHANTUOJA:</strong> Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[Tuna and ham pieces in jelly. Does not contain colorings or preservatives.<br /><br /> <strong>Ingredients:</strong> tuna 56%, ham 4%, rice 1%, water 37.96%, minerals.<br /> <strong>Technological additives:</strong> cassia gum (thickener) 4680mg/kg<br /> <strong>Analysis:</strong> crude protein 11%, crude oils and fats 0.3%, crude fiber 1%, crude ash 2%, moisture 85.5%<br /><br /> Serve at room temperature. Store in the refrigerator once opened and use within 48 hours.<br /> Steamed.<br /><br /> <strong>Complementary food</strong><br /> Best before and batch number see packaging<br /> <strong>Net quantity</strong> 70g<br /><br /> <strong>MANUFACTURER:</strong> Croci SPA, Italy<br /> <strong>IMPORTER:</strong> Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <composition><![CDATA[tuunikala 56%, sink 4% , Riis 1%, Vesi 37,96%, mineraalid.]]></composition>
+    <composition-ee><![CDATA[tuunikala 56%, sink 4% , Riis 1%, Vesi 37,96%, mineraalid.]]></composition-ee>
+    <manufacturer-name><![CDATA[Camon & Croci Pet Group S.p.A. / Croci S.p.A.; Corso Italia]]></manufacturer-name>
+    <manufacturer-address><![CDATA[22 – 20122 Milano (MI), Itaalia;]]></manufacturer-address>
+    <manufacturer-email><![CDATA[info@croci.net]]></manufacturer-email>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[CROCI]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Tüüp]]></id>
+        <values>
+          <value><![CDATA[Vibrisse konservid]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.08]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Looma vanus]]></id>
+        <values>
+          <value><![CDATA[Erinevatele vanustele]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Eriomadus]]></id>
+        <values>
+          <value><![CDATA[Kõigile kassidele]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://cdn.erply.com/assets/37488/image/Vibrisse-Natural-Tarretis-Kassile-Tuunikala-Kana-Sink-70g.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.08</weight>
+            <length>0.01</length>
+            <height>0.14</height>
+            <width>0.095</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[8023222169883]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[c1018988]]></supplier-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+  <product>
+    <category-id>10376</category-id>
+    <category-name><![CDATA[Dog snacks]]></category-name>
+    <title><![CDATA[BuddyCare Probiotic probiotikai šunims virškinimui ir imunitetui, 150 g]]></title>
+    <title-ru><![CDATA[BuddyCare Пробиотические кусочки 150 г]]></title-ru>
+    <title-lv><![CDATA[BuddyCare Probiotic - Probiotikas 150g]]></title-lv>
+    <title-ee><![CDATA[Buddy Care Probiotic Koerale seedimise ja immuunsüsteemi toetamiseks 150g]]></title-ee>
+    <title-fi><![CDATA[BuddyCare Probiootti - Probiootit 150g]]></title-fi>
+    <title-en><![CDATA[BuddyCare Probiotic Bites 150g]]></title-en>
+    <long-description><![CDATA[Natūralus papildas su gyvomis probiotinėmis bakterijomis – palaiko sveiką virškinimą ir normalią imuninės sistemos veiklą.]]></long-description>
+    <long-description-ru><![CDATA[Натуральная добавка с живыми бактериальными культурами в виде пробиотиков, поддерживающая здоровое пищеварение и нормальную работу иммунной системы.<br /> Подходит для собак, получающих антибиотики.<br /> Мягкие и вкусные жевательные таблетки без злаков.<br /> Формула разработана ветеринарами.<br /> Источником омега-3 является мясо речного рака.<br /><br /> <strong>Ингредиенты на одну таблетку:</strong><br /> Белковый концентрат из речного рака – 460 мг, картофель – 480 мг, глицерин – 180 мг, порошок корня цикория – 132,5 мг, дрожжи (12,1,5) – 110 мг, гороховая мука – 100 мг, растительное масло, меласса, инактивированные дрожжи, клюква, подорожник (псиллиум), Lactobacillus helveticus<br /><br /> <strong>Пищевые добавки:</strong><br /> Цинковый хелат глицина (в твердой форме) – Цинк (3b607) 3750 мг/кг<br /> L-глутамин (3c451) 9800 мг/кг<br /> Клиноптилолит осадочного происхождения (1g568) 25 925,56 мг/кг<br /> Enterococcus faecium NCIMB 10415 (4b1705) 180 000 000 КОЕ/г<br /> Lactobacillus helveticus (4b1820) 90 000 000 КОЕ/г<br /><br /> <strong>Анализ:</strong> Сырой белок – 17,70%, сырой жир – 10,66%, сырая зола – 5,99%, клетчатка – 2,20%, натрий – 0,29%.<br /><br /> <strong>Руководство по кормлению:</strong><br /> Собаки до 15 кг – 1 таблетка в день<br /> Собаки 15–25 кг – 2 таблетки в день<br /> Собаки 25–35 кг – 3 таблетки в день<br /> Собаки более 35 кг – 4 таблетки в день<br /><br /> В банке примерно 75 жевательных таблеток.<br /><br /> <strong>Масса нетто:</strong> 150 г<br /> <strong>Номер партии и срок годности:</strong> см. на упаковке<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ:</strong> PETBUDDY AB; Drottninggatan 108, 113 60, Стокгольм, Швеция; hello@buddypetfoods.com<br /> <strong>ИМПОРТЁР:</strong> Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
+    <long-description-lv><![CDATA[Dabīgs uztura bagātinātājs ar dzīvām baktēriju kultūrām probiotiku veidā, kas atbalsta veselīgu gremošanu un normālu imūnsistēmas darbību.]]></long-description-lv>
+    <long-description-ee><![CDATA[Looduslik toidulisand elusa bakterikultuuriga probiootikumide näol, mis toetab tervet seedimist ja immuunsüsteemi normaalset talitlust.<br /> Sobib koertele, kes võtavad antibiootikumeid.<br /> Pehmed ja maitsvad teraviljavabad närimistabletid.<br /> Veterinaaride poolt formuleeritud.<br /> Hiigelvähk Omega-3 allikana.<br /><br /> <strong>Kõik koostisained ühe tableti kohta:</strong><br /> hiigelvähi valgukontsentraat 460mg, kartul 480mg, glütseriin 180mg, siguri juurepulber 132,5mg, pärm (12,1,5) 110mg, hernejahu 100mg, taimeõli, melass, inaktiveeritud pärm, Jõhvikas, Psüllium, Lactobacillus helveticus<br /><br /> <strong>Toitainelised lisandid:</strong><br /> glütsiinhüdraadi tsinkkelaat (tahkel kujul) - Tsink (3b607) 3750 mg/kg<br /> L-glutamiin (3c451) 9800 mg/kg<br /> settelise päritoluga klinoptiloliit (1g568) 25 925,56 mg/kg (1g568) 25 925,56 mg/kg Clinoptiloliit<br /> (1g568) ) (4b1820) 90 000 000 CFU/g<br /> Enterococcus faecium NCIMB 10415 (4b1705) 180 000 000 CFU/g<br /><br /> <strong>Analüüs:</strong> Toorproteiin 17,70%, Toorrasv 10,66%, Toortuhk 5,99%, Taimsed kiudained 2,20%, Naatrium 0,29%.<br /><br /> <strong>Toitmisjuhend:</strong><br /> koer kuni 15kg - 1tk päevas<br /> koer 15-25kg - 2tk päevas<br /> koer 25-35kg - 3tk päevas<br /> koer rohkem kui 35kg - 4tk päevas<br /><br /> Purgis umbes 75 närimistabletti.<br /><br /> <strong>Täiendsööt</strong><br /> <strong>Neto kogus</strong>: 150g<br /> <strong>Partii nr ja parim enne</strong>: vaata pakendilt<br /><br /> <strong>TOOTJA:</strong> PETBUDDY AB; Rootsi<br /> <strong>MAALETOOJA:</strong> Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
+    <long-description-fi><![CDATA[Luonnollinen ravintolisä, joka sisältää eläviä bakteeriviljelmiä probioottien muodossa ja tukee tervettä ruoansulatusta ja immuunijärjestelmän normaalia toimintaa.<br /> Sopii koirille, jotka käyttävät antibiootteja.<br /> Pehmeät ja maukkaat viljattomat purutabletit.<br /> Eläinlääkäreiden kehittämä.<br /> Jättiläisrapu omega-3-lähteenä.<br /><br /> <strong>Kaikki ainesosat tablettia kohden:</strong><br /> Jättiläisrapuproteiinikonsentraatti 460 mg, peruna 480 mg, glyseriini 180 mg, sikurinjuurijauhe 132,5 mg, hiiva (12.1.5) 110 mg, hernejauho 100 mg, kasviöljy, melassi, inaktivoitu hiiva, karpalo, psyllium, Lactobacillus helveticus<br /><br /> <strong>Ravitsemukselliset lisäaineet:</strong><br /> Glysiinin sinkkikelaattihydraatti (kiinteä muoto) - sinkki (3b607) 3750 mg/kg<br /> L-glutamiini (3c451) 9800 mg/kg<br /> Sedimenttiperäistä klinoptiloliittia (1g568) 25 925,56 mg/kg (1g568) 25 925,56 mg/kg Klinoptiloliittia<br /> (1g568) ) (4b1820) 90 000 000 CFU/g<br /> Enterococcus faecium NCIMB 10415 (4b1705) 180 000 000 CFU/g<br /><br /> <strong>Analyysi:</strong>Raakaproteiini 17,70 %, Raakarasva 10,66 %, Raaka hehkutusjäännös 5,99 %, Kasvikuitu 2,20 %, Natrium 0,29 %.<br /><br /> <strong>Ruokintaohje:</strong><br /> koira alle 15 kg - 1 tabletti päivässä<br /> koira 15-25 kg - 2 tablettia päivässä<br /> koira 25-35 kg - 3 tablettia päivässä<br /> koira yli 35 kg - 4 tablettia päivässä<br /><br /> Noin 75 purutablettia purkissa.<br /><br /> <strong>Täydennysravinto</strong><br /> <strong>Nettomäärä</strong>: 150 g<br /> <strong>Eränumero ja parasta ennen</strong>: katso pakkaus<br /><br /> <strong>VALMISTAJA:</strong> PETBUDDY AB; Drottninggatan 108, 113 60, Tukholma, Ruotsi; hello@buddypetfoods.com<br /> <strong>TUOJA:</strong> Penner OÜ; Võru 77, Tartu, Viro; info@penner.ee]]></long-description-fi>
+    <long-description-en><![CDATA[A natural food supplement with live bacterial cultures in the form of probiotics that supports healthy digestion and the normal functioning of the immune system.<br /> Suitable for dogs taking antibiotics.<br /> Soft and tasty grain-free chewable tablets.<br /> Formulated by veterinarians.<br /> Giant crayfish as a source of Omega-3.<br /><br /> <strong>All ingredients per tablet:</strong><br /> Giant crayfish protein concentrate 460mg, potato 480mg, glycerin 180mg, chicory root powder 132.5mg, yeast (12.1.5) 110mg, pea flour 100mg, vegetable oil, molasses, inactivated yeast, Cranberry, Psyllium, Lactobacillus helveticus<br /><br /> <strong>Nutritional additives:</strong><br /> Zinc chelate of glycine hydrate (solid form) - Zinc (3b607) 3750 mg/kg<br /> L-glutamine (3c451) 9800 mg/kg<br /> Clinoptilolite of sedimentary origin (1g568) 25,925.56 mg/kg (1g568) 25,925.56 mg/kg Clinoptilolite<br /> (1g568) ) (4b1820) 90,000,000 CFU/g<br /> Enterococcus faecium NCIMB 10415 (4b1705) 180,000,000 CFU/g<br /><br /> <strong>Analysis:</strong> Crude protein 17.70%, Crude fat 10.66%, Crude ash 5.99%, Vegetable fiber 2.20%, Sodium 0.29%.<br /><br /> <strong>Feeding guide:</strong><br /> dog up to 15kg - 1 piece per day<br /> dog 15-25kg - 2 pieces per day<br /> dog 25-35kg - 3 pieces per day<br /> dog over 35kg - 4 pieces per day<br /><br /> Approximately 75 chewable tablets in a jar.<br /><br /> <strong>Complementary food</strong><br /> <strong>Net quantity</strong>: 150g<br /> <strong>Batch number and best before</strong>: see packaging<br /><br /> <strong>MANUFACTURER:</strong> PETBUDDY AB; Drottninggatan 108, 113 60, Stockholm, Sweden; hello@buddypetfoods.com<br /> <strong>IMPORTER:</strong> Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
+    <manufacturer-name><![CDATA[PETBUDDY AB; Rootsi]]></manufacturer-name>
+    <properties>
+      <property>
+        <id><![CDATA[Kaubamärk]]></id>
+        <values>
+          <value><![CDATA[PETBUDDY]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Paki kaal]]></id>
+        <values>
+          <value><![CDATA[0.2]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Looma vanus]]></id>
+        <values>
+          <value><![CDATA[Erinevatele vanustele]]></value>
+        </values>
+      </property>
+      <property>
+        <id><![CDATA[Eriomadus]]></id>
+        <values>
+          <value><![CDATA[Kõigile koertele]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/buddy_probiootikumid.jpg</url></image>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/buddy_probiootikumid_B.jpg</url></image>
+          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/buddy_probiootikumid_A.jpg</url></image>
+        </images>
+        <modifications>
+          <modification>
+            <weight>0.2</weight>
+            <length>0.105</length>
+            <height>0.065</height>
+            <width>0.065</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[7350112971150]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[PB-17]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -15853,70 +16400,6 @@ Izplatītājs: Penner OÜ, Võru 77, Tartu, Igaunija, info@penner.ee]]></long-de
                 <barcode><![CDATA[818786018115]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[Z-01811]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10376</category-id>
-    <category-name><![CDATA[Dog snacks]]></category-name>
-    <title><![CDATA[Dokas mini antienos kubeliai šunims, 70 g]]></title>
-    <title-ru><![CDATA[Dokas Лакомство для Собак - Мини-Кубики из Утки 70г]]></title-ru>
-    <title-lv><![CDATA[Dokas mini pīles kubiņi suņiem, 70 g]]></title-lv>
-    <title-ee><![CDATA[Dokas Maius Koerale - Mini Pardikuubikud 70g]]></title-ee>
-    <title-fi><![CDATA[Dokas Koiran Herkku - Mini Ankkakuutiot 70g]]></title-fi>
-    <title-en><![CDATA[Dokas Dog Treat - Mini Duck Cubes 70g]]></title-en>
-    <long-description><![CDATA[Skanėstas šunims.]]></long-description>
-    <long-description-ru><![CDATA[Натуральное лакомство для собак из высококачественного филе утиной грудки. Благодаря небольшому размеру эти вкусные кубики из утиного филе идеально подходят для поощрения вашей собаки во время тренировок или активных игр, позволяя вам чаще вознаграждать своего питомца, не перекармливая его.<br /><br /> Это полезное лакомство для собак содержит L-карнитин, который способствует сжиганию жира и дает вашей собаке необходимую энергию. Лакомства для домашних животных Dokas изготавливаются из строго контролируемого сырья и полностью не содержат консервантов, искусственных красителей, ароматизаторов и глицерина.<br /><br /> <strong>СОСТАВ</strong>: Филе утиной грудки 91%, растительные субпродукты, фруктоолигосахариды, минералы. Добавленные аминокислоты (на 1 кг): L-карнитин 300 г.<br /> <strong>АНАЛИЗ:</strong> Сырой протеин: 37%, Сырые масла и жиры: 7,4%, Сырая зола: 3,4%, Сырая клетчатка: 0,5%, Влажность: 17,8%<br /><br /> <strong>Инструкция по применению и хранению:</strong><br /> Кормите в качестве поощрения. Всегда обеспечивайте питомцу доступ к чистой питьевой воде. После вскрытия упаковки аккуратно закройте ее застежкой minigrip и храните в сухом и прохладном месте.<br /><br /> <strong>Дополнительный корм</strong><br /><br /> <strong>Производитель:</strong> Dokas Handelsgesellschaft Gmbh<br /> <strong>Дистрибьютор</strong>: Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Gardums suņiem]]></long-description-lv>
-    <long-description-ee><![CDATA[Naturaalne koera maius, mis on valmistatud kvaliteetsest pardi rinnafileest. Tänu väikesele suurusele on need maitsvad pardikuubikud ideaalsed koera premeerimiseks treeningul või aktiivsel tegevusel, võimaldades lemmiklooma sagedamini premeerida ilma teda ülesöötmata.<br /><br /> See tervislik koera maius sisaldab L-karnitiini, mis toetab rasvade põletamist ja annab koerale vajalikku energiat. Dokas lemmiklooma maiustused on valmistatud rangelt kontrollitud toorainest ning on täiesti vabad säilitusainetest, kunstlikest värv-, lõhna- ja maitseainetest ning glütseriinist.<br /><br /> <strong>KOOSTIS</strong>: Pardi rinnafilee 91%, taimsed kõrvalsaadused, fruktooligosahhariidid, mineraalained. Lisatud aminohapped (1 kg kohta): L-karnitiin 300 g.<br /> <strong>ANALÜÜS:</strong> Toorvalk: 37%, Toorõlid ja -rasvad: 7,4%, Toortuhk: 3,4%, Toorkiud: 0,5%, Niiskusesisaldus: 17,8%<br /><br /> <strong>Kasutus- ja säilitusjuhend:</strong><br /> Sööta preemiana. Tagage lemmikloomale alati juurdepääs puhtale joogiveele. Pärast avamist sulgeda pakend hoolikalt minigrip-kinnitusega ning hoida kuivas ja jahedas kohas.<br /><br /> <strong>Täiendsööt</strong><br /><br /> <strong>Tootja:</strong> Dokas Handelsgesellschaft Gmbh<br /> <strong>Edasimüüja</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Luonnollinen koiranherkku, joka on valmistettu korkealaatuisesta ankanrintafileestä. Pienen kokonsa ansiosta nämä maukkaat ankkakuutiot sopivat ihanteellisesti koiran palkitsemiseen koulutuksen tai aktiivisen toiminnan aikana, jolloin voit palkita lemmikkiäsi useammin ilman, että sitä ruokitaan liikaa.<br /><br /> Tämä terveellinen koiranherkku sisältää L-karnitiinia, joka tukee rasvanpolttoa ja antaa koirallesi tarvitsemansa energian. Dokas-lemmikkiherkut on valmistettu tiukasti valvotuista raaka-aineista, ja ne ovat täysin vapaita säilöntäaineista, keinotekoisista väriaineista, aromeista ja glyseriinistä.<br /><br /> <strong>AINESOSAT</strong>: Ankanrintafilee 91 %, kasviperäiset sivutuotteet, frukto-oligosakkaridit, kivennäisaineet. Lisätyt aminohapot (per 1 kg): L-karnitiini 300 g.<br /> <strong>ANALYYSI:</strong> Raakaproteiini: 37 %, Raakarasvat: 7,4 %, Raakatuhka: 3,4 %, Raakakuitu: 0,5 %, Kosteuspitoisuus: 17,8 %<br /><br /> <strong>Käyttö- ja säilytysohjeet:</strong><br /> Anna palkintona. Varmista aina, että lemmikilläsi on puhdasta juomavettä saatavilla. Avaamisen jälkeen sulje pakkaus huolellisesti minigrip-sulkimella ja säilytä kuivassa ja viileässä paikassa.<br /><br /> <strong>Täydennysrehu</strong><br /><br /> <strong>Valmistaja:</strong> Dokas Handelsgesellschaft Gmbh<br /> <strong>Jakelija</strong>: Penner OÜ, Võru 77, Tartto, Viro, info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[Natural dog treat made from high-quality duck breast fillet. Thanks to their small size, these tasty duck cubes are ideal for rewarding your dog during training or active activities, allowing you to reward your pet more often without overfeeding him.<br /><br /> This healthy dog treat contains L-carnitine, which supports fat burning and gives your dog the energy it needs. Dokas pet treats are made from strictly controlled raw materials and are completely free of preservatives, artificial colors, flavors and glycerin.<br /><br /> <strong>INGREDIENTS</strong>: Duck breast fillet 91%, vegetable by-products, fructooligosaccharides, minerals. Added amino acids (per 1 kg): L-carnitine 300 g.<br /> <strong>ANALYSIS:</strong> Crude protein: 37%, Crude oils and fats: 7.4%, Crude ash: 3.4%, Crude fiber: 0.5%, Moisture content: 17.8%<br /><br /> <strong>Instructions for use and storage:</strong><br /> Feed as a reward. Always ensure that your pet has access to clean drinking water. After opening, close the package carefully with the minigrip closure and store in a dry and cool place.<br /><br /> <strong>Complementary feed</strong><br /><br /> <strong>Manufacturer:</strong> Dokas Handelsgesellschaft Gmbh<br /> <strong>Distributor</strong>: Penner OÜ, Võru 77, Tartu, Estonia, info@penner.ee]]></long-description-en>
-    <manufacturer-name><![CDATA[Dokas Handelsgesellschaft Gmbh]]></manufacturer-name>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[DOKAS]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.08]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Looma vanus]]></id>
-        <values>
-          <value><![CDATA[Erinevatele vanustele]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Eriomadus]]></id>
-        <values>
-          <value><![CDATA[Kõigile koertele]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Dokas-Maius-Koerale-Mini-Pardikuubikud-70g.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.08</weight>
-            <length>0.21</length>
-            <height>0.025</height>
-            <width>0.08</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[4251276204296]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[DK-204296]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -67074,57 +67557,6 @@ Store in a dry, cool place away from direct sunlight. Close after opening.<br />
     </colours>
   </product>
   <product>
-    <category-id>21558</category-id>
-    <category-name><![CDATA[Care products for animals]]></category-name>
-    <title><![CDATA[Earth Rated nepraleidžiantys maišeliai išmatoms su levandų kvapu, 21 ritinėlis (315 vnt.)]]></title>
-    <title-ru><![CDATA[Пакеты 100% непротекаемыe "Earth Rated" для выгула собак, С запахом лаванды 315шт]]></title-ru>
-    <title-lv><![CDATA[Earth Rated 100 % necaurlaidīgi maisiņi ekskrementiem ar lavandas smaržu, 21 rullis (315 gab.)]]></title-lv>
-    <title-ee><![CDATA[Earth Rated 100% Lekkekindlad Kakakotid Lavendlilõhnalised 21 rulli (315tk)]]></title-ee>
-    <title-fi><![CDATA[Earth Rated 100% vuotamattomat kakkapussit laventelin tuoksulla 21 rullaa (315 kpl)]]></title-fi>
-    <title-en><![CDATA[Earth Rated 100% Leak proof Lavender-scented Poop Bags 21 Rolls / 315pcs]]></title-en>
-    <long-description><![CDATA[Levandų kvapo nepraleidžiantys maišeliai išmatoms (315 vnt.)]]></long-description>
-    <long-description-ru><![CDATA[Пакеты для уборки экскрементов Earth Rated больше по размеру, прочнее и полностью герметичны.<br /> Подходят для владельцев домашних животных, которые предпочитают пакеты с приятным запахом. В упаковке 21 сменный рулон, которые можно использовать отдельно или с зеленым держателем для пакетов Earth Rated. Пакеты легко открываются и отрываются от рулона, при этом они очень толстые и прочные.<br /><br /> <strong>Количество: 21</strong> рулон (315 пакетов)<br /> <strong>Размеры пакета:</strong> 22,8x33 см<br /><br /> <strong>Производитель:</strong> Earth Rated]]></long-description-ru>
-    <long-description-lv><![CDATA[Necaurlaidīgi lavandas aromāta kakas maisiņi (315 gab.)]]></long-description-lv>
-    <long-description-ee><![CDATA[Earth Rated kakakotid on suuremad, vastupidavamad ja täielikult lekkekindlad.<br /> Sobivad loomaomanikele, kes eelistavad meeldiva lõhnaga varianti. Pakis on 21 asendusrulli, mida võib kasutada eraldi, kui ka Earth rated rohelise kakakotihoidjaga. Kotte saab lihtsalt avada ja rullist lahti rebida, olles siiski ekstra paksud ja vastupidavad.<br /><br /> <strong>Kogus: 21</strong> rulli (315 kotti)<br /> <strong>Koti mõõdud:</strong> 22,8x33cm<br /><br /> <strong>Tootja:</strong> Earth Rated]]></long-description-ee>
-    <long-description-fi><![CDATA[Earth Rated -kakkapussit ovat suurempia, kestävämpiä ja täysin vuotamattomia.<br /> Sopii lemmikkien omistajille, jotka arvostavat miellyttävän tuoksuista vaihtoehtoa. Pakkaus sisältää 21 vaihtorullaa, joita voidaan käyttää erikseen tai Earth Rated -vihreän kakkapussin pidikkeen kanssa. Pussit on helppo avata ja repäistä rullasta, mutta ne ovat erittäin paksuja ja kestäviä.<br /><br /> <strong>Määrä: 21</strong> rullaa (315 pussia)<br /> <strong>Pussin mitat:</strong>22,8 x 33 cm<br /><br /> <strong>Valmistaja:</strong>Earth Rated]]></long-description-fi>
-    <long-description-en><![CDATA[Earth Rated poop bags are larger, more durable and completely leak-proof.<br /> Suitable for pet owners who prefer a pleasant-smelling option. The pack contains 21 replacement rolls that can be used separately or with the Earth Rated green poop bag holder. The bags can be easily opened and torn off the roll, yet are extra thick and durable.<br /><br /> <strong>Quantity: 21</strong> rolls (315 bags)<br /> <strong>Bag dimensions:</strong> 22.8x33cm<br /><br /> <strong>Manufacturer:</strong> Earth Rated]]></long-description-en>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[EARTH RATED]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.7]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Earth_Rated_Lekkekindlad_Kakakotid_Lavendlilohnalised_21_Rulli.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.7</weight>
-            <length>0.22</length>
-            <height>0.07</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[870856000703]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[E-BG0005]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
     <category-id>10400</category-id>
     <category-name><![CDATA[Dog training products]]></category-name>
     <title><![CDATA[Gappay odinis kamuolys šunų dresūrai su rankena, 9 cm]]></title>
@@ -72737,58 +73169,6 @@ Store in a dry, cool place away from direct sunlight. Close after opening.<br />
     </colours>
   </product>
   <product>
-    <category-id>21558</category-id>
-    <category-name><![CDATA[Care products for animals]]></category-name>
-    <title><![CDATA[Earth Rated 100 % nepraleidžiantys maišeliai išmatoms su levandų kvapu, 8 ritinėliai (120 vnt.)]]></title>
-    <title-ru><![CDATA[Пакеты 100% непротекаемыe "Earth Rated" для выгула собак, С запахом лаванды 120шт]]></title-ru>
-    <title-lv><![CDATA[Earth Rated 100 % necaurlaidīgi maisiņi ekskrementiem ar lavandas smaržu, 8 rulli (120 gab.)]]></title-lv>
-    <title-ee><![CDATA[Earth Rated 100% Lekkekindlad Kakakotid Lavendlilõhnalised 8 rulli (120tk)]]></title-ee>
-    <title-fi><![CDATA[Earth Rated 100% vuotamattomat kakkapussit laventelin tuoksulla 8 rullaa (120 kpl)]]></title-fi>
-    <title-en><![CDATA[Earth Rated 100% Leak proof Lavender-scented Poop Bags 120pcs]]></title-en>
-    <long-description><![CDATA[Levandų kvapo nepraleidžiantys maišeliai išmatoms (120 vnt.)]]></long-description>
-    <long-description-ru><![CDATA[Высококачественные и сверхпрочные пакеты для собачьих экскрементов, обеспечивающие комфортное и полностью герметичное использование во время ежедневных прогулок.<br /> Эти пакеты с приятным ароматом лаванды достаточно большие, чтобы вместить все породы собак.<br /><br /> Пакеты для собачьих экскрементов нового поколения от Earth Rated изготовлены из 65% сертифицированного переработанного пластика (PCR).<br /> Это материал с контролируемым происхождением и строгим контролем качества, который дает новую жизнь уже использованному пластику.<br /><br /> <strong>Особенности:</strong><br /> Тип продукта: Прочные, толстые и полностью герметичные пакеты для собачьих экскрементов.<br /> Аромат и дизайн: С приятным ароматом лаванды, который помогает замаскировать неприятные запахи.<br /> Экологичность: Изготовлены из 65% сертифицированного переработанного пластика (PCR). Упаковка и внутренние компоненты изготовлены из переработанных материалов.<br /><br /> <strong>Производитель:</strong> Earth Rated<br /> <strong>Дистрибьютор:</strong> Penner OÜ, Võru 77, Тарту, Эстония, info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Necaurlaidīgi lavandas aromāta kaku maisiņi (120 gab.)]]></long-description-lv>
-    <long-description-ee><![CDATA[Kvaliteetsed ja eriti tugevad koera kakakotid, mis tagavad mugava ning täielikult lekkekindla kasutamise igapäevastel jalutuskäikudel.<br /> Need meeldiva lavendlilõhnaga koera väljaheidete kotid on piisavalt suured, et sobida igat tõugu koertele.<br /><br /> Earth Rated uue põlvkonna koera kakakotid on valmistatud 65% ulatuses sertifitseeritud ringlussevõetud plastikust (PCR).<br /> Tegemist on kontrollitud päritoluga ja range kvaliteedikontrolli läbinud materjaliga, mis annab juba kasutusel olnud plastikule uue elu.<br /><br /> <strong>Omadused:</strong><br /> Toote tüüp: Tugevad, paksud ja täielikult lekkekindlad koera kakakotid.<br /> Lõhn ja disain: Meeldiva lavendlilõhnaga, mis aitab varjata ebameeldivaid lõhnu.<br /> Keskkonnasõbralikkus: Valmistatud 65% sertifitseeritud ringlussevõetud plastikust (PCR). Pakend ja sisekomponendid on taaskasutatud materjalist.<br /><br /> <strong>Tootja:</strong> Earth Rated<br /> <strong>Edasimüüja</strong>: Penner OÜ, Võru 77, Tartu, Eesti, info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Earth Rated -kakkapussit ovat suurempia, kestävämpiä ja täysin vuotamattomia.<br /> Sopii lemmikkien omistajille, jotka arvostavat miellyttävän tuoksuista vaihtoehtoa. Pakkaus sisältää 8 vaihtorullaa, joita voidaan käyttää erikseen tai Earth Rated -vihreän kakkapussin pidikkeen kanssa. Pussit on helppo avata ja repäistä rullasta, mutta ne ovat erittäin paksuja ja kestäviä.<br /><br /> <strong>Määrä:</strong>8 rullaa (120 pussia)<br /> <strong>Pussin mitat:</strong>22,8 x 33 cm<br /><br /> <strong>Valmistaja:</strong>Earth Rated]]></long-description-fi>
-    <long-description-en><![CDATA[Earth Rated poop bags are larger, more durable and completely leak-proof.<br /> Suitable for pet owners who prefer a pleasant-smelling option. The pack includes 8 replacement rolls that can be used separately or with the Earth Rated green poop bag holder. The bags can be easily opened and torn off the roll, yet are extra thick and durable.<br /><br /> <strong>Quantity:</strong> 8 rolls (120 bags)<br /> <strong>Bag dimensions:</strong> 22.8x33cm<br /><br /> <strong>Manufacturer:</strong> Earth Rated]]></long-description-en>
-    <manufacturer-name><![CDATA[Earth Rated]]></manufacturer-name>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[EARTH RATED]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.1]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://eu.erply.com/files/37488/pictures/full/product_pict/Earth_Rated_Lekkekindlad_Kakakotid_Lavendlilohnalised_8_Rulli.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.1</weight>
-            <length>0.13</length>
-            <height>0.065</height>
-            <width>0.065</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[870856000024]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[E-BG0001]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
     <category-id>21813</category-id>
     <category-name><![CDATA[Leashes for dogs]]></category-name>
     <title><![CDATA[HS Sprenger juodas grandininis antkaklis, vidutinės grandys, 3 mm x 67 cm]]></title>
@@ -74641,80 +75021,6 @@ Store in a dry, cool place away from direct sunlight. Close after opening.<br />
                 <barcode><![CDATA[8023222064201]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[c6067420]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10490</category-id>
-    <category-name><![CDATA[Wet/canned cat food]]></category-name>
-    <title><![CDATA[Vibrisse Natural drebučiai katėms su tunu ir kumpiu, 70 g]]></title>
-    <title-ru><![CDATA[Vibrisse Natural Желе для кошек Тунец & Куриная ветчина 70г]]></title-ru>
-    <title-lv><![CDATA[Vibrisse Natural želeja kaķiem ar tunci un šķiņķi, 70 g]]></title-lv>
-    <title-ee><![CDATA[Vibrisse Natural Tarretis Kassile Tuunikala & Sink 70g]]></title-ee>
-    <title-fi><![CDATA[Vibrisse Natural Hyytelö Kissalle Tonnikala & Kananliha Kinkku 70g]]></title-fi>
-    <title-en><![CDATA[Vibrisse Natural Jelly for Cats Tuna & Chicken Ham 70g]]></title-en>
-    <long-description><![CDATA[Tuno ir kumpio gabaliukai drebučiuose.]]></long-description>
-    <long-description-ru><![CDATA[Кусочки тунца и ветчины в желе. Не содержит красителей и консервантов.<br /><br /> <strong>Ингредиенты:</strong> тунец 56%, ветчина 4%, рис 1%, вода 37,96%, минералы.<br /> <strong>Технологические добавки:</strong> камедь кассии (загуститель) 4680 мг/кг<br /> <strong>Анализ:</strong> сырой протеин 11%, сырые масла и жиры 0,3%, сырая клетчатка 1%, сырая зола 2%, влажность 85,5%<br /><br /> Подавать при комнатной температуре. Хранить в холодильнике после вскрытия упаковки и употребить в течение 48 часов.<br /> Приготовлено на пару.<br /><br /> <strong>Прикорм</strong><br /> Годен до и номер партии см. на упаковке.<br /> <strong>Чистый вес</strong> 70 г<br /><br /> <strong>ПРОИЗВОДИТЕЛЬ:</strong> Croci SPA, Италия<br /> <strong>ИМПОРТЕР:</strong> Penner OÜ; Võru 77, Тарту, Эстония; info@penner.ee]]></long-description-ru>
-    <long-description-lv><![CDATA[Tunča un šķiņķa gabaliņi želejā.]]></long-description-lv>
-    <long-description-ee><![CDATA[Tuunikala ja singi tükid tarretises. Ei sisalda värv- ja säilitusaineid.<br /><br /> <strong>Koostis:</strong> tuunikala 56%, sink 4% , Riis 1%, Vesi 37,96%, mineraalid.<br /> <strong>Tehnoloogilised lisandid:</strong> kassiakumm (paksendav aine) 4680mg/kg<br /> <strong>Analüüs:</strong> toorproteiin 11%, toorõlid ja rasvad 0,3%, toorkiud 1%, toortuhk 2%, niiskus 85,5%<br /><br /> Serveerida toatemperatuuril. Avatult hoiustada külmkapis ja kasutada ära 48 tunni jooksul.<br /> Küpsetatud auruga.<br /><br /> <strong>Täiendsööt</strong><br /> Parim enne ja partii nr vaata pakendilt<br /> <strong>Neto kogus</strong> 70g<br /><br /> <strong>TOOTJA:</strong> Croci SPA, Itaalia<br /> <strong>MAALETOOJA:</strong> Penner OÜ; Võru 77, Tartu, Eesti; info@penner.ee]]></long-description-ee>
-    <long-description-fi><![CDATA[Tonnikala- ja kinkkupaloja hyytelössä. Ei sisällä väri- tai säilöntäaineita.<br /><br /> <strong>Ainesosat:</strong> tonnikala 56 %, kinkku 4 %, riisi 1 %, vesi 37,96 %, kivennäisaineet.<br /> <strong>Teknologiset lisäaineet:</strong> kassiakumi (sakeuttamisaine) 4680 mg/kg<br /> <strong>Analyysi:</strong> raakaproteiini 11 %, raakaöljyt ja -rasvat 0,3 %, raakakuitu 1 %, raakatuhka 2 %, kosteus 85,5 %<br /><br /> Tarjoile huoneenlämmössä. Säilytä avattu pakkaus jääkaapissa ja käytä 48 tunnin kuluessa.<br /> Höyrytetty.<br /><br /> <strong>Täydentävä ravinto</strong><br /> Parasta ennen -päiväys ja eränumero, katso pakkaus<br /> <strong>Nettomäärä</strong> 70 g<br /><br /> <strong>VALMISTAJA:</strong> Croci SPA, Italia<br /> <strong>MAAHANTUOJA:</strong> Penner OÜ; Võru 77, Tartto, Viro; info@penner.ee]]></long-description-fi>
-    <long-description-en><![CDATA[Tuna and ham pieces in jelly. Does not contain colorings or preservatives.<br /><br /> <strong>Ingredients:</strong> tuna 56%, ham 4%, rice 1%, water 37.96%, minerals.<br /> <strong>Technological additives:</strong> cassia gum (thickener) 4680mg/kg<br /> <strong>Analysis:</strong> crude protein 11%, crude oils and fats 0.3%, crude fiber 1%, crude ash 2%, moisture 85.5%<br /><br /> Serve at room temperature. Store in the refrigerator once opened and use within 48 hours.<br /> Steamed.<br /><br /> <strong>Complementary food</strong><br /> Best before and batch number see packaging<br /> <strong>Net quantity</strong> 70g<br /><br /> <strong>MANUFACTURER:</strong> Croci SPA, Italy<br /> <strong>IMPORTER:</strong> Penner OÜ; Võru 77, Tartu, Estonia; info@penner.ee]]></long-description-en>
-    <composition><![CDATA[tuunikala 56%, sink 4% , Riis 1%, Vesi 37,96%, mineraalid.]]></composition>
-    <composition-ee><![CDATA[tuunikala 56%, sink 4% , Riis 1%, Vesi 37,96%, mineraalid.]]></composition-ee>
-    <manufacturer-name><![CDATA[Camon & Croci Pet Group S.p.A. / Croci S.p.A.; Corso Italia]]></manufacturer-name>
-    <manufacturer-address><![CDATA[22 – 20122 Milano (MI), Itaalia;]]></manufacturer-address>
-    <manufacturer-email><![CDATA[info@croci.net]]></manufacturer-email>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[CROCI]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Tüüp]]></id>
-        <values>
-          <value><![CDATA[Vibrisse konservid]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.08]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Looma vanus]]></id>
-        <values>
-          <value><![CDATA[Erinevatele vanustele]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Eriomadus]]></id>
-        <values>
-          <value><![CDATA[Kõigile kassidele]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Vibrisse-Natural-Tarretis-Kassile-Tuunikala-Kana-Sink-70g.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.08</weight>
-            <length>0.01</length>
-            <height>0.14</height>
-            <width>0.095</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[8023222169883]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[c1018988]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
@@ -95459,57 +95765,6 @@ Manufacturer: Hundesportprofi B. Klin]]></long-description-en>
                 <barcode><![CDATA[4743095024136]]></barcode>
               </barcodes>
               <supplier-code><![CDATA[4743095024136]]></supplier-code>
-            </attributes>
-          </modification>
-        </modifications>
-      </colour>
-    </colours>
-  </product>
-  <product>
-    <category-id>10388</category-id>
-    <category-name><![CDATA[Dog leashes, collars, harnesses]]></category-name>
-    <title><![CDATA[Griežtas grandininis antkaklis šunims, 4,0 mm x 60 cm]]></title>
-    <title-ru><![CDATA[Прижимной воротник 4 мм х 60 см]]></title-ru>
-    <title-lv><![CDATA[Dzeloņu ķēdes kaklasiksna suņiem, 4 mm x 60 cm]]></title-lv>
-    <title-ee><![CDATA[Ogadega Treeningkett 4,0mm x 60cm]]></title-ee>
-    <title-fi><![CDATA[Piikkinen harjoitusketju 4.0 mm x 60 cm]]></title-fi>
-    <title-en><![CDATA[Pinch Collar 4mm x 60cm]]></title-en>
-    <long-description><![CDATA[Griežtas antkaklis.]]></long-description>
-    <long-description-ru><![CDATA[Пояс для тренировок с шипами]]></long-description-ru>
-    <long-description-lv><![CDATA[Radzīta treniņu josta]]></long-description-lv>
-    <long-description-ee><![CDATA[Ogadega treeningrihm]]></long-description-ee>
-    <long-description-fi><![CDATA[Piikkinen harjoitusvyö]]></long-description-fi>
-    <long-description-en><![CDATA[Spiked training belt]]></long-description-en>
-    <properties>
-      <property>
-        <id><![CDATA[Kaubamärk]]></id>
-        <values>
-          <value><![CDATA[MUUD]]></value>
-        </values>
-      </property>
-      <property>
-        <id><![CDATA[Paki kaal]]></id>
-        <values>
-          <value><![CDATA[0.367]]></value>
-        </values>
-      </property>
-    </properties>
-    <colours>
-      <colour>
-        <images>
-          <image><url>https://cdn.erply.com/assets/37488/image/Ogadega-Treeningkett-40mm-x-60cm.jpg</url></image>
-        </images>
-        <modifications>
-          <modification>
-            <weight>0.367</weight>
-            <length>0.001</length>
-            <height>0.1</height>
-            <width>0.1</width>
-            <attributes>
-              <barcodes>
-                <barcode><![CDATA[6934060406080]]></barcode>
-              </barcodes>
-              <supplier-code><![CDATA[6934060406080]]></supplier-code>
             </attributes>
           </modification>
         </modifications>
